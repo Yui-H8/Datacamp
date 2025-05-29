@@ -66,3 +66,24 @@ plate = 'FRQ****'
 ```
 
 * Call lookup_plate() using the variable plate.
+```python
+# Define plate to represent a plate beginning with FRQ
+# Use * to represent the missing four letters
+plate = 'FRQ****'
+
+# Call the function lookup_plate()
+lookup_plate(plate)
+```
+
+* Calling lookup_plate() with the license plate FRQ**** produced too many results. Luckily, lookup_plate() also accepts a keyword argument: color. Use the color of the car ('Green') to get a smaller list.
+```python
+# Define plate to represent a plate beginning with FRQ
+# Use * to represent the missing four letters
+plate = 'FRQ****'
+
+# Call the function lookup_plate()
+lookup_plate(plate)
+
+# Call lookup_plate() with the keyword argument for color
+lookup_plate(plate, color='Green')
+```
