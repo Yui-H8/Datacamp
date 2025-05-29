@@ -27,3 +27,13 @@ print(3 * 5)
 #### Variable Assignment
 In Python, a variable allows you to refer to a value with a name.   
 To create a variable x with a value of 5, you use =, like this example:
+
+* Create a variable savings with the value of 100.
+* Check out this variable by typing print(savings) in the script.
+```python
+# Create a variable savings
+savings = 100
+
+# Print out savings
+print(savings)
+```
