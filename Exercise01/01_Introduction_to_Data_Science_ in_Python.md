@@ -58,3 +58,11 @@ plt.plot(x_values, y_values)
 # Display the graph
 plt.show()
 ```
+* Create a variable called plate that represents the observed license plate: the first three letters were FRQ, but the witness couldn't see the final 4 letters. Use asterisks (*) to represent missing letters.
+```python
+# Define plate to represent a plate beginning with FRQ
+# Use * to represent the missing four letters
+plate = 'FRQ****'
+```
+
+* Call lookup_plate() using the variable plate.
