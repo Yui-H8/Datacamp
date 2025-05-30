@@ -65,5 +65,15 @@ intro = "Hello! How are you?"
 # Create a variable is_good
 is_good = True
 ```
+1. Add savings and new_savings and assign it to total_savings. Use type() to print the resulting type of total_savings.
+```python
+savings = 100
+new_savings = 40
 
+# Calculate total_savings using savings and new_savings
+total_savings = savings + new_savings
+print(total_savings)
 
+# Print the type of total_savings
+type(total_savings)
+```
