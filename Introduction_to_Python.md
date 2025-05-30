@@ -23,6 +23,7 @@ print(5 - 5)
 # Multiplication
 print(3 * 5)
 ```
+
 ---
 #### Variable Assignment
 In Python, a variable allows you to refer to a value with a name.   
@@ -76,4 +77,15 @@ print(total_savings)
 
 # Print the type of total_savings
 type(total_savings)
+```
+2. Calculate the sum of intro and intro and assign the result to doubleintro.   
+Print out doubleintro. Did you expect this?
+```python
+intro = "Hello! How are you?"
+
+# Assign sum of intro and intro to doubleintro
+doubleintro = intro + intro
+
+# Print out doubleintro
+print(doubleintro)
 ```
