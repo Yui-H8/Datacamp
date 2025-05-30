@@ -37,3 +37,17 @@ savings = 100
 # Print out savings
 print(savings)
 ```
+* Create a variable monthly_savings, equal to 10 and num_months, equal to 4.
+* Multiply monthly_savings by num_months and assign it to new_savings.
+* Print the value of new_savings.
+```python
+# Create the variables monthly_savings and num_months
+monthly_savings = 10
+num_month = 4
+
+# Multiply monthly_savings and num_months
+new_savings = monthly_savings * num_month
+
+# Print new_savings
+print(new_savings)
+```
