@@ -36,3 +36,8 @@ plt.plot(gdp_cap, life_exp)
 plt.show()
 
 ```
+---
+### Scatter Plot (1)
+* Change the line plot that's coded in the script to a scatter plot.  
+A correlation will become clear when you display the GDP per capita on a logarithmic scale. Add the line plt.xscale('log').  
+Finish off your script with plt.show() to display the plot.
