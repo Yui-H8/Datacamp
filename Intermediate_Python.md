@@ -61,11 +61,13 @@ plt.show()
 import matplotlib.pyplot as plt
 
 # Build Scatter plot
-plt.plot(pop, life_exp)
+plt.scatter(pop, life_exp)
 
 
 # Show plot
 plt.show()
 ```
 ---
+### Build a histogram (1)
+
 
