@@ -145,4 +145,6 @@ plt.title(title)
 # After customizing, display the plot
 plt.show()
 ```
+When you want to start y-axis from 0　　　
+plt.ylim(bottom=0)
 
