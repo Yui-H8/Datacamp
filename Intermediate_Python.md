@@ -99,4 +99,10 @@ plt.hist(life_exp, 20)
 plt.show()
 plt.clf()
 ```
+---
+### Build a histogram (3): compare
+* Build a histogram of life_exp with 15 bins.
+* Build a histogram of life_exp1950, also with 15 bins. Is there a big difference with the histogram for the 2007 data?
+```python
 
+````
