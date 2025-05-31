@@ -118,3 +118,6 @@ plt.hist(life_exp1950, 15)
 plt.show()
 plt.clf()
 ````
+---
+### Labels  
+It's time to customize your own plot. This is the fun part, you will see your plot come to life!
