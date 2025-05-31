@@ -121,3 +121,6 @@ plt.clf()
 ---
 ### Labels  
 It's time to customize your own plot. This is the fun part, you will see your plot come to life!
+* The strings xlab and ylab are already set for you. Use these variables to set the label of the x- and y-axis.
+* The string title is also coded for you. Use it to add a title to the plot.
+* After these customizations, finish the script with plt.show() to actually display the plot.
