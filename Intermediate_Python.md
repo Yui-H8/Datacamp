@@ -80,5 +80,9 @@ plt.hist(life_exp)
 # Display histogram
 plt.show()
 ```
+---
+### Build a histogram (2): bins
+* Build a histogram of life_exp, with 5 bins. Can you tell which bin contains the most observations?
+* Build another histogram of life_exp, this time with 20 bins. Is this better?
 
 
