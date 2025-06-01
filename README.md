@@ -11,3 +11,4 @@ Exercise
  * Introduction to Data Science in Python
  * Introduction to Python
  * Intermediate Python
+ * Data Manipulation with pandas
