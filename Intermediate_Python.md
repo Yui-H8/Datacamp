@@ -202,4 +202,7 @@ plt.xticks([1000, 10000, 100000],['1k', '10k', '100k'])
 # Display the plot
 plt.show()
 ```
-
+---
+### Colors
+* Add c = col to the arguments of the plt.scatter() function.
+* Change the opacity of the bubbles by setting the alpha argument to 0.8 inside plt.scatter(). Alpha can be set from zero to one, where zero is totally transparent, and one is not at all transparent.
