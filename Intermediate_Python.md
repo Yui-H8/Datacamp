@@ -171,3 +171,11 @@ plt.show()
 
 # After customizing, display the plot
 ```
+---
+### Sizes
+* Run the script to see how the plot changes.
+* Looks good, but increasing the size of the bubbles will make things stand out more.
+* Import the numpy package as np.
+* Use np.array() to create a numpy array from the list pop. Call this NumPy array np_pop.
+* Double the values in np_pop setting the value of np_pop equal to np_pop * 2. Because np_pop is a NumPy array, each array element will be doubled.
+* Change the s argument inside plt.scatter() to be np_pop instead of pop.
