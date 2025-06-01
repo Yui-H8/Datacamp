@@ -4,5 +4,5 @@
 * Print the head of the homelessness DataFrame.
 ```python
 # Print the head of the homelessness data
-print(homelessness)
+print(homelessness.head())
 ```
