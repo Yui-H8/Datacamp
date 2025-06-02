@@ -67,3 +67,12 @@ homelessness_reg_fam = homelessness.sort_values(["region","family_members"], asc
 # Print the top few rows
 print(homelessness_reg_fam.head())
 ```
+---
+### Subsetting columns
+* Create a Series called individuals that contains only the individuals column of homelessness.
+```python
+# Select the individuals column
+individuals = homelessness["individuals"]
+
+print(individuals.head())
+```
