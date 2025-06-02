@@ -83,4 +83,10 @@ state_fam = homelessness[["state", "family_members"]]
 
 print(state_fam.head())
 ```
+3. Create a DataFrame called ind_state that contains the individuals and state columns of homelessness, in that order.
+```python
+# Select only the individuals and state columns, in that order
+ind_state = homelessness[["individuals", "state"]]
 
+print(ind_state.head())
+```
