@@ -11,3 +11,8 @@ print(homelessness.head())
 # Print information about homelessness
 print(homelessness.info())
 ```
+* Print the number of rows and columns in homelessness.
+```python
+# Print the shape of homelessness
+print(homelessness.shape)
+```
