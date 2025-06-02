@@ -21,3 +21,9 @@ print(homelessness.shape)
 # Print a description of homelessness
 print(homelessness.describe())
 ```
+---
+### Parts of a DataFrame
+* Import pandas using the alias pd.
+* Print a 2D NumPy array of the values in homelessness.
+* Print the column names of homelessness.
+* Print the index of homelessness.
