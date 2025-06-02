@@ -16,3 +16,8 @@ print(homelessness.info())
 # Print the shape of homelessness
 print(homelessness.shape)
 ```
+* Print some summary statistics that describe the homelessness DataFrame.
+```python
+# Print a description of homelessness
+print(homelessness.describe())
+```
