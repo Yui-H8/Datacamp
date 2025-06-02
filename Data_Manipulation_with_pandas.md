@@ -7,3 +7,7 @@
 print(homelessness.head())
 ```
 * Print information about the column types and missing values in homelessness.
+```python
+# Print information about homelessness
+print(homelessness.info())
+```
