@@ -40,3 +40,15 @@ print(homelessness.columns)
 # Print the row index of homelessness
 print(homelessness.index)
 ```
+---
+### Sorting rows
+* Sort homelessness by the number of homeless individuals in the individuals column, from smallest to largest, and save this as homelessness_ind.   
+Print the head of the sorted DataFrame.
+```python
+# Sort homelessness by individuals
+homelessness_ind = homelessness.sort_values("individuals")
+
+# Print the top few rows
+print(homelessness_ind.head())
+```
+* Sort homelessness by the number of homeless family_members in descending order, and save this as homelessness_fam.
