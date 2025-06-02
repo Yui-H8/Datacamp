@@ -6,3 +6,4 @@
 # Print the head of the homelessness data
 print(homelessness.head())
 ```
+* Print information about the column types and missing values in homelessness.
