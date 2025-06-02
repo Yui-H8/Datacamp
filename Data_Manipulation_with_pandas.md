@@ -69,10 +69,18 @@ print(homelessness_reg_fam.head())
 ```
 ---
 ### Subsetting columns
-* Create a Series called individuals that contains only the individuals column of homelessness.
+1. Create a Series called individuals that contains only the individuals column of homelessness.
 ```python
 # Select the individuals column
 individuals = homelessness["individuals"]
 
 print(individuals.head())
 ```
+2. Create a DataFrame called state_fam that contains only the state and family_members columns of homelessness, in that order.
+```python
+# Select the state and family_members columns
+state_fam = homelessness[["state", "family_members"]]
+
+print(state_fam.head())
+```
+
