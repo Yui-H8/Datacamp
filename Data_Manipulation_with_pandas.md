@@ -146,5 +146,11 @@ homelessness["p_homeless"] = homelessness["total"] / homelessness["state_pop"]
 # See the result
 print(homelessness)
 ```
+### Combo-attack!
+＊Add a column to homelessness, indiv_per_10k, containing the number of homeless individuals per ten thousand people in each state, using state_pop for state population.
+* Subset rows where indiv_per_10k is higher than 20, assigning to high_homelessness.
+* Sort high_homelessness by descending indiv_per_10k, assigning to high_homelessness_srt.
+* Select only the state and indiv_per_10k columns of high_homelessness_srt and save as result. Look at the result.
+```python
 
 
