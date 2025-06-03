@@ -120,7 +120,19 @@ fam_lt_1k_pac = homelessness[
 # See the result
 print(fam_lt_1k_pac)
 ```
+---
+### Subsetting rows by categorical variables
+* Filter homelessness for cases where the USA census state is in the list of Mojave states, canu, assigning to mojave_homelessness. View the printed result.
+```python
+# The Mojave Desert states
+canu = ["California", "Arizona", "Nevada", "Utah"]
 
+# Filter for rows in the Mojave Desert states
+mojave_homelessness = homelessness["state"].isin(canu)
+
+# See the result
+print(homelessness[mojave_homelessness])
+```
 
 
 
