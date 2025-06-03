@@ -128,10 +128,10 @@ print(fam_lt_1k_pac)
 canu = ["California", "Arizona", "Nevada", "Utah"]
 
 # Filter for rows in the Mojave Desert states
-mojave_homelessness = homelessness["state"].isin(canu)
+mojave_homelessness = homelessness[homelessness["state"].isin(canu)]
 
 # See the result
-print(homelessness[mojave_homelessness])
+print(mojave_homelessness)
 ```
 
 
