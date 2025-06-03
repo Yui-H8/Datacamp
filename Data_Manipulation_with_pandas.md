@@ -100,3 +100,11 @@ ind_gt_10k = [homelessness["individuals"] > 10000]
 # See the result
 print(ind_gt_10k)
 ```
+2. Filter homelessness for cases where the USA Census region is "Mountain", assigning to mountain_reg. View the printed result.
+```python
+# Filter for rows where region is Mountain
+mountain_reg = [homelessness[homelessness["region"] == "Mountain"]]
+
+# See the result
+print(mountain_reg)
+```
