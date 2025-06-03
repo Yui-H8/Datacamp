@@ -103,8 +103,25 @@ print(ind_gt_10k)
 2. Filter homelessness for cases where the USA Census region is "Mountain", assigning to mountain_reg. View the printed result.
 ```python
 # Filter for rows where region is Mountain
-mountain_reg = [homelessness[homelessness["region"] == "Mountain"]]
+mountain_reg = homelessness[homelessness["region"] == "Mountain"]
 
 # See the result
 print(mountain_reg)
 ```
+3. Filter homelessness for cases where the USA Census region is "Mountain", assigning to mountain_reg. View the printed result.
+```python
+# Filter for rows where family_members is less than 1000 
+# and region is Pacific
+fam_lt_1k_pac = homelessness[
+    (homelessness["family_members"] > 1000) &
+    (homelessness["region"] == "Pacific")
+]
+
+# See the result
+print(fam_lt_1k_pac)
+```
+
+
+
+
+
