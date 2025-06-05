@@ -12,3 +12,4 @@ Exercise
  * Introduction to Python
  * Intermediate Python
  * Data Manipulation with pandas
+ * Introduction to Python for Developers
