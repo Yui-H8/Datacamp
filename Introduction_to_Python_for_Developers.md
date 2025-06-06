@@ -33,3 +33,10 @@ print(9 * 2)
 # Print the result of dividing 120 by 12
 print(120 / 12)
 ```
+---
+### Working with number variables
+* Create a variable called account_balance with a value of 120.50.
+* Print the account_balance variable.
+```python
+
+```
