@@ -13,3 +13,6 @@ print("I Love Python")
 # Replace ____ below to display "Learning Python"
 print("Learning Python")
 ```
+### Python as a calculator
+* Print the sum of 19 + 17.
+* Print the result of subtracting 12 from 99.
