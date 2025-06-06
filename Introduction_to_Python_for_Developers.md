@@ -51,3 +51,15 @@ print(account_balance)
 * Update the account_balance to be 1300000.00.
 * Update the is_millionaire variable to be True.
 * Print the is_millionaire variable to see its updated Boolean value.
+```python
+account_balance = 20000.00
+is_millionaire = False
+
+# Update account balance
+account_balance = 1300000.00
+# Update is_millionaire variable
+is_millionaire = True
+
+print(account_balance)
+print(is_millionaire)
+```
