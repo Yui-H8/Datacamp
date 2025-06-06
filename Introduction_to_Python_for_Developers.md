@@ -26,3 +26,10 @@ print(99 - 12)
 ### More calculations
 * Print the result of 9 multiplied by 2.
 * Print the result of dividing 120 by 12.
+```python
+# Calculate and print 9 multiplied by 2
+print(9 * 2)
+
+# Print the result of dividing 120 by 12
+print(120 / 2)
+```
