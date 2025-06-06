@@ -23,3 +23,6 @@ print(19 + 17)
 # Subtract 12 from 99
 print(99 - 12)
 ```
+### More calculations
+* Print the result of 9 multiplied by 2.
+* Print the result of dividing 120 by 12.
