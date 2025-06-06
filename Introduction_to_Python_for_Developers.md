@@ -38,5 +38,12 @@ print(120 / 12)
 * Create a variable called account_balance with a value of 120.50.
 * Print the account_balance variable.
 ```python
+# Age of a customer
+customer_age = 27
 
+# Create account_balance variable
+account_balance = 120.50
+
+# Print account_balance
+print(account_balance)
 ```
