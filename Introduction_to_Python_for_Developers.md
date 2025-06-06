@@ -47,3 +47,7 @@ account_balance = 120.50
 # Print account_balance
 print(account_balance)
 ```
+### Updating variable values
+* Update the account_balance to be 1300000.00.
+* Update the is_millionaire variable to be True.
+* Print the is_millionaire variable to see its updated Boolean value.
