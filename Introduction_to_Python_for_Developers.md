@@ -16,3 +16,10 @@ print("Learning Python")
 ### Python as a calculator
 * Print the sum of 19 + 17.
 * Print the result of subtracting 12 from 99.
+```python
+# Add 19 and 17
+print(19 + 17)
+
+# Subtract 12 from 99
+print(99 - 12)
+```
