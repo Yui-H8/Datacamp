@@ -8,3 +8,8 @@ print("I Love Python")
 ```
 ---
 ### Writing your first Python script
+* Use Python's built-in print() function to display "Learning Python".
+```python
+# Replace ____ below to display "Learning Python"
+print("Learning Python")
+```
