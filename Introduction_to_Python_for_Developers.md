@@ -122,3 +122,10 @@ most_popular_course = most_popular_course.replace(" ", "_")
 
 print(most_popular_course)
 ```
+*
+```Python
+# Change to lowercase
+most_popular_course = most_popular_course.lower()
+
+print(most_popular_course)
+```
