@@ -66,4 +66,11 @@ print(is_millionaire)
 ### Checking data types
 1. Print the data type of the customer_age variable.
 2. Print the data type of the variable account_balance.
+```python
+customer_age = 49
+account_balance = 120078.89
+
+# Print the data type of account_balance
+print(type(account_balance))
+```
 3. Print the data type of the is_millionaire variable.
