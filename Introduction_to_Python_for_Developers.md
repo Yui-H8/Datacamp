@@ -63,3 +63,7 @@ is_millionaire = True
 print(account_balance)
 print(is_millionaire)
 ```
+### Checking data types
+1. Print the data type of the customer_age variable.
+2. Print the data type of the variable account_balance.
+3. Print the data type of the is_millionaire variable.
