@@ -122,10 +122,12 @@ most_popular_course = most_popular_course.replace(" ", "_")
 
 print(most_popular_course)
 ```
-*
+* Update most_popular_course so that it only contains lowercase characters.
 ```Python
 # Change to lowercase
 most_popular_course = most_popular_course.lower()
 
 print(most_popular_course)
 ```
+---
+### Building a party playlist
