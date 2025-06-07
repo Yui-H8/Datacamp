@@ -84,4 +84,6 @@ print(type(is_millionaire))
 ```
 ---
 ### Multi-line strings
-
+* Store the first review as a multi-line string variable called review_one.
+* Store the second review as a multi-line string variable called review_two.
+* Print review_one then print review_two.
