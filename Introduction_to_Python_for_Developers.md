@@ -115,3 +115,10 @@ most_popular_course = most_popular_course.replace("Intro", "Introduction")
 
 print(most_popular_course)
 ```
+* Swap spaces to underscores throughout the string contained in most_popular_course.
+```python
+# Swap spaces for underscores
+most_popular_course = most_popular_course.replace(" ", "_")
+
+print(most_popular_course)
+```
