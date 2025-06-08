@@ -145,5 +145,6 @@ print(playlist)
 1. Find the name of the second song, which is the fifth element, in the playlist, and print the value.
 ```python
 # Find the second song
-print(playlist[5])
+print(playlist[4])
 ```
+2. Print the name of the artist for the final song in the playlist.
