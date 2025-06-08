@@ -153,4 +153,7 @@ print(playlist[4])
 print(playlist[-1])
 ```
 3. Print every song name in the playlist.
-
+```python
+# Print all songs in the playlist
+print(playlist[1::3])
+```
