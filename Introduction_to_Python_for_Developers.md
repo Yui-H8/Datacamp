@@ -136,7 +136,7 @@ print(most_popular_course)
 * Print the list.
 ```python
 # Create the playlist variable
-playlist = ["Blinding Lights", "One Dance", "Uptown Funk"]
+playlist = [1, "Blinding Lights", 2, "One Dance", 3, "Uptown Funk"]
 
 # Print the list
 print(playlist)
