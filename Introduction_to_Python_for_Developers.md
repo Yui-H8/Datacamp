@@ -141,4 +141,9 @@ playlist = [1, "Blinding Lights", 2, "One Dance", 3, "Uptown Funk"]
 # Print the list
 print(playlist)
 ```
-* Find the name of the second song, which is the fifth element, in the playlist, and print the value.
+### Subsetting lists
+1. Find the name of the second song, which is the fifth element, in the playlist, and print the value.
+```python
+# Find the second song
+print(playlist[5])
+```
