@@ -159,3 +159,5 @@ print(playlist[1::3])
 ```
 ---
 ### Building a playlist dictionary
+* Create a dictionary called playlist containing the first two songs, in that order, with artist names as keys and their respective songs as values.
+* Print the dictionary.
