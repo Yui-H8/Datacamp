@@ -148,3 +148,7 @@ print(playlist)
 print(playlist[4])
 ```
 2. Print the name of the artist for the final song in the playlist.
+```python
+# Get the last song's artist
+print(playlist[-1])
+```
