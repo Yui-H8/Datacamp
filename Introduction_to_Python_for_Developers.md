@@ -152,3 +152,5 @@ print(playlist[4])
 # Get the last song's artist
 print(playlist[-1])
 ```
+3. Print every song name in the playlist.
+
