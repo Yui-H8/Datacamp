@@ -131,7 +131,13 @@ print(most_popular_course)
 ```
 ---
 ### Building a party playlist
-* Create a list variable called playlist, containing the following numeric and string values (in order):
+* Create a list variable called playlist, containing the following numeric and string values (in order):   
 1, "Blinding Lights", 2, "One Dance", 3, "Uptown Funk".
 * Print the list.
+```python
+# Create the playlist variable
+playlist = ["Blinding Lights", "One Dance", "Uptown Funk"]
 
+# Print the list
+print(playlist)
+```
