@@ -13,3 +13,4 @@ Exercise
  * Intermediate Python
  * Data Manipulation with pandas
  * Introduction to Python for Developers
+ * Intermediate Python for Developers
