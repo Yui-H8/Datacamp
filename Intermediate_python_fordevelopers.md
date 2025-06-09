@@ -114,3 +114,5 @@ class type(object)
 # Find out more about lists
 print(help([]))
 ```
+---
+### Counting the elements
