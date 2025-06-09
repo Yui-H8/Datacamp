@@ -2,6 +2,7 @@
 ---
 ### Get some assistance   
 Not only does Python offer a range of built-in functions, but this even includes a way to find out more about data types, structures, and other functions.
+1. Call the help() function on len.
 ```python
 # Find out more about len()
 print(help(len))
@@ -11,10 +12,10 @@ print(help(len))
 #    Return the number of items in a container.
 # None
 ```
-# Use help() on the int data type.
+2. Use help() on the int data type.
 ```Python
 # Find out more about int
-print(help(type(int)))
+print(help(int))
 ```
 Help on class type in module builtins:
 
@@ -106,3 +107,7 @@ class type(object)
  |  __mro__ = (<class 'type'>, <class 'object'>)
  |  
  |  __weakrefoffset__ = 368
+3. Find out more about the list data structure, printing the results
+```python
+
+```
