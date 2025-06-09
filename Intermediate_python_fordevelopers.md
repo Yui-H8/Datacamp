@@ -11,3 +11,7 @@ print(help(len))
 #    Return the number of items in a container.
 # None
 ```
+# Use help() on the int data type.
+```Python
+
+```
