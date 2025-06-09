@@ -107,6 +107,8 @@ class type(object)
  |  __mro__ = (<class 'type'>, <class 'object'>)
  |  
  |  __weakrefoffset__ = 368
+
+ 
 3. Find out more about the list data structure, printing the results
 ```python
 
