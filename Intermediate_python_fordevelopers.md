@@ -111,5 +111,6 @@ class type(object)
  
 3. Find out more about the list data structure, printing the results
 ```python
-
+# Find out more about lists
+print(help([]))
 ```
