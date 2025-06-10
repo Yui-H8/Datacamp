@@ -116,7 +116,7 @@ print(help([]))
 ```
 ---
 ### Counting the elements
-* Use a function to count the number of key-value pairs in course_ratings, storing as a variable called num_courses, then print the variable.
+1. Use a function to count the number of key-value pairs in course_ratings, storing as a variable called num_courses, then print the variable.
 ```python
 course_ratings = {"LLM Concepts": 4.7, 
                   "Introduction to Data Pipelines": 4.75, 
@@ -126,4 +126,9 @@ course_ratings = {"LLM Concepts": 4.7,
 # Print the number of key-value pairs
 num_courses = len(course_ratings)
 print(num_courses)
+```
+2. Use a function to count the number of courses in course_completions, storing as num_courses, and print this variable.
+```python
+
+
 ```
