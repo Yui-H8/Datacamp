@@ -152,6 +152,6 @@ print(sum(course_completions))
 ```
 2. Print the largest value in course_completions.
 ```python
-
-
+# Print the largest number of completions
+print(max(course_completions))
 ```
