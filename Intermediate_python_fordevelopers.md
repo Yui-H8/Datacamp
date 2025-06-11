@@ -147,5 +147,7 @@ print(title_length)
 ### Performing calculations
 1. Add up and print the total number of course_completions.
 ```python
-
+# Print the total number of course completions
+print(sum(course_completions))
 ```
+
