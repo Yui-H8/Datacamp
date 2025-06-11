@@ -150,4 +150,8 @@ print(title_length)
 # Print the total number of course completions
 print(sum(course_completions))
 ```
+2. Print the largest value in course_completions.
+```python
 
+
+```
