@@ -155,3 +155,7 @@ print(sum(course_completions))
 # Print the largest number of completions
 print(max(course_completions))
 ```
+3. Add up the values in course_completions and then divide this by the number of elements to get the average.
+```python
+
+```
