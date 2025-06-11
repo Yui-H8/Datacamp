@@ -144,3 +144,4 @@ most_popular_course = "Introduction to dbt"
 title_length = len(most_popular_course)
 print(title_length)
 ```
+### Performing calculations
