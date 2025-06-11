@@ -145,3 +145,7 @@ title_length = len(most_popular_course)
 print(title_length)
 ```
 ### Performing calculations
+1. Add up and print the total number of course_completions.
+```python
+
+```
