@@ -138,6 +138,9 @@ print(num_courses)
 
 3. Use a function to count the number of characters in most_popular_course, storing as title_length, and print the variable.
 ```python
+most_popular_course = "Introduction to dbt"
 
-
+# How many characters are in most_popular_course?
+title_length = len(most_popular_course)
+print(title_length)
 ```
