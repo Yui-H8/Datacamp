@@ -135,3 +135,9 @@ course_completions = [97, 83, 121, 205, 56, 174, 92, 117, 164]
 num_courses = len(course_completions)
 print(num_courses)
 ```
+
+3. Use a function to count the number of characters in most_popular_course, storing as title_length, and print the variable.
+```python
+
+
+```
