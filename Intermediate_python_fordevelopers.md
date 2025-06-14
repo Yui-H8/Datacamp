@@ -165,3 +165,7 @@ print(sum(course_completions) / len(course_completions))
 # Print the average number of completions, rounded to one decimal places
 print(round(sum(course_completions) / len(course_completions), 1))
 ```
+### Working with the string module
+* Import the string module.
+* Access the module's .ascii_lowercase attribute.
+* Access the module's .punctuation attribute.
