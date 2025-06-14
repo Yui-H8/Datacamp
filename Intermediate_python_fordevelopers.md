@@ -161,3 +161,7 @@ print(max(course_completions))
 print(sum(course_completions) / len(course_completions))
 ```
 4. Round the average number of course completions to one decimal place.
+```python
+# Print the average number of completions, rounded to one decimal places
+print(round(sum(course_completions) / len(course_completions), 1))
+```
