@@ -212,4 +212,6 @@ sales_df = pd.DataFrame(sales)
 print(sales_df.head())
 ```
 ### Performing calculations with pandas
-
+* Read in "sales.csv", saving as a pandas DataFrame called sales_df.
+* Subset sales_df on the "order_value" column, then call the .mean() method to find the average order value.
+* Subset sales_df on the "order_value" column, then call the .sum() method to find the total value of all orders.
