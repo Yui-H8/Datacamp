@@ -198,3 +198,6 @@ print(type(deadline))
 print(deadline)
 ```
 ### Working with pandas
+* Import the pandas module using an alias of pd.
+* Create sales_df by using a pandas function to convert sales into a DataFrame.
+* Preview the first five rows of sales_df.
