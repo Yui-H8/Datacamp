@@ -20,3 +20,4 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 
 ### SQL
 * Introduction to SQL
+* Intermediate SQL
