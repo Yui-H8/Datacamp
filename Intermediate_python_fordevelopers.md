@@ -211,3 +211,5 @@ sales_df = pd.DataFrame(sales)
 # Preview the first five rows
 print(sales_df.head())
 ```
+### Performing calculations with pandas
+
