@@ -13,3 +13,7 @@ from people
 SELECT COUNT(birthdate) as count_birthdate
 FROM people
 ```
+3. Count the records for languages and countries in the films table; alias as count_languages and count_countries.
+```sql
+
+```
