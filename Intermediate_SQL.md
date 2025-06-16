@@ -23,5 +23,7 @@ FROM films
 ### SELECT DISTINCT
 1. Return the unique countries represented in the films table using DISTINCT.
 ```sql
-
+-- Return the unique countries from the films table
+SELECT DISTINCT country
+FROM films;
 ```
