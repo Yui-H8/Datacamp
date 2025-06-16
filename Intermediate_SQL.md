@@ -20,3 +20,8 @@ SELECT COUNT(language) as count_languages,
 COUNT(country) as count_countries
 FROM films
 ```
+### SELECT DISTINCT
+1. Return the unique countries represented in the films table using DISTINCT.
+```sql
+
+```
