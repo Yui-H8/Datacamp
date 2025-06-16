@@ -15,5 +15,8 @@ FROM people
 ```
 3. Count the records for languages and countries in the films table; alias as count_languages and count_countries.
 ```sql
-
+-- Count the records for languages and countries represented in the films table
+SELECT COUNT(language) as count_languages,
+COUNT(country) as count_countries
+FROM films
 ```
