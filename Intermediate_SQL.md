@@ -9,6 +9,7 @@ from people
 ```
 2. Count the number of records with a birthdate in the people table, aliasing the result as count_birthdate.
 ```sql
-
-
+-- Count the number of birthdates in the people table
+SELECT COUNT(birthdate) as count_birthdate
+FROM people
 ```
