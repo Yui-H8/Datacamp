@@ -7,3 +7,8 @@
 select count(*) as count_records
 from people
 ```
+2. Count the number of records with a birthdate in the people table, aliasing the result as count_birthdate.
+```sql
+
+
+```
