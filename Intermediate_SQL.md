@@ -54,3 +54,5 @@ FROM reviews;
 SELECT COUNNT(birthdate) AS count_birthdays
 FROM people;
 ```
+### Formatting
+* Adjust the sample code so that it is in line with standard practices.
