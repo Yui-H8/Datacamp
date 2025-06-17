@@ -33,3 +33,8 @@ FROM films;
 SELECT COUNT(DISTINCT country) as count_distinct_countries
 FROM films
 ```
+---
+### Debugging errors
+1. Debug and fix the SQL query provided.
+```sql
+```
