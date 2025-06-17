@@ -42,3 +42,7 @@ SELECT certification
 FROM films
 LIMIT 5;
 ```
+2. Find the two errors in this code; the same error has been repeated twice.
+```sql
+
+```
