@@ -49,3 +49,8 @@ SELECT film_id, imdb_score, num_votes
 FROM reviews;
 ```
 3. Find the two bugs in this final query.
+```sql
+-- Debug this code
+SELECT COUNNT(birthdate) AS count_birthdays
+FROM people;
+```
