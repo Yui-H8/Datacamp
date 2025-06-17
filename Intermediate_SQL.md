@@ -56,3 +56,9 @@ FROM people;
 ```
 ### Formatting
 * Adjust the sample code so that it is in line with standard practices.
+```sql
+-- Rewrite this query
+select person_id, role 
+from roles 
+limit 10
+```
