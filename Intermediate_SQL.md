@@ -37,4 +37,8 @@ FROM films
 ### Debugging errors
 1. Debug and fix the SQL query provided.
 ```sql
+-- Debug this code
+SELECT certification
+FROM films
+LIMIT 5;
 ```
