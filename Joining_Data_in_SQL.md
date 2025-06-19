@@ -39,3 +39,4 @@ INNER JOIN economies AS e
 -- Match on code field using table aliases
 ON c.code = e.code
 ```  
+### USING in action
