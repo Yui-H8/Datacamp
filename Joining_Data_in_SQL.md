@@ -32,10 +32,10 @@ ON cities.country_code = countries.code;
 * Lastly, select the following columns in order in line 2: code from the countries table (aliased as country_code), name, year, and inflation_rate.
 ```sql
 -- Select fields with aliases
-SELECT c.code, name, year, inflation_rate
+SELECT c.code AS country_code, name, year, inflation_rate
 FROM countries AS c
 -- Join to economies (alias e)
-LEFT JOIN economies AS e
+INNER JOIN economies AS e
 -- Match on code field using table aliases
 ON c.code = e.code
 ```  
