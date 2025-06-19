@@ -15,3 +15,5 @@ FROM sities
 INNER JOIN countries
 ON cities.country_code = countries.code
 ```
+3. Complete the SELECT statement to keep three columns: the name of the city, the name of the country, and the region the country is located in (in this order).
+* Alias the name of the city AS city and the name of the country AS country.
