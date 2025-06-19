@@ -26,3 +26,4 @@ FROM cities
 INNER JOIN countries
 ON cities.country_code = countries.code;
 ```
+### Joining with aliased tables
