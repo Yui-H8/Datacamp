@@ -40,3 +40,7 @@ INNER JOIN economies AS e
 ON c.code = e.code
 ```  
 ### USING in action
+* Use the country code field to complete the INNER JOIN with USING; do not change any alias names.
+```sql
+
+```
