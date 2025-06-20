@@ -67,3 +67,4 @@ INNER JOIN languages AS l
 -- Use code as the joining field with the USING keyword
 USING(code);
 ```
+3. Add a WHERE clause to find how many countries speak the language 'Bhojpuri'.
