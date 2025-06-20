@@ -82,3 +82,11 @@ WHERE l.name = 'Bhojpuri';
 ```
 ### Joining multiple tables
 1. Do an inner join of countries AS c (left) with populations AS p (right), on code. Select name and fertility_rate.
+```sql
+-- Select relevant fields
+SELECT c.name, p.fertility_rate
+-- Inner join countries and populations, aliased, on code
+FROM countries AS c 
+INNER JOIN populations AS p 
+ON c.code = p.country_code
+```
