@@ -80,3 +80,5 @@ USING(code)
 -- Filter for the Bhojpuri language
 WHERE l.name = 'Bhojpuri';
 ```
+### Joining multiple tables
+1. Do an inner join of countries AS c (left) with populations AS p (right), on code. Select name and fertility_rate.
