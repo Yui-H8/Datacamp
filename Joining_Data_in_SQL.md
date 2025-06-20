@@ -48,3 +48,5 @@ INNER JOIN languages AS l
 -- Match using the code column
 USING (code)
 ```
+---
+### Relationships in our database
