@@ -52,5 +52,11 @@ USING (code)
 ### Relationships in our database
 1. Select the country name, aliased as country, from the countries table.
 ```sql
+-- Select country (aliased) from countries
+SELECT name AS country
+FROM countries
+```
+2. Now add an alias c for the countries table and perform an inner join with the languages table, l, on the right; join on code in line 8 with the USING keyword; include the language name, aliased as language.
+```sql
 
 ```
