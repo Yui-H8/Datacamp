@@ -90,3 +90,4 @@ FROM countries AS c
 INNER JOIN populations AS p 
 ON c.code = p.country_code
 ```
+2. Chain an inner join with the economies table AS e, on code. Select year and unemployment_rate from the economies table.
