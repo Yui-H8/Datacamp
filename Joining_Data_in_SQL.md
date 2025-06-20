@@ -50,3 +50,7 @@ USING (code)
 ```
 ---
 ### Relationships in our database
+1. Select the country name, aliased as country, from the countries table.
+```sql
+
+```
