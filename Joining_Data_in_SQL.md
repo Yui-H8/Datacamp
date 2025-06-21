@@ -102,3 +102,5 @@ INNER JOIN economies AS e
 -- Match on country code
 ON c.code = e.code;
 ```
+### Checking multi-table join
+* Modify your query so that you are joining to economies on year as well as code.
