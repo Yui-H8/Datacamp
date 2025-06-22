@@ -51,4 +51,7 @@ sns.scatterplot(x=gdp, y=percent_literate)
 plt.show()
 ```
 ### Making a count plot with a list
+* Import Matplotlib and Seaborn using the standard naming conventions.
+* Use Seaborn to create a count plot with region on the y-axis.
+* Display the plot.
 
