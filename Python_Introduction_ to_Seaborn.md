@@ -79,3 +79,4 @@ df = pd.read_csv(csv_filepath)
 # Print the head of df
 print(df.head())
 ```
+### Making a count plot with a DataFrame
