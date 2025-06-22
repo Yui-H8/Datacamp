@@ -65,3 +65,7 @@ sns.countplot(y=region)
 # Show plot
 plt.show()
 ```
+---
+### "Tidy" vs. "untidy" data
+* Read the csv file located at csv_filepath into a DataFrame named df.
+* Print the head of df to show the first five rows.
