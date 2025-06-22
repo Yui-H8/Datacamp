@@ -50,3 +50,5 @@ sns.scatterplot(x=gdp, y=percent_literate)
 # Show plot
 plt.show()
 ```
+### Making a count plot with a list
+
