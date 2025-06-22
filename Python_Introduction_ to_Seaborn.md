@@ -17,3 +17,7 @@ import seaborn as sns
 # Create scatter plot with GDP on the x-axis and number of phones on the y-axis
 sns.scatterplot(x=gdp, y=phones)
 ```
+* Create a scatter plot of GDP (gdp) vs. number of phones per 1000 people (phones).
+```python
+
+```
