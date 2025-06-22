@@ -38,3 +38,7 @@ sns.scatterplot(x=gdp, y=phones)
 # Show plot
 plt.show()
 ```
+* Change the scatter plot so it displays the percent of the population that can read and write (percent_literate) on the y-axis.
+```python
+
+```
