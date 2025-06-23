@@ -99,3 +99,5 @@ sns.countplot(x="Spiders", data= df)
 # Display the plot
 plt.show()
 ```
+---
+### Hue and scatter plots
