@@ -116,3 +116,4 @@ sns.scatterplot(x = "absences",
 # Show plot
 plt.show()
 ```
+* Make "Rural" appear before "Urban" in the plot legend.
