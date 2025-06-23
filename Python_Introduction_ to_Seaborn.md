@@ -80,3 +80,7 @@ df = pd.read_csv(csv_filepath)
 print(df.head())
 ```
 ### Making a count plot with a DataFrame
+* Import Matplotlib, pandas, and Seaborn using the standard names.
+* Create a DataFrame named df from the csv file located at csv_filepath.
+* Use the countplot() function with the x= and data= arguments to create a count plot with the "Spiders" column values on the x-axis.
+* Display the plot.
