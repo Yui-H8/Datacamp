@@ -132,4 +132,6 @@ sns.scatterplot(x="absences", y="G3",
 plt.show()
 ```
 ### Hue and count plots
-
+* Fill in the palette_colors dictionary to map the "Rural" location value to the color "green" and the "Urban" location value to the color "blue".
+* Create a count plot with "school" on the x-axis using the student_data DataFrame.
+* Add subgroups to the plot using "location" variable and use the palette_colors dictionary to make the location subgroups green and blue.
