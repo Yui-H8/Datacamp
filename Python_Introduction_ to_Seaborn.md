@@ -131,4 +131,5 @@ sns.scatterplot(x="absences", y="G3",
 # Show plot
 plt.show()
 ```
+### Hue and count plots
 
