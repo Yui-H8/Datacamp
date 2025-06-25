@@ -22,4 +22,6 @@ with open('moby_dick.txt') as file:
 ### Why we like flat files and the Zen of Python
 In PythonLand, there are currently hundreds of Python Enhancement Proposals, commonly referred to as PEPs. PEP8, for example, is a standard style guide for Python, written by our sensei Guido van Rossum himself. 
 ### Using NumPy to import flat files
-
+* Fill in the arguments of np.loadtxt() by passing file and a comma ',' for the delimiter.
+* Fill in the argument of print() to print the type of the object digits. Use the function type().
+* Execute the rest of the code to visualize one of the rows of the data.
