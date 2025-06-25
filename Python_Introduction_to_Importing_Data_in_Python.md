@@ -20,3 +20,4 @@ with open('moby_dick.txt') as file:
     print(file.readline())
 ```
 ### Why we like flat files and the Zen of Python
+In PythonLand, there are currently hundreds of Python Enhancement Proposals, commonly referred to as PEPs. PEP8, for example, is a standard style guide for Python, written by our sensei Guido van Rossum himself. 
