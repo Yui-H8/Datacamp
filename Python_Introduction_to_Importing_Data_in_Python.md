@@ -19,3 +19,4 @@ with open('moby_dick.txt') as file:
     print(file.readline())
     print(file.readline())
 ```
+### Why we like flat files and the Zen of Python
