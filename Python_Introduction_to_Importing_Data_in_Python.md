@@ -9,3 +9,4 @@ with open('moby_dick.txt', mode = 'r') as file:
   	# Print it
     print(file.read())
 ```
+### Importing text files line by line
