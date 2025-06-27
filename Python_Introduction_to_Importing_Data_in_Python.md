@@ -46,3 +46,4 @@ im_sq = np.reshape(im, (28, 28))
 plt.imshow(im_sq, cmap='Greys', interpolation='nearest')
 plt.show()
 ```
+### Customizing your NumPy import
