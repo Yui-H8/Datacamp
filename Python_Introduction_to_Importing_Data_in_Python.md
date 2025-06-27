@@ -109,3 +109,4 @@ df = pd.read_csv(file)
 # View the head of the DataFrame
 print(df.head())
 ```
+### Using pandas to import flat files as DataFrames (2)
