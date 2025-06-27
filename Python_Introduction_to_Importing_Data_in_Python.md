@@ -93,4 +93,6 @@ plt.show()
 ```
 ---
 ### Using pandas to import flat files as DataFrames (1)
-
+* Import the pandas package using the alias pd.
+* Read titanic.csv into a DataFrame called df. The file name is already stored in the file object.
+* In a print() call, view the head of the DataFrame.
