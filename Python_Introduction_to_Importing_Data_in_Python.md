@@ -63,7 +63,11 @@ data = np.loadtxt(file, delimiter='\t', skiprows=1, usecols=[0, 2])
 print(data)
 ```
 ### Importing different datatypes
-
+* Complete the first call to np.loadtxt() by passing file as the first argument.
+* Execute print(data[0]) to print the first element of data.
+* Complete the second call to np.loadtxt(). The file you're importing is tab-delimited, the datatype is float, and you want to skip the first row.
+* Print the 10th element of data_float by completing the print() command. Be guided by the previous print() call.
+* Execute the rest of the code to visualize the data.
 
 ```python
 # Assign filename: file
