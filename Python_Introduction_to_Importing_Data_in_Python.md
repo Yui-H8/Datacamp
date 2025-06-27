@@ -47,3 +47,6 @@ plt.imshow(im_sq, cmap='Greys', interpolation='nearest')
 plt.show()
 ```
 ### Customizing your NumPy import
+* Complete the arguments of np.loadtxt(): the file you're importing is tab-delimited, you want to skip the first row and you only want to import the first and third columns.
+* Complete the argument of the print() call in order to print the entire array that you just imported.
+
