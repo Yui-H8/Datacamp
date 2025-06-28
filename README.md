@@ -18,6 +18,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
  * Intermediate Python for Developers
  * Introduction to Seaborn
  * Introduction to Importing Data in Python
+ * Introduction to Data Visualization with Matplotlib
 
 
 ### SQL
