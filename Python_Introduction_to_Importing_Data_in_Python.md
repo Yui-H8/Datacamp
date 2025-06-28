@@ -128,3 +128,8 @@ data_array = data.to_numpy()
 print(type(data_array))
 ```
 ### Customizing your pandas import
+* Complete the arguments of pd.read_csv() to import titanic_corrupt.txt correctly using pandas:
+* sep sets the delimiter to use, and works the same way as np.loadtxt()'s delimiter argument. Note that the file you're importing is tab-delimited.
+* comment takes characters that comments occur after in the file, which in this case is '#'.
+* na_values takes a list of strings to be treated as NA/NaN, in this case the string 'Nothing'.
+* Execute the rest of the code to print the head of the resulting DataFrame and plot the histogram of the 'Age' of passengers aboard the Titanic.
