@@ -16,3 +16,7 @@ fig, ax = plt.subplots()
 plt.show()
 ```
 ### Adding data to an Axes object
+* Import the matplotlib.pyplot submodule as plt.
+* Create a Figure and an Axes object by calling plt.subplots.
+* Add data from the seattle_weather DataFrame by calling the Axes plot method.
+* Add data from the austin_weather DataFrame in a similar manner and call plt.show to show the results.
