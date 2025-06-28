@@ -15,3 +15,4 @@ fig, ax = plt.subplots()
 # Call the show function to show the result
 plt.show()
 ```
+### Adding data to an Axes object
