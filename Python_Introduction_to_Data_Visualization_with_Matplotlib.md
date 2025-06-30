@@ -71,3 +71,5 @@ ax.set_title("Weather patterns in Austin and Seattle")
 # Display the figure
 plt.show()
 ```
+---
+### Creating small multiples with plt.subplots
