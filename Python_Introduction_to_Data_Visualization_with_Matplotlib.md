@@ -73,3 +73,7 @@ plt.show()
 ```
 ---
 ### Creating small multiples with plt.subplots
+* Create a Figure and an array of subplots with 2 rows and 2 columns.
+* Addressing the top left Axes as index 0, 0, plot the Seattle precipitation.
+* In the top right (index 0,1), plot Seattle temperatures.
+* In the bottom left (1, 0) and bottom right (1, 1) plot Austin precipitations and temperatures.
