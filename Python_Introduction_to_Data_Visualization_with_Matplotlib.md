@@ -94,3 +94,4 @@ ax[1, 0].plot(austin_weather["MONTH"], austin_weather["MLY-PRCP-NORMAL"])
 ax[1, 1].plot(austin_weather["MONTH"], austin_weather["MLY-TAVG-NORMAL"])
 plt.show()
 ```
+### Small multiples with shared y axis
