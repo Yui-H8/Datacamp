@@ -52,3 +52,6 @@ ax.plot(austin_weather["MONTH"], austin_weather["MLY-PRCP-NORMAL"], color = 'r',
 plt.show()
 ```
 ### Customizing axis labels and adding titles
+* Use the set_xlabel method to add the label: "Time (months)".
+* Use the set_ylabel method to add the label: "Precipitation (inches)".
+* Use the set_title method to add the title: "Weather patterns in Austin and Seattle".
