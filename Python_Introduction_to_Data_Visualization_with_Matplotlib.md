@@ -95,3 +95,7 @@ ax[1, 1].plot(austin_weather["MONTH"], austin_weather["MLY-TAVG-NORMAL"])
 plt.show()
 ```
 ### Small multiples with shared y axis
+* Create a Figure with an array of two Axes objects that share their y-axis range.
+* Plot Seattle's "MLY-PRCP-NORMAL" in a solid blue line in the top Axes.
+* Add Seattle's "MLY-PRCP-25PCTL" and "MLY-PRCP-75PCTL" in dashed blue lines to the top Axes.
+* Plot Austin's "MLY-PRCP-NORMAL" in a solid red line in the bottom Axes and the "MLY-PRCP-25PCTL" and "MLY-PRCP-75PCTL" in dashed red lines.
