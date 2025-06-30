@@ -51,3 +51,4 @@ ax.plot(austin_weather["MONTH"], austin_weather["MLY-PRCP-NORMAL"], color = 'r',
 # Call show to display the resulting plot
 plt.show()
 ```
+### Customizing axis labels and adding titles
