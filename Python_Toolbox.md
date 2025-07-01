@@ -22,3 +22,5 @@ print(next(superhero))
 print(next(superhero))
 print(next(superhero))
 ```
+### Iterating over iterables (2)
+
