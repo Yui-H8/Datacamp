@@ -50,3 +50,4 @@ print(next(googol))
 print(next(googol))
 
 ```
+### Iterators as function arguments
