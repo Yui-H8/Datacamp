@@ -51,3 +51,6 @@ print(next(googol))
 
 ```
 ### Iterators as function arguments
+* Create a range object that would produce the values from 10 to 20 using range(). Assign the result to values.
+* Use the list() function to create a list of values from the range object values. Assign the result to values_list.
+* Use the sum() function to get the sum of the values from 10 to 20 from the range object values. Assign the result to values_sum.
