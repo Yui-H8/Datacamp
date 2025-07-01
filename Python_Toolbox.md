@@ -23,4 +23,6 @@ print(next(superhero))
 print(next(superhero))
 ```
 ### Iterating over iterables (2)
-
+* Create an iterator object small_value over range(3) using the function iter().
+* Using a for loop, iterate over range(3), printing the value for every iteration. Use num as the loop variable.
+* Create an iterator object googol over range(10 ** 100).
