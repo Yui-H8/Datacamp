@@ -101,3 +101,6 @@ for index2, value2 in enumerate(mutants, start=1):
     print(index2, value2)
 ```
 ### Using zip
+* Using zip() with list(), create a list of tuples from the three lists mutants, aliases, and powers (in that order) and assign the result to mutant_data.
+* Using zip(), create a zip object called mutant_zip from the three lists mutants, aliases, and powers.
+* Complete the for loop by unpacking the zip object you created and printing the tuple values. Use value1, value2, value3 for the values from each of mutants, aliases, and powers, in that order.
