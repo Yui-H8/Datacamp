@@ -73,3 +73,5 @@ values_sum = sum(values)
 # Print values_sum
 print(values_sum)
 ```
+---
+### Using enumerate
