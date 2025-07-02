@@ -121,3 +121,5 @@ print(mutant_zip)
 for value1, value2, value3 in mutant_zip:
     print(value1, value2, value3)
 ```
+### Using * and zip to 'unzip'
+
