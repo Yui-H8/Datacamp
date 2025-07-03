@@ -166,3 +166,7 @@ for chunk in pd.read_csv('tweets.csv', chunksize = 10):
 print(counts_dict)
 ```
 ### Extracting information for large amounts of Twitter data
+* Define the function count_entries(), which has 3 parameters. The first parameter is csv_file for the filename, the second is c_size for the chunk size, and the last is colname for the column name.
+* Iterate over the file in csv_file file by using a for loop. Use the loop variable chunk and iterate over the call to pd.read_csv(), passing c_size to chunksize.
+* In the inner loop, iterate over the column given by colname in chunk by using a for loop. Use the loop variable entry.
+* Call the count_entries() function by passing to it the filename 'tweets.csv', the size of chunks 10, and the name of the column to count, 'lang'. Assign the result of the call to the variable result_counts.
