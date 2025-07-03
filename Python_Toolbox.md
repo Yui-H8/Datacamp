@@ -145,4 +145,10 @@ print(result1 == mutants)
 print(result2 == powers)
 ```
 ### Processing large amounts of Twitter data
+* Initialize an empty dictionary counts_dict for storing the results of processing the Twitter data.
+* Iterate over the 'tweets.csv' file by using a for loop. Use the loop variable chunk and iterate over the call to pd.read_csv() with a chunksize of 10.
+* In the inner loop, iterate over the column 'lang' in chunk by using a for loop. Use the loop variable entry
+```python
 
+
+```
