@@ -2,4 +2,7 @@
 ---
 ### Strings in Python
 ### Recapping built-in functions
+Correct! It is important to remember that assigning a variable y2 to a function that prints a value but does not return a value will result in that variable y2 being of type NoneType.
+
+### 1
 
