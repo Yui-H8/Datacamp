@@ -62,3 +62,4 @@ yell = shout('congratulations')
 print(yell)
 ```
 Great work! Here it made sense to assign the output of shout('congratulations') to a variable yell because the function shout actually returns a value, it does not merely print one.
+### Functions with multiple parameters
