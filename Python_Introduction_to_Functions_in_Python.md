@@ -40,3 +40,4 @@ def shout(word):
 # Call shout with the string 'congratulations'
 shout('congratulations')
 ```
+### Functions that return single values
