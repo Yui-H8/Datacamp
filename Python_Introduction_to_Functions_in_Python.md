@@ -23,3 +23,7 @@ def shout():
 shout()
 ```
 ### Single-parameter functions
+* Complete the function header by adding the parameter name, word.
+* Assign the result of concatenating word with '!!!' to shout_word.
+* Print the value of shout_word.
+* Call the shout() function, passing to it the string, 'congratulations'.
