@@ -41,3 +41,7 @@ def shout(word):
 shout('congratulations')
 ```
 ### Functions that return single values
+* In the function body, concatenate the string in word with '!!!' and assign to shout_word.
+* Replace the print() statement with the appropriate return statement.
+* Call the shout() function, passing to it the string, 'congratulations', and assigning the call to the variable, yell.
+* To check if yell contains the value returned by shout(), print the value of yell.
