@@ -22,3 +22,4 @@ def shout():
 # Call shout
 shout()
 ```
+### Single-parameter functions
