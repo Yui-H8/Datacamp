@@ -63,3 +63,7 @@ print(yell)
 ```
 Great work! Here it made sense to assign the output of shout('congratulations') to a variable yell because the function shout actually returns a value, it does not merely print one.
 ### Functions with multiple parameters
+* Modify the function header such that it accepts two parameters, word1 and word2, in that order.
+* Concatenate each of word1 and word2 with '!!!' and assign to shout1 and shout2, respectively.
+* Concatenate shout1 and shout2 together, in that order, and assign to new_shout.
+* Pass the strings 'congratulations' and 'you', in that order, to a call to shout(). Assign the return value to yell.
