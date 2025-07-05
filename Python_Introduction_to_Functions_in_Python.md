@@ -89,3 +89,4 @@ yell = shout('congratulations', 'you')
 # Print yell
 print(yell)
 ```
+### A brief introduction to tuples
