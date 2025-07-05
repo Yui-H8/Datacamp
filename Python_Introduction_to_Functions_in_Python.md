@@ -128,4 +128,7 @@ print(yell1)
 print(yell2)
 ```
 ### Bringing it all together (1)
-
+* Import the pandas package with the alias pd.
+* Import the file 'tweets.csv' using the pandas function read_csv(). Assign the resulting DataFrame to df.
+* Complete the for loop by iterating over col, the 'lang' column in the DataFrame df.
+* Complete the bodies of the if-else statements in the for loop: if the key is in the dictionary langs_count, add 1 to the value corresponding to this key in the dictionary, else add the key to langs_count and set the corresponding value to 1. Use the loop variable entry in your code.
