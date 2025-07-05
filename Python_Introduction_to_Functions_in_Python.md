@@ -127,3 +127,5 @@ yell1, yell2 = shout_all('congratulations', 'you')
 print(yell1)
 print(yell2)
 ```
+### Bringing it all together (1)
+
