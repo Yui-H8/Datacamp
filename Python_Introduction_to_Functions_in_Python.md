@@ -90,3 +90,5 @@ yell = shout('congratulations', 'you')
 print(yell)
 ```
 ### A brief introduction to tuples
+* Unpack nums to the variables num1, num2, and num3.
+* Construct a new tuple, even_nums composed of the same elements in nums, but with the 1st element replaced with the value, 2.
