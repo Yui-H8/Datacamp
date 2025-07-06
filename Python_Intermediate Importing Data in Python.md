@@ -24,7 +24,10 @@ df = pd.read_csv('winequality-red.csv', sep=';')
 print(df.head())
 ```
 ### Opening and reading flat files from the web
-
+* Assign the URL of the file to the variable url.
+* Read file into a DataFrame df using pd.read_csv(), recalling that the separator in the file is ';'.
+* Print the head of the DataFrame df.
+* Execute the rest of the code to plot histogram of the first feature in the DataFrame df.
 ```python
 # Import packages
 import matplotlib.pyplot as plt
