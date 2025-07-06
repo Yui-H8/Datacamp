@@ -1,7 +1,10 @@
 # Intermediate Importing Data in Python
 ---
 ### Importing flat files from the web: your turn!
-
+* Import the function urlretrieve from the subpackage urllib.request.
+* Assign the URL of the file to the variable url.
+* Use the function urlretrieve() to save the file locally as 'winequality-red.csv'.
+* Execute the remaining code to load 'winequality-red.csv' in a pandas DataFrame and to print its head to the shell.
 
 ```python
 # Import package
