@@ -49,3 +49,7 @@ plt.ylabel('count')
 plt.show()
 ```
 ### Importing non-flat files from the web
+* Assign the URL of the file to the variable url.
+* Read the file in url into a dictionary xls using pd.read_excel() recalling that, in order to import all sheets you need to pass None to the argument sheet_name.
+* Print the names of the sheets in the Excel spreadsheet; these will be the keys of the dictionary xls.
+* Print the head of the first sheet using the sheet name, not the index of the sheet! The sheet name is '1700'
