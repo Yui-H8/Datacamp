@@ -21,6 +21,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
  * Introduction to Data Visualization with Matplotlib
  * Python Toolbox
  * Introduction to Functions in Python
+ * Intermediate Importing Data in Python
 
 
 ### SQL
