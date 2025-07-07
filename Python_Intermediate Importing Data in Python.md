@@ -142,3 +142,4 @@ text = r.text
 # Print the html
 print(text)
 ```
+### Parsing HTML with BeautifulSoup
