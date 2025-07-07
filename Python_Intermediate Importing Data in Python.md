@@ -93,4 +93,5 @@ print(type(response))
 # Be polite and close the response!
 response.close()
 ```
+### Printing HTTP request results in Python using urllib
 
