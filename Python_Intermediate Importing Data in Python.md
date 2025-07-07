@@ -94,4 +94,7 @@ print(type(response))
 response.close()
 ```
 ### Printing HTTP request results in Python using urllib
-
+* Send the request and catch the response in the variable response with the function urlopen(), as in the previous exercise.
+* Extract the response using the read() method and store the result in the variable html.
+* Print the string html.
+* Hit submit to perform all of the above and to close the response: be tidy!
