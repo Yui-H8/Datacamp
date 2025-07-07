@@ -120,3 +120,4 @@ print(html)
 # Be polite and close the response!
 response.close()
 ```
+### Performing HTTP requests in Python using requests
