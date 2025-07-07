@@ -121,3 +121,8 @@ print(html)
 response.close()
 ```
 ### Performing HTTP requests in Python using requests
+* Import the package requests.
+* Assign the URL of interest to the variable url.
+* Package the request to the URL, send the request and catch the response with a single function requests.get(), assigning the response to the variable r.
+* Use the text attribute of the object r to return the HTML of the webpage as a string; store the result in a variable text.
+* Hit submit to print the HTML of the webpage.
