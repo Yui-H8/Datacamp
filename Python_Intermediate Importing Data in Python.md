@@ -70,3 +70,7 @@ print(xls.keys())
 print(xls['1700'].head())
 ```
 ### Performing HTTP requests in Python using urllib
+* Import the functions urlopen and Request from the subpackage urllib.request.
+* Package the request to the url "https://campus.datacamp.com/courses/1606/4135?ex=2" using the function Request() and assign it to request.
+* Send the request and catch the response in the variable response with the function urlopen().
+* Run the rest of the code to see the datatype of response and to close the connection!
