@@ -74,3 +74,23 @@ print(xls['1700'].head())
 * Package the request to the url "https://campus.datacamp.com/courses/1606/4135?ex=2" using the function Request() and assign it to request.
 * Send the request and catch the response in the variable response with the function urlopen().
 * Run the rest of the code to see the datatype of response and to close the connection!
+```python
+# Import packages
+from urllib.request import urlopen, Request
+
+# Specify the url
+url = "https://campus.datacamp.com/courses/1606/4135?ex=2"
+
+# This packages the request: request
+request = Request(url)
+
+# Sends the request and catches the response: response
+response = urlopen(request)
+
+# Print the datatype of response
+print(type(response))
+
+# Be polite and close the response!
+response.close()
+```
+
