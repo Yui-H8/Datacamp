@@ -22,6 +22,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
  * Python Toolbox
  * Introduction to Functions in Python
  * Intermediate Importing Data in Python
+ * Introduction to Python for Finance
 
 
 ### SQL
