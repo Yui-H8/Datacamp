@@ -21,3 +21,4 @@ print(3 * 5)
 # Division
 print(10 / 2)
 ```
+### Creating numeric variables
