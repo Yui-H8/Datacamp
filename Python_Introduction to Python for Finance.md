@@ -8,3 +8,16 @@ Print the sum of 4 and 5.
 Print the result of subtracting 5 from 5.   
 Print the result of multiplying 3 and 5.   
 Print the result of dividing 10 by 2.   
+```python
+# Addition
+print(4 + 5)
+
+# Subtraction
+print(5 - 5)
+
+# Multiplication
+print(3 * 5)
+
+# Division
+print(10 / 2)
+```
