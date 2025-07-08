@@ -209,3 +209,5 @@ guido_text = soup.get_text()
 print(guido_text)
 ```
 ### Turning a webpage into data using BeautifulSoup: getting the hyperlinks
+* Use the method find_all() to find all hyperlinks in soup, remembering that hyperlinks are defined by the HTML tag <a> but passed to find_all() without angle brackets; store the result in the variable a_tags.
+* The variable a_tags is a results set: your job now is to enumerate over it, using a for loop and to print the actual URLs of the hyperlinks; to do this, for every element link in a_tags, you want to print() link.get('href').
