@@ -173,3 +173,5 @@ pretty_soup = soup.prettify()
 # Print the response
 print(pretty_soup)
 ```
+### Turning a webpage into data using BeautifulSoup: getting the text
+
