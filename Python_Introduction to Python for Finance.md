@@ -25,3 +25,13 @@ print(10 / 2)
 * Assign 229.23 to the variable revenue_1.
 * Assign 177.86 to the variable revenue_2.
 * Assign 89.95 to the variable revenue_3.
+```python
+# Assign 229.23 to revenue_1
+revenue_1 = 229.23
+
+# Assign 177.86 to revenue_2
+revenue_2 = 177.86
+
+# Assign 89.95 to revenue_3
+revenue_3 = 89.95
+```
