@@ -36,3 +36,4 @@ revenue_2 = 177.86
 revenue_3 = 89.95
 ```
 ### Finding the average revenue
+* Create a new variable, total that represents the sum of revenue_1, revenue_2 and revenue_3.
