@@ -42,4 +42,4 @@ revenue_3 = 89.95
 total = revenue_1 + revenue_2 + revenue_3
 print(total)
 ```
-2.
+2. Find the average of total.
