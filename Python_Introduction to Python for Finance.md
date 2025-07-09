@@ -53,4 +53,8 @@ print(average)
 ```
 ### Creating different types of variables
 1. Assign the string 'Apple' to the variable company_1.
-
+```python
+# Create company_1
+company_1 = 'Apple'
+print(company_1)
+```
