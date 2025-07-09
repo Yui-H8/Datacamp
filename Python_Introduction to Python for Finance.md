@@ -43,3 +43,11 @@ total = revenue_1 + revenue_2 + revenue_3
 print(total)
 ```
 2. Find the average of total.
+```python# Print the total revenue
+total = revenue_1 + revenue_2 + revenue_3
+print(total)
+
+# Print the average revenue
+average = total / 3
+print(average)
+```
