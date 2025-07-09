@@ -65,3 +65,8 @@ year_1 = 2017
 print(year_1)
 ```
 3. Assign the float 229.23 to the variable revenue_1.
+```python
+# Create revenue_1
+revenue_1 = 229.23
+print(revenue_1)
+```
