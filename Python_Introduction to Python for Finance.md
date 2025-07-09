@@ -51,3 +51,5 @@ print(total)
 average = total / 3
 print(average)
 ```
+### Creating different types of variables
+
