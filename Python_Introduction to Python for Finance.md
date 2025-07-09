@@ -35,3 +35,4 @@ revenue_2 = 177.86
 # Assign 89.95 to revenue_3
 revenue_3 = 89.95
 ```
+### Finding the average revenue
