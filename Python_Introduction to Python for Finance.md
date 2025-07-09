@@ -64,3 +64,4 @@ print(company_1)
 year_1 = 2017
 print(year_1)
 ```
+3. Assign the float 229.23 to the variable revenue_1.
