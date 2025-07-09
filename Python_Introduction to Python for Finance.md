@@ -22,3 +22,6 @@ print(3 * 5)
 print(10 / 2)
 ```
 ### Creating numeric variables
+* Assign 229.23 to the variable revenue_1.
+* Assign 177.86 to the variable revenue_2.
+* Assign 89.95 to the variable revenue_3.
