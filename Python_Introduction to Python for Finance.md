@@ -58,3 +58,8 @@ print(average)
 company_1 = 'Apple'
 print(company_1)
 ```
+2. Assign the integer 2017 to the variable year_1.
+```python
+
+
+```
