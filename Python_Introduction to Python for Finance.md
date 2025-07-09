@@ -52,4 +52,5 @@ average = total / 3
 print(average)
 ```
 ### Creating different types of variables
+1. Assign the string 'Apple' to the variable company_1.
 
