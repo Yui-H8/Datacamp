@@ -60,6 +60,7 @@ print(company_1)
 ```
 2. Assign the integer 2017 to the variable year_1.
 ```python
-
-
+# Create year_1
+year_1 = 2017
+print(year_1)
 ```
