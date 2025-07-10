@@ -72,3 +72,13 @@ print(revenue_1)
 ```
 ### Determining types
 * Print the data types associated with the variables company_1, year_1 and revenue_1.
+```python
+# Type of company_1
+print(type(company_1))
+
+# Type of year_1
+print(type(year_1))
+
+# Type of revenue_1
+print(type(revenue_1))
+```
