@@ -23,6 +23,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
  * Introduction to Functions in Python
  * Intermediate Importing Data in Python
  * Introduction to Python for Finance
+ * Working with Hugging Face
 
 
 ### SQL
