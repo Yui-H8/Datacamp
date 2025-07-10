@@ -70,3 +70,5 @@ print(year_1)
 revenue_1 = 229.23
 print(revenue_1)
 ```
+### Determining types
+* Print the data types associated with the variables company_1, year_1 and revenue_1.
