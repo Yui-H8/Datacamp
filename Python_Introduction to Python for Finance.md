@@ -82,3 +82,4 @@ print(type(year_1))
 # Type of revenue_1
 print(type(revenue_1))
 ```
+### Combining data types
