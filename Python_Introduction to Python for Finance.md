@@ -83,3 +83,5 @@ print(type(year_1))
 print(type(revenue_1))
 ```
 ### Combining data types
+* Convert the data type of variables year_1, and revenue_1 to string.
+* Use these new variables to create and print the following sentence: "The revenue of Apple in 2017 was $229.23 billion."
