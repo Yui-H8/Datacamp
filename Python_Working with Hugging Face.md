@@ -17,3 +17,6 @@ for model in models:
     print(model)
 ```
 # Building a text generation pipeline
+* Complete the missing code to build a text generation pipeline using the "gpt2" model.
+* Provide a custom sentence of your choice as the input prompt.
+* Configure the pipeline to generate up to 10 tokens and produce 3 outputs.
