@@ -16,3 +16,4 @@ models = list(api.list_models(limit=2))
 for model in models:
     print(model)
 ```
+# Building a text generation pipeline
