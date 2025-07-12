@@ -32,3 +32,5 @@ results = my_pipeline("Once upon a time", max_length= 10, num_return_sequences=3
 for result in results:
     print(result['generated_text'])
 ```
+### Saving and reloading Hugging Face models
+
