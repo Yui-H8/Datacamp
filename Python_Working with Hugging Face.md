@@ -45,3 +45,17 @@ my_pipeline.save_pretrained(f"models/{modelId}")
 ```
 2. Complete the code to reload the saved model.   
 Test the reloaded model with the given text.
+```python
+modelId = "distilbert-base-uncased-finetuned-sst-2-english"
+
+my_pipeline = pipeline("text-classification", 
+                        model=modelId)
+
+my_pipeline.save_pretrained(f"models/{modelId}")
+
+# Reload the saved model
+reloaded_pipeline = pipeline("text-classification", model=f"models/{modelId}")
+
+# Test the reloaded model
+print(reloaded_pipeline("Hugging Face is great!"))
+```
