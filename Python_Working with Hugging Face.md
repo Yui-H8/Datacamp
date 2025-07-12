@@ -70,3 +70,4 @@ from datasets import load_dataset_builder
 # Initialize the dataset builder for the MMLU-Pro dataset
 reviews_builder = load_dataset_builder("TIGER-Lab/MMLU-Pro")
 ```
+2. Display the dataset metadata and review the available information.
