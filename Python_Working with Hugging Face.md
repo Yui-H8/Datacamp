@@ -20,3 +20,15 @@ for model in models:
 * Complete the missing code to build a text generation pipeline using the "gpt2" model.
 * Provide a custom sentence of your choice as the input prompt.
 * Configure the pipeline to generate up to 10 tokens and produce 3 outputs.
+```python
+from transformers import pipeline 
+
+my_pipeline = pipeline(task="text-generation", model="gpt2")
+
+# Generate three text outputs with a maximum length of 10 tokens
+results = my_pipeline("Once upon a time", max_length= 10, num_return_sequences=3)
+
+# Display each result
+for result in results:
+    print(result['generated_text'])
+```
