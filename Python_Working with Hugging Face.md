@@ -81,3 +81,4 @@ reviews_builder = load_dataset_builder("TIGER-Lab/MMLU-Pro")
 # Display dataset metadata
 print(reviews_builder.info)
 ```
+3. Calculate and display the dataset size in megabytes.
