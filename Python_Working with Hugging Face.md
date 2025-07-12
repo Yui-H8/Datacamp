@@ -59,3 +59,6 @@ reloaded_pipeline = pipeline("text-classification", model=f"models/{modelId}")
 # Test the reloaded model
 print(reloaded_pipeline("Hugging Face is great!"))
 ```
+---
+### Inspecting datasets
+
