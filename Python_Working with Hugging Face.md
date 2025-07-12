@@ -35,3 +35,11 @@ for result in results:
 ### Saving and reloading Hugging Face models
 1. Complete the code to create a pipeline for text classification.    
 Use the appropriate method to save the pipeline locally.
+```python
+modelId = "distilbert-base-uncased-finetuned-sst-2-english"
+
+my_pipeline = pipeline("text-classification", model=modelId)
+
+# Save the model locally
+my_pipeline.save_pretrained(f"models/{modelId}")
+```
