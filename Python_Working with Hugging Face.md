@@ -33,4 +33,5 @@ for result in results:
     print(result['generated_text'])
 ```
 ### Saving and reloading Hugging Face models
-
+1. Complete the code to create a pipeline for text classification.    
+Use the appropriate method to save the pipeline locally.
