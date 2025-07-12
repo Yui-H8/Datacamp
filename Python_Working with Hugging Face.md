@@ -61,4 +61,5 @@ print(reloaded_pipeline("Hugging Face is great!"))
 ```
 ---
 ### Inspecting datasets
-
+1. Import load_dataset_builder.   
+Create the reviews_builder to inspect the dataset.
