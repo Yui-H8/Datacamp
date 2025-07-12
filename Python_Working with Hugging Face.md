@@ -71,3 +71,13 @@ from datasets import load_dataset_builder
 reviews_builder = load_dataset_builder("TIGER-Lab/MMLU-Pro")
 ```
 2. Display the dataset metadata and review the available information.
+```python
+# Import the function to load dataset metadata
+from datasets import load_dataset_builder
+
+# Initialize the dataset builder for the MMLU-Pro dataset
+reviews_builder = load_dataset_builder("TIGER-Lab/MMLU-Pro")
+
+# Display dataset metadata
+print(reviews_builder.info)
+```
