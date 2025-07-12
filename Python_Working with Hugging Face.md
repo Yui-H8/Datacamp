@@ -43,3 +43,5 @@ my_pipeline = pipeline("text-classification", model=modelId)
 # Save the model locally
 my_pipeline.save_pretrained(f"models/{modelId}")
 ```
+2. Complete the code to reload the saved model.   
+Test the reloaded model with the given text.
