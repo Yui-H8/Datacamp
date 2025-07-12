@@ -63,3 +63,10 @@ print(reloaded_pipeline("Hugging Face is great!"))
 ### Inspecting datasets
 1. Import load_dataset_builder.   
 Create the reviews_builder to inspect the dataset.
+```python
+# Import the function to load dataset metadata
+from datasets import load_dataset_builder
+
+# Initialize the dataset builder for the MMLU-Pro dataset
+reviews_builder = load_dataset_builder("TIGER-Lab/MMLU-Pro")
+```
