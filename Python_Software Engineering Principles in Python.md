@@ -17,3 +17,4 @@ arr.sort()
 # print the sorted array
 print(arr)
 ```
+### Leveraging documentation
