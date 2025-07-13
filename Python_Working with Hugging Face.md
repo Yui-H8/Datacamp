@@ -108,3 +108,12 @@ print(my_dataset)
 ### Manipulating datasets
 1. Filter the dataset for rows with the term "football" in the text column and save as filtered.   
 Select a single example from the filtered dataset and save as example.
+```python
+# Filter the documents
+filtered = wikipedia.filter(lambda row: "football" in row["text"])
+
+# Create a sample dataset
+example = filtered.select(range(1))
+
+print(example[0]["text"])
+```
