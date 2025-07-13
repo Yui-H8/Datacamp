@@ -97,3 +97,4 @@ dataset_size_mb = reviews_builder.info.dataset_size / (1024 ** 2)
 print(f"Dataset size: {round(dataset_size_mb, 2)} MB")
 ```
 ### Loading datasets
+* Use the correct function to load the "TIGER-Lab/MMLU-Pro" dataset and specify the "test" split.
