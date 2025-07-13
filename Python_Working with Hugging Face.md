@@ -106,3 +106,5 @@ my_dataset = load_dataset("TIGER-Lab/MMLU-Pro", split="test")
 print(my_dataset)
 ```
 ### Manipulating datasets
+1. Filter the dataset for rows with the term "football" in the text column and save as filtered.   
+Select a single example from the filtered dataset and save as example.
