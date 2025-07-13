@@ -105,3 +105,4 @@ my_dataset = load_dataset("TIGER-Lab/MMLU-Pro", split="test")
 # Display dataset details
 print(my_dataset)
 ```
+### Manipulating datasets
