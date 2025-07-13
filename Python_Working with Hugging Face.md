@@ -98,3 +98,10 @@ print(f"Dataset size: {round(dataset_size_mb, 2)} MB")
 ```
 ### Loading datasets
 * Use the correct function to load the "TIGER-Lab/MMLU-Pro" dataset and specify the "test" split.
+```python
+# Load the "test" split of the TIGER-Lab/MMLU-Pro dataset
+my_dataset = load_dataset("TIGER-Lab/MMLU-Pro", split="test")
+
+# Display dataset details
+print(my_dataset)
+```
