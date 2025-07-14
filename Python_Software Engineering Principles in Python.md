@@ -37,3 +37,7 @@ print(top_5_words)
 ```
 ---
 ### Using pycodestyle
+* Import the pycodestyle package.
+* Create an instance of StyleGuide named style_checker.
+* There are two files that we'll be checking; they're named 'nay_pep8.py' and 'yay_pep8.py'. Pass a list containing these file names to our style_checker's check_files method.
+* print() the results of our style check to the console. Make sure to read the output!
