@@ -56,3 +56,10 @@ print(result.messages)
 ```
 ### Conforming to PEP 8
 * Leverage the output of pycodestyle to edit the code to be compliant with PEP 8.
+```python
+# Assign data to x
+x = [8, 3, 4]
+
+# Print the data
+print(x)
+```
