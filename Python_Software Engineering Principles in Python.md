@@ -18,3 +18,5 @@ arr.sort()
 print(arr)
 ```
 ### Leveraging documentation
+* View the documentation of the Counter.most_common method using the help() function.
+* Note, you need to run the import statement before completing this step.
