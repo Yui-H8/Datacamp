@@ -55,3 +55,4 @@ result = style_checker.check_files(['nay_pep8.py', 'yay_pep8.py'])
 print(result.messages)
 ```
 ### Conforming to PEP 8
+* Leverage the output of pycodestyle to edit the code to be compliant with PEP 8.
