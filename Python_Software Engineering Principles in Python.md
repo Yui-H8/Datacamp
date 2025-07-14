@@ -22,3 +22,16 @@ print(arr)
 Note, you need to run the import statement before completing this step.
 2. Correctly call Counter.most_common() by reading its documentation.   
 Print the results stored in top_5_words.
+```python
+# Load the Counter function into our environment
+from collections import Counter
+
+# View the documentation for Counter.most_common
+help(Counter.most_common)
+
+# Use Counter to find the top 5 most common words
+top_5_words = Counter(words).most_common(5)
+
+# Display the top 5 most common words
+print(top_5_words)
+```
