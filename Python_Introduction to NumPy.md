@@ -15,3 +15,4 @@ sudoku_array = np.array(sudoku_list)
 print(type(sudoku_array))
 ```
 ### Creating arrays from scratch
+* Create and print an array filled with zeros called zero_array, which has two rows and four columns.
