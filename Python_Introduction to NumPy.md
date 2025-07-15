@@ -15,4 +15,9 @@ sudoku_array = np.array(sudoku_list)
 print(type(sudoku_array))
 ```
 ### Creating arrays from scratch
-* Create and print an array filled with zeros called zero_array, which has two rows and four columns.
+1. Create and print an array filled with zeros called zero_array, which has two rows and four columns.
+```python
+# Create an array of zeros which has four columns and two rows
+zero_array = np.zeros((2,4))
+print(zero_array)
+```
