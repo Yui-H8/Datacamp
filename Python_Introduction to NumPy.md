@@ -22,3 +22,8 @@ zero_array = np.zeros((2,4))
 print(zero_array)
 ```
 2. Create and print an array of random floats between 0 and 1 called random_array, which has three rows and six columns.
+```python
+# Create an array of random floats which has six columns and three rows
+random_array = np.random.random((3,6))
+print(random_array)
+```
