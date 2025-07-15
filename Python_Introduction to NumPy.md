@@ -27,3 +27,4 @@ print(zero_array)
 random_array = np.random.random((3,6))
 print(random_array)
 ```
+### A range array
