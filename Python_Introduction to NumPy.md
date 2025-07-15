@@ -28,3 +28,5 @@ random_array = np.random.random((3,6))
 print(random_array)
 ```
 ### A range array
+* Using np.arange(), create a 1D array called one_to_ten which holds all integers from one to ten (inclusive).
+* Create a scatterplot with doubling_array as the y values and one_to_ten as the x values.
