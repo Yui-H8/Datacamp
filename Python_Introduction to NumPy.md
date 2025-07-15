@@ -14,3 +14,4 @@ sudoku_array = np.array(sudoku_list)
 # Print the type of sudoku_array 
 print(type(sudoku_array))
 ```
+### Creating arrays from scratch
