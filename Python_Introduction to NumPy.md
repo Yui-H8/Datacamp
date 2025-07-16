@@ -50,7 +50,9 @@ game_and_solution = np.array([sudoku_game, sudoku_solution])
 print(game_and_solution)
 ```
 ### The fourth dimension
-
+* Create another 3D array called new_game_and_solution with a different 2D game and 2D solution pair: new_sudoku_game and new_sudoku_solution. new_sudoku_game should appear before new_sudoku_solution.
+* Create a 4D array called games_and_solutions by making an array out of the two 3D arrays: game_and_solution and new_game_and_solution, in that order.
+* Print the shape of games_and_solutions.
 
 ```python
 # Create a second 3D array of another game and its solution 
