@@ -49,3 +49,5 @@ game_and_solution = np.array([sudoku_game, sudoku_solution])
 # Print game_and_solution
 print(game_and_solution)
 ```
+### The fourth dimension
+
