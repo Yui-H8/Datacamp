@@ -89,3 +89,5 @@ reshaped_game = flattened_game.reshape((9, 9))
 print(sudoku_game)
 print(reshaped_game)
 ```
+---
+### The dtype argument
