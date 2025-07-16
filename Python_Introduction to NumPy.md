@@ -1,4 +1,4 @@
-# Introduction to NumPy
+      # Introduction to NumPy
 ---
 ### Your first NumPy array
 * Import NumPy using its generally accepted alias.
@@ -38,3 +38,5 @@ one_to_ten = np.arange(1,11)
 plt.scatter(x = one_to_ten, y = doubling_array)
 plt.show()
 ```
+---
+### 3D array creation
