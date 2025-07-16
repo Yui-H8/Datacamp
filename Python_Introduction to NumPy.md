@@ -64,3 +64,4 @@ games_and_solutions = np.array([game_and_solution, new_game_and_solution])
 # Print the shape of your 4D array
 print(games_and_solutions.shape)
 ```
+### Flattening and reshaping
