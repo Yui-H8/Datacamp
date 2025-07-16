@@ -65,3 +65,5 @@ games_and_solutions = np.array([game_and_solution, new_game_and_solution])
 print(games_and_solutions.shape)
 ```
 ### Flattening and reshaping
+1. Flatten sudoku_game so that it is a 1D array, and save it as flattened_game.   
+Print the .shape of flattened_game.
