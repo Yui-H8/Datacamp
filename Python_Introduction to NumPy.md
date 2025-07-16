@@ -67,3 +67,10 @@ print(games_and_solutions.shape)
 ### Flattening and reshaping
 1. Flatten sudoku_game so that it is a 1D array, and save it as flattened_game.   
 Print the .shape of flattened_game.
+```python
+# Flatten sudoku_game
+flattened_game = sudoku_game.flatten()
+
+# Print the shape of flattened_game
+print(flattened_game.shape)
+```
