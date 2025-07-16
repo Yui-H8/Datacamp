@@ -75,3 +75,17 @@ flattened_game = sudoku_game.flatten()
 print(flattened_game.shape)
 ```
 2. Reshape the flattened_game back to its original shape of nine rows and nine columns; save the new array as reshaped_game.
+```Python
+# Flatten sudoku_game
+flattened_game = sudoku_game.flatten()
+
+# Print the shape of flattened_game
+print(flattened_game.shape)
+
+# Reshape flattened_game back to a nine by nine array
+reshaped_game = flattened_game.reshape((9, 9))
+
+# Print sudoku_game and reshaped_game
+print(sudoku_game)
+print(reshaped_game)
+```
