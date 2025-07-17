@@ -123,4 +123,5 @@ print(zero_int_array.dtype)
 print(sudoku_game.dtype)
 ```
 2. Question   
-The current data type of sudoku_game is int64. Which of the following NumPy integers is the smallest bitsize that is still large enough to hold the data in sudoku_game?    If you have never played sudoku, know that sudoku games only ever store integers from one to nine.
+The current data type of sudoku_game is int64. Which of the following NumPy integers is the smallest bitsize that is still large enough to hold the data in sudoku_game?    If you have never played sudoku, know that sudoku games only ever store integers from one to nine.    
+A: int8
