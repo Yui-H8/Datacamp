@@ -93,3 +93,10 @@ print(reshaped_game)
 ### The dtype argument
 1. Using np.zeros(), create an array of zeros that has three rows and two columns; call it zero_array.   
 Print the data type of zero_array.
+```python
+# Create an array of zeros with three rows and two columns
+zero_array = np.zeros([3,2])
+
+# Print the data type of zero_array
+print(zero_array.dtype)
+```
