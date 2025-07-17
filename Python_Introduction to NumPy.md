@@ -127,5 +127,15 @@ The current data type of sudoku_game is int64. Which of the following NumPy inte
 A: int8
 
 
-4. Change the data type of sudoku_game to be int8, an 8-bit integer; name the new array small_sudoku_game.   
+3. Change the data type of sudoku_game to be int8, an 8-bit integer; name the new array small_sudoku_game.   
 Print the data type of small_sudoku_game to be sure that your change to int8 is reflected.
+```Python
+# Print the data type of sudoku_game
+print(sudoku_game.dtype)
+
+# Change the data type of sudoku_game to int8
+small_sudoku_game = sudoku_game.astype(np.int8)
+
+# Print the data type of small_sudoku_game
+print(small_sudoku_game.dtype)
+```
