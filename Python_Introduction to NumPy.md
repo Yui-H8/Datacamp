@@ -100,3 +100,5 @@ zero_array = np.zeros([3,2])
 # Print the data type of zero_array
 print(zero_array.dtype)
 ```
+2. Create a new array of zeros called zero_int_array, which will also have three rows and two columns, but the data type should be np.int32.   
+Print the data type of zero_int_array.
