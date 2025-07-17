@@ -118,3 +118,7 @@ print(zero_int_array.dtype)
 ---
 ### A smaller sudoku game
 1. Print the data type of the elements in sudoku_game.
+```python
+# Print the data type of sudoku_game
+print(sudoku_game.dtype)
+```
