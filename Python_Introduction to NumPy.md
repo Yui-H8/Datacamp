@@ -115,3 +115,5 @@ zero_int_array = np.zeros((3, 2), dtype = np.int32)
 # Print the data type of zero_int_array
 print(zero_int_array.dtype)
 ```
+---
+### A smaller sudoku game
