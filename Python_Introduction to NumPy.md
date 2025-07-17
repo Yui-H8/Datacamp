@@ -117,6 +117,9 @@ print(zero_int_array.dtype)
 ```
 ---
 ### A smaller sudoku game
+NumPy data types, which emphasize speed, are more specific than Python data types, which emphasize flexibility. When working with large amounts of data in NumPy, it's good practice to check the data type and consider whether a smaller data type is large enough for your data, since smaller data types use less memory.
+
+
 1. Print the data type of the elements in sudoku_game.
 ```python
 # Print the data type of sudoku_game
