@@ -34,3 +34,5 @@ fig = px.bar(data_frame=student_scores,
 # Show the plot
 fig.show()
 ```
+### Box plot of company revenues
+
