@@ -35,4 +35,6 @@ fig = px.bar(data_frame=student_scores,
 fig.show()
 ```
 ### Box plot of company revenues
-
+* Examine the head of the provided revenues DataFrame that has been printed for you.
+* Create a box plot, setting the appropriate y-axis for company revenue data.
+* Set the hover_data (a list of one string value) to show the company name.
