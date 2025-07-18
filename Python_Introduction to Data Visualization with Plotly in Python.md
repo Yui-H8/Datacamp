@@ -51,3 +51,4 @@ fig = px.box(
 # Show the plot
 fig.show()
 ```
+### Histogram of company revenues
