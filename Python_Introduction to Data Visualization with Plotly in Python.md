@@ -38,3 +38,16 @@ fig.show()
 * Examine the head of the provided revenues DataFrame that has been printed for you.
 * Create a box plot, setting the appropriate y-axis for company revenue data.
 * Set the hover_data (a list of one string value) to show the company name.
+```python
+# Create the box plot
+fig = px.box(
+  			# Set the data
+  			data_frame=revenues, 
+  			# Set the y variable
+            y="Revenue", 
+            # Add in hover data to see outliers
+            hover_data=["Company"])
+
+# Show the plot
+fig.show()
+```
