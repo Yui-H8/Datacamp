@@ -24,3 +24,13 @@ fig.show()
 * Examine the head of the student_scores DataFrame that has been printed for you.
 * Create a bar plot, setting the y-axis to be the score and the x-axis to be the student name.
 * Add a title to the plot: call it "Student Scores by Student".
+```python
+# Create the bar plot
+fig = px.bar(data_frame=student_scores, 
+             x="student_name", 
+             y="score", 
+             title="Student Scores by Student")
+
+# Show the plot
+fig.show()
+```
