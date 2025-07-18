@@ -19,3 +19,5 @@ fig = px.bar(
 
 fig.show()
 ```
+---
+### Student scores bar graph
