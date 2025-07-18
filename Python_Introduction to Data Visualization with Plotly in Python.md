@@ -21,3 +21,6 @@ fig.show()
 ```
 ---
 ### Student scores bar graph
+* Examine the head of the student_scores DataFrame that has been printed for you.
+* Create a bar plot, setting the y-axis to be the score and the x-axis to be the student name.
+* Add a title to the plot: call it "Student Scores by Student".
