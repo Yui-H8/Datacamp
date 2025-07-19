@@ -55,3 +55,15 @@ fig.show()
 * Create a histogram using px.histogram() and the appropriate DataFrame.
 * Set the column Revenue to be used along the x-axis.
 * Set the number of bins to 5.
+```python
+# Create a simple histogram
+fig = px.histogram(
+  			data_frame=revenues, 
+            # Set up the x-axis
+           	x="Revenue",
+            # Set the number of bins
+            nbins=5)
+
+# Show the plot
+fig.show()
+```
