@@ -87,3 +87,5 @@ fig = px.bar(data_frame=student_scores,
 # Show the plot
 fig.show()
 ```
+### Side-by-side revenue box plots with color
+
