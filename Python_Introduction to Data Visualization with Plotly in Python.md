@@ -107,3 +107,4 @@ fig = px.box(
 # Show the plot
 fig.show()
 ```
+### Revenue histogram with stacked bars
