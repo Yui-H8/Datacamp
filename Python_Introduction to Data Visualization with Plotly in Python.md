@@ -111,3 +111,20 @@ fig.show()
 * Create a histogram of revenues, using Revenue as the x-axis.
 * Apply the industry color map you created.
 * Set the appropriate column for the color argument.
+```python
+# Create the industry-color map
+ind_color_map = {"Tech": "rgb(124, 250, 120)", "Oil": "rgb(112, 128, 144)", 
+                 "Pharmaceuticals": "rgb(137, 109, 247)", 
+                 "Professional Services": "rgb(255, 0, 0)"}
+
+# Create a histogram
+fig = px.histogram(
+  			# Set the data and x variable
+  			data_frame=revenues, x="Revenue", nbins=5,
+    		# Set the color map and variable
+			color_discrete_map=ind_color_map,
+			color="Industry")
+
+# Show the plot
+fig.show()
+```
