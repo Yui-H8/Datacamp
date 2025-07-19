@@ -88,7 +88,9 @@ fig = px.bar(data_frame=student_scores,
 fig.show()
 ```
 ### Side-by-side revenue box plots with color
-
+* Create a dictionary mapping each Industry to its RGB color.
+* Create a box plot of revenues, using Revenue as the y-axis.
+* Apply your industry color map to the plot.
 ```python
 # Create the industry-color map
 ind_color_map = {"Tech": "rgb(124, 250, 120)", "Oil": "rgb(112, 128,144)", 
