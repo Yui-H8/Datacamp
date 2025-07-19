@@ -89,3 +89,19 @@ fig.show()
 ```
 ### Side-by-side revenue box plots with color
 
+```python
+# Create the industry-color map
+ind_color_map = {"Tech": "rgb(124, 250, 120)", "Oil": "rgb(112, 128,144)", 
+                 "Pharmaceuticals": "rgb(137, 109,247)", "Professional Services": "rgb(255, 0, 0)"}
+
+# Create a box plot
+fig = px.box(
+  			# Set the data and y variable
+  			data_frame=revenues, y="Revenue",
+  			# Set the color map 
+			color="Industry",
+			color_discrete_map=ind_color_map)
+
+# Show the plot
+fig.show()
+```
