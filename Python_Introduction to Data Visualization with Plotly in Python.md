@@ -67,3 +67,4 @@ fig = px.histogram(
 # Show the plot
 fig.show()
 ```
+### What color did we use?
