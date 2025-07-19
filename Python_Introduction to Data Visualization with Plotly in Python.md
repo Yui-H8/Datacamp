@@ -72,3 +72,18 @@ fig.show()
 * Create a color scale list from red (255, 0, 0) to green (3, 252, 40).
 * Set the color argument to the appropriate numerical column.
 * Use my_scale as the color scale for the plot.
+```python
+# Create your own continuous color scale
+my_scale = ["rgb(255, 0, 0)", "rgb(3, 252, 40)"]
+
+# Create the bar plot
+fig = px.bar(data_frame=student_scores, 
+             x="student_name", y="score", title="Student Scores by Student",
+             # Set the color variable and scale
+             color="score",
+                color_continuous_scale=my_scale
+             )
+
+# Show the plot
+fig.show()
+```
