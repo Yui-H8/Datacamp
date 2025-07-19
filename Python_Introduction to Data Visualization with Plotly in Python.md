@@ -68,3 +68,4 @@ fig = px.histogram(
 fig.show()
 ```
 ### What color did we use?
+### Coloring student scores bar graph
