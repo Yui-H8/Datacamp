@@ -52,3 +52,6 @@ fig = px.box(
 fig.show()
 ```
 ### Histogram of company revenues
+* Create a histogram using px.histogram() and the appropriate DataFrame.
+* Set the column Revenue to be used along the x-axis.
+* Set the number of bins to 5.
