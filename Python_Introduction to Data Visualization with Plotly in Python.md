@@ -69,3 +69,6 @@ fig.show()
 ```
 ### What color did we use?
 ### Coloring student scores bar graph
+* Create a color scale list from red (255, 0, 0) to green (3, 252, 40).
+* Set the color argument to the appropriate numerical column.
+* Use my_scale as the color scale for the plot.
