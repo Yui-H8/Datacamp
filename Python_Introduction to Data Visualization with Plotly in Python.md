@@ -108,3 +108,6 @@ fig = px.box(
 fig.show()
 ```
 ### Revenue histogram with stacked bars
+* Create a histogram of revenues, using Revenue as the x-axis.
+* Apply the industry color map you created.
+* Set the appropriate column for the color argument.
