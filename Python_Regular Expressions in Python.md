@@ -7,3 +7,4 @@
 length_string = len(movie)
 print(length_string)
 ```
+2. Convert the numeric variable length_string to a string representation.
