@@ -1,4 +1,4 @@
-# Datacamp
+# Datacamp [Basic level]
 A platform to practice Python
 
 
