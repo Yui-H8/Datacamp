@@ -29,7 +29,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 
 ---
 
-###SQL
+### SQL
 * Introduction to SQL
 * Intermediate SQL
 * Joining Data in SQL
