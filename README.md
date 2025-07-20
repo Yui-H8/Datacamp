@@ -27,8 +27,14 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
  * Introduction to NumPy
  * Introduction to Data Visualization with Plotly in Python
 
+---
 
-### SQL
+###SQL
 * Introduction to SQL
 * Intermediate SQL
 * Joining Data in SQL
+
+---
+
+### Tableau
+* Introduction to Tableau
