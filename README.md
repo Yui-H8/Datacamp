@@ -26,6 +26,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
  * Working with Hugging Face
  * Introduction to NumPy
  * Introduction to Data Visualization with Plotly in Python
+ * Regular Expressions in Python
 
 ---
 
