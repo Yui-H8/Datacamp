@@ -8,3 +8,10 @@ length_string = len(movie)
 print(length_string)
 ```
 2. Convert the numeric variable length_string to a string representation.
+```python
+# Find characters in movie variable
+length_string = len(movie)
+
+# Convert to string
+to_string = str(length_string)
+```
