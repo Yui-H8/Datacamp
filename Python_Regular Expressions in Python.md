@@ -30,7 +30,7 @@ statement = "Number of characters in this review:"
 print(statement + " " + to_string)
 ```
 ### Artificial reviews
-
+1. Select the first 32 characters of the variable movie1 and assign it to the variable first_part.
 ```python
 # Select the first 32 characters of movie1
 first_part = movie1[:32]
