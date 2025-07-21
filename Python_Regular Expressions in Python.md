@@ -36,3 +36,7 @@ print(statement + " " + to_string)
 first_part = movie1[:32]
 ```
 2. Select the substring going from the 43rd character to the end of movie1. Assign it to the variable last_part.
+```python
+# Select from 43rd character to the end of movie1
+last_part = movie1[42:]
+```
