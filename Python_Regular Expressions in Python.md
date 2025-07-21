@@ -46,4 +46,17 @@ last_part = movie1[42:]
 middle_part = movie2[32:42]
 ```
 4. Print the concatenation of the variables first_part, middle_part and last_part in that order. Print the variable movie2 and compare them.
-5. 
+```python
+# Select the first 32 characters of movie1
+first_part = movie1[:32]
+
+# Select from 43rd character to the end of movie1
+last_part = movie1[42:]
+
+# Select from 33rd to the 42nd character
+middle_part = movie2[32:42]
+
+# Print concatenation and movie2 variable
+print(first_part + middle_part + last_part) 
+print(movie2)
+```
