@@ -45,3 +45,5 @@ last_part = movie1[42:]
 # Select from 33rd to the 42nd character of movie2
 middle_part = movie2[32:42]
 ```
+4. Print the concatenation of the variables first_part, middle_part and last_part in that order. Print the variable movie2 and compare them.
+5. 
