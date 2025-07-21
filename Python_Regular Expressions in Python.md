@@ -40,3 +40,4 @@ first_part = movie1[:32]
 # Select from 43rd character to the end of movie1
 last_part = movie1[42:]
 ```
+3. Select the substring going from the 33rd to the 42nd character of movie2. Assign it to the variable middle_part.
