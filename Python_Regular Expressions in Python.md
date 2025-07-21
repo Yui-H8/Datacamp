@@ -15,3 +15,4 @@ length_string = len(movie)
 # Convert to string
 to_string = str(length_string)
 ```
+3. Concatenate the predefined variable statement and the variable to_string adding a space between them. Print out the result.
