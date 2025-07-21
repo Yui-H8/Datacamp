@@ -30,3 +30,8 @@ statement = "Number of characters in this review:"
 print(statement + " " + to_string)
 ```
 ### Artificial reviews
+
+```python
+# Select the first 32 characters of movie1
+first_part = movie1[:32]
+```
