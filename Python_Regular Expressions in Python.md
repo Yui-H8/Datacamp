@@ -29,3 +29,4 @@ statement = "Number of characters in this review:"
 # Concatenate strings and print result
 print(statement + " " + to_string)
 ```
+### Artificial reviews
