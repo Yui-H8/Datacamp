@@ -60,3 +60,4 @@ middle_part = movie2[32:42]
 print(first_part + middle_part + last_part) 
 print(movie2)
 ```
+### Palindromes
