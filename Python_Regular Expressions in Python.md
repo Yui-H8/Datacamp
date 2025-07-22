@@ -61,3 +61,6 @@ print(first_part + middle_part + last_part)
 print(movie2)
 ```
 ### Palindromes
+* Extract the substring from the 12th to the 30th character from the variable movie which corresponds to the movie title. Store it in the variable movie_title.
+* Get the palindrome by reversing the string contained in movie_title.
+* Complete the code to print out the movie_title if it is a palindrome.
