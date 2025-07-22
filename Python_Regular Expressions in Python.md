@@ -83,3 +83,4 @@ if movie_title == palindrome:
 movie_lower = movie.lower()
 print(movie_lower)
 ```
+2. Remove the $ that occur at the start and at the end of the string contained in movie_lower. Print the results.
