@@ -84,3 +84,12 @@ movie_lower = movie.lower()
 print(movie_lower)
 ```
 2. Remove the $ that occur at the start and at the end of the string contained in movie_lower. Print the results.
+```python
+# Convert to lowercase and print the result
+movie_lower = movie.lower()
+print(movie_lower)
+
+# Remove specified character and print the result
+movie_no_sign = movie_lower.strip("$")
+print(movie_no_sign)
+```
