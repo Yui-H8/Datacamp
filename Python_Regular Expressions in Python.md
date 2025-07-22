@@ -75,3 +75,5 @@ palindrome = movie_title[::-1]
 if movie_title == palindrome:
 	print(movie_title)
 ```
+---
+### Normalizing reviews
