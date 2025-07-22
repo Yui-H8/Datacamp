@@ -77,3 +77,4 @@ if movie_title == palindrome:
 ```
 ---
 ### Normalizing reviews
+1. Convert the string in the variable movie to lowercase. Print the result.
