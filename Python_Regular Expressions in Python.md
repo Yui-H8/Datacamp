@@ -122,6 +122,6 @@ movie_split = movie_no_sign.split()
 print(movie_split)
 
 # Select root word and print the result
-word_root = movie_split[1][1:]
+word_root = movie_split[1][:-1]
 print(word_root)
 ```
