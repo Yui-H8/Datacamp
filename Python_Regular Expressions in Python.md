@@ -93,3 +93,4 @@ print(movie_lower)
 movie_no_sign = movie_lower.strip("$")
 print(movie_no_sign)
 ```
+3. Split the string contained in movie_no_sign into as many substrings as possible. Print the results.
