@@ -78,3 +78,8 @@ if movie_title == palindrome:
 ---
 ### Normalizing reviews
 1. Convert the string in the variable movie to lowercase. Print the result.
+```python
+# Convert to lowercase and print the result
+movie_lower = movie.lower()
+print(movie_lower)
+```
