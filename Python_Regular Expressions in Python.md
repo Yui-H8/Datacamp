@@ -107,3 +107,7 @@ print(movie_no_sign)
 movie_split = movie_no_sign.split()
 print(movie_split)
 ```
+4. To get the root of the second word contained in movie_split, select all the characters except the last one.
+```python
+
+```
