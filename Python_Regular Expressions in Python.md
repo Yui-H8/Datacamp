@@ -133,3 +133,12 @@ movie_tag = movie.rstrip("<\i>")
 print(movie_tag)
 ```
 2. Split the string contained in movie_tag using the commas as a separating element. Print the results.
+```python
+# Remove tags happening at the end and print results
+movie_tag = movie.rstrip("<\i>")
+print(movie_tag)
+
+# Split the string using commas and print results
+movie_no_comma = movie_tag.split(",")
+print(movie_no_comma)
+```
