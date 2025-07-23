@@ -157,3 +157,6 @@ movie_join = " ".join(movie_no_comma)
 print(movie_join)
 ```
 ### Split lines or split the line?
+* Split the string file into many substrings at line boundaries.
+* Print out the resulting variable file_split.
+* Complete the for-loop to split the strings into many substrings using commas as a separator element.
