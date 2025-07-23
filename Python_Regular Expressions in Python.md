@@ -132,3 +132,4 @@ print(word_root)
 movie_tag = movie.rstrip("<\i>")
 print(movie_tag)
 ```
+2. Split the string contained in movie_tag using the commas as a separating element. Print the results.
