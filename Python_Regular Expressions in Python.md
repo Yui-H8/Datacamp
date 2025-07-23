@@ -126,8 +126,7 @@ word_root = movie_split[1][:-1]
 print(word_root)
 ```
 ### Time to join!
-
-
+1. Remove tag <\i> from the end of the string. Print the results.
 ```python
 # Remove tags happening at the end and print results
 movie_tag = movie.rstrip("<\i>")
