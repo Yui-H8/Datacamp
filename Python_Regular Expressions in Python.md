@@ -173,3 +173,6 @@ for substring in file_split:
     print(substring_split)
 ```
 ### Finding a substring
+* Find if the substring actor occurs between the characters with index 37 and 41 inclusive. If it is not detected, print the statement Word not found.
+* Replace actor actor with the substring actor if actor occurs only two repeated times.
+* Replace actor actor actor with the substring actor if actor appears three repeated times.
