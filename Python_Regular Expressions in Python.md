@@ -125,3 +125,11 @@ print(movie_split)
 word_root = movie_split[1][:-1]
 print(word_root)
 ```
+
+
+
+```python
+# Remove tags happening at the end and print results
+movie_tag = movie.rstrip("<\i>")
+print(movie_tag)
+```
