@@ -142,3 +142,5 @@ print(movie_tag)
 movie_no_comma = movie_tag.split(",")
 print(movie_no_comma)
 ```
+3. Join back together the list of substring contained in movie_no_comma using a space as a join element. Print the results
+4. 
