@@ -125,7 +125,7 @@ print(movie_split)
 word_root = movie_split[1][:-1]
 print(word_root)
 ```
-
+### Time to join!
 
 
 ```python
