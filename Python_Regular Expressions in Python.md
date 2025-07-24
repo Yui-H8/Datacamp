@@ -206,3 +206,6 @@ for movie in movies:
     print("substring not found")
 ```
 ### Replacing negations
+* Replace the substring isn't with the word is.
+* Replace the substring important with the word insignificant.
+* Print out the result contained in the variable movies_antonym.
