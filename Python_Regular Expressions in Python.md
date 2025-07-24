@@ -190,3 +190,4 @@ for movie in movies:
         print(movie.replace("actor actor actor", "actor"))
 ```
 ### Where's the word?
+1. Find the index where money occurs between characters with index 12 and 50. If not found, the method should return -1.
