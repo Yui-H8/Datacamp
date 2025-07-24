@@ -191,3 +191,8 @@ for movie in movies:
 ```
 ### Where's the word?
 1. Find the index where money occurs between characters with index 12 and 50. If not found, the method should return -1.
+```python
+for movie in movies:
+  # Find the first occurrence of word
+  print(movie.find("money", 12, 51))
+```
