@@ -196,3 +196,4 @@ for movie in movies:
   # Find the first occurrence of word
   print(movie.find("money", 12, 51))
 ```
+2. Find the index where money occurs between characters with index 12 and 50. If not found, it should raise an error.
