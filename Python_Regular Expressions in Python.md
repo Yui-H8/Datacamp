@@ -176,3 +176,16 @@ for substring in file_split:
 * Find if the substring actor occurs between the characters with index 37 and 41 inclusive. If it is not detected, print the statement Word not found.
 * Replace actor actor with the substring actor if actor occurs only two repeated times.
 * Replace actor actor actor with the substring actor if actor appears three repeated times.
+```python
+for movie in movies:
+  	# If actor is not found between character 37 and 41 inclusive
+    # Print word not found
+    if movie.find("actor", 37, 42) == -1:
+        print("Word not found")
+    # Count occurrences and replace two with one
+    elif movie.count("actor") == 2:  
+        print(movie.replace("actor actor", "actor"))
+    else:
+        # Replace three occurrences with one
+        print(movie.replace("actor actor actor", "actor"))
+```
