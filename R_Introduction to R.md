@@ -25,3 +25,22 @@ The last two might need some explaining:
 * Type 28 %% 6 to calculate 28 modulo 6.
 * Submit the answer and have a look at the R output in the console.
 * Note how the # symbol is used to add comments on the R code.
+```r
+# An addition
+5 + 5 
+
+# A subtraction
+5 - 5 
+
+# A multiplication
+3 * 5
+
+ # A division
+(5 + 5) / 2 
+
+# Exponentiation
+2^5
+
+# Modulo
+28 %% 6
+```
