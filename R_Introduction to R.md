@@ -44,3 +44,4 @@ The last two might need some explaining:
 # Modulo
 28 %% 6
 ```
+### Variable assignment
