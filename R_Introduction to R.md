@@ -10,3 +10,5 @@
 # Calculate 6 + 12
 6 + 12
 ```
+### Arithmetic with R
+
