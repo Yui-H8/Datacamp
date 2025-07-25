@@ -53,3 +53,4 @@ x <- 42
 # Print out the value of the variable x
 x
 ```
+### Variable assignment (2)
