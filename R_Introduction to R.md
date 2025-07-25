@@ -65,3 +65,6 @@ my_apples <- 5
 my_apples
 ```
 ### Variable assignment (3)
+* Assign to my_oranges the value 6.
+* Add the variables my_apples and my_oranges and have R simply print the result.
+* Assign the result of adding my_apples and my_oranges to a new variable my_fruit.
