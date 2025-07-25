@@ -11,4 +11,12 @@
 6 + 12
 ```
 ### Arithmetic with R
+In its most basic form, R can be used as a simple calculator. Consider the following arithmetic operators:   
 
+Addition: +   
+Subtraction: -   
+Multiplication: *   
+Division: /   
+Exponentiation: ^   
+Modulo: %%   
+The last two might need some explaining:
