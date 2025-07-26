@@ -94,3 +94,8 @@ my_fruit <- my_apples + my_oranges
 my_fruit
 ```
 ### Basic data types in R
+Change the value of the:   
+* my_numeric variable to 42.
+* my_character variable to "universe". Note that the quotation marks indicate that "universe" is a character.
+* my_logical variable to FALSE.    
+Note that R is case sensitive!
