@@ -1,2 +1,3 @@
 # Intermediate R
 ---
+### Equality
