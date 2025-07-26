@@ -110,3 +110,4 @@ my_character <- "universe"
 my_logical <- FALSE
 ```
 ### What's that data type?
+* Complete the code in the editor and also print out the classes of my_character and my_logical.
