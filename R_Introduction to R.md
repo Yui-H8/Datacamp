@@ -109,3 +109,4 @@ my_character <- "universe"
 # Change my_logical to be FALSE
 my_logical <- FALSE
 ```
+### What's that data type?
