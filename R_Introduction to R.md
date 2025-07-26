@@ -79,3 +79,4 @@ my_fruit = my_apples + my_oranges
 # Create the variable my_fruit
 my_fruit
 ```
+### Apples and oranges
