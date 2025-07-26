@@ -99,3 +99,13 @@ Change the value of the:
 * my_character variable to "universe". Note that the quotation marks indicate that "universe" is a character.
 * my_logical variable to FALSE.    
 Note that R is case sensitive!
+```r
+# Change my_numeric to be 42
+my_numeric <- 42
+
+# Change my_character to be "universe"
+my_character <- "universe"
+
+# Change my_logical to be FALSE
+my_logical <- FALSE
+```
