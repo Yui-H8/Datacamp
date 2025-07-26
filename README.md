@@ -39,6 +39,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 
 ### R
 * Introduction to R
+* Intermediate R
 
 ---
 
