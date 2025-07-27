@@ -34,3 +34,4 @@ TRUE is greater than FALSE.
 # Comparison of logicals
 TRUE > FALSE
 ```
+### Compare vectors
