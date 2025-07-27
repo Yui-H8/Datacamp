@@ -35,3 +35,7 @@ TRUE is greater than FALSE.
 TRUE > FALSE
 ```
 ### Compare vectors
+Using relational operators, find a logical answer, i.e. TRUE or FALSE, for the following questions:
+* On which days did the number of LinkedIn profile views exceed 15?
+* When was your LinkedIn profile viewed only 5 times or fewer?
+* When was your LinkedIn profile visited more often than your Facebook profile?
