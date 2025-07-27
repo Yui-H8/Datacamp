@@ -54,3 +54,6 @@ linkedin <= 5
 linkedin > facebook
 ```
 ### Compare matrices
+Using the relational operators you've learned so far, try to discover the following:
+* When were the views exactly equal to 13? Use the views matrix to return a logical matrix.
+* For which days were the number of views less than or equal to 14? Again, have R return a logical matrix.
