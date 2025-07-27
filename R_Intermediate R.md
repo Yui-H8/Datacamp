@@ -18,3 +18,4 @@ TRUE == FALSE
 # Compare a logical with a numeric
 TRUE == 1
 ```
+### Greater and less than
