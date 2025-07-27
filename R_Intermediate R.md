@@ -19,3 +19,8 @@ TRUE == FALSE
 TRUE == 1
 ```
 ### Greater and less than
+* Write R expressions to check whether:
+    
+-6 * 5 + 2 is greater than or equal to -10 + 1.    
+"raining" is less than or equal to "raining dogs".   
+TRUE is greater than FALSE.   
