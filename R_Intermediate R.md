@@ -108,3 +108,15 @@ linkedin >= 12 | facebook >= 12
 * Select the entire second column, named day2, from the li_df data frame as a vector and assign it to second.
 * Use second to create a logical vector, that contains TRUE if the corresponding number of views is strictly greater than 25 or strictly lower than 5 and FALSE otherwise. Store this logical vector as extremes.
 * Use sum() on the extremes vector to calculate the number of TRUEs in extremes (i.e. to calculate the number of employees that are either very popular or very low-profile). Simply print this number to the console.
+```r
+# li_df is pre-loaded in your workspace
+li_df
+# Select the second column, named day2, from li_df: second
+second <- li_df[,"day2"]
+second
+# Build a logical vector, TRUE if value in second is extreme: extremes
+extremes <- (second > 25 | second < 5)
+
+# Count the number of TRUEs in extremes
+sum(extremes)
+```
