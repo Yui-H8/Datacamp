@@ -87,3 +87,6 @@ last < 5 | last > 10
 15 < last & last <= 20
 ```
 ### & and | (2)
+* When did LinkedIn views exceed 10 and did Facebook views fail to reach 10 for a particular day? Use the linkedin and facebook vectors.
+* When were one or both of your LinkedIn and Facebook profiles visited at least 12 times?
+* When is the views matrix equal to a number between 11 and 14, excluding 11 and including 14?
