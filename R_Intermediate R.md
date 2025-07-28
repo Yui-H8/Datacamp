@@ -90,3 +90,17 @@ last < 5 | last > 10
 * When did LinkedIn views exceed 10 and did Facebook views fail to reach 10 for a particular day? Use the linkedin and facebook vectors.
 * When were one or both of your LinkedIn and Facebook profiles visited at least 12 times?
 * When is the views matrix equal to a number between 11 and 14, excluding 11 and including 14?
+```r
+# The social data (linkedin, facebook, views) has been created for you
+linkedin
+facebook
+views 
+# linkedin exceeds 10 but facebook below 10
+linkedin > 10 & facebook < 10
+
+# When were one or both visited at least 12 times?
+linkedin >= 12 | facebook >= 12
+
+# When is views between 11 (exclusive) and 14 (inclusive)?
+11 < views & views <= 14
+```
