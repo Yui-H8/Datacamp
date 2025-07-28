@@ -104,3 +104,4 @@ linkedin >= 12 | facebook >= 12
 # When is views between 11 (exclusive) and 14 (inclusive)?
 11 < views & views <= 14
 ```
+### Blend it all together
