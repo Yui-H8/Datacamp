@@ -86,3 +86,4 @@ last < 5 | last > 10
 # Is last between 15 (exclusive) and 20 (inclusive)?
 15 < last & last <= 20
 ```
+### & and | (2)
