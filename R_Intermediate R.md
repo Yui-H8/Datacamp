@@ -71,3 +71,4 @@ views <= 14
 ```
 ---
 ### Logical Operators
+### & and |
