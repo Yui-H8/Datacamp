@@ -121,3 +121,5 @@ extremes <- (second > 25 | second < 5)
 sum(extremes)
 ```
 ### The if statement
+* Examine the if statement that prints out "Showing LinkedIn information" if the medium variable equals "LinkedIn".
+* Code an if statement that prints "You are popular!" to the console if the num_views variable exceeds 15.
