@@ -120,3 +120,4 @@ extremes <- (second > 25 | second < 5)
 # Count the number of TRUEs in extremes
 sum(extremes)
 ```
+### The if statement
