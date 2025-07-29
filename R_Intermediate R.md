@@ -191,3 +191,17 @@ if (num_views > 15) {
 }
 ```
 ### Else if 2.0
+```r
+if (number < 10) {
+  if (number < 5) {
+    result <- "extra small"
+  } else {
+    result <- "small"
+  }
+} else if (number < 100) {
+  result <- "medium"
+} else {
+  result <- "large"
+}
+print(result)
+```
