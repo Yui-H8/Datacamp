@@ -162,4 +162,7 @@ if (num_views > 15) {
 }
 ```
 ### Customize further: else if
+Add code to both control structures such that:
+* R prints out "Showing Facebook information" if medium is equal to "Facebook". Remember that R is case sensitive!
+* "Your number of views is average" is printed if num_views is between 15 (inclusive) and 10 (exclusive). Feel free to change the variables medium and num_views to see how the control structure respond. In both cases, the existing code should be extended in the else if statement. No existing code should be modified
 
