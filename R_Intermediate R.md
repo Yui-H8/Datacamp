@@ -139,3 +139,6 @@ if (num_views > 15){
 }
 ```
 ### Add an else
+Add an else statement to both control structures, such that
+* "Unknown medium" gets printed out to the console when the if-condition on medium does not hold.
+* R prints out "Try to be more visible!" when the if-condition on num_views is not met.
