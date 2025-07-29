@@ -206,3 +206,8 @@ if (number < 10) {
 print(result)
 ```
 ### Take control!
+Finish the control-flow construct with the following behavior:
+* If both li and fb are 15 or higher, set sms equal to double the sum of li and fb.
+* If both li and fb are strictly below 10, set sms equal to half the sum of li and fb.
+* In all other cases, set sms equal to li + fb.
+* Finally, print the resulting sms variable.
