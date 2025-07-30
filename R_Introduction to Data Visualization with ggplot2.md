@@ -16,3 +16,5 @@ ggplot(mtcars, aes(cyl, mpg)) +
   geom_point()
 ```
 ### Data columns types affect plot types
+* Change the ggplot() command by wrapping factor() around cyl.
+* Submit the code and see if the resulting plot is better this time.
