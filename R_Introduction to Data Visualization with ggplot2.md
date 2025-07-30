@@ -19,6 +19,6 @@ ggplot(mtcars, aes(cyl, mpg)) +
 * Change the ggplot() command by wrapping factor() around cyl.
 * Submit the code and see if the resulting plot is better this time.
 　　　　
-Stellar scatterplotting! Notice that ggplot2 treats cyl as a factor.
+Stellar scatterplotting! Notice that ggplot2 treats cyl as a factor.　　　
 This time the x-axis does not contain variables like 5 or 7, only the values that are present in the dataset.
 
