@@ -15,3 +15,4 @@ str(mtcars)
 ggplot(mtcars, aes(cyl, mpg)) +
   geom_point()
 ```
+### Data columns types affect plot types
