@@ -24,4 +24,11 @@ ggplot(mtcars, aes(cyl, mpg)) +
 Stellar scatterplotting! Notice that ggplot2 treats cyl as a factor.　　　
 
 This time the x-axis does not contain variables like 5 or 7, only the values that are present in the dataset.
+```r
+# Load the ggplot2 package
+library(ggplot2)
 
+# Change the command below so that cyl is treated as factor
+ggplot(mtcars, aes(x = factor(cyl), y = mpg)) +
+  geom_point()
+```
