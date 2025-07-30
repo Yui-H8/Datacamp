@@ -32,3 +32,5 @@ library(ggplot2)
 ggplot(mtcars, aes(x = factor(cyl), y = mpg)) +
   geom_point()
 ```
+---
+### Mapping data columns to aesthetics
