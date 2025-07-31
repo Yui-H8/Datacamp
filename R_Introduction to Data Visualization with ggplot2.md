@@ -54,3 +54,8 @@ ggplot(mtcars, aes(wt, mpg, size = disp)) +
 str(diamonds)
 ```
 2. Edit the plot code to add a point geom. Use the + operator to add geom_point() to the ggplot() command.
+```r
+# Add geom_point() with +
+ggplot(diamonds, aes(carat, price)) +
+  geom_point()
+```
