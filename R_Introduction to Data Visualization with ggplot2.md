@@ -35,3 +35,8 @@ ggplot(mtcars, aes(x = factor(cyl), y = mpg)) +
 ---
 ### Mapping data columns to aesthetics
 1. Add a color aesthetic mapped to the displacement of the car engine: inside aes(), add a color argument equal to disp.
+```r
+# Edit to add a color aesthetic mapped to disp
+ggplot(mtcars, aes(wt, mpg, color = disp)) +
+  geom_point()
+```
