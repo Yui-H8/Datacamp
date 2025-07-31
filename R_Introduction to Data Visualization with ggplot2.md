@@ -53,3 +53,4 @@ ggplot(mtcars, aes(wt, mpg, size = disp)) +
 # Explore the diamonds data frame with str()
 str(diamonds)
 ```
+2. Edit the plot code to add a point geom. Use the + operator to add geom_point() to the ggplot() command.
