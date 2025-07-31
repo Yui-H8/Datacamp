@@ -47,3 +47,4 @@ ggplot(mtcars, aes(wt, mpg, size = disp)) +
   geom_point()
 ```
 ### Understanding variables
+### Adding geometries
