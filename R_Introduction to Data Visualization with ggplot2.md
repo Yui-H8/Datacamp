@@ -49,3 +49,7 @@ ggplot(mtcars, aes(wt, mpg, size = disp)) +
 ### Understanding variables
 ### Adding geometries
 1. Explore the diamonds data frame with the str() function.
+```r
+# Explore the diamonds data frame with str()
+str(diamonds)
+```
