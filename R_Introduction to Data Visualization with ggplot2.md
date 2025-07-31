@@ -46,4 +46,4 @@ ggplot(mtcars, aes(wt, mpg, color = disp)) +
 ggplot(mtcars, aes(wt, mpg, size = disp)) +
   geom_point()
 ```
-
+### Understanding variables
