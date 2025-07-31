@@ -60,3 +60,9 @@ ggplot(diamonds, aes(carat, price)) +
   geom_point()
 ```
 3. Add a smooth geom to the plot. Use the + operator to add geom_smooth().
+```r
+# Add geom_smooth() with +
+ggplot(diamonds, aes(carat, price)) +
+  geom_point() +
+  geom_smooth()
+```
