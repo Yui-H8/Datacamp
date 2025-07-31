@@ -66,3 +66,4 @@ ggplot(diamonds, aes(carat, price)) +
   geom_point() +
   geom_smooth()
 ```
+### Changing one geom or every geom
