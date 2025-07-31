@@ -41,4 +41,9 @@ ggplot(mtcars, aes(wt, mpg, color = disp)) +
   geom_point()
 ```
 2. This time, map disp to the size aesthetic.
+```r
+# Change the color aesthetic to a size aesthetic
+ggplot(mtcars, aes(wt, mpg, size = disp)) +
+  geom_point()
+```
 
