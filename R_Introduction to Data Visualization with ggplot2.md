@@ -108,3 +108,5 @@ plt_price_vs_carat_transparent <- plt_price_vs_carat + geom_point(alpha = 0.2)
 # See the plot
 plt_price_vs_carat_transparent
 ```
+3. Inside geom_point(), call aes() and map color to clarity, assigning to plt_price_vs_carat_by_clarity.
+* Type the plot's variable name (plt_price_vs_carat_by_clarity) to display it.
