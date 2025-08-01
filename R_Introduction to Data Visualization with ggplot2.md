@@ -67,3 +67,4 @@ ggplot(diamonds, aes(carat, price)) +
   geom_smooth()
 ```
 ### Changing one geom or every geom
+1. Edit the plot code to map the color aesthetic to the clarity data variable.
