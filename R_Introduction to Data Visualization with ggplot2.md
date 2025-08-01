@@ -110,3 +110,14 @@ plt_price_vs_carat_transparent
 ```
 3. Inside geom_point(), call aes() and map color to clarity, assigning to plt_price_vs_carat_by_clarity.
 * Type the plot's variable name (plt_price_vs_carat_by_clarity) to display it.
+```r
+# From previous step
+plt_price_vs_carat <- ggplot(diamonds, aes(carat, price))
+
+# Edit this to map color to clarity,
+# Assign the updated plot to a new object
+plt_price_vs_carat_by_clarity <- plt_price_vs_carat + geom_point(aes(color = clarity))
+
+# See the plot
+plt_price_vs_carat_by_clarity
+```
