@@ -82,3 +82,5 @@ ggplot(diamonds, aes(carat, price, color = clarity)) +
   geom_smooth()
 ```
 ### Saving plots as variables
+1. Using the diamonds dataset, plot the price (y-axis) versus the carat (x-axis), assigning to plt_price_vs_carat.   
+Using geom_point(), add a point layer to plt_price_vs_carat.
