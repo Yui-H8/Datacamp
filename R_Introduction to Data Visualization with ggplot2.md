@@ -98,3 +98,13 @@ plt_price_vs_carat
 ```
 2. Add an alpha argument to the point layer to make the points 20% opaque, assigning to plt_price_vs_carat_transparent.     
 Type the plot's variable name (plt_price_vs_carat_transparent) to display it.
+```r
+# From previous step
+plt_price_vs_carat <- ggplot(diamonds, aes(carat, price))
+
+# Edit this to make points 20% opaque: plt_price_vs_carat_transparent
+plt_price_vs_carat_transparent <- plt_price_vs_carat + geom_point(alpha = 0.2)
+
+# See the plot
+plt_price_vs_carat_transparent
+```
