@@ -74,3 +74,4 @@ ggplot(diamonds, aes(carat, price, color=clarity)) +
   geom_point() +
   geom_smooth()
 ```
+2. Make the points translucent by setting the alpha argument to 0.4.
