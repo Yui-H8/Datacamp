@@ -84,3 +84,15 @@ ggplot(diamonds, aes(carat, price, color = clarity)) +
 ### Saving plots as variables
 1. Using the diamonds dataset, plot the price (y-axis) versus the carat (x-axis), assigning to plt_price_vs_carat.   
 Using geom_point(), add a point layer to plt_price_vs_carat.
+```r
+# Draw a ggplot
+plt_price_vs_carat <- ggplot(
+  # Use the diamonds dataset
+  diamonds,
+  # For the aesthetics, map x to carat and y to price
+  aes(carat, price)
+) +　geom_point()
+
+# Add a point layer to plt_price_vs_carat
+plt_price_vs_carat
+```
