@@ -23,3 +23,4 @@ args(rank)
 rank(-gold_medals,na.last = "keep", ties.method = "min")
 ```
 ### Your first function: tossing a coin
+1. Simulate a single coin toss by using sample() to sample from coin_sides once.
