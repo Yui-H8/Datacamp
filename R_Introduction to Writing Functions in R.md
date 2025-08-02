@@ -24,3 +24,9 @@ rank(-gold_medals,na.last = "keep", ties.method = "min")
 ```
 ### Your first function: tossing a coin
 1. Simulate a single coin toss by using sample() to sample from coin_sides once.
+```r
+coin_sides <- c("head", "tail")
+
+# Sample from coin_sides once
+sample(coin_sides, size=1)
+```
