@@ -31,3 +31,10 @@ coin_sides <- c("head", "tail")
 sample(coin_sides, size=1)
 ```
 2. Write a template for your function, naming it toss_coin. The function should take no arguments. Don't include the body of the function yet.
+```r
+# Write a template for your function, toss_coin()
+toss_coin <- function() {
+  # (Leave the contents of the body for later)
+# Add punctuation to finish the body
+}
+```
