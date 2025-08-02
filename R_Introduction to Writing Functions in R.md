@@ -38,3 +38,4 @@ toss_coin <- function() {
 # Add punctuation to finish the body
 }
 ```
+3. Copy your script, and paste it into the function body.
