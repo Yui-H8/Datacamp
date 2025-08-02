@@ -39,3 +39,14 @@ toss_coin <- function() {
 }
 ```
 3. Copy your script, and paste it into the function body.
+```r
+# Your script, from a previous step
+coin_sides <- c("head", "tail")
+sample(coin_sides, 1)
+
+# Paste your script into the function body
+toss_coin <- function() {
+  coin_sides <- c("head", "tail")
+  sample(coin_sides, 1)
+}
+```
