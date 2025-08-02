@@ -15,3 +15,10 @@ median(gold_medals,na.rm = TRUE)
 ```
 2. The final line calculates each country's ranking by number of gold medals. It uses negative gold_medals so that the country with the most medals will have 1st place: the largest positive value in gold_medals is the smallest ("most negative") value in -gold_medals.
 * Rewrite the call to rank(), following best practices.
+```r
+# Note the arguments to rank()
+args(rank)
+
+# Rewrite this function call, following best practices
+rank(-gold_medals,na.last = "keep", ties.method = "min")
+```
