@@ -30,3 +30,4 @@ coin_sides <- c("head", "tail")
 # Sample from coin_sides once
 sample(coin_sides, size=1)
 ```
+2. Write a template for your function, naming it toss_coin. The function should take no arguments. Don't include the body of the function yet.
