@@ -22,3 +22,4 @@ args(rank)
 # Rewrite this function call, following best practices
 rank(-gold_medals,na.last = "keep", ties.method = "min")
 ```
+### Your first function: tossing a coin
