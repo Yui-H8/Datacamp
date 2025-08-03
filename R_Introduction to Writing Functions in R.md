@@ -50,3 +50,4 @@ toss_coin <- function() {
   sample(coin_sides, 1)
 }
 ```
+4. Call your function.
