@@ -62,3 +62,4 @@ toss_coin <- function() {
 toss_coin()
 ```
 ### Inputs to functions
+1. Sample from coin_sides n_flips times with replacement
