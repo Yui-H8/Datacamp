@@ -61,3 +61,4 @@ toss_coin <- function() {
 # Call your function
 toss_coin()
 ```
+### Inputs to functions
