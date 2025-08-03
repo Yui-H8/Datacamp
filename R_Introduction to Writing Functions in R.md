@@ -51,3 +51,13 @@ toss_coin <- function() {
 }
 ```
 4. Call your function.
+```r
+# Your functions, from previous steps
+toss_coin <- function() {
+  coin_sides <- c("head", "tail")
+  sample(coin_sides, 1)
+}
+
+# Call your function
+toss_coin()
+```
