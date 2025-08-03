@@ -82,3 +82,4 @@ toss_coin <- function(n_flips) {
 # Generate 10 coin tosses
 toss_coin(10)
 ```
+### Multiple inputs to functions
