@@ -83,3 +83,4 @@ toss_coin <- function(n_flips) {
 toss_coin(10)
 ```
 ### Multiple inputs to functions
+* Bias the coin by weighting the sampling. Specify the prob argument so that heads are sampled with probability p_head (and tails are sampled with probability 1 - p_head).
