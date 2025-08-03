@@ -70,3 +70,5 @@ n_flips <- 10
 # Sample from coin_sides n_flips times with replacement
 sample(coin_sides, n_flips, replace = TRUE)
 ```
+* Update the definition of toss_coin() to accept a single argument, n_flips. The function should sample coin_sides n_flips times with replacement. Remember to change the signature and the body.
+* Generate 10 coin flips.
