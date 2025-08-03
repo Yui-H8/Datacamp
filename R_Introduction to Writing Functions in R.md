@@ -97,3 +97,16 @@ sample(coin_sides, n_flips, replace = TRUE, weights)
 ```
 2. Update the definition of toss_coin() so it accepts an argument, p_head, and weights the samples using the code you wrote in the previous step.
 * Generate 10 coin tosses with an 80% chance of each head.
+```r
+# Update the function so heads have probability p_head
+toss_coin <- function(n_flips, p_head) {
+  coin_sides <- c("head", "tail")
+  # Define a vector of weights
+  weights <- c(p_head, 1-p_head)
+  # Modify the sampling to be weighted
+  sample(coin_sides, n_flips, replace = TRUE, prob = weights)
+}
+
+# Generate 10 coin tosses
+toss_coin(10, 0.8)
+```
