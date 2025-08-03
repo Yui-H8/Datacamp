@@ -84,3 +84,14 @@ toss_coin(10)
 ```
 ### Multiple inputs to functions
 * Bias the coin by weighting the sampling. Specify the prob argument so that heads are sampled with probability p_head (and tails are sampled with probability 1 - p_head).
+```r
+coin_sides <- c("head", "tail")
+n_flips <- 10
+p_head <- 0.8
+
+# Define a vector of weights
+weights <- c(p_head, 1 - p_head)
+
+# Update so that heads are sampled with prob p_head
+sample(coin_sides, n_flips, replace = TRUE, weights)
+```
