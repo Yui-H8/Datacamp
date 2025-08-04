@@ -112,3 +112,4 @@ toss_coin(10, 0.8)
 ```
 ---
 ### Renaming GLM
+1. Run a generalized linear regression by calling glm(). Model n_visits vs. gender, income, and travel on the snake_river_visits dataset, setting the family to poisson.
