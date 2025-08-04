@@ -110,3 +110,5 @@ toss_coin <- function(n_flips, p_head) {
 # Generate 10 coin tosses
 toss_coin(10, 0.8)
 ```
+---
+### Renaming GLM
