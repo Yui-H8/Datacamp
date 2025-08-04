@@ -124,3 +124,4 @@ glm(
   family = poisson
 )
 ```
+2. Define a function, run_poisson_regression(), to run a Poisson regression. This should take two arguments: data and formula, and call glm(), passing those arguments and setting family to poisson.
