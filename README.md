@@ -42,6 +42,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 * Intermediate R
 * Introduction to Data Visualization with ggplot2
 * Introduction to Writing Functions in R
+* Visualization Best Practices in R
 
 ---
 
