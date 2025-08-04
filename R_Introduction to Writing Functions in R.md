@@ -125,3 +125,9 @@ glm(
 )
 ```
 2. Define a function, run_poisson_regression(), to run a Poisson regression. This should take two arguments: data and formula, and call glm(), passing those arguments and setting family to poisson.
+```r
+# Write a function to run a Poisson regression
+run_poisson_regression <- function(data, formula) {
+  glm(formula, data, family = poisson)
+}
+```
