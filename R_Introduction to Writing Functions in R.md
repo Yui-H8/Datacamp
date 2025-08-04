@@ -131,3 +131,5 @@ run_poisson_regression <- function(data, formula) {
   glm(formula, data, family = poisson)
 }
 ```
+3. Recreate the Poisson regression model from the first step, this time by calling your run_poisson_regression() function.
+   
