@@ -27,3 +27,5 @@ ggplot(amr_region, aes(x=year, y=cases)) +
 ```
 ---
 ### The infamous P-I-E
+* Add a column geometry (geom_col()) to the supplied ggplot object.
+* Switch to polar coordinates by adding coord_polar().
