@@ -42,3 +42,4 @@ ggplot(disease_counts, aes(x = 1, y = total_cases, fill = disease)) +
 	# Change coordinate system to polar and set theta to 'y'.
 	coord_polar(theta = 'y')
 ```
+### Cleaning up the pie
