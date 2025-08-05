@@ -58,3 +58,17 @@ ggplot(disease_counts, aes(x = 1, y = total_cases, fill = disease)) +
 ### How about a waffle?
 * Give the case_counts vector names using the names() function.
 * Call the waffle() function in the library waffle with the case_counts vector supplied as an argument.
+```r
+disease_counts <- who_disease %>%
+	group_by(disease) %>%
+	summarise(total_cases = sum(cases)) %>% 
+	mutate(percent = round(total_cases/sum(total_cases)*100))
+
+# Create an array of rounded percentages for diseases.
+case_counts <- disease_counts$percent
+# Name the percentage array
+names(case_counts) <- disease_counts$disease
+
+# Pass case_counts vector to the waffle function to plot
+waffle(case_counts)
+```
