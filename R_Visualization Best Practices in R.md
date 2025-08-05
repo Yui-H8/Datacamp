@@ -11,3 +11,4 @@ who_disease
 ggplot(who_disease, aes(region)) +
   geom_bar()
 ```
+### Warming up data-wrangling
