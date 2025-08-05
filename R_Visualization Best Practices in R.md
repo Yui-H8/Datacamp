@@ -56,3 +56,5 @@ ggplot(disease_counts, aes(x = 1, y = total_cases, fill = disease)) +
 	ggtitle('Proportion of diseases')
 ```
 ### How about a waffle?
+* Give the case_counts vector names using the names() function.
+* Call the waffle() function in the library waffle with the case_counts vector supplied as an argument.
