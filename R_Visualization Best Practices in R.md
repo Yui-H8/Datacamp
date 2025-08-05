@@ -55,3 +55,4 @@ ggplot(disease_counts, aes(x = 1, y = total_cases, fill = disease)) +
 	theme_void() +
 	ggtitle('Proportion of diseases')
 ```
+### How about a waffle?
