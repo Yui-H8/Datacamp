@@ -29,3 +29,16 @@ ggplot(amr_region, aes(x=year, y=cases)) +
 ### The infamous P-I-E
 * Add a column geometry (geom_col()) to the supplied ggplot object.
 * Switch to polar coordinates by adding coord_polar().
+```r
+# Wrangle data into form we want. 
+disease_counts <- who_disease %>%
+	mutate(disease = ifelse(disease %in% c('measles', 'mumps'), disease, 'other')) %>%
+	group_by(disease) %>%
+	summarise(total_cases = sum(cases))
+
+ggplot(disease_counts, aes(x = 1, y = total_cases, fill = disease)) +
+	# Use a column geometry.
+	geom_col() +
+	# Change coordinate system to polar and set theta to 'y'.
+	coord_polar(theta = 'y')
+```
