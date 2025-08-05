@@ -43,3 +43,5 @@ ggplot(disease_counts, aes(x = 1, y = total_cases, fill = disease)) +
 	coord_polar(theta = 'y')
 ```
 ### Cleaning up the pie
+* Add theme_void() to the ggplot object to clean up the background.
+* Give the plot the title 'Proportion of diseases'.
