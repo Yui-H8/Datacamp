@@ -12,3 +12,6 @@ ggplot(who_disease, aes(region)) +
   geom_bar()
 ```
 ### Warming up data-wrangling
+* Filter who_disease so we just only keep data from the 'AMR' region.
+* Modify the aesthetics in the data to map the year to the x-axis, and cases to the y-axis.
+* Lower the opacity (alpha) of the points to 0.5 to get a sense of overlap in geom_point()
