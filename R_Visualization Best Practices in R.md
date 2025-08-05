@@ -15,3 +15,13 @@ ggplot(who_disease, aes(region)) +
 * Filter who_disease so we just only keep data from the 'AMR' region.
 * Modify the aesthetics in the data to map the year to the x-axis, and cases to the y-axis.
 * Lower the opacity (alpha) of the points to 0.5 to get a sense of overlap in geom_point()
+```r
+# filter data to AMR region. 
+amr_region <- who_disease %>%
+    filter(region == 'AMR')
+
+# map x to year and y to cases. 
+ggplot(amr_region, aes(x=year, y=cases)) + 
+	# lower alpha to 0.5 to see overlap.   
+  	geom_point(alpha = 0.5)
+```
