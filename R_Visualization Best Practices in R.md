@@ -45,3 +45,13 @@ ggplot(disease_counts, aes(x = 1, y = total_cases, fill = disease)) +
 ### Cleaning up the pie
 * Add theme_void() to the ggplot object to clean up the background.
 * Give the plot the title 'Proportion of diseases'.
+```r
+ggplot(disease_counts, aes(x = 1, y = total_cases, fill = disease)) +
+	# Use a column geometry.
+	geom_col() +
+	# Change coordinate system to polar.
+	coord_polar(theta = "y") +
+	# Clean up the background with theme_void and give it a proper title with ggtitle.
+	theme_void() +
+	ggtitle('Proportion of diseases')
+```
