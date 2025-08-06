@@ -87,3 +87,5 @@ ggplot(disease_counts, aes(x = year, y = total_cases, fill = disease)) +
 	geom_col(position = "fill")
 ```
 ### Ordering stack for readability
+* Change the mutate function in the data-manipulation pipeline to turn disease into a factor with levels = c('measles', 'other', 'mumps').
+* Re-plot using the same code as the last exercise.
