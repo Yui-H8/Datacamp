@@ -104,3 +104,6 @@ ggplot(disease_counts, aes(x = year, y = total_cases, fill = disease)) +
 	geom_col(position = 'fill')
 ```
 ### Categorical x-axis
+* Filter who_disease data to only years 1999 and later.
+* Add to group_by() to keep region information in summary.
+* Fill out aesthetics with x = region, y = total_cases, and fill = disease.
