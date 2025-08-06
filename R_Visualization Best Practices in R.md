@@ -89,3 +89,17 @@ ggplot(disease_counts, aes(x = year, y = total_cases, fill = disease)) +
 ### Ordering stack for readability
 * Change the mutate function in the data-manipulation pipeline to turn disease into a factor with levels = c('measles', 'other', 'mumps').
 * Re-plot using the same code as the last exercise.
+```r
+disease_counts <- who_disease %>%
+	mutate(
+		disease = factor(
+			ifelse(disease %in% c('measles', 'mumps'), disease, 'other') ,
+			levels = c('measles', 'other', 'mumps') ) # change factor levels to desired ordering
+	) %>%
+	group_by(disease, year) %>%
+	summarise(total_cases = sum(cases)) 
+
+# plot
+ggplot(disease_counts, aes(x = year, y = total_cases, fill = disease)) +
+	geom_col(position = 'fill')
+```
