@@ -103,3 +103,4 @@ disease_counts <- who_disease %>%
 ggplot(disease_counts, aes(x = year, y = total_cases, fill = disease)) +
 	geom_col(position = 'fill')
 ```
+### Categorical x-axis
