@@ -107,3 +107,16 @@ ggplot(disease_counts, aes(x = year, y = total_cases, fill = disease)) +
 * Filter who_disease data to only years 1999 and later.
 * Add to group_by() to keep region information in summary.
 * Fill out aesthetics with x = region, y = total_cases, and fill = disease.
+```r
+disease_counts <- who_disease %>%
+	# Filter to on or later than 1999
+	filter(year >= 1999) %>% 
+	mutate(disease = ifelse(disease %in% c('measles', 'mumps'), disease, 'other')) %>%
+	group_by(disease, region) %>%    # Add region column to grouping
+	summarise(total_cases = sum(cases))
+
+# Set aesthetics so disease is the stacking variable, region is the x-axis and counts are the y
+ggplot(disease_counts, aes(x = region, y = total_cases, fill = disease)) +
+	# Add a column geometry with the proper position value.
+	geom_col(position = "fill")
+```
