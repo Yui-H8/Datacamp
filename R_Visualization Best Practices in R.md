@@ -73,3 +73,5 @@ names(case_counts) <- disease_counts$disease
 waffle(case_counts)
 ```
 ### Basic stacked bars
+* Modify the aes() call to include the year mapped to the x-axis.
+* Make bars fill the entire y-axis by adjusting position argument in geom_col().
