@@ -75,3 +75,14 @@ waffle(case_counts)
 ### Basic stacked bars
 * Modify the aes() call to include the year mapped to the x-axis.
 * Make bars fill the entire y-axis by adjusting position argument in geom_col().
+```r
+disease_counts <- who_disease %>%
+	mutate(disease = ifelse(disease %in% c('measles', 'mumps'), disease, 'other')) %>%
+	group_by(disease, year) %>% # note the addition of year to the grouping.
+	summarise(total_cases = sum(cases))
+
+# add the mapping of year to the x axis. 
+ggplot(disease_counts, aes(x = year, y = total_cases, fill = disease)) +
+	# Change the position argument to make bars full height
+	geom_col(position = "fill")
+```
