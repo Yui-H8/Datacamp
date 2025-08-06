@@ -72,3 +72,4 @@ names(case_counts) <- disease_counts$disease
 # Pass case_counts vector to the waffle function to plot
 waffle(case_counts)
 ```
+### Basic stacked bars
