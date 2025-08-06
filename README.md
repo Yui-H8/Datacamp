@@ -43,6 +43,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 * Introduction to Data Visualization with ggplot2
 * Introduction to Writing Functions in R
 * Visualization Best Practices in R
+* Introduction to the Tidyverse
 
 ---
 
