@@ -39,3 +39,16 @@ filter( year == 2002, country == 'China')
 ### Arranging observations by life expectancy
 * Sort the gapminder dataset in ascending order of life expectancy (lifeExp).
 * Sort the gapminder dataset in descending order of life expectancy.
+```r
+library(gapminder)
+library(dplyr)
+
+# Sort in ascending order of lifeExp
+gapminder %>%
+    arrange(lifeExp)
+
+  
+# Sort in descending order of lifeExp
+gapminder %>%
+    arrange(desc(lifeExp))
+```
