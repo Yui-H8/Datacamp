@@ -13,3 +13,4 @@ library(dplyr)
 # Look at the gapminder dataset
 gapminder
 ```
+### Understanding a data frame
