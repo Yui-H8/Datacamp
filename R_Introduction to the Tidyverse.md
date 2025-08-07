@@ -35,3 +35,5 @@ library(dplyr)
 gapminder %>%
 filter( year == 2002, country == 'China')
 ```
+---
+### Arranging observations by life expectancy
