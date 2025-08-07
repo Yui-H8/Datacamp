@@ -25,5 +25,5 @@ library(dplyr)
 gapminder %>%
   filter(year == 1957)
 ```
-
+### Filtering for one country and one year
 * Filter the gapminder data to retrieve only the observation from China in the year 2002.
