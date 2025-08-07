@@ -14,3 +14,5 @@ library(dplyr)
 gapminder
 ```
 ### Understanding a data frame
+---
+### Filtering for one year
