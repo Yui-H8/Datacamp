@@ -16,3 +16,4 @@ gapminder
 ### Understanding a data frame
 ---
 ### Filtering for one year
+* Add a filter() line after the pipe (%>%) to extract only the observations from the year 1957. Remember that you use == to compare two values.
