@@ -17,3 +17,11 @@ gapminder
 ---
 ### Filtering for one year
 * Add a filter() line after the pipe (%>%) to extract only the observations from the year 1957. Remember that you use == to compare two values.
+```r
+library(gapminder)
+library(dplyr)
+
+# Filter the gapminder dataset for the year 1957
+gapminder %>%
+  filter(year == 1957)
+```
