@@ -79,3 +79,4 @@ gapminder %>%
 gapminder %>%
   mutate(lifeExpMonths = lifeExp * 12)
 ```
+### Combining filter, mutate, and arrange
