@@ -52,3 +52,4 @@ gapminder %>%
 gapminder %>%
     arrange(desc(lifeExp))
 ```
+### Filtering and arranging
