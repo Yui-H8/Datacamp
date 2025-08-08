@@ -53,3 +53,4 @@ gapminder %>%
     arrange(desc(lifeExp))
 ```
 ### Filtering and arranging
+* Use filter() to extract observations from just the year 1957, then use arrange() to sort in descending order of population (pop).
