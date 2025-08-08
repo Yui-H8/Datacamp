@@ -65,3 +65,5 @@ gapminder %>%
 ```
 ---
 ### Using mutate to change or create a column
+* Use mutate() to change the existing lifeExp column, by multiplying it by 12: 12 * lifeExp.
+* Use mutate() to add a new column, called lifeExpMonths, calculated as 12 * lifeExp.
