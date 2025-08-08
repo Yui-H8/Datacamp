@@ -80,3 +80,5 @@ gapminder %>%
   mutate(lifeExpMonths = lifeExp * 12)
 ```
 ### Combining filter, mutate, and arrange
+* In one sequence of pipes on the gapminder dataset:
+* filter() for observations from the year 2007, mutate() to create a column lifeExpMonths, calculated as 12 * lifeExp, and arrange() in descending order of that new column
