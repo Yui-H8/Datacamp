@@ -63,3 +63,5 @@ gapminder %>%
     filter(year == 1957) %>%
     arrange(desc(pop))
 ```
+---
+### Using mutate to change or create a column
