@@ -37,3 +37,4 @@ counties_selected %>%
   filter(population > 1000000, 
   state == 'California' )
 ```
+### Filtering and arranging
