@@ -18,3 +18,4 @@ counties_selected %>%
   arrange(desc(public_work))
 ```
 ### Filtering for conditions
+1. Find only the counties that have a population above one million (1000000).
