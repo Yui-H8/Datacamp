@@ -7,4 +7,5 @@ counties %>%
   # Select the columns 
   select(state, county, population, poverty)
 ```
-* Arranging observations
+### Arranging observations
+* Add a verb to sort the observations of the public_work variable in descending order.
