@@ -17,3 +17,4 @@ counties_selected %>%
   # Add a verb to sort in descending order of public_work
   arrange(desc(public_work))
 ```
+### Filtering for conditions
