@@ -38,3 +38,4 @@ counties_selected %>%
   state == 'California' )
 ```
 ### Filtering and arranging
+* Filter for counties in the state of Texas that have more than ten thousand people (10000), and sort them in descending order of the percentage of people employed in private work.
