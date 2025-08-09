@@ -19,3 +19,11 @@ counties_selected %>%
 ```
 ### Filtering for conditions
 1. Find only the counties that have a population above one million (1000000).
+```r
+counties_selected <- counties %>%
+  select(state, county, population)
+
+counties_selected %>%
+  # Filter for counties with a population above 1000000
+  filter(population > 1000000)
+```
