@@ -27,3 +27,4 @@ counties_selected %>%
   # Filter for counties with a population above 1000000
   filter(population > 1000000)
 ```
+2. Find only the counties in the state of California that also have a population above one million (1000000).
