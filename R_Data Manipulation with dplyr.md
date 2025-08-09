@@ -7,3 +7,4 @@ counties %>%
   # Select the columns 
   select(state, county, population, poverty)
 ```
+* Arranging observations
