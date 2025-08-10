@@ -72,3 +72,5 @@ counties_selected %>%
   arrange(desc(public_workers))
 ```
 ### Calculating the percentage of women in a county
+* Select the columns state, county, population, men, and women.
+* Add a new variable called proportion_women with the fraction of the county's population made up of women.
