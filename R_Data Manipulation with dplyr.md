@@ -61,3 +61,4 @@ counties_selected %>%
   # Add a new column public_workers with the number of people employed in public work
   mutate(public_workers = public_work * population / 100)
 ```
+2. Sort the new column in descending order.
