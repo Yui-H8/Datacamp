@@ -53,4 +53,11 @@ counties_selected %>%
 ---
 ### Calculating the number of government employees
 1. Use mutate() to add a column called public_workers to the dataset, with the number of people employed in public (government) work.
+```r
+counties_selected <- counties %>%
+  select(state, county, population, public_work)
 
+counties_selected %>%
+  # Add a new column public_workers with the number of people employed in public work
+  mutate(public_workers = public_work * population / 100)
+```
