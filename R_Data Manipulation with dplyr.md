@@ -62,3 +62,13 @@ counties_selected %>%
   mutate(public_workers = public_work * population / 100)
 ```
 2. Sort the new column in descending order.
+```r
+counties_selected <- counties %>%
+  select(state, county, population, public_work)
+
+counties_selected %>%
+  mutate(public_workers = public_work * population / 100) %>%
+  # Sort in descending order of the public_workers column
+  arrange(desc(public_workers))
+```
+### Calculating the percentage of women in a county
