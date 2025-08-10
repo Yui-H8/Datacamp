@@ -74,3 +74,12 @@ counties_selected %>%
 ### Calculating the percentage of women in a county
 * Select the columns state, county, population, men, and women.
 * Add a new variable called proportion_women with the fraction of the county's population made up of women.
+```r
+counties_selected <- counties %>%
+  # Select the columns state, county, population, men, and women    
+  select(state, county, population, men, women)
+
+counties_selected %>%
+  # Calculate proportion_women as the fraction of the population made up of women
+  mutate(proportion_women = women / population)
+```
