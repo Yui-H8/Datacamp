@@ -84,3 +84,6 @@ counties_selected %>%
   mutate(proportion_women = women / population)
 ```
 ### Mutate, filter, and arrange
+* Use a single verb to add a proportion_men column with the fractional male population and also keep the state, county, and population columns.
+* Filter for counties with a population of at least ten thousand (10000).
+* Arrange counties in descending order of their proportion of men.
