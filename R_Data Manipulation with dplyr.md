@@ -50,3 +50,5 @@ counties_selected %>%
   # Sort in descending order of private_work
   arrange(desc(private_work))
 ```
+---
+### Calculating the number of government employees
