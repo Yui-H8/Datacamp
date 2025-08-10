@@ -52,3 +52,5 @@ counties_selected %>%
 ```
 ---
 ### Calculating the number of government employees
+1. Use mutate() to add a column called public_workers to the dataset, with the number of people employed in public (government) work.
+
