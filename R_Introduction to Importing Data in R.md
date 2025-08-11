@@ -28,3 +28,4 @@ hotdogs <- read.delim("hotdogs.txt", header = FALSE)
 # Summarize hotdogs
 summary(hotdogs)
 ```
+### Assigning column names
