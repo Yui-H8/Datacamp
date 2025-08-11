@@ -18,3 +18,4 @@ path <- file.path("~", "datasets", "swimming_pools.csv")
 
 path
 ```
+### read.delim
