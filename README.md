@@ -45,6 +45,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 * Visualization Best Practices in R
 * Introduction to the Tidyverse
 * Data Manipulation with dplyr
+* Introduction to Importing Data in R
 
 ---
 
