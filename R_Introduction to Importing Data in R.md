@@ -11,3 +11,4 @@ pools <- read.csv("swimming_pools.csv")
 str(pools)
 ```
 ### Reading from a path
+* Define the path to swimming_pools.csv, which is located in the "datasets" folder of the home directory.
