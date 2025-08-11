@@ -19,3 +19,6 @@ path <- file.path("~", "datasets", "swimming_pools.csv")
 path
 ```
 ### read.delim
+* Import "hotdogs.txt" with read.delim(). Call the resulting data frame hotdogs. The variable names are not on the first line, so make sure to set the header argument appropriately.
+* Call summary() on hotdogs. This will print out some summary statistics about all variables in the data frame.
+  
