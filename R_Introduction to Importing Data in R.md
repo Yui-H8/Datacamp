@@ -29,3 +29,4 @@ hotdogs <- read.delim("hotdogs.txt", header = FALSE)
 summary(hotdogs)
 ```
 ### Assigning column names
+* Complete the read.delim() function call by assigning the column names to "type", "calories", and "sodium".
