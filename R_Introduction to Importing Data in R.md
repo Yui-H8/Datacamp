@@ -58,3 +58,5 @@ hotdogs2 <- read.delim("hotdogs.txt", header = FALSE,
 str(hotdogs2)
 ```
 ### read.table
+* Finish the read.table() call to load the tab-delimited file found at path.
+* Call head() on hotdogs; this will print the first 6 observations in the data frame.
