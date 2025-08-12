@@ -41,3 +41,19 @@ head(hotdogs)
 * The hotdogs data frame has been loaded. Go ahead and display the structure of hotdogs.
 * In the colClasses argument of the second read.delim() call, set the first, second, and third columns to 'character', 'NULL' and 'numeric'.
 * Display the structure of hotdogs2 and look for the difference.
+```r
+# Previous call to import hotdogs.txt
+hotdogs <- read.delim("hotdogs.txt", header = FALSE, col.names = c("type", "calories", "sodium"))
+
+# Display structure of hotdogs
+str(hotdogs)
+
+# Edit the colClasses argument to import the data correctly: hotdogs2
+hotdogs2 <- read.delim("hotdogs.txt", header = FALSE, 
+                       col.names = c("type", "calories", "sodium"),
+                       colClasses = c("character", "NULL", "numeric"))
+
+
+# Display structure of hotdogs2
+str(hotdogs2)
+```
