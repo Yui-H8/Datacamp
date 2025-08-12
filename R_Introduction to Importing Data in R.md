@@ -30,3 +30,10 @@ summary(hotdogs)
 ```
 ### Assigning column names
 * Complete the read.delim() function call by assigning the column names to "type", "calories", and "sodium".
+```r
+# Finish the read.delim() call
+hotdogs <- read.delim("hotdogs.txt", header = FALSE, col.names = c("type", "calories", "sodium"))
+
+# Print the first 6 rows of hotdogs
+head(hotdogs)
+```
