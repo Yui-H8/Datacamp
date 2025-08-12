@@ -37,3 +37,5 @@ hotdogs <- read.delim("hotdogs.txt", header = FALSE, col.names = c("type", "calo
 # Print the first 6 rows of hotdogs
 head(hotdogs)
 ```
+### Column classes
+
