@@ -46,6 +46,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 * Introduction to the Tidyverse
 * Data Manipulation with dplyr
 * Introduction to Importing Data in R
+* Joining Data with dplyr
 
 ---
 
