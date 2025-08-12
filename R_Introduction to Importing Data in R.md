@@ -38,4 +38,6 @@ hotdogs <- read.delim("hotdogs.txt", header = FALSE, col.names = c("type", "calo
 head(hotdogs)
 ```
 ### Column classes
-
+* The hotdogs data frame has been loaded. Go ahead and display the structure of hotdogs.
+* In the colClasses argument of the second read.delim() call, set the first, second, and third columns to 'character', 'NULL' and 'numeric'.
+* Display the structure of hotdogs2 and look for the difference.
