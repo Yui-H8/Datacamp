@@ -60,3 +60,15 @@ str(hotdogs2)
 ### read.table
 * Finish the read.table() call to load the tab-delimited file found at path.
 * Call head() on hotdogs; this will print the first 6 observations in the data frame.
+```r
+# Path to the hotdogs.txt file: path
+path <- file.path("data", "hotdogs.txt")
+
+# Import the hotdogs.txt file: hotdogs
+hotdogs <- read.table(path, 
+                      sep = "", 
+                      col.names = c("type", "calories", "sodium"))
+
+# Call head() on hotdogs
+head(hotdogs)
+```
