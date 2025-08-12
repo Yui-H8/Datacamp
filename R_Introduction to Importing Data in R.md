@@ -57,3 +57,4 @@ hotdogs2 <- read.delim("hotdogs.txt", header = FALSE,
 # Display structure of hotdogs2
 str(hotdogs2)
 ```
+### read.table
