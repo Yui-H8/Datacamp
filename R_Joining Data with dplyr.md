@@ -2,3 +2,8 @@
 ---
 ### Joining parts and part categories
 1. Add the correct joining verb, the name of the second table, and the joining column for the second table.
+```r
+# Add the correct verb, table, and joining column
+parts %>% 
+  inner_join(part_categories, by = c("part_cat_id" = "id"))
+```
