@@ -21,3 +21,5 @@ parts %>%
 parts %>%
   inner_join(inventory_parts, by= "part_num")
 ```
+### Joining in either direction
+
