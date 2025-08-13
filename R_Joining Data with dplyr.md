@@ -28,3 +28,5 @@ parts %>%
 inventory_parts %>%
   inner_join(parts, by = "part_num")
 ```
+---
+### Joining three tables
