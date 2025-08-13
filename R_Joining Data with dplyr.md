@@ -13,3 +13,5 @@ parts %>%
 parts %>% 
   inner_join(part_categories, by = c("part_cat_id" = "id"), suffix = c("_part", "_category"))
 ```
+---
+### Joining parts and inventories
