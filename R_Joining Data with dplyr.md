@@ -32,3 +32,10 @@ inventory_parts %>%
 ### Joining three tables
 * Combine the inventories table with the sets table.
 * Next, join the inventory_parts table to the table you created in the previous join by the inventory IDs.
+```r
+sets %>%
+  # Add inventories using an inner join 
+  inner_join(inventories, by = "set_num") %>%
+  # Add inventory_parts using an inner join 
+  inner_join(inventory_parts, by = c("id" = "inventory_id"))
+```
