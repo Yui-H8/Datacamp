@@ -8,3 +8,8 @@ parts %>%
   inner_join(part_categories, by = c("part_cat_id" = "id"))
 ```
 2. Now, use the suffix argument to add "_part" and "_category" suffixes to replace the name.x and name.y fields.
+```r
+# Use the suffix argument to replace .x and .y suffixes
+parts %>% 
+  inner_join(part_categories, by = c("part_cat_id" = "id"), suffix = c("_part", "_category"))
+```
