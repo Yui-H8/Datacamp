@@ -30,3 +30,5 @@ inventory_parts %>%
 ```
 ---
 ### Joining three tables
+* Combine the inventories table with the sets table.
+* Next, join the inventory_parts table to the table you created in the previous join by the inventory IDs.
