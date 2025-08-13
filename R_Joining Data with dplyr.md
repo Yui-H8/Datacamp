@@ -23,3 +23,8 @@ parts %>%
 ```
 ### Joining in either direction
 
+```r
+# Combine the parts and inventory_parts tables
+inventory_parts %>%
+  inner_join(parts, by = "part_num")
+```
