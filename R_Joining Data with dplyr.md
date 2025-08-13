@@ -15,3 +15,4 @@ parts %>%
 ```
 ---
 ### Joining parts and inventories
+* Connect the parts and inventory_parts tables by their part numbers using an inner join.
