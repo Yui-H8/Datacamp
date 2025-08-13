@@ -22,7 +22,7 @@ parts %>%
   inner_join(inventory_parts, by= "part_num")
 ```
 ### Joining in either direction
-
+* Connect the inventory_parts and parts tables by their part numbers using an inner join.
 ```r
 # Combine the parts and inventory_parts tables
 inventory_parts %>%
