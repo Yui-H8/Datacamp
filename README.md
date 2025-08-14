@@ -47,6 +47,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 * Data Manipulation with dplyr
 * Introduction to Importing Data in R
 * Joining Data with dplyr
+* Case Studies: Network Analysis in R
 
 ---
 
