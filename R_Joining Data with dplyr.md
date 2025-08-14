@@ -39,3 +39,4 @@ sets %>%
   # Add inventory_parts using an inner join 
   inner_join(inventory_parts, by = c("id" = "inventory_id"))
 ```
+### What's the most common color?
