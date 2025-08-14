@@ -40,3 +40,4 @@ sets %>%
   inner_join(inventory_parts, by = c("id" = "inventory_id"))
 ```
 ### What's the most common color?
+* Inner join the colors table using the color_id column from the previous join and the id column from colors; use the suffixes "_set" and "_color".
