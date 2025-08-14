@@ -18,3 +18,6 @@ triad_census(amzn_g)
 edge_density(amzn_g)
 ```
 ### Clustering and Reciprocity
+1. Calculate the reciprocity of amzn_g using reciprocity(), assigning to actual_recip.
+* Calculate the order of the graph with gorder(), assigning to n_nodes.
+* Calculate the edge density of the graph with edge_density(), assigning to edge_dens.
