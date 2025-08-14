@@ -49,3 +49,11 @@ sets %>%
   inner_join(colors, by = c("color_id" = "id"), suffix = c("_set", "_color"))
 ```
 2. Count the name_color column and sort the results so the most prominent colors appear first.
+```r
+# Count the number of colors and sort
+sets %>%
+  inner_join(inventories, by = "set_num") %>%
+  inner_join(inventory_parts, by = c("id" = "inventory_id")) %>%
+  inner_join(colors, by = c("color_id" = "id"), suffix = c("_set", "_color")) %>%
+  count(name_color, sort = TRUE)
+```
