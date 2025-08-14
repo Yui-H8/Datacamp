@@ -41,3 +41,10 @@ sets %>%
 ```
 ### What's the most common color?
 * Inner join the colors table using the color_id column from the previous join and the id column from colors; use the suffixes "_set" and "_color".
+```r
+# Add an inner join for the colors table
+sets %>%
+  inner_join(inventories, by = "set_num") %>%
+  inner_join(inventory_parts, by = c("id" = "inventory_id")) %>%
+  inner_join(colors, by = c("color_id" = "id"), suffix = c("_set", "_color"))
+```
