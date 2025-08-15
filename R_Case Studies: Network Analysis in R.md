@@ -104,3 +104,4 @@ imp_prod <- V(amzn_g)[is_important]
 # Output the vertices
 print(imp_prod)
 ```
+### What Makes an Important Product?
