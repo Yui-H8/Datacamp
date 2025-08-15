@@ -31,3 +31,5 @@ n_nodes <- gorder(amzn_g)
 # Calculate the edge density
 edge_dens <- edge_density(amzn_g)
 ```
+2. Simulate the reciprocity. Inside the for loop, Call erdos.renyi.game() to generate a simulated graph. Pass it the order, the edge density, and set directed to TRUE.
+* Calculate the reciprocity of the simulated graph.
