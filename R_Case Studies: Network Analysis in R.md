@@ -87,3 +87,20 @@ table(out_degree)
 ## ... and of in_degree
 table(in_degree)
 ```
+
+
+```r
+# From previous step
+out_degree <- degree(amzn_g, mode = "out")
+in_degree <- degree(amzn_g, mode = "in")
+
+# Create condition of out degree greater than 3
+# and in degree less than 3
+is_important <- out_degree > 3 & in_degree < 3
+
+# Subset vertices by is_important
+imp_prod <- V(amzn_g)[is_important]
+
+# Output the vertices
+print(imp_prod)
+```
