@@ -70,3 +70,7 @@ actual_recip
 quantile(simulated_recip , c(0.025, 0.5, 0.975))
 ```  
 ### Important Products
+1. Use degree() to calculate the "out' degrees of amzn_g by setting the mode to "out".
+* Calculate the "in" degrees in a similar manner.
+* Use table() to see the distribution of vertex "out" degrees.
+* Do the same for the "in" degrees.
