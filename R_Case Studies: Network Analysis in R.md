@@ -21,3 +21,13 @@ edge_density(amzn_g)
 1. Calculate the reciprocity of amzn_g using reciprocity(), assigning to actual_recip.
 * Calculate the order of the graph with gorder(), assigning to n_nodes.
 * Calculate the edge density of the graph with edge_density(), assigning to edge_dens.
+```r
+# Calculate reciprocity
+actual_recip <- reciprocity(amzn_g)
+
+# Calculate the order
+n_nodes <- gorder(amzn_g)
+
+# Calculate the edge density
+edge_dens <- edge_density(amzn_g)
+```
