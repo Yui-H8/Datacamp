@@ -74,3 +74,16 @@ quantile(simulated_recip , c(0.025, 0.5, 0.975))
 * Calculate the "in" degrees in a similar manner.
 * Use table() to see the distribution of vertex "out" degrees.
 * Do the same for the "in" degrees.
+```r
+# Calculate the "out" degrees
+out_degree <- degree(amzn_g, mode = "out")
+
+## ... and "in" degrees
+in_degree <- degree(amzn_g, mode = "in")
+
+# See the distribution of out_degree
+table(out_degree)
+
+## ... and of in_degree
+table(in_degree)
+```
