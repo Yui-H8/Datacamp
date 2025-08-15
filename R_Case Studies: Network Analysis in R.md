@@ -51,3 +51,21 @@ for(i in 1:1000) {
 3. Compare the simulated reciprocity to the value from the original graph.
 * Take a look at the original reciprocity, actual_recip.
 * Calculate the 0.025, 0.5, and 0.975 quantiles of simulated_recip.
+```r
+# From previous steps
+actual_recip <- reciprocity(amzn_g)
+
+n_nodes <- gorder(amzn_g)
+edge_dens <- edge_density(amzn_g)
+simulated_recip <- rep(NA, 1000)
+for(i in 1:1000) {
+  simulated_graph <- erdos.renyi.game(n_nodes, edge_dens, directed = TRUE)
+  simulated_recip[i] <- reciprocity(simulated_graph)
+}
+
+# Reciprocity of the original graph
+actual_recip
+
+# Calculate quantile of simulated reciprocity
+quantile(simulated_recip , c(0.025, 0.5, 0.975))
+```  
