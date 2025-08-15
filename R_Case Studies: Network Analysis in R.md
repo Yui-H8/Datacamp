@@ -105,3 +105,6 @@ imp_prod <- V(amzn_g)[is_important]
 print(imp_prod)
 ```
 ### What Makes an Important Product?
+1. Select the from and to columns from ip_df, assigning to ip_df_from_to.
+* Use graph_from_data_frame() to create a directed graph from ip_df_from_to.
+* Define the edge color to be blue if ip_df$salesrank.from is less than or equal to ip_df$salesrank.to, and red otherwise.
