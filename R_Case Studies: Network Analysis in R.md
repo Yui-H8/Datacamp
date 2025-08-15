@@ -48,3 +48,6 @@ for(i in 1:1000) {
   simulated_recip[i] <- reciprocity(simulated_graph)
 }
 ```
+3. Compare the simulated reciprocity to the value from the original graph.
+* Take a look at the original reciprocity, actual_recip.
+* Calculate the 0.025, 0.5, and 0.975 quantiles of simulated_recip.
