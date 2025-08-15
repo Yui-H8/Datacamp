@@ -87,8 +87,8 @@ table(out_degree)
 ## ... and of in_degree
 table(in_degree)
 ```
-
-
+2. Define a logical vector of important cases: where out_degree is greater than 3 and in_degree is less than 3.
+* Use V() to get the vertices of amzn_g, and use square brackets to filter on is_important to find the important products.
 ```r
 # From previous step
 out_degree <- degree(amzn_g, mode = "out")
