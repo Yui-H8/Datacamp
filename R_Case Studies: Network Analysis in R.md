@@ -123,3 +123,7 @@ edge_color <- ifelse(
   no = "red"
 )
 ```
+2. Complete the plotting code.
+* Pass the graph to plot().
+* Set the edge color to edge_color.
+* Set the legend fill color to the unique values of edge_color.
