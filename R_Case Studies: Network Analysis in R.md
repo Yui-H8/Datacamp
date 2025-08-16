@@ -150,3 +150,5 @@ legend(
   legend = c("Lower to Higher Rank", "Higher to Lower Rank"), cex = 0.7
 )
 ```
+---
+### Metrics through time
