@@ -174,3 +174,5 @@ degree_data <- data.frame(
   date = rep(d, lengths(degree_count_list))
 )
 ```
+2. Three vertices are listed in important_vertices.
+* Filter degree_data to keep rows where vertex_name is %in% important_vertices.
