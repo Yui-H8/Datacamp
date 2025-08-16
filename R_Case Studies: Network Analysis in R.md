@@ -158,3 +158,19 @@ legend(
 * Set degree_count to degree_count_flat.
 * Set vertex_name to the names of degree_count_flat.
 * Set date to the dates, d, repeated using rep() as many times as the lengths() of degree_count_list.
+```r
+# Loop over time graphs calculating out degree
+degree_count_list <- lapply(time_graph, degree, mode = "out")
+
+# Flatten it
+degree_count_flat <- unlist(degree_count_list)
+
+degree_data <- data.frame(
+  # Use the flattened counts
+  degree_count = degree_count_flat,
+  # Use the names of the flattened counts
+  vertex_name = names(degree_count_flat),
+  # Use the lengths of the count list
+  date = rep(d, lengths(degree_count_list))
+)
+```
