@@ -152,3 +152,9 @@ legend(
 ```
 ---
 ### Metrics through time
+* Use lapply() to loop over the four graphs in time_graph, calculating the degree of each with mode "out".
+* Use unlist() to flatten degree_count_list.
+* Create a data frame with these columns.
+* Set degree_count to degree_count_flat.
+* Set vertex_name to the names of degree_count_flat.
+* Set date to the dates, d, repeated using rep() as many times as the lengths() of degree_count_list.
