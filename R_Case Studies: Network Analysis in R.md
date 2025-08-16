@@ -108,3 +108,18 @@ print(imp_prod)
 1. Select the from and to columns from ip_df, assigning to ip_df_from_to.
 * Use graph_from_data_frame() to create a directed graph from ip_df_from_to.
 * Define the edge color to be blue if ip_df$salesrank.from is less than or equal to ip_df$salesrank.to, and red otherwise.
+```r
+# Select the from and to columns from ip_df
+ip_df_from_to <- ip_df[c("from", "to")]
+
+# Create a directed graph from the data frame
+ip_g <- graph_from_data_frame(ip_df_from_to, directed =TRUE)
+
+# Set the edge color. If salesrank.from is less than or 
+# equal to salesrank.to then blue else red.
+edge_color <- ifelse(
+  ip_df$salesrank.from <= ip_df$salesrank.to, 
+  yes = "blue", 
+  no = "red"
+)
+```
