@@ -127,3 +127,26 @@ edge_color <- ifelse(
 * Pass the graph to plot().
 * Set the edge color to edge_color.
 * Set the legend fill color to the unique values of edge_color.
+```r
+# From previous step
+ip_df_from_to <- ip_df[c('from','to')]
+ip_g <- graph_from_data_frame(ip_df_from_to, directed = TRUE)
+edge_color <- ifelse(
+  ip_df$salesrank.from <= ip_df$salesrank.to, "blue", "red"
+)
+
+plot(
+  # Plot a graph of ip_g
+  ip_g, 
+  # Set the edge color
+  edge.color = edge_color,
+  edge.arrow.width = 1, edge.arrow.size = 0, edge.width = 4, 
+  vertex.label = NA, vertex.size = 4, vertex.color = "black"
+)
+legend(
+  "bottomleft", 
+  # Set the edge color using edge_color
+  fill = unique(edge_color), 
+  legend = c("Lower to Higher Rank", "Higher to Lower Rank"), cex = 0.7
+)
+```
