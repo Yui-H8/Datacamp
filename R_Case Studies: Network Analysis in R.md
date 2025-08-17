@@ -232,3 +232,22 @@ reciprocity_by_graph <- data.frame(
 )
 ```
 2. Use bind_rows() to bind the two data frames together (transitivity first).
+```r
+# From previous step
+transitivity_by_graph <- data.frame(
+  date = d,
+  metric = "transitivity",
+  score = sapply(all_graphs, transitivity)
+)
+reciprocity_by_graph <- data.frame(
+  date = d,
+  metric = "reciprocity",
+  score = sapply(all_graphs, reciprocity)
+)
+
+# Bind these two datasets by row
+metrics_by_graph <- bind_rows(transitivity_by_graph, reciprocity_by_graph)
+
+# See the result
+metrics_by_graph
+```
