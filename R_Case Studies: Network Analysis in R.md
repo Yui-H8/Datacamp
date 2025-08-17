@@ -251,3 +251,4 @@ metrics_by_graph <- bind_rows(transitivity_by_graph, reciprocity_by_graph)
 # See the result
 metrics_by_graph
 ```
+3. Use ggplot() to visualize the graph metrics through time with a line using geom_path().
