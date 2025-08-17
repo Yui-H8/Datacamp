@@ -214,3 +214,5 @@ ggplot(important_degree_data, aes(x = date, y = degree_count, color = vertex_nam
   geom_path()
 ```
 ### Plotting Metrics Over Time
+1. Calculate the reciprocity by graph. This should take the same form as transitivity_by_graph except
+* the metric should be "reciprocity" and the score function should be reciprocity().
