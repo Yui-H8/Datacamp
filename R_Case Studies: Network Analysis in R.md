@@ -193,7 +193,8 @@ important_degree_data <- degree_data %>%
   # in the set of important vertices
   filter(vertex_name %in% important_vertices)
 ```
-
+3. Using important_degree_data and ggplot(), plot degree_count versus date, colored by vertex_name.
+* Add a path layer with geom_path().
 ```r
 # From previous step
 degree_count_list <- lapply(time_graph, degree, mode = "out")
