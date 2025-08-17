@@ -193,3 +193,22 @@ important_degree_data <- degree_data %>%
   # in the set of important vertices
   filter(vertex_name %in% important_vertices)
 ```
+
+```r
+# From previous step
+degree_count_list <- lapply(time_graph, degree, mode = "out")
+degree_count_flat <- unlist(degree_count_list)
+degree_data <- data.frame(
+  degree_count = degree_count_flat,
+  vertex_name = names(degree_count_flat),
+  date = rep(d, lengths(degree_count_list))
+)
+important_vertices <- c(1629, 132757, 117841)
+important_degree_data <- degree_data %>% 
+  filter(vertex_name %in% important_vertices)
+
+# Using important_degree_data, plot degree_count vs. date, colored by vertex_name 
+ggplot(important_degree_data, aes(x = date, y = degree_count, color = vertex_name)) + 
+  # Add a path layer
+  geom_path()
+```
