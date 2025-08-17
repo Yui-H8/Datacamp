@@ -176,3 +176,20 @@ degree_data <- data.frame(
 ```
 2. Three vertices are listed in important_vertices.
 * Filter degree_data to keep rows where vertex_name is %in% important_vertices.
+```r
+# From previous step
+degree_count_list <- lapply(time_graph, degree, mode = "out")
+degree_count_flat <- unlist(degree_count_list)
+degree_data <- data.frame(
+  degree_count = degree_count_flat,
+  vertex_name = names(degree_count_flat),
+  date = rep(d, lengths(degree_count_list))
+)
+
+important_vertices <- c(1629, 132757, 117841)
+
+important_degree_data <- degree_data %>% 
+  # Filter for rows where vertex_name is
+  # in the set of important vertices
+  filter(vertex_name %in% important_vertices)
+```
