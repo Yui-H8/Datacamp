@@ -213,3 +213,4 @@ ggplot(important_degree_data, aes(x = date, y = degree_count, color = vertex_nam
   # Add a path layer
   geom_path()
 ```
+### Plotting Metrics Over Time
