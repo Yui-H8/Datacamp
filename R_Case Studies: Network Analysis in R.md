@@ -231,3 +231,4 @@ reciprocity_by_graph <- data.frame(
   score = sapply(all_graphs, reciprocity)
 )
 ```
+2. Use bind_rows() to bind the two data frames together (transitivity first).
