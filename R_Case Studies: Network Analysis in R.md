@@ -252,6 +252,7 @@ metrics_by_graph <- bind_rows(transitivity_by_graph, reciprocity_by_graph)
 metrics_by_graph
 ```
 3. Use ggplot() to visualize the graph metrics through time with a line using geom_path().
+   * ネットワーク指標（トランジティビティと相互性）を時間ごとに計算し、可視化することです。
 ```r
 # From previous steps
 transitivity_by_graph <- data.frame(
@@ -270,3 +271,7 @@ metrics_by_graph <- bind_rows(transitivity_by_graph, reciprocity_by_graph)
 ggplot(metrics_by_graph, aes(x = date, y = score, color = metric)) +
   geom_path()
 ```
+- all_graphs：複数のネットワーク構造（たとえば日毎のSNSグラフとか）
+- sapply(..., transitivity)：各ネットワークに対して**トランジティビティ（閉じた三角関係の多さ）**を計算
+- sapply(..., reciprocity)：**相互性（リンクの双方向性）**を計算
+- date = d：各グラフに対応する日付
