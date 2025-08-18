@@ -11,3 +11,4 @@ x <- c(NA, NaN, Inf, ".", "missing")
 any_na(x)
 are_na(x)
 ```
+### How many missing values are there?
