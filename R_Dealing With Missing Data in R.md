@@ -34,3 +34,4 @@ prop_miss(dat_hw)
 prop_complete(dat_hw)
 ```
 ### Working with missing values
+### Summarizing missingness
