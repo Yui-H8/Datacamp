@@ -252,3 +252,21 @@ metrics_by_graph <- bind_rows(transitivity_by_graph, reciprocity_by_graph)
 metrics_by_graph
 ```
 3. Use ggplot() to visualize the graph metrics through time with a line using geom_path().
+```r
+# From previous steps
+transitivity_by_graph <- data.frame(
+  date = d,
+  metric = "transitivity",
+  score = sapply(all_graphs, transitivity)
+)
+reciprocity_by_graph <- data.frame(
+  date = d,
+  metric = "reciprocity",
+  score = sapply(all_graphs, reciprocity)
+)
+metrics_by_graph <- bind_rows(transitivity_by_graph, reciprocity_by_graph)
+
+# Using metrics_by_graph, plot score  vs. date, colored by metric
+ggplot(metrics_by_graph, aes(x = date, y = score, color = metric)) +
+  geom_path()
+```
