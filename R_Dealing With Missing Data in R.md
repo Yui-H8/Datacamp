@@ -33,3 +33,4 @@ n_complete(dat_hw$weight)
 prop_miss(dat_hw)
 prop_complete(dat_hw)
 ```
+### Working with missing values
