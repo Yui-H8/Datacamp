@@ -57,3 +57,7 @@ miss_var_summary()
 airquality %>% group_by(Month) %>% miss_case_summary()
 ```
 ### Tabulating Missingness
+For the airquality dataset:
+* Tabulate missingness for each variable using miss_var_table().
+* Tabulate missingness for every case using miss_case_table().
+* Combine previous tabulations with dplyr's group_by() function to create tabulations for each variable and case, by each Month.
