@@ -77,3 +77,18 @@ Using the pedestrian dataset from naniar:
 * Calculate summaries of missingness for the variables in datasets using miss_var_span(), for a span of 4000.
 * Calculate summaries of missingness for the cases in datasets using miss_var_run().
 * Combine with dplyr's group_by operator for month.
+```r
+# Calculate the summaries for each run of missingness for the variable, hourly_counts
+miss_var_run(pedestrian, var = hourly_counts)
+
+# Calculate the summaries for each span of missingness, 
+# for a span of 4000, for the variable hourly_counts
+miss_var_span(pedestrian, var = hourly_counts, span_every = 4000)
+
+# For each `month` variable, calculate the run of missingness for hourly_counts
+pedestrian %>% group_by(month) %>% miss_var_run(var = hourly_counts)
+
+# For each `month` variable, calculate the span of missingness 
+# of a span of 2000, for the variable hourly_counts
+pedestrian %>% group_by(month) %>% miss_var_span(var = hourly_counts, span_every = 2000)
+```
