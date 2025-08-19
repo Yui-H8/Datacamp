@@ -35,3 +35,4 @@ prop_complete(dat_hw)
 ```
 ### Working with missing values
 ### Summarizing missingness
+1. Calculate summaries of missingness in the airquality dataset for variables using the miss_var_summary() function.
