@@ -45,3 +45,4 @@ miss_var_summary(airquality)
 # Summarize missingness in each case of the `airquality` dataset
 miss_case_summary(airquality)
 ```
+3. Using the airquality dataset, use group_by() to create summaries for each variable and case, by each Month.
