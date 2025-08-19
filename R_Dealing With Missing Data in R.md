@@ -72,3 +72,4 @@ airquality %>% group_by(Month) %>% miss_var_table()
 # Tabulate of missingness in each case, grouped by Month, in the `airquality` dataset
 airquality %>% group_by(Month) %>% miss_case_table()
 ```
+### Other summaries of missingness
