@@ -61,3 +61,14 @@ For the airquality dataset:
 * Tabulate missingness for each variable using miss_var_table().
 * Tabulate missingness for every case using miss_case_table().
 * Combine previous tabulations with dplyr's group_by() function to create tabulations for each variable and case, by each Month.
+```r
+# Tabulate missingness in each variable and case of the `airquality` dataset
+miss_var_table(airquality)
+miss_case_table(airquality)
+
+# Tabulate the missingness in each variable, grouped by Month, in the `airquality` dataset
+airquality %>% group_by(Month) %>% miss_var_table()
+
+# Tabulate of missingness in each case, grouped by Month, in the `airquality` dataset
+airquality %>% group_by(Month) %>% miss_case_table()
+```
