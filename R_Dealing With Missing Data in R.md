@@ -56,3 +56,4 @@ miss_var_summary()
 # grouped by Month, in the `airquality` dataset
 airquality %>% group_by(Month) %>% miss_case_summary()
 ```
+### Tabulating Missingness
