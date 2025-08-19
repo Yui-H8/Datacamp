@@ -73,3 +73,7 @@ airquality %>% group_by(Month) %>% miss_var_table()
 airquality %>% group_by(Month) %>% miss_case_table()
 ```
 ### Other summaries of missingness
+Using the pedestrian dataset from naniar:
+* Calculate summaries of missingness for the variables in datasets using miss_var_span(), for a span of 4000.
+* Calculate summaries of missingness for the cases in datasets using miss_var_run().
+* Combine with dplyr's group_by operator for month.
