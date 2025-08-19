@@ -46,3 +46,13 @@ miss_var_summary(airquality)
 miss_case_summary(airquality)
 ```
 3. Using the airquality dataset, use group_by() to create summaries for each variable and case, by each Month.
+```r
+# Return the summary of missingness in each variable, 
+# grouped by Month, in the `airquality` dataset
+airquality %>% group_by(Month) %>% 
+miss_var_summary()
+
+# Return the summary of missingness in each case, 
+# grouped by Month, in the `airquality` dataset
+airquality %>% group_by(Month) %>% miss_case_summary()
+```
