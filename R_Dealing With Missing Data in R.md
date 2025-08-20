@@ -92,3 +92,4 @@ pedestrian %>% group_by(month) %>% miss_var_run(var = hourly_counts)
 # of a span of 2000, for the variable hourly_counts
 pedestrian %>% group_by(month) %>% miss_var_span(var = hourly_counts, span_every = 2000)
 ```
+### Your first missing data visualizations
