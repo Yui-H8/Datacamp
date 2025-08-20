@@ -114,3 +114,18 @@ Using the riskfactors dataset:
 * Visualize the number of missings in variables using gg_miss_var().
 * Explore the number of missings in variables using gg_miss_var() and facet by the variable education.
 * What do you notice in the visualizations of the whole data compared to the faceting?
+```r
+# Visualize the number of missings in cases using `gg_miss_case()`
+gg_miss_case(riskfactors)
+
+# Explore the number of missings in cases using `gg_miss_case()` 
+# and facet by the variable `education`
+gg_miss_case(riskfactors, facet = education)
+
+# Visualize the number of missings in variables using `gg_miss_var()`
+gg_miss_var(riskfactors)
+
+# Explore the number of missings in variables using `gg_miss_var()` 
+# and facet by the variable `education`
+gg_miss_var(riskfactors, facet = education)
+```
