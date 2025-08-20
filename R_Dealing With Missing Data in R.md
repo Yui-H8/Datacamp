@@ -97,3 +97,13 @@ Using the riskfactors dataset from naniar:
 * Use vis_miss() to visualize the missingness in the data.
 * Use vis_miss() with cluster = TRUE to explore some clusters of missingness.
 * Use vis_miss() and sort the missings with sort_miss to arrange the columns by missingness.
+```r
+# Visualize all of the missingness in the `riskfactors`  dataset
+vis_miss(riskfactors)
+
+# Visualize and cluster all of the missingness in the `riskfactors` dataset
+vis_miss(riskfactors, cluster = TRUE)
+
+# visualize and sort the columns by missingness in the `riskfactors` dataset
+vis_miss(riskfactors, sort_miss = TRUE)
+```
