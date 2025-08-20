@@ -108,3 +108,9 @@ vis_miss(riskfactors, cluster = TRUE)
 vis_miss(riskfactors, sort_miss = TRUE)
 ```
 ### Visualizing missing cases and variables
+Using the riskfactors dataset:
+* Visualize the number of missings in cases using gg_miss_case().
+* Explore the number of missings in cases using gg_miss_case() and facet by the variable education.
+* Visualize the number of missings in variables using gg_miss_var().
+* Explore the number of missings in variables using gg_miss_var() and facet by the variable education.
+* What do you notice in the visualizations of the whole data compared to the faceting?
