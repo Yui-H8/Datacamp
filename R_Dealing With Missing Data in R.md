@@ -134,3 +134,17 @@ gg_miss_var(riskfactors, facet = education)
 * Explore how the missingness changes in the riskfactors dataset across the marital variable using gg_miss_fct()
 * Explore how the missingness changes in the pedestrian dataset across the hourly_counts variable over a span of 3000 (you can also try different spans from 2000-5000).
 * Explore the impact of month on hourly_counts by including it in the facet argument, with a span of 1000.
+```r
+# Using the airquality dataset, explore the missingness pattern using gg_miss_upset()
+gg_miss_upset(airquality)
+
+# With the riskfactors dataset, explore how the missingness changes across the marital variable using gg_miss_fct()
+gg_miss_fct(x = riskfactors, fct = marital)
+
+# Using the pedestrian dataset, explore how the missingness of hourly_counts changes over a span of 3000 
+gg_miss_span(pedestrian, var = hourly_counts, span_every = 3000)
+
+# Using the pedestrian dataset, explore the impact of month by faceting by month
+# and explore how missingness changes for a span of 1000
+gg_miss_span(pedestrian, var = hourly_counts , span_every = 1000, facet = month)
+```
