@@ -49,6 +49,7 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 * Joining Data with dplyr
 * Case Studies: Network Analysis in R
 * Dealing With Missing Data in R
+* Introduction to R for Finance
 
 ---
 
