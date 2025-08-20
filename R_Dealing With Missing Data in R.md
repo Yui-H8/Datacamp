@@ -107,3 +107,4 @@ vis_miss(riskfactors, cluster = TRUE)
 # visualize and sort the columns by missingness in the `riskfactors` dataset
 vis_miss(riskfactors, sort_miss = TRUE)
 ```
+### Visualizing missing cases and variables
