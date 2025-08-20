@@ -129,3 +129,4 @@ gg_miss_var(riskfactors)
 # and facet by the variable `education`
 gg_miss_var(riskfactors, facet = education)
 ```
+### Visualizing missingness patterns
