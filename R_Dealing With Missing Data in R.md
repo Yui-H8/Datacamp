@@ -93,3 +93,7 @@ pedestrian %>% group_by(month) %>% miss_var_run(var = hourly_counts)
 pedestrian %>% group_by(month) %>% miss_var_span(var = hourly_counts, span_every = 2000)
 ```
 ### Your first missing data visualizations
+Using the riskfactors dataset from naniar:
+* Use vis_miss() to visualize the missingness in the data.
+* Use vis_miss() with cluster = TRUE to explore some clusters of missingness.
+* Use vis_miss() and sort the missings with sort_miss to arrange the columns by missingness.
