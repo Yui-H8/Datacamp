@@ -32,3 +32,5 @@
 ```
 ### Arithmetic in R (2)
 ### Assignment and variables (1)
+* Assign a value of 200 to the savings variable in the script.
+* Press Submit Answer and note how simply typing savings in the script asks R prints the value to the console!
