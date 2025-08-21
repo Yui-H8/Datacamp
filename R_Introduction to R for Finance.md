@@ -17,3 +17,16 @@
 * Type 2^4 to raise 2 to the power of 4.
 * Type 7 %% 3 to calculate 7 modulo 3.
 * Don't forget to press Submit Answer when you finish!
+```r
+# Multiplication
+3 * 4
+
+# Division
+4 / 2
+
+# Exponentiation
+2 ^ 4
+
+# Modulo
+7 %% 3
+```
