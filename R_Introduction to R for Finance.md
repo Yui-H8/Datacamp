@@ -30,3 +30,4 @@
 # Modulo
 7 %% 3
 ```
+### Arithmetic in R (2)
