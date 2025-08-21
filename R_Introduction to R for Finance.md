@@ -41,4 +41,4 @@ savings <- 200
 # Print the value of savings to the console
 savings
 ```
-
+### Assignment and variables (2)
