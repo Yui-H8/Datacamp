@@ -110,3 +110,8 @@ total_cash <- starting_cash * jan_mult * feb_mult
 total_cash
 ```
 ### Data type exploration
+* Assign the numeric 150.45 to apple_stock.
+* Assign the character "AAA" to credit_rating.
+* Answer the final question with either TRUE or FALSE, we won't judge!
+* Print my_answer!
+
