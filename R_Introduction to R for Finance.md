@@ -60,3 +60,9 @@ my_money + dans_money
 our_money <- my_money + dans_money
 ```
 ### Financial returns (1)
+Your new starting cash, January's return, and January's return multiplier have been defined for you.
+* Use them to calculate post_jan_cash.
+* Print post_jan_cash.
+* What if the return for January was 10%? Calculate the new jan_mult_10.
+* Calculate post_jan_cash_10 using the new multiplier!
+* Print post_jan_cash_10 to see the impact of different interest rates!
