@@ -93,3 +93,19 @@ Your starting cash, and the returns for January and February have been given.
 * Use them to calculate the January and February return multipliers: jan_mult and feb_mult.
 * Use those multipliers and starting_cash to find your total_cash at the end of the two months.
 * Print total_cash to see how your money has grown!
+```r
+# Starting cash and returns 
+starting_cash <- 200
+jan_ret <- 4
+feb_ret <- 5
+
+# Multipliers
+jan_mult <- 1 + (jan_ret / 100)
+feb_mult <- 1 + (feb_ret / 100)
+
+# Total cash at the end of the two months
+total_cash <- starting_cash * jan_mult * feb_mult
+
+# Print total_cash
+total_cash
+```
