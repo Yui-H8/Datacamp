@@ -114,4 +114,16 @@ total_cash
 * Assign the character "AAA" to credit_rating.
 * Answer the final question with either TRUE or FALSE, we won't judge!
 * Print my_answer!
+```r
+# Apple's stock price is a numeric
+apple_stock <- 150.45
 
+# Bond credit ratings are characters
+credit_rating <- "AAA"
+
+# You like the stock market. TRUE or FALSE?
+my_answer <- TRUE
+
+# Print my_answer
+my_answer
+```
