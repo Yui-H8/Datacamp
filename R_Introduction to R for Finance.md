@@ -89,3 +89,7 @@ post_jan_cash_10 <- starting_cash * jan_mult_10
 post_jan_cash_10
 ```
 ### Financial returns (2)
+Your starting cash, and the returns for January and February have been given.
+* Use them to calculate the January and February return multipliers: jan_mult and feb_mult.
+* Use those multipliers and starting_cash to find your total_cash at the end of the two months.
+* Print total_cash to see how your money has grown!
