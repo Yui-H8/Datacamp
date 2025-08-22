@@ -127,3 +127,4 @@ my_answer <- TRUE
 # Print my_answer
 my_answer
 ```
+### What's that data type?
