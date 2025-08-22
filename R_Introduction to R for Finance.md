@@ -66,3 +66,25 @@ Your new starting cash, January's return, and January's return multiplier have b
 * What if the return for January was 10%? Calculate the new jan_mult_10.
 * Calculate post_jan_cash_10 using the new multiplier!
 * Print post_jan_cash_10 to see the impact of different interest rates!
+```r
+# Variables for starting_cash and 5% return during January
+starting_cash <- 200
+jan_ret <- 5
+jan_mult <- 1 + (jan_ret / 100)
+
+# How much money do you have at the end of January?
+post_jan_cash <- starting_cash * jan_mult
+
+# Print post_jan_cash
+post_jan_cash
+
+# January 10% return multiplier
+jan_ret_10 <- 10
+jan_mult_10 <- 1 + (jan_ret_10 / 100)
+
+# How much money do you have at the end of January now?
+post_jan_cash_10 <- starting_cash * jan_mult_10
+
+# Print post_jan_cash_10
+post_jan_cash_10
+```
