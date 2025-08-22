@@ -46,3 +46,16 @@ my_money has been defined for you.
 * Assign 200 to Dan's money.
 * Follow the example in the exercise text and add your money to Dan's money.
 * Add your money to Dan's money again, but this time save the result to our_money!
+```r
+# Assign 100 to my_money
+my_money <- 100
+
+# Assign 200 to dans_money
+dans_money <- 200
+
+# Add my_money and dans_money
+my_money + dans_money
+
+# Add my_money and dans_money again, save the result to our_money
+our_money <- my_money + dans_money
+```
