@@ -88,3 +88,4 @@ post_jan_cash_10 <- starting_cash * jan_mult_10
 # Print post_jan_cash_10
 post_jan_cash_10
 ```
+### Financial returns (2)
