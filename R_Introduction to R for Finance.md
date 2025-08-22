@@ -109,3 +109,4 @@ total_cash <- starting_cash * jan_mult * feb_mult
 # Print total_cash
 total_cash
 ```
+### Data type exploration
