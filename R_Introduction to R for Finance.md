@@ -42,3 +42,7 @@ savings <- 200
 savings
 ```
 ### Assignment and variables (2)
+my_money has been defined for you.
+* Assign 200 to Dan's money.
+* Follow the example in the exercise text and add your money to Dan's money.
+* Add your money to Dan's money again, but this time save the result to our_money!
