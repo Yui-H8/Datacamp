@@ -19,3 +19,4 @@ today <- Sys.Date()
 # Confirm the class of today
 class(today)
 ```
+### From char to date
