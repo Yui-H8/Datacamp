@@ -128,3 +128,14 @@ my_answer <- TRUE
 my_answer
 ```
 ### What's that data type?
+```r
+>
+class(a)
+[1] "logical"
+>
+class(b)
+[1] "numeric"
+>
+class(c)
+[1] "character"
+```
