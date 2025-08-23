@@ -5,3 +5,17 @@
 * Type Sys.time() to have R return the current date and time. Notice the difference in capitalization of Date vs time.
 * Store Sys.Date() in the variable today.
 * Use class() on today to confirm its class.
+```r
+# What is the current date?
+Sys.Date()
+
+# What is the current date and time?
+Sys.time()
+
+# Create the variable today
+today <- Sys.Date()
+
+
+# Confirm the class of today
+class(today)
+```
