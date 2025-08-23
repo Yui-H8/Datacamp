@@ -45,3 +45,13 @@ as.Date("09/29/2008")
 * Create another vector of dates containing the 4 days from "2017-02-05" to "2017-02-08" inclusive. Call this dates.
 * Assign the days of the week "Sunday", "Monday", "Tuesday", "Wednesday", in that order, as names() of the vector dates.
 * Subset dates using [ ] to retrieve only the date for "Monday".
+```r
+# Create dates from "2017-02-05" to "2017-02-08" inclusive
+dates <- c("2017-02-05", "2017-02-06", "2017-02-07", "2017-02-08") 
+
+# Add names to dates
+names(dates) <- c("Sunday", "Monday", "Tuesday", "Wednesday")
+
+# Subset dates to only return the date for Monday
+dates["Monday"]
+```
