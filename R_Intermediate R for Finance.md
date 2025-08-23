@@ -42,3 +42,6 @@ as.numeric(Sys.time())
 as.Date("09/29/2008")
 ```
 ### Many dates
+* Create another vector of dates containing the 4 days from "2017-02-05" to "2017-02-08" inclusive. Call this dates.
+* Assign the days of the week "Sunday", "Monday", "Tuesday", "Wednesday", in that order, as names() of the vector dates.
+* Subset dates using [ ] to retrieve only the date for "Monday".
