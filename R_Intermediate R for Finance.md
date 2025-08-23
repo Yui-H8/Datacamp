@@ -41,3 +41,4 @@ as.numeric(Sys.time())
 # Incorrect date format
 as.Date("09/29/2008")
 ```
+### Many dates
