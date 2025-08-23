@@ -25,3 +25,19 @@ Print crash.
 * Use as.numeric() on crash to convert it to the number of days since January 1, 1970.
 * Wrap as.numeric() around Sys.time() to see the current time in number of seconds since January 1, 1970.
 * Attempt to create a date from "09/29/2008". What happens?
+```r
+# Create crash
+crash <- as.Date("2008-09-29")
+
+# Print crash
+crash
+
+# crash as a numeric
+as.numeric(crash)
+
+# Current time as a numeric
+as.numeric(Sys.time())
+
+# Incorrect date format
+as.Date("09/29/2008")
+```
