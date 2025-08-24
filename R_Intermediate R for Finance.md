@@ -72,3 +72,6 @@ as.Date("Aug 30,1930", format = "%M %d,%Y")
 as.Date("30aug1930", format = "%d%M%Y")
 ```
 ### Date formats (2)
+* Create the vector dates from char_date, specifying the format so R reads them correctly.
+* Modify dates using format() so that each date looks like "Jan 04, 17".
+* Modify dates using format() so that each date looks like "01,04,2017".
