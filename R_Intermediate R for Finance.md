@@ -106,3 +106,9 @@ as.numeric(dates)
 dates - origin
 ```
 ### months() and weekdays() and quarters(), oh my!
+* A vector of dates has been created for you.
+* Extract the months() from these dates.
+* Extract the quarters() from these dates.
+* Another vector, dates2 has also been created for you.
+* Use weekdays() to determine what day of the week the dates fell on, and assign them to the names of dates2 using names().
+Print dates2.
