@@ -92,3 +92,16 @@ format(dates, format = "%m,%d,%Y")
 * You can use subtraction to confirm that January 1, 1970 is the first date that R counts from. First, create a variable called origin containing "1970-01-01" as a date.
 * Now, use as.numeric() on dates to see how many days from January 1, 1970 it has been.
 * Finally, subtract origin from dates to confirm the results! (Notice how recycling is used here!)
+```r
+# Dates
+dates <- as.Date(c("2017-01-01", "2017-01-02", "2017-01-03"))
+
+# Create the origin
+origin <- as.Date("1970-01-01")
+
+# Use as.numeric() on dates
+as.numeric(dates)
+
+# Find the difference between dates and origin
+dates - origin
+```
