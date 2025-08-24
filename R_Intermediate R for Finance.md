@@ -71,3 +71,4 @@ as.Date("Aug 30,1930", format = "%M %d,%Y")
 # "30aug1930"
 as.Date("30aug1930", format = "%d%M%Y")
 ```
+### Date formats (2)
