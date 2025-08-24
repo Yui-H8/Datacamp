@@ -57,3 +57,7 @@ dates["Monday"]
 ```
 ---
 ### Date formats (1)
+In this exercise you will work with the date, "1930-08-30", Warren Buffett's birth date!
+* Use as.Date() and an appropriate format to convert "08,30,1930" to a date (it is in the form of "month,day,year").
+* Use as.Date() and an appropriate format to convert "Aug 30,1930" to a date.
+* Use as.Date() and an appropriate format to convert "30aug1930" to a date.
