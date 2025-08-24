@@ -61,3 +61,13 @@ In this exercise you will work with the date, "1930-08-30", Warren Buffett's bir
 * Use as.Date() and an appropriate format to convert "08,30,1930" to a date (it is in the form of "month,day,year").
 * Use as.Date() and an appropriate format to convert "Aug 30,1930" to a date.
 * Use as.Date() and an appropriate format to convert "30aug1930" to a date.
+```r
+# "08,30,30"
+as.Date("08,30,1930", format = "%m,%d,%Y")
+
+# "Aug 30,1930"
+as.Date("Aug 30,1930", format = "%M %d,%Y")
+
+# "30aug1930"
+as.Date("30aug1930", format = "%d%M%Y")
+```
