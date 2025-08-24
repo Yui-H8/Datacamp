@@ -55,3 +55,5 @@ names(dates) <- c("Sunday", "Monday", "Tuesday", "Wednesday")
 # Subset dates to only return the date for Monday
 dates["Monday"]
 ```
+---
+### Date formats (1)
