@@ -75,3 +75,15 @@ as.Date("30aug1930", format = "%d%M%Y")
 * Create the vector dates from char_date, specifying the format so R reads them correctly.
 * Modify dates using format() so that each date looks like "Jan 04, 17".
 * Modify dates using format() so that each date looks like "01,04,2017".
+```r
+char_dates <- c("1jan17", "2jan17", "3jan17", "4jan17", "5jan17")
+
+# Create dates using as.Date() and the correct format 
+dates <- as.Date(char_dates, format = "%d%b%y")
+
+# Use format() to go from "2017-01-04" -> "Jan 04, 17"
+format(dates, format = "%b %d, %y")
+
+# Use format() to go from "2017-01-04" -> "01,04,2017"
+format(dates, format = "%m,%d,%Y")
+```
