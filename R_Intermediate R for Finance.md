@@ -105,3 +105,4 @@ as.numeric(dates)
 # Find the difference between dates and origin
 dates - origin
 ```
+### months() and weekdays() and quarters(), oh my!
