@@ -88,3 +88,7 @@ format(dates, format = "%b %d, %y")
 format(dates, format = "%m,%d,%Y")
 ```
 ### Subtraction of dates
+* A vector of dates has been created for you.
+* You can use subtraction to confirm that January 1, 1970 is the first date that R counts from. First, create a variable called origin containing "1970-01-01" as a date.
+* Now, use as.numeric() on dates to see how many days from January 1, 1970 it has been.
+* Finally, subtract origin from dates to confirm the results! (Notice how recycling is used here!)
