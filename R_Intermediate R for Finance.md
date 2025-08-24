@@ -87,3 +87,4 @@ format(dates, format = "%b %d, %y")
 # Use format() to go from "2017-01-04" -> "01,04,2017"
 format(dates, format = "%m,%d,%Y")
 ```
+### Subtraction of dates
