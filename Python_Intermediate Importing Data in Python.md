@@ -1,6 +1,6 @@
 # Intermediate Importing Data in Python
 ---
-## 1 Importing data from the Internet
+## 1. Importing data from the Internet
 ---
 ### Importing flat files from the web: your turn!
 * Import the function urlretrieve from the subpackage urllib.request.
@@ -242,7 +242,7 @@ for link in a_tags:
     print(link.get('href'))
 ```
 ---
-## 2 Interacting with APIs to import data from the web
+## 2. Interacting with APIs to import data from the web
 ---
 ### Loading and exploring a JSON
 * Load the JSON 'a_movie.json' into the variable json_data within the context provided by the with statement. To do so, use the function json.load() within the context manager.
