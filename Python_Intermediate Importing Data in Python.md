@@ -256,3 +256,8 @@ with open("a_movie.json") as json_file:
 for k in json_data.keys():
     print(k + ': ', json_data[k])
 ```
+---
+### API requests
+* Import the requests package.
+* Assign to the variable url the URL of interest in order to query 'http://www.omdbapi.com' for the data corresponding to the movie The Social Network. The query string should have two arguments: apikey=72bc447a and t=the+social+network. You can combine them as follows: apikey=72bc447a&t=the+social+network.
+* Print the text of the response object r by using its text attribute and passing the result to the print() function.
