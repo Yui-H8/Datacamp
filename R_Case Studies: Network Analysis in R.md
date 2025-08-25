@@ -1,6 +1,5 @@
 # Case Studies: Network Analysis in R
 ---
-## 1
 ### Finding Dyads and Triads
 * Do a dyad census using the dyad_census() function.
 * Do a triad census using the triad_census() function.
@@ -277,4 +276,4 @@ ggplot(metrics_by_graph, aes(x = date, y = score, color = metric)) +
 - sapply(..., reciprocity)：**相互性（リンクの双方向性）**を計算
 - date = d：各グラフに対応する日付
 ---
-## 2
+
