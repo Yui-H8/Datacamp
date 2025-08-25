@@ -1,6 +1,6 @@
 # Intermediate Importing Data in Python
 ---
-## 1
+## 1 Importing data from the Internet
 ---
 ### Importing flat files from the web: your turn!
 * Import the function urlretrieve from the subpackage urllib.request.
@@ -242,4 +242,4 @@ for link in a_tags:
     print(link.get('href'))
 ```
 ---
-## 2
+## 2 Interacting with APIs to import data from the web
