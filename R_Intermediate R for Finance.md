@@ -112,3 +112,22 @@ dates - origin
 * Another vector, dates2 has also been created for you.
 * Use weekdays() to determine what day of the week the dates fell on, and assign them to the names of dates2 using names().
 Print dates2.
+```r
+# dates
+dates <- as.Date(c("2017-01-02", "2017-05-03", "2017-08-04", "2017-10-17"))
+
+# Extract the months
+months(dates)
+
+# Extract the quarters
+quarters(dates)
+
+# dates2
+dates2 <- as.Date(c("2017-01-02", "2017-01-03", "2017-01-04", "2017-01-05"))
+
+# Assign the weekdays() of dates2 as the names()
+names(dates2) <- weekdays(dates2)
+
+# Print dates2
+dates2
+```
