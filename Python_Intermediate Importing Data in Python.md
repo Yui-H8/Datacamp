@@ -377,3 +377,36 @@ print(df.head())
 ```
 ### A little bit of Twitter text analysis
 * Within the for loop for index, row in df.iterrows():, the code currently increases the value of clinton by 1 each time a tweet (text row) mentioning 'Clinton' is encountered; complete the code so that the same happens for trump, sanders and cruz.
+```python
+# Initialize list to store tweet counts
+[clinton, trump, sanders, cruz] = [0, 0, 0, 0]
+
+# Iterate through df, counting the number of tweets in which
+# each candidate is mentioned
+for index, row in df.iterrows():
+    clinton += word_in_text('clinton', row['text'])
+    trump += word_in_text('trump', row['text'])
+    sanders += word_in_text('sanders', row['text'])
+    cruz += word_in_text('cruz', row['text'])
+```
+### Plotting your Twitter data
+* Import both matplotlib.pyplot and seaborn using the aliases plt and sns, respectively.    
+Complete the arguments of sns.barplot:
+* The first argument should be the list of labels to appear on the x-axis (created in the previous step).
+* The second argument should be a list of the variables you wish to plot, as produced in the previous exercise (i.e. a list containing clinton, trump, etc).
+```python
+# Import packages
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Set seaborn style
+sns.set(color_codes=True)
+
+# Create a list of labels:cd
+cd = ['clinton', 'trump', 'sanders', 'cruz']
+
+# Plot the bar chart
+ax = sns.barplot(x = cd, y = [clinton, trump, sanders, cruz])
+ax.set(ylabel="count")
+plt.show()
+```
