@@ -316,3 +316,5 @@ json_data = r.json()
 pizza_extract = json_data['query']['pages']['24768']['extract']
 print(pizza_extract)
 ```
+---
+### Streaming tweets
