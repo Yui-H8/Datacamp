@@ -375,3 +375,5 @@ df = pd.DataFrame(tweets_data, columns=['text', 'lang'])
 # Print head of DataFrame
 print(df.head())
 ```
+### A little bit of Twitter text analysis
+* Within the for loop for index, row in df.iterrows():, the code currently increases the value of clinton by 1 each time a tweet (text row) mentioning 'Clinton' is encountered; complete the code so that the same happens for trump, sanders and cruz.
