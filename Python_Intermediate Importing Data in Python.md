@@ -410,3 +410,6 @@ ax = sns.barplot(x = cd, y = [clinton, trump, sanders, cruz])
 ax.set(ylabel="count")
 plt.show()
 ```
+---
+## 3. Final Thoughts
+---
