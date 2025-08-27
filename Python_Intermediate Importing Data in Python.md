@@ -295,7 +295,8 @@ json_data = r.json()
 for k in json_data.keys():
     print(k + ': ', json_data[k])
 ```
-### Checking out the Wikipedia API
+
+## 3. Checking out the Wikipedia API
 * Assign the relevant URL to the variable url.
 * Apply the json() method to the response object r and store the resulting dictionary in the variable json_data.
 * The variable pizza_extract holds the HTML of an extract from Wikipedia's Pizza page as a string; use the function print() to print this string to the shell.
@@ -410,6 +411,4 @@ ax = sns.barplot(x = cd, y = [clinton, trump, sanders, cruz])
 ax.set(ylabel="count")
 plt.show()
 ```
----
-## 3. Final Thoughts
 ---
