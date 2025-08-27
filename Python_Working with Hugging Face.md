@@ -197,9 +197,25 @@ print(short_summary_text[0]["summary_text"])
 2. Repeat these steps for a summarization pipeline that has a minimum length of 50 and maximum of 150.
 ```python
 # Repeat for a summary between 50 and 150 tokens
-long_summarizer = pipeline(task="summarization", model="cnicu/t5-small-booksum", min_new_tokens = 50, max_new_tokens = 100)
+long_summarizer = pipeline(task="summarization", model="cnicu/t5-small-booksum", min_new_tokens = 50, max_new_tokens = 150)
 
 long_summary_text = long_summarizer(original_text)
 
 print(long_summary_text[0]["summary_text"])
+```
+---
+### Tokenizing text with AutoTokenizer
+* Import the required class from transformers, load the tokenizer using the correct method, and split input text into tokens.
+```python
+# Import necessary library for tokenization
+from transformers import AutoTokenizer
+
+# Load the tokenizer
+tokenizer = AutoTokenizer.from_pretrained("distilbert-base-uncased-finetuned-sst-2-english")
+
+# Split input text into tokens
+tokens = tokenizer.tokenize("AI: Making robots smarter and humans lazier!")
+
+# Display the tokenized output
+print(f"Tokenized output: {tokens}")
 ```
