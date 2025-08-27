@@ -56,3 +56,8 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 
 ### Tableau
 * Introduction to Tableau
+
+---
+
+### AI
+* Working with the OpenAI API
