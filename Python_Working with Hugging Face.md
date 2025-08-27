@@ -184,3 +184,22 @@ summary_text = summarizer(original_text)
 print(f"Original text length: {len(original_text)}")
 print(f"Summary length: {len(summary_text[0]['summary_text'])}")
 ```
+### Adjusting the summary length
+1. Create a summarization pipeline to summarize original_text to between 1 and 10 tokens.
+```python
+# Generate a summary of original_text between 1 and 10 tokens
+short_summarizer = pipeline(task="summarization", model="cnicu/t5-small-booksum", min_new_tokens = 1, max_new_tokens = 10)
+
+short_summary_text = short_summarizer(original_text)
+
+print(short_summary_text[0]["summary_text"])
+```
+2. Repeat these steps for a summarization pipeline that has a minimum length of 50 and maximum of 150.
+```python
+# Repeat for a summary between 50 and 150 tokens
+long_summarizer = pipeline(task="summarization", model="cnicu/t5-small-booksum", min_new_tokens = 50, max_new_tokens = 100)
+
+long_summary_text = long_summarizer(original_text)
+
+print(long_summary_text[0]["summary_text"])
+```
