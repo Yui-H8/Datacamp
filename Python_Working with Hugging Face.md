@@ -168,3 +168,19 @@ output = classifier(text, categories)
 # Print the top label and its score
 print(f"Top Label: {output['labels'][0]} with score: {output['scores'][0]}")
 ```
+---
+### Summarizing long text
+* Create the summarization pipeline using the task "summarization" and save as summarizer.
+* Use the new pipeline to create a summary of the text and save as summary_text.
+* Compare the length of the original and summary text.
+```python
+# Create the summarization pipeline
+summarizer = pipeline(task="summarization", model="cnicu/t5-small-booksum")
+
+# Summarize the text
+summary_text = summarizer(original_text)
+
+# Compare the length
+print(f"Original text length: {len(original_text)}")
+print(f"Summary length: {len(summary_text[0]['summary_text'])}")
+```
