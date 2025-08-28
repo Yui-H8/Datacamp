@@ -268,3 +268,26 @@ Feel free to let me know if you need any further analysis or assistance!
     The reviews reflect a mixed experience with the shoes. Some users are thrilled with their aesthetics and quality, describing them as "unbelievably good" and expressing excitement to showcase them. However, others have faced significant issues, noting that the shoes fell apart after minimal use and that they compromise on comfort. Potential buyers should weigh the stylish design against the durability
 
 ### One-shot prompting: will it be enough?
+* Add the example Love these! = 5 to the start of the prompt, and add = after each review in the prompt to indicate how the result should be formatted.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+# Add the example to the prompt
+prompt = """Classify sentiment as 1-5 (negative to positive):
+1. Love these! = 5
+2. Unbelievably good! ____
+3. Shoes fell apart on the second use. ____
+4. The shoes look nice, but they aren't very comfortable. ____
+5. Can't wait to show them off! ____"""
+
+response = client.chat.completions.create(model="gpt-4o-mini", messages=[{"role": "user", "content": prompt}], max_completion_tokens=100)
+print(response.choices[0].message.content)
+```
+Answer: Here are the sentiment classifications:
+
+1. Love these! = 5
+2. Unbelievably good! = 5
+3. Shoes fell apart on the second use. = 1
+4. The shoes look nice, but they aren't very comfortable. = 2
+5. Can't wait to show them off! = 5
+### Few-shot prompting: all the examples!
