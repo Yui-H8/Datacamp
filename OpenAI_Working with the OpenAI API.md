@@ -114,5 +114,22 @@ response = client.chat.completions.create(
 print(response.choices[0].message.content)
 ```
 Answer: A plane is a vehicle that is typically powered by jet engines or propellers. It has wings and is designed to carry passengers and/or cargo through the air. Planes have become a ubiquitous part of modern society, and are used for a wide variety of purposes, such as commuting, travel, and transportation of goods over long distances. Planes are often associated with freedom, adventure, and the ability to connect people across the globe.
+### Text summarization
+* Use an f-string to insert finance_text into prompt.
+* Create a request, sending the prompt provided; use a maximum of 400 tokens.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
 
+# Use an f-string to format the prompt
+prompt = f"""Summarize the following text into two concise bullet points:
+{finance_text}"""
 
+# Create a request to the Chat Completions endpoint
+response = client.chat.completions.create(
+  model="gpt-4o-mini",
+  messages=[{"role": "user", "content": prompt}],
+  max_completion_tokens=400
+)
+
+print(response.choices[0].message.content)
+```
