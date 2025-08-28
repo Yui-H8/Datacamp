@@ -209,6 +209,8 @@ response = client.chat.completions.create(
 )
 print(response.choices[0].message.content)
 ```
+* temperature=1(0=Deterministic, 2=Random)
+    
 Answer: 
 #### **SonicPro Headphones: Elevate Your Audio Experience**
 
@@ -218,3 +220,8 @@ Discover a new world of sound with the SonicPro Headphones, the perfect fusion o
 Immerse yourself fully in your favorite melodies, podcasts, or audiobooks with our advanced Active Noise Cancellation technology. The SonicPro headphones
 
 ---
+Shot prompting : AIに例を提示して精度を上げること、モデルの応答を導くためにプロンプトに例を含めること　　　
+1. Zero-shot 指示のみ
+2. One-shot 応答を導くための単一の例
+3. Few-shot 複数の例＝テキストを定義済みに分類するのに役立つ
+### Zero-shot prompting with reviews
