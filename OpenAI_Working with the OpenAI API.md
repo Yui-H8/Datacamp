@@ -225,3 +225,46 @@ Shot prompting : AIに例を提示して精度を上げること、モデルの�
 2. One-shot 応答を導くための単一の例
 3. Few-shot 複数の例＝テキストを定義済みに分類するのに役立つ
 ### Zero-shot prompting with reviews
+* Define a prompt to classify the sentiment of the statements provided using the numbers 1 to 5 (positive to negative).
+* Create a request to the Chat Completions endpoint to send this prompt to gpt-4o-mini.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+# Define a multi-line prompt to classify sentiment
+prompt = """____:
+1. Unbelievably good!
+2. Shoes fell apart on the second use.
+3. The shoes look nice, but they aren't very comfortable.
+4. Can't wait to show them off!"""
+
+# Create a request to the Chat Completions endpoint
+response = client.chat.completions.create(
+  model="gpt-4o-mini",
+  messages=[{"role": "user", "content": prompt}],
+  max_completion_tokens=100
+)
+
+print(response.choices[0].message.content)
+```
+Answer: It looks like you're categorizing reviews for a product, likely shoes. Here’s an organized representation of the feedback based on the sentiment of each point:
+
+**Positive Reviews:**
+1. Unbelievably good!
+4. Can't wait to show them off!
+
+**Negative Reviews:**
+2. Shoes fell apart on the second use.
+3. The shoes look nice, but they aren't very comfortable.
+
+Feel free to let me know if you need any further analysis or assistance!
+
+<script.py> output:
+    It seems like you're looking for a conclusion or summary for a set of reviews. Here’s a suggestion:
+    
+    ---
+    
+    **Overall Impression of the Shoes:**
+    
+    The reviews reflect a mixed experience with the shoes. Some users are thrilled with their aesthetics and quality, describing them as "unbelievably good" and expressing excitement to showcase them. However, others have faced significant issues, noting that the shoes fell apart after minimal use and that they compromise on comfort. Potential buyers should weigh the stylish design against the durability
+
+### One-shot prompting: will it be enough?
