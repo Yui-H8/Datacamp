@@ -184,3 +184,37 @@ Answer: <script.py> output:
 - 40-hour battery life
 - Foldable design
 * Experiment with max_completion_tokens and temperature settings to see how they affect the output.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+# Create a detailed prompt
+prompt = """
+"Write a compelling and detailed product description for the SonicPro headphones, emphasizing the following features:
+
+Active Noise Cancellation (ANC): Describe the advanced noise-canceling technology, highlighting how it creates an immersive audio experience by blocking out external distractions.
+
+40-hour Battery Life: Explain the impressive battery performance, focusing on how the headphones allow for long-lasting usage without frequent charging, perfect for travel or extended listening sessions.
+
+Foldable Design: Highlight the foldable nature of the headphones, making them compact and easy to store, ideal for on-the-go use and saving space when not in use.
+
+Include a balance of technical details and customer-friendly language that would appeal to both tech enthusiasts and casual listeners."
+"""
+
+response = client.chat.completions.create(
+    model="gpt-4o-mini",
+    messages=[{"role": "user", "content": prompt}],
+    # Experiment with max_completion_tokens and temperature settings
+    max_completion_tokens=100,
+    temperature=1
+)
+print(response.choices[0].message.content)
+```
+Answer: 
+#### **SonicPro Headphones: Elevate Your Audio Experience**
+
+Discover a new world of sound with the SonicPro Headphones, the perfect fusion of cutting-edge technology and user-friendly design. Whether you're a dedicated audiophile or just someone who appreciates quality sound, the SonicPro headphones are designed to deliver an unmatched listening experience.
+
+#### **Active Noise Cancellation (ANC)**     
+Immerse yourself fully in your favorite melodies, podcasts, or audiobooks with our advanced Active Noise Cancellation technology. The SonicPro headphones
+
+---
