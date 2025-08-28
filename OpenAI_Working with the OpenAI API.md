@@ -155,3 +155,32 @@ output_tokens = max_completion_tokens
 cost = (input_tokens * input_token_price + output_tokens * output_token_price)
 print(f"Estimated cost: ${cost}")
 ```
+---
+### Content generation
+* Create a request to create a slogan for a new restaurant; set the maximum number of tokens to 100.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+# Create a request to the Chat Completions endpoint
+response = client.chat.completions.create(
+  model="gpt-4o-mini",
+  messages=[{"role": "user", "content": "Create a request to create a slogan for a new restaurant"}],
+  max_completion_tokens=100
+)
+
+print(response.choices[0].message.content)
+```
+Answer: <script.py> output:
+    **Subject: Request for Slogan Ideas for Our New Restaurant**
+    
+    Dear [Creative Team/Marketing Specialist],
+    
+    I hope this message finds you well! We are in the exciting process of launching our new restaurant, [Restaurant Name], and we would love your expertise in crafting a memorable slogan that captures our essence.
+    
+    Our restaurant will feature [brief description of the cuisine/style, e.g., "authentic Italian dishes made with locally sourced ingredients"] and aims to create an inviting atmosphere where guests feel at home.
+### Generating a product description
+* Create a detailed prompt to generate a product description for SonicPro headphones, including:
+- Active noise cancellation (ANC)
+- 40-hour battery life
+- Foldable design
+* Experiment with max_completion_tokens and temperature settings to see how they affect the output.
