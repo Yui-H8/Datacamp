@@ -91,6 +91,28 @@ response = client.chat.completions.create(
 # Extract the content from the response
 print(response.choices[0].message.content)
 ```
+---
+## 2. Summarizing and editing text
+---
+### Find and replace
+* Create a request to the Chat Completions endpoint; use a maximum of 100 tokens.
+* Extract and print the text response from the API.
+```python
+cclient = OpenAI(api_key="<OPENAI_API_TOKEN>")
 
+prompt="""Replace car with plane and adjust phrase:
+A car is a vehicle that is typically powered by an internal combustion engine or an electric motor. It has four wheels, and is designed to carry passengers and/or cargo on roads or highways. Cars have become a ubiquitous part of modern society, and are used for a wide variety of purposes, such as commuting, travel, and transportation of goods. Cars are often associated with freedom, independence, and mobility."""
+
+# Create a request to the Chat Completions endpoint
+response = client.chat.completions.create(
+  model="gpt-4o-mini",
+  messages=[{"role": "user", "content": prompt}],
+  max_completion_tokens=100
+)
+
+# Extract and print the response text
+print(response.choices[0].message.content)
+```
+Answer: A plane is a vehicle that is typically powered by jet engines or propellers. It has wings and is designed to carry passengers and/or cargo through the air. Planes have become a ubiquitous part of modern society, and are used for a wide variety of purposes, such as commuting, travel, and transportation of goods over long distances. Planes are often associated with freedom, adventure, and the ability to connect people across the globe.
 
 
