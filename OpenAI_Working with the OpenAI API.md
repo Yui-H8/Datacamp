@@ -78,4 +78,19 @@ Here’s to new beginnings and the exciting challenges ahead! 🚀
 Feel free to customize it to match your personality and any specific details you want to include!
 
 
+### Digging into the response
+* Extract the content from the response, which is nested inside the message attribute.
+```Python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+response = client.chat.completions.create(
+  model="gpt-4o-mini",
+  messages=[{"role": "user", "content": "Quick productivity tip."}]
+)
+
+# Extract the content from the response
+print(response.choices[0].message.content)
+```
+
+
 
