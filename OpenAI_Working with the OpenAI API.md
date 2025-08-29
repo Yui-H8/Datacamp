@@ -384,3 +384,34 @@ response = client.chat.completions.create(
 print(response.choices[0].message.content)
 ```
 Answer: Greece is a southeastern European country known for its rich history and significant contributions to Western civilization. It is comprised of a mainland peninsula and numerous islands in the Aegean and Ionian Seas. The capital, Athens, is famed for its ancient landmarks like the Acropolis. Greece has a Mediterranean climate, a diverse landscape, and is celebrated for its cuisine, philosophical heritage, and vibrant culture. The country is a member of the European Union and uses the Euro as its currency.
+### More assistant messages!
+* Expand your previous messages to include additional examples of other countries, which are stored as example1, response1, example2, response2, example3, and response3.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+response = client.chat.completions.create(
+   model="gpt-4o-mini",
+   # Add in the extra examples and responses
+   messages=[
+       {"role": "system", "content": "You are a helpful Geography tutor that generates concise summaries for different countries."},
+       {"role": "user", "content": "Give me a quick summary of Portugal."},
+       {"role": "assistant", "content": "Portugal is a country in Europe that borders Spain. The capital city is Lisboa."},
+       {"role": "user", "content": "How about Japan?"},
+       {"role": "assistant", "content": "Japan is an island nation in Asia."},
+       {"role": "user", "content": "The geographical features of Rome are"},
+       {"role": "assistant", "content": "Rome is the capital of Italy and is geographically located along the Tiber River. The Tiber flows through the heart of the city and has been deeply intertwined with Rome's development and history."},
+       {"role": "user", "content": "The number of rotations of the Earth's axis"},
+       {"role": "assistant", "content": "I'm sorry, I can answer questions about geographical features."},
+       {"role": "user", "content": "Give me a quick summary of Greece."}
+   ]
+)
+
+print(response.choices[0].message.content)
+```
+Answer: ERROR! Session/line number was not unique in database. History logging moved to new session 6
+Greece is a southeastern European country known for its rich history and contributions to culture, philosophy, and politics. It consists of a mainland and numerous islands, with Athens as its capital. Greece features diverse landscapes, including mountainous terrain and beautiful coastlines along the Aegean and Ionian Seas. It is famous for ancient landmarks like the Acropolis and its significant role in the development of Western civilization.
+
+<script.py> output:
+    Greece is a southeastern European country known for its rich history, ancient landmarks, and beautiful islands. The capital is Athens, which is home to iconic sites like the Acropolis. Greece features a mountainous mainland and numerous islands in the Aegean and Ionian Seas. It is considered the cradle of Western civilization, influencing art, philosophy, and politics. The country has a Mediterranean climate, characterized by hot, dry summers and mild, wet winters.
+
+
