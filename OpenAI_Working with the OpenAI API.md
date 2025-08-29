@@ -367,3 +367,20 @@ Answer: Apologies, to focus on languages, we no longer create learning plans on 
  * Add the example question and answer provided as a user-assistant pair in the messages sent to the model.
  * Example Question: Give me a quick summary of Portugal.
  * Example Answer: Portugal is a country in Europe that borders Spain. The capital city is Lisboa.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+response = client.chat.completions.create(
+    model="gpt-4o-mini",
+    # Add a user and assistant message for in-context learning
+    messages=[
+        {"role": "system", "content": "You are a helpful Geography tutor that generates concise summaries for different countries."},
+        {"role": "user", "content": "Give me a quick summary of Portugal."},
+        {"role": "assistant", "content": "Portugal is a country in Europe that borders Spain. The capital city is Lisboa."},
+        {"role": "user", "content": "Give me a quick summary of Greece."}
+    ]
+)
+
+print(response.choices[0].message.content)
+```
+Answer: Greece is a southeastern European country known for its rich history and significant contributions to Western civilization. It is comprised of a mainland peninsula and numerous islands in the Aegean and Ionian Seas. The capital, Athens, is famed for its ancient landmarks like the Acropolis. Greece has a Mediterranean climate, a diverse landscape, and is celebrated for its cuisine, philosophical heritage, and vibrant culture. The country is a member of the European Union and uses the Euro as its currency.
