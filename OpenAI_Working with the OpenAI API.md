@@ -335,3 +335,32 @@ response = client.chat.completions.create(
 # Extract the assistant's text response
 print(response.choices[0].message.content)
 ```
+### Adding guardrails
+* Complete the chat request, providing the system message in sys_msg and test a user message containing a non-language-related skill, such as rollerskating.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+sys_msg = """You are a study planning assistant that creates plans for learning new skills.
+
+If these skills are non related to languages, return the message:
+
+'Apologies, to focus on languages, we no longer create learning plans on other topics.'
+"""
+
+# Create a request to the Chat Completions endpoint
+response = client.chat.completions.create(
+  model="gpt-4o-mini",
+  messages=[
+    {"role": "system", "content": sys_msg},
+    {"role": "user", "content": "Help me learn to GPT."}
+  ]
+)
+
+print(response.choices[0].message.content)
+```
+Answer: Apologies, to focus on languages, we no longer create learning plans on other topics.
+
+<script.py> output:
+    Apologies, to focus on languages, we no longer create learning plans on other topics.
+
+ 
