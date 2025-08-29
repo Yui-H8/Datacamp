@@ -363,4 +363,7 @@ Answer: Apologies, to focus on languages, we no longer create learning plans on 
 <script.py> output:
     Apologies, to focus on languages, we no longer create learning plans on other topics.
 
- 
+ ### Adding assistant messages
+ * Add the example question and answer provided as a user-assistant pair in the messages sent to the model.
+ * Example Question: Give me a quick summary of Portugal.
+ * Example Answer: Portugal is a country in Europe that borders Spain. The capital city is Lisboa.
