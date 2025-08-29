@@ -61,3 +61,4 @@ https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
 
 ### AI
 * Working with the OpenAI API
+* Understanding Artificial Intelligence
