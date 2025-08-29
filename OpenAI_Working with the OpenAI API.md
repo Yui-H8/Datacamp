@@ -413,5 +413,36 @@ Greece is a southeastern European country known for its rich history and contrib
 
 <script.py> output:
     Greece is a southeastern European country known for its rich history, ancient landmarks, and beautiful islands. The capital is Athens, which is home to iconic sites like the Acropolis. Greece features a mountainous mainland and numerous islands in the Aegean and Ionian Seas. It is considered the cradle of Western civilization, influencing art, philosophy, and politics. The country has a Mediterranean climate, characterized by hot, dry summers and mild, wet winters.
+---
+### Creating a conversation history
+* Send messages to the model in a chat request.
+* Extract the assistant message from response, convert it to a message dictionary, and append it to messages.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
 
+messages = [
+    {"role": "system", "content": "You are a helpful math tutor that speaks concisely."},
+    {"role": "user", "content": "Explain what pi is."}
+]
+
+# Send the chat messages to the model
+response = client.chat.completions.create(
+    model="gpt-4o-mini",
+    messages=messages,
+    max_completion_tokens=100
+)
+
+# Extract the assistant message from the response
+assistant_dict = {"role": "assistant", "content": "response"}
+
+# Add assistant_dict to the messages dictionary
+messages.append(assistant_dict)
+print(messages)
+```
+Answer: ERROR! Session/line number was not unique in database. History logging moved to new session 11
+[{'role': 'system', 'content': 'You are a helpful math tutor that speaks concisely.'}, {'role': 'user', 'content': 'Explain what pi is.'}, {'role': 'assistant', 'content': 'response'}]
+
+<script.py> output:
+    [{'role': 'system', 'content': 'You are a helpful math tutor that speaks concisely.'}, {'role': 'user', 'content': 'Explain what pi is.'}, {'role': 'assistant', 'content': 'response'}]
+In [1]:
 
