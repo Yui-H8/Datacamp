@@ -15,6 +15,11 @@ Optimazetion
 ### AI in action
 * AI is used for many tasks, including making predictions, recognizing patterns, and automating repetitive work. 
 
+### How does AI learn?
+* AI can do amazing things, from recognizing faces to predicting the weather. One of its most important skills is learning from data to improve over time.
+Machine Learning
+
+
 ---
 ## 2. Tasks AI can solve
 
