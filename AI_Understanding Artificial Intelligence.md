@@ -34,10 +34,14 @@ Machine Learning
 ex. Temperature and ultrasonic sensors to detect people's presence in rooms of the house and regulate room temperature accordingly
 ### Structured or unstructured?
 Datasets are no longer just lists of registries following a tabular row-column format. More and more AI solutions can handle data collections in a variety of formats: images, videos, text, audio, etc.
+### Training and classifying with penguins
 
 
 
 ---
 ## 3. Harnessing AI in Organizations
 
+
+
+---
 ## 4. The human side of AI
