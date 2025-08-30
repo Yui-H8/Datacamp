@@ -12,6 +12,8 @@ AI comes in different forms, but not all AI is created equal! Some AI systems ar
 * Which AI capability is most essential for a system that helps a delivery company find the fastest routes for their drivers?    
 Optimazetion
 
+### AI in action
+* AI is used for many tasks, including making predictions, recognizing patterns, and automating repetitive work. 
 
 ---
 ## 2. Tasks AI can solve
