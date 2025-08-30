@@ -29,6 +29,8 @@ Machine Learning
  
 ---
 ## 2. Tasks AI can solve
+### Unmasking a hotel booking AI system
+### The AI and Internet-of-Things (IoT) symbiosis
 
 ## 3. Harnessing AI in Organizations
 
