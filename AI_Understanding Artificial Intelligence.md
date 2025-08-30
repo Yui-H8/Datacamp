@@ -19,7 +19,14 @@ Optimazetion
 * AI can do amazing things, from recognizing faces to predicting the weather. One of its most important skills is learning from data to improve over time.
 Machine Learning
 
+### Listen and learn
+* AI is made up of different areas that work together to create smart systems. Some AI applications combine multiple fields to achieve their goals.     
+1. Natural Langage Processing  (NLP)
+2. Knowledge Reoresentation & Reasoning
+3. Deep Learning
+4. Speech or Text Output
 
+ 
 ---
 ## 2. Tasks AI can solve
 
