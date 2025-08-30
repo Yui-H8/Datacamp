@@ -31,6 +31,7 @@ Machine Learning
 ## 2. Tasks AI can solve
 ### Unmasking a hotel booking AI system
 ### The AI and Internet-of-Things (IoT) symbiosis
+ex. Temperature and ultrasonic sensors to detect people's presence in rooms of the house and regulate room temperature accordingly
 
 ## 3. Harnessing AI in Organizations
 
