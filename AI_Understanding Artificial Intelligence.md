@@ -35,6 +35,7 @@ ex. Temperature and ultrasonic sensors to detect people's presence in rooms of t
 ### Structured or unstructured?
 Datasets are no longer just lists of registries following a tabular row-column format. More and more AI solutions can handle data collections in a variety of formats: images, videos, text, audio, etc.
 ### Training and classifying with penguins
+The Internet houses a wealth of publicly available datasets for beginners who wish to understand the basics of Machine Learning in practice.
 
 
 
