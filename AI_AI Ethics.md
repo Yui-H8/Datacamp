@@ -15,12 +15,17 @@ Based on your understanding of AI ethics, select the actions that align with the
 2. AlpacaAdvantage clearly defines who is responsible if the AI system makes a mistake in shortlisting candidates.
 3. The reasoning behind AI's candidate selection is accessible and understandable to the applicants.
 
-### 
-
+### Striking a balance
+* Which issue describes a potential challenge with balancing bias and fairness?     
+LlamaFlix might end up ignoring niche content, thus showing favoritism towards mainstream content.
 
 
 ---
 ## 2. Below the Surface: AI Ethics
+
+### Transparent AI system
+
+
 
 ---
 ## 3. The Way Forward: AI Ethics
