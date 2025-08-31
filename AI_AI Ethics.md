@@ -40,3 +40,5 @@ Accountability in AI is mainly the responsibility of AI producers, not the consu
 * SustaInsights created two teams one for producing AI models and another for ensuring the responsible use of these models by their clients.
 ---
 ## 3. The Way Forward: AI Ethics
+### How would you apply XAI?
+* Explainable AI (XAI) is a booming area of development within the AI space. However, it has been largely overshadowed by advancements in more "flashy" forms of AI.
