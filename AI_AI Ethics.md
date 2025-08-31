@@ -5,3 +5,6 @@
 
 ---
 ## 2. Below the Surface: AI Ethics
+
+---
+## 3. The Way Forward: AI Ethics
