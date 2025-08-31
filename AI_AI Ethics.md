@@ -30,5 +30,11 @@ LlamaFlix might end up ignoring niche content, thus showing favoritism towards m
 1. AI might favor applicants who're the CEO's alumni.
 2. AI might prefer applicants who have worked with larger construction companies.    
 
+### Can we make things right?
+### Accountability common misconceptions
+* Which of the following statements represents a common misconception about AI accountability?
+Accountability in AI is mainly the responsibility of AI producers, not the consumers.
+
+
 ---
 ## 3. The Way Forward: AI Ethics
