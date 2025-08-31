@@ -24,7 +24,8 @@ LlamaFlix might end up ignoring niche content, thus showing favoritism towards m
 ## 2. Below the Surface: AI Ethics
 
 ### Transparent AI system
-
+### Transparency best practices
+### Tackling fairness issue
 
 
 ---
