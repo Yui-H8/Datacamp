@@ -35,6 +35,8 @@ LlamaFlix might end up ignoring niche content, thus showing favoritism towards m
 * Which of the following statements represents a common misconception about AI accountability?
 Accountability in AI is mainly the responsibility of AI producers, not the consumers.
 
-
+### Who's responsible?
+* A fictional consulting firm, SustaInsights, is implementing AI solutions for their clients across different industries.
+* SustaInsights created two teams one for producing AI models and another for ensuring the responsible use of these models by their clients.
 ---
 ## 3. The Way Forward: AI Ethics
