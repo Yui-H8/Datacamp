@@ -26,7 +26,9 @@ LlamaFlix might end up ignoring niche content, thus showing favoritism towards m
 ### Transparent AI system
 ### Transparency best practices
 ### Tackling fairness issue
-
+* What potential fairness issue(s) could BuiltRight be exposed to due to relying on an AI system for selecting candidates?     
+1. AI might favor applicants who're the CEO's alumni.
+2. AI might prefer applicants who have worked with larger construction companies.    
 
 ---
 ## 3. The Way Forward: AI Ethics
