@@ -84,3 +84,5 @@ So let us cherish this bond we share,
 With curiosity, kindness, and care,  
 For in the heart of ChatGPT,  
 Lies the spark of our humanity.  
+
+### Exploring prompt engineering
