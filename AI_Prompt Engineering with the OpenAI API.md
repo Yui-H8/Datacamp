@@ -86,3 +86,5 @@ For in the heart of ChatGPT,
 Lies the spark of our humanity.  
 
 ### Exploring prompt engineering
+* Craft a prompt that asks the model to generate a poem about ChatGPT while ensuring that it is written in basic English that a child can understand.
+* Get the response using the get_response() function.
