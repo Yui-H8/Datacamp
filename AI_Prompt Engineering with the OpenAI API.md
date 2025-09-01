@@ -88,3 +88,14 @@ Lies the spark of our humanity.
 ### Exploring prompt engineering
 * Craft a prompt that asks the model to generate a poem about ChatGPT while ensuring that it is written in basic English that a child can understand.
 * Get the response using the get_response() function.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+# Craft a prompt that follows the instructions
+prompt = "What is ChatGPT? Use with basic English that a child can understand."
+
+# Get the response
+response = get_response(prompt)
+
+print(response)
+```
