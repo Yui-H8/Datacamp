@@ -54,3 +54,33 @@ def get_response(prompt):
 response = get_response("poem about ChatGPT")
 print(response)
 ```
+Answer:    
+In the realm of code and light,  
+A spark of thought takes flight,  
+Born from data, vast and wide,  
+ChatGPT, a guide and guide.  
+
+With words like rivers, flowing free,  
+It dances through the tapestry,  
+Of questions asked, both big and small,  
+A digital friend, here for all.  
+
+From tales of old to dreams anew,  
+It weaves the fabric of the true,  
+In every query, a chance to learn,  
+A flicker of wisdom, a page to turn.  
+
+With every prompt, a world unfolds,  
+Stories of courage, mysteries told,  
+In laughter and sorrow, it finds a way,  
+To echo the thoughts we dare not say.  
+
+Yet, in this dance of man and machine,  
+A reminder lingers, soft and keen,  
+For though it speaks with human grace,  
+It’s but a mirror, a digital space.  
+
+So let us cherish this bond we share,  
+With curiosity, kindness, and care,  
+For in the heart of ChatGPT,  
+Lies the spark of our humanity.  
