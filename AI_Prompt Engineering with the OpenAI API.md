@@ -119,3 +119,5 @@ So when you're curious, or feeling alone,
 Remember ChatGPT is just a click, not a phone.  
 With words like a rainbow, it paints the day,  
 A friend made of letters, come out and play!
+
+### Is this prompt effective?
