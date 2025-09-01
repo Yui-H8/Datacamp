@@ -63,3 +63,4 @@ https://app.datacamp.com/learn/courses/
 * Working with the OpenAI API
 * Understanding Artificial Intelligence
 * AI Ethics
+* Prompt Engineering with the OpenAI API
