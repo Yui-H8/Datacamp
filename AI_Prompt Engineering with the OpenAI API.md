@@ -25,29 +25,19 @@ Answer:
     Here are some effective conversation starters for networking events:
     
     1. **Industry Insights**: "What trends are you seeing in our industry right now? Any exciting developments?"
-    
     2. **Event Experience**: "Have you attended this event before? What do you think of it so far?"
-    
     3. **Personal Projects**: "What are you currently working on that you're passionate about?"
-    
     4. **Professional Journey**: "How did you get started in your field? What has your career path been like?"
-    
     5. **Challenges and Solutions**: "What’s the biggest challenge you’ve faced in your work lately, and how did you overcome it?"
-    
     6. **Tech and Tools**: "Are there any tools or technologies you find indispensable in your work?"
-    
     7. **Learning Opportunities**: "Have you taken any interesting courses or trainings recently that you'd recommend?"
-    
     8. **Networking Goals**: "What do you hope to gain from this event? Any specific connections you're looking to make?"
-    
     9. **Books and Resources**: "Have you read any good books or articles lately that have influenced your work?"
-    
     10. **Future Trends**: "Where do you see our industry heading in the next few years?"
-    
     11. **Unusual Ice Breakers**: "If you could have dinner with anyone in the industry, who would it be and why?"
-    
     12. **Passion Projects**: "Outside of work, what hobbies or passions do you pursue?"
-    
     Using these starters can help you engage in meaningful conversations and build valuable connections.
 
-
+### Creating the get_response() function
+* Create a request to the chat.completions endpoint inside the get_response() function.
+* Try out the function with a prompt that asks the model to write a poem about ChatGPT.
