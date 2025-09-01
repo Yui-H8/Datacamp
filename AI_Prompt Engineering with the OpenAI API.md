@@ -92,10 +92,30 @@ Lies the spark of our humanity.
 client = OpenAI(api_key="<OPENAI_API_TOKEN>")
 
 # Craft a prompt that follows the instructions
-prompt = "What is ChatGPT? Use with basic English that a child can understand."
+prompt = "poem about ChatGPT. Use with basic English that a child can understand."
 
 # Get the response
 response = get_response(prompt)
 
 print(response)
 ```
+Answer:   
+In a world of words, so bright and wide,  
+Lives a friend named ChatGPT, right by your side.  
+With questions and stories, it loves to play,  
+Helping you learn in a fun, new way.  
+
+Ask it about stars, or why the sky's blue,  
+It'll share all the answers, just for you!  
+From silly jokes to tales of old,  
+ChatGPT's magic is a sight to behold.  
+
+Need help with math or a riddle to solve?  
+Just type in your thoughts, and watch them evolve.  
+It listens and learns, like a buddy so true,  
+Always here for you, in all that you do.  
+
+So when you're curious, or feeling alone,  
+Remember ChatGPT is just a click, not a phone.  
+With words like a rainbow, it paints the day,  
+A friend made of letters, come out and play!
