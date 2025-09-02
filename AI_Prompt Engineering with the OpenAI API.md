@@ -198,3 +198,20 @@ prompt = "Generate a table containing 10 books I should read if I am a science f
 response = get_response(prompt)
 print(response)
 ```
+Answer: 
+Here's a table of 10 must-read science fiction books:
+
+| Title                          | Author                | Year  |
+|--------------------------------|----------------------|-------|
+| Dune                           | Frank Herbert         | 1965  |
+| Neuromancer                    | William Gibson       | 1984  |
+| The Left Hand of Darkness      | Ursula K. Le Guin    | 1969  |
+| Foundation                     | Isaac Asimov         | 1951  |
+| Snow Crash                     | Neal Stephenson      | 1992  |
+| Hyperion                       | Dan Simmons          | 1989  |
+| The Dispossessed               | Ursula K. Le Guin    | 1974  |
+| Ender's Game                   | Orson Scott Card     | 1985  |
+| The Martian                    | Andy Weir            | 2011  |
+| The Three-Body Problem         | Liu Cixin            | 2008  |
+
+These books represent a mix of classic and contemporary science fiction, offering a variety of themes and styles for any sci-fi enthusiast.
