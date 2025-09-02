@@ -188,3 +188,13 @@ Answer:
 ### Generating a table
 * Craft a prompt that generates a table of 10 books, with columns for Title, Author, and Year, that you should read given that you are a science fiction lover.
 * Get the response.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+# Create a prompt that generates the table
+prompt = "Generate a table containing 10 books I should read if I am a science fiction lover, with columns for Title, Author, and Year."
+
+# Get the response
+response = get_response(prompt)
+print(response)
+```
