@@ -184,5 +184,5 @@ Answer:
     Alex steeled their heart, and with resolve, did bide.  
     To wield the power of the sphere, a choice both grave and grand,  
     To shape the course of destiny, with trembling heart and hand.
-
+---
 ### Generating a table
