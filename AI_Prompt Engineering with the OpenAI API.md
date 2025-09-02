@@ -186,3 +186,5 @@ Answer:
     To shape the course of destiny, with trembling heart and hand.
 ---
 ### Generating a table
+* Craft a prompt that generates a table of 10 books, with columns for Title, Author, and Year, that you should read given that you are a science fiction lover.
+* Get the response.
