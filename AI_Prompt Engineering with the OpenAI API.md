@@ -145,4 +145,16 @@ With a mix of excitement and caution, Alex activated the ship's scanning systems
 Determined to learn more, Alex carefully extracted the sphere using a specialized containment unit. As soon as it was aboard, the ship's systems began to react. Lights flickered, and the navigation console displayed a series
 ### Building specific and precise prompts
 * Craft a prompt that completes the given story with only two paragraphs in the style of Shakespeare; use f-string, and delimit the story with triple backticks (```).
-* 
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+# Create a request to complete the story
+prompt = f"""Complete the story delimited by triple backticks with only two paragraphs using the style of Shakespeare. 
+ ```{story}```"""
+
+# Get the generated response
+response = get_response(prompt)
+
+print("\n Original story: \n", story)
+print("\n Generated story: \n", response)
+```
