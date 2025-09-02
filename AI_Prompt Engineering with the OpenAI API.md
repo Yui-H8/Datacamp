@@ -158,3 +158,31 @@ response = get_response(prompt)
 print("\n Original story: \n", story)
 print("\n Generated story: \n", response)
 ```
+Answer:
+<script.py> output:
+    
+     Original story: 
+     
+    In a distant galaxy, there was a brave space explorer named Alex. Alex had spent years traveling through the cosmos, discovering new planets and meeting alien species. One fateful day, while exploring an uncharted asteroid belt, Alex stumbled upon a peculiar object that would change the course of their interstellar journey forever...
+    
+    
+     Generated story: 
+     In yon celestial realm, where stars do twinkle bright,  
+    Brave Alex, bold of heart, did chance upon a sight.  
+    A wondrous orb, aglow with hues of azure flame,  
+    Did beckon forth the traveler, whispering their name.  
+    With trembling hands, the explorer grasped the sphere so rare,  
+    And lo! A vision burst forth, a tapestry laid bare.  
+    A world of dreams and shadows, where time itself did bend,  
+    A prophecy of ages, where beginnings meet their end.  
+    
+    “Fair heavens! What dost thou reveal?” quoth Alex, eyes alight,  
+    “Shall I, a humble wanderer, embrace this fateful night?”  
+    Yet, as the stars did shimmer, a tempest brewed within,  
+    For knowledge oft begets a weighty, heavy sin.  
+    With courage as their compass, and fate a fickle guide,  
+    Alex steeled their heart, and with resolve, did bide.  
+    To wield the power of the sphere, a choice both grave and grand,  
+    To shape the course of destiny, with trembling heart and hand.
+
+### 
