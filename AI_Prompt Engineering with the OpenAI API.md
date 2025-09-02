@@ -121,3 +121,6 @@ With words like a rainbow, it paints the day,
 A friend made of letters, come out and play!
 
 ### Is this prompt effective?
+### Using delimited prompts with f-strings
+* Create a prompt asking to complete the variable story (provided to you as a string): use f-string, and delimit the story with triple backticks (```) to pass its content to the prompt.
+* Get the generated response.
