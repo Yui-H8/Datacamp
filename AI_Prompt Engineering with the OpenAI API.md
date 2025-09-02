@@ -144,3 +144,5 @@ With a mix of excitement and caution, Alex activated the ship's scanning systems
 
 Determined to learn more, Alex carefully extracted the sphere using a specialized containment unit. As soon as it was aboard, the ship's systems began to react. Lights flickered, and the navigation console displayed a series
 ### Building specific and precise prompts
+* Craft a prompt that completes the given story with only two paragraphs in the style of Shakespeare; use f-string, and delimit the story with triple backticks (```).
+* 
