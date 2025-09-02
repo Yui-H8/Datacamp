@@ -124,3 +124,16 @@ A friend made of letters, come out and play!
 ### Using delimited prompts with f-strings
 * Create a prompt asking to complete the variable story (provided to you as a string): use f-string, and delimit the story with triple backticks (```) to pass its content to the prompt.
 * Get the generated response.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+# Create a prompt that completes the story
+prompt = f"""Complete the story delimited by triple backticks. 
+ ```{story}```"""
+
+# Get the generated response 
+response = get_response(prompt)
+
+print("\n Original story: \n", story)
+print("\n Generated story: \n", response)
+```
