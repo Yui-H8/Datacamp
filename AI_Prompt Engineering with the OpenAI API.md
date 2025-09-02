@@ -143,3 +143,4 @@ The object was a shimmering, crystalline sphere, pulsating with a soft, ethereal
 With a mix of excitement and caution, Alex activated the ship's scanning systems. The readings were off the charts—this was no ordinary asteroid. The sphere was a relic of an ancient civilization, long lost to the annals of time. Legends spoke of such artifacts, said to hold the power to unlock the secrets of the universe.
 
 Determined to learn more, Alex carefully extracted the sphere using a specialized containment unit. As soon as it was aboard, the ship's systems began to react. Lights flickered, and the navigation console displayed a series
+### Building specific and precise prompts
