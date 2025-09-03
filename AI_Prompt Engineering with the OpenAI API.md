@@ -215,3 +215,7 @@ Here's a table of 10 must-read science fiction books:
 | The Three-Body Problem         | Liu Cixin            | 2008  |
 
 These books represent a mix of classic and contemporary science fiction, offering a variety of themes and styles for any sci-fi enthusiast.
+### Customizing output format
+* Create the instructions for the prompt, asking the model to determine the language and generate a suitable title for the pre-loaded text excerpt that will be provided using triple backticks (```) delimiters.
+* Create the output_format with directions to include the text, language, and title, each on a separate line, using 'Text:', 'Language:', and 'Title:' as prefixes for each line.
+* Create the final_prompt by combining all parts and the delimited text to use.
