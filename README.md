@@ -51,6 +51,7 @@ https://app.datacamp.com/learn/courses/
 * Dealing With Missing Data in R
 * Introduction to R for Finance
 * Intermediate R for Finance
+* Communicating with Data in the Tidyverse
 
 ---
 
