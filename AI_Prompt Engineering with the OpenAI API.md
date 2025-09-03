@@ -236,3 +236,8 @@ prompt = instructions + output_format + f"```{text}```"
 response = get_response(prompt)
 print(response)
 ```
+Answer: 
+- Text: The sun was setting behind the mountains, casting a warm golden glow across the landscape. Birds were chirping happily, and a gentle breeze rustled the leaves of the trees. It was a perfect evening for a leisurely stroll in the park
+- Language: English
+- Title: A Serene Evening in Nature
+### Using conditional prompts
