@@ -219,3 +219,20 @@ These books represent a mix of classic and contemporary science fiction, offerin
 * Create the instructions for the prompt, asking the model to determine the language and generate a suitable title for the pre-loaded text excerpt that will be provided using triple backticks (```) delimiters.
 * Create the output_format with directions to include the text, language, and title, each on a separate line, using 'Text:', 'Language:', and 'Title:' as prefixes for each line.
 * Create the final_prompt by combining all parts and the delimited text to use.
+```python
+client = OpenAI(api_key="<OPENAI_API_TOKEN>")
+
+# Create the instructions
+instructions = "You will be provided with a text delimited by triple backticks. Infer its language, then generate a suitable title for it. "
+
+# Create the output format
+output_format = """Use the following format for the output:
+         - Text: <the text>
+         - Language: <the text language>
+         - Title: <the generated title>"""
+
+# Create the final prompt
+prompt = instructions + output_format + f"```{text}```"
+response = get_response(prompt)
+print(response)
+```
