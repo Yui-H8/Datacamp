@@ -262,3 +262,10 @@ prompt = instructions + output_format + f"```{text}```"
 response = get_response(prompt)
 print(response)
 ```
+Answer: 
+<script.py> output:
+             - Text: The sun was setting behind the mountains, casting a warm golden glow across the landscape.
+             - Language: English
+             - Title: The Golden Glow of Sunset
+
+
