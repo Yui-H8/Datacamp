@@ -41,3 +41,4 @@ european_countries
 ilo_data <- ilo_data %>%
   filter(country %in% european_countries)
 ```
+### Some summary statistics
