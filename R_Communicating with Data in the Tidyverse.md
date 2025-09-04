@@ -15,3 +15,4 @@ ilo_data  %>%
 # Examine ilo_data
 ilo_data
 ```
+### Change variable types
