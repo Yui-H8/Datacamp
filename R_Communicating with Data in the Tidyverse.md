@@ -55,3 +55,4 @@ ilo_data %>%
   summarise(mean_hourly_compensation = mean(hourly_compensation),
             mean_working_hours = mean(working_hours))
 ```
+### A basic scatter plot
