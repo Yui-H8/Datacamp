@@ -42,3 +42,6 @@ ilo_data <- ilo_data %>%
   filter(country %in% european_countries)
 ```
 ### Some summary statistics
+* Have a look at the structure of the ilo_data set with str().
+* After this, group the data by year using the group_by() function.
+* Then, calculate the mean of both variables hourly_compensation and working_hours using the summarize() function.
