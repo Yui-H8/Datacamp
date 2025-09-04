@@ -16,3 +16,5 @@ ilo_data  %>%
 ilo_data
 ```
 ### Change variable types
+* Turn the variable year into a factor. Before turning it into a factor, turn it into a number using as.numeric(): call the as.numeric() function within the as.factor() function call.
+* Turn the variable country into a factor.
