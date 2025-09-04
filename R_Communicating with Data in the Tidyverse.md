@@ -56,3 +56,5 @@ ilo_data %>%
             mean_working_hours = mean(working_hours))
 ```
 ### A basic scatter plot
+* Filter the data for the year 2006. Save this filtered data set in a new variable called plot_data.
+* Use plot_data to create a scatter plot with working_hours on the x-axis and hourly_compensation on the y-axis.
