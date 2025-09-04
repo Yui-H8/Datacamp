@@ -18,3 +18,15 @@ ilo_data
 ### Change variable types
 * Turn the variable year into a factor. Before turning it into a factor, turn it into a number using as.numeric(): call the as.numeric() function within the as.factor() function call.
 * Turn the variable country into a factor.
+```r
+# Turn year and country into a factor
+ilo_data_corrected <- ilo_data %>%
+  mutate(
+    year = as.factor(as.numeric(year)),  # 年を数値に変換した後、因子に変換
+    country = as.factor(country)         # 国はそのまま因子に変換
+  )
+
+
+# See the results
+ilo_data_corrected
+```
