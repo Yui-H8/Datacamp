@@ -31,3 +31,5 @@ ilo_data_corrected <- ilo_data %>%
 ilo_data_corrected
 ```
 ### Filter the data for plotting
+* Print european_countries to the console.
+* Apply the filter() function to only retain countries which also appear in the european_countries vector. Use the %in% operator to retain only values that appear in the right-hand side of the operator.
