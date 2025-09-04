@@ -30,3 +30,4 @@ ilo_data_corrected <- ilo_data %>%
 # See the results
 ilo_data_corrected
 ```
+### Filter the data for plotting
