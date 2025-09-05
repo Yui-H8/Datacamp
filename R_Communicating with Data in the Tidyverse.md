@@ -85,3 +85,5 @@ ggplot(plot_data) +
     caption = "Data source: ILO, 2017"
   )
 ```
+---
+### Apply a default theme
