@@ -127,3 +127,7 @@ ilo_plot +
   theme_dark()
 ```
 ### Change the appearance of titles
+Using a custom theme() function call and element_text():
+* Change the font family of the text to "Bookman".
+* Additionally, change the color of the title and caption to "gray25" and "gray30", respectively.
+* Make the subtitle a little bigger by increasing the size to 12.
