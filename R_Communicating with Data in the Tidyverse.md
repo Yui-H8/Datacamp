@@ -67,3 +67,4 @@ plot_data <- ilo_data %>%
 ggplot(plot_data) +
   geom_point(aes(x = working_hours, y = hourly_compensation))
 ```
+### Add labels to the plot
