@@ -120,3 +120,4 @@ ilo_plot <- ggplot(plot_data) +
 ilo_plot +
   theme_minimal()
 ```
+3. Try out another theme on ilo_plot.
