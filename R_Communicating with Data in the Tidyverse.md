@@ -88,6 +88,20 @@ ggplot(plot_data) +
 ---
 ### Apply a default theme
 1. Assign your plot object into a variable called ilo_plot so you can save some typing later on.
+```r
+# Save your current plot into a variable: ilo_plot
+ilo_plot <- ggplot(plot_data) +
+  geom_point(aes(x = working_hours, y = hourly_compensation)) +
+  labs(
+    x = "Working hours per week",
+    y = "Hourly compensation",
+    title = "The more people work, the less compensation they seem to receive",
+    subtitle = "Working hours and hourly compensation in European countries, 2006",
+    caption = "Data source: ILO, 2017"
+  )
 
+# View it
+ilo_plot
+```
 
 2. 
