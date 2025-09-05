@@ -104,3 +104,19 @@ ilo_plot <- ggplot(plot_data) +
 ilo_plot
 ```
 2. Try out the minimal theme on ilo_plot.
+```r
+# From previous step
+ilo_plot <- ggplot(plot_data) +
+  geom_point(aes(x = working_hours, y = hourly_compensation)) +
+  labs(
+    x = "Working hours per week",
+    y = "Hourly compensation",
+    title = "The more people work, the less compensation they seem to receive",
+    subtitle = "Working hours and hourly compensation in European countries, 2006",
+    caption = "Data source: ILO, 2017"
+  )
+
+# Add a minimal theme
+ilo_plot +
+  theme_minimal()
+```
