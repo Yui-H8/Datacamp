@@ -103,5 +103,4 @@ ilo_plot <- ggplot(plot_data) +
 # View it
 ilo_plot
 ```
-
-2. 
+2. Try out the minimal theme on ilo_plot.
