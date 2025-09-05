@@ -126,3 +126,4 @@ ilo_plot +
 ilo_plot +
   theme_dark()
 ```
+### Change the appearance of titles
