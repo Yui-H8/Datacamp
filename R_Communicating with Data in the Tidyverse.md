@@ -121,3 +121,8 @@ ilo_plot +
   theme_minimal()
 ```
 3. Try out another theme on ilo_plot.
+```r
+# Add a different theme
+ilo_plot +
+  theme_dark()
+```
