@@ -68,3 +68,7 @@ ggplot(plot_data) +
   geom_point(aes(x = working_hours, y = hourly_compensation))
 ```
 ### Add labels to the plot
+* Use the labs() function to annotate your plot.
+* Specify the correct arguments in the labs function call.
+* Use ?labs to fire up the help function and see what arguments the labs() call takes.
+* While it should be clear to what arguments most of the annotations should go, "The more people work, the less compensation they seem to receive" should be the title of the plot.
