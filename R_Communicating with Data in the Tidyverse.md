@@ -87,3 +87,7 @@ ggplot(plot_data) +
 ```
 ---
 ### Apply a default theme
+1. Assign your plot object into a variable called ilo_plot so you can save some typing later on.
+
+
+2. 
