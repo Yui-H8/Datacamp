@@ -145,3 +145,4 @@ ilo_plot <- ilo_plot +
 # Render the plot object
 ilo_plot
 ```
+### Alter background color and add margins
