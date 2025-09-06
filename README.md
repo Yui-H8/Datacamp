@@ -65,3 +65,4 @@ https://app.datacamp.com/learn/courses/
 * Understanding Artificial Intelligence
 * AI Ethics
 * Prompt Engineering with the OpenAI API
+* Introduction to ChatGPT
