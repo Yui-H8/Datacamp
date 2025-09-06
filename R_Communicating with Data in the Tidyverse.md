@@ -146,3 +146,7 @@ ilo_plot <- ilo_plot +
 ilo_plot
 ```
 ### Alter background color and add margins
+* Change the overall background color of your plot to "gray95".
+* This time, another function than element_text is needed – one for rectangular plot elements. Rewatch the video to know which.
+* Add margins to the plot: 5mm top and bottom, 10mm to the left and the right.
+* The margins need to be specified in the following order: top, right, bottom, and left.
