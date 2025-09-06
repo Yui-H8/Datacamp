@@ -7,3 +7,5 @@
 *ChatGPT can handle all kinds of tasks, from writing emails to brainstorming ideas and beyond. This email template is a great starting point, but it probably doesn’t sound exactly like you yet. We’ll focus on refining it to match a specific voice and style later.*
   
 ### Creative prompting
+* Now that you’ve seen how ChatGPT can streamline professional emails, it’s time to unlock its creative side. From brainstorming bold ideas to crafting compelling content, ChatGPT is just as powerful when you want to think outside the inbox.
+* 
