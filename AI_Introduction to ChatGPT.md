@@ -32,7 +32,6 @@ Q:
 
 ---
 ### Connecting the dots
-Q:
-** 
+* Creating social media posts, emails, and document summaries are classic ways to use ChatGPT, but they’re just the beginning. As you refine your prompting skills, you’ll start pushing boundaries, experimenting with new ideas, and uncovering even more powerful ways to use AI. 
 
 
