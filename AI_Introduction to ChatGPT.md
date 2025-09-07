@@ -12,3 +12,6 @@
    *Great Start! While your prompt clearly asks for an AI-related joke and is concise, it could be even better with more context or a specific style. Your directness is a strength—keep building on that clarity!*
   
 *You’ve just taken your first step into the world of ChatGPT, and this is only the beginning! While writing jokes is fun, ChatGPT can do so much more—it can help you write compelling stories, draft professional emails, generate creative ideas, summarize complex topics, and even assist with coding!*
+
+
+### Magical summaries
