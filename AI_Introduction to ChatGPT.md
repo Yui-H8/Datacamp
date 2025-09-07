@@ -26,4 +26,11 @@ Q:
 *summary of Harry Potter from the perspective of Ron. In 50 words.*
 
 
+### Learning by example
+* One of the most effective ways to ensure ChatGPT delivers the right tone and style is by providing an example of what you want to replicate.
+* Instead of simply requesting a “formal email” or “persuasive pitch,” including a short sample of the writing style you’re aiming for helps ChatGPT adapt naturally. This technique is especially useful for crafting professional communications, marketing materials, or industry-specific content.
+
+Q:
+** 
+
 
