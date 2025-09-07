@@ -32,6 +32,8 @@ Q:
 
 ---
 ### Connecting the dots
-* Creating social media posts, emails, and document summaries are classic ways to use ChatGPT, but they’re just the beginning. As you refine your prompting skills, you’ll start pushing boundaries, experimenting with new ideas, and uncovering even more powerful ways to use AI. 
+* Creating social media posts, emails, and document summaries are classic ways to use ChatGPT, but they’re just the beginning. As you refine your prompting skills, you’ll start pushing boundaries, experimenting with new ideas, and uncovering even more powerful ways to use AI.
+Exsample:  
+*What movie am I describing, explain the reasoning? A young one runs far. Guilt, singing, and life lessons. Time passes, but the past waits. Someone yells a lot. Eventually, the past is confronted.*
 
 
