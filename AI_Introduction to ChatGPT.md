@@ -21,6 +21,8 @@ Q:
 
 
 ### A wizarding perspective
+* Beyond summarizing text, ChatGPT adjusts tone and style, whether you need something formal, funny, persuasive, or kid-friendly. It’s like having an instant editor, making information more digestible and saving you time.
+
 
 
 
