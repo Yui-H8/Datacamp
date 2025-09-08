@@ -39,3 +39,5 @@ Exsample:
 ---
 ### A creative quest
 * ChatGPT is an incredible brainstorming partner, helping generate ideas for everything from creative projects to problem-solving and decision-making. Whether you need fresh perspectives, quick inspiration, or a structured way to explore possibilities, AI can jumpstart your thinking and refine your ideas in ways you might not expect!
+
+   *Great Start, Needs More Options! You provided clear context and a concise, focused prompt, but you only asked for one idea and didn’t request multiple options. Specifying the number or variety of ideas would make your brainstorming even more productive. Excellent job on context!*
