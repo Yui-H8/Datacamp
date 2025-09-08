@@ -45,3 +45,4 @@ Exsample:
 ### Code switch
 * The ability to switch between different tones, levels of formality, and styles is a powerful tool in communication, and ChatGPT does it remarkably well. Previously, we explored using personas to shape responses, lets build on that.
 * By observing how well ChatGPT adjusts its wording and phrasing, we can infer key features of the model, like its ability to recognize context, predict tone shifts, and maintain consistency across different styles.
+  *Write a conversation between a teenager from the 1950s and one from the 2000s, showing their different slang styles*
