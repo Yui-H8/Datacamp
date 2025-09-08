@@ -6,3 +6,6 @@
 
 ### Starting strong
 * Prompts can come in many different formats and styles. Recognizing a good starting prompt is an essential part of prompt engineering. A well defined prompt typically has three key elements context, specificity and open-endedness.
+
+
+### Contextualizing importance
