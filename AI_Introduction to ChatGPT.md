@@ -43,3 +43,5 @@ Exsample:
    *Great Start, Needs More Options! You provided clear context and a concise, focused prompt, but you only asked for one idea and didn’t request multiple options. Specifying the number or variety of ideas would make your brainstorming even more productive. Excellent job on context!*
 ---
 ### Code switch
+* The ability to switch between different tones, levels of formality, and styles is a powerful tool in communication, and ChatGPT does it remarkably well. Previously, we explored using personas to shape responses, lets build on that.
+* By observing how well ChatGPT adjusts its wording and phrasing, we can infer key features of the model, like its ability to recognize context, predict tone shifts, and maintain consistency across different styles.
