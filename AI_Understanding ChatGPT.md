@@ -7,3 +7,5 @@
 
 ### ChatGPT and business
 * ChatGPT has sent shockwaves through all industries and sectors. Companies are now creating AI strategies to begin implementing this technology into their products and services.
+
+### The creation of ChatGPT
