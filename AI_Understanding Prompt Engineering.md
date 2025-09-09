@@ -12,3 +12,7 @@
 * When crafting a prompt, providing context or examples greatly improves the quality of responses.
 * We've preloaded the video transcript for this lesson into the model for you to demonstrate the importance of context.
 * Which prompt yields the best summary of lesson two?
+
+
+
+* Prompt engineering is an evolving field that blends an understanding of prompting with various strategies to deliver amazing results with large language models like ChatGP
