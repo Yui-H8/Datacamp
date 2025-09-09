@@ -14,5 +14,5 @@
 * Which prompt yields the best summary of lesson two?
 
 
-
+### Different approaches
 * Prompt engineering is an evolving field that blends an understanding of prompting with various strategies to deliver amazing results with large language models like ChatGP
