@@ -9,3 +9,6 @@
 
 
 ### Contextualizing importance
+* When crafting a prompt, providing context or examples greatly improves the quality of responses.
+* We've preloaded the video transcript for this lesson into the model for you to demonstrate the importance of context.
+* Which prompt yields the best summary of lesson two?
