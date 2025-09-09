@@ -16,3 +16,5 @@
 
 ### Different approaches
 * Prompt engineering is an evolving field that blends an understanding of prompting with various strategies to deliver amazing results with large language models like ChatGP
+Engineering a prompt can come in many different shapes and sizes, all of them being valid approaches to success.
+
