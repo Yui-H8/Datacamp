@@ -15,3 +15,6 @@
 * Although ChatGPT is capable of some amazing feats, it does have its limitations, which means it isn't a one-stop shop for every use case. Understanding these limitations will help you decide whether ChatGPT is an appropriate tool for your use case and, if it is, how you should interpret and use the results.
 
 ### Breaking down a use case
+
+---
+### Prompt best practices
