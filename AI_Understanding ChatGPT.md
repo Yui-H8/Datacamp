@@ -12,3 +12,4 @@
 * You've learned a lot about how ChatGPT works under the hood, and this understanding will serve you well when identifying limitations and evaluating use cases. In this exercise, you'll test your knowledge of the principles underpinning how ChatGPT was created.
 
 ### Knowing your limits
+* Although ChatGPT is capable of some amazing feats, it does have its limitations, which means it isn't a one-stop shop for every use case. Understanding these limitations will help you decide whether ChatGPT is an appropriate tool for your use case and, if it is, how you should interpret and use the results.
