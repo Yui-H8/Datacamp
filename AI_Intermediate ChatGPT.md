@@ -5,3 +5,4 @@
 * What key advancement does the transformer architecture provide over RNNs?
 
 Attention mechanisms that weigh the significance of each word, irrespective of its position.
+### Features of RNNs versus transformers
