@@ -67,3 +67,4 @@ https://app.datacamp.com/learn/courses/
 * Prompt Engineering with the OpenAI API
 * Introduction to ChatGPT
 * Understanding Prompt Engineering
+* Intermediate ChatGPT
