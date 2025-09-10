@@ -18,3 +18,4 @@
 
 ---
 ### Prompt best practices
+* Prompts are the one piece of the ChatGPT interaction that the user has control over, and because of this, writing effective prompts has become a field in its own right—prompt engineering.
