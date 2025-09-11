@@ -22,4 +22,4 @@ Attention mechanisms that weigh the significance of each word, irrespective of i
    
 *Decoding*
 - Converting numerical data back into human-readable text
-- 
+- Translating generated sequence of token IDs back into words and sentences
