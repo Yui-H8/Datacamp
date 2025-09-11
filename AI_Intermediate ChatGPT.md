@@ -21,3 +21,5 @@ Attention mechanisms that weigh the significance of each word, irrespective of i
 - Assigning unique identifiers called token IDs
    
 *Decoding*
+- Converting numerical data back into human-readable text
+- 
