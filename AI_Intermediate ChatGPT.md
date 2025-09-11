@@ -19,3 +19,5 @@ Attention mechanisms that weigh the significance of each word, irrespective of i
 *Encoding*
 - Mapping an input sequence of tokens to a sequence of continuous representations
 - Assigning unique identifiers called token IDs
+   
+*Decoding*
