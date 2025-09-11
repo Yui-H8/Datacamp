@@ -13,3 +13,6 @@ Attention mechanisms that weigh the significance of each word, irrespective of i
 ---
 ### The role of decoders
 * In the Transformer architecture, encoding and decoding are two fundamental processes. Understanding these processes is crucial for tasks like language translation and text generation.
+>> To convert a sequence of continuous representations back into an output sequence.
+
+###
