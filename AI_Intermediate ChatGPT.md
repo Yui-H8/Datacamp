@@ -12,4 +12,4 @@ Attention mechanisms that weigh the significance of each word, irrespective of i
 * When comparing different types of neural network architectures, it’s important to understand the distinctive features and advantages of each. Recurrent Neural Networks (RNNs) and Transformer models are two such architectures, each with their own unique characteristics and applications.
 ---
 ### The role of decoders
-
+* In the Transformer architecture, encoding and decoding are two fundamental processes. Understanding these processes is crucial for tasks like language translation and text generation.
