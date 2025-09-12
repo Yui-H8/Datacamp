@@ -1,5 +1,5 @@
 # Datacamp [Basic level]
-A platform to practice Python
+A platform to practice Python, SQL, R, AI etc...
 
 
 https://app.datacamp.com/learn/courses/
