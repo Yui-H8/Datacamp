@@ -25,3 +25,4 @@ Attention mechanisms that weigh the significance of each word, irrespective of i
 - Translating generated sequence of token IDs back into words and sentences
 ---
 ### Components of the GPT Model
+* Let's break down the term "Generative Pretrained Transformer" by classifying the descriptions below into the correct components.
