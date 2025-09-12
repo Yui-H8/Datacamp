@@ -28,5 +28,5 @@ Attention mechanisms that weigh the significance of each word, irrespective of i
 * Let's break down the term "Generative Pretrained Transformer" by classifying the descriptions below into the correct components.
 
 ### Exploring fine-tuning
-
+* How does fine-tuning improve the functionality of an LLM compared to the pre-training phase?
 *By refining the model on a specific dataset, making it better suited for particular tasks*
