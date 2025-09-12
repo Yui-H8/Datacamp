@@ -28,3 +28,5 @@ Attention mechanisms that weigh the significance of each word, irrespective of i
 * Let's break down the term "Generative Pretrained Transformer" by classifying the descriptions below into the correct components.
 
 ### Exploring fine-tuning
+
+*By refining the model on a specific dataset, making it better suited for particular tasks*
