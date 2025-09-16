@@ -68,3 +68,8 @@ https://app.datacamp.com/learn/courses/
 * Introduction to ChatGPT
 * Understanding Prompt Engineering
 * Intermediate ChatGPT
+
+---
+
+### Azure
+* Understanding Microsoft Azure Architecture and Services
