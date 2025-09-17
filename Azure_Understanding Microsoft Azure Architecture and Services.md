@@ -16,3 +16,4 @@ Create an Azure account
 The hierarchy typically involves several levels.
 ---
 ### Storage account functionality
+### The right storage service
