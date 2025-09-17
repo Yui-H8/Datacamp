@@ -10,3 +10,5 @@ Create an Azure account
 - Azure's physical infrastructure consists of a global network of data centers located around the world.   
 - An Azure region is a geographical region that contains a one or more data centers offering Azure services.    
 - Azure availability zones are separate, physically independent data centers within a region.
+
+### Azure hierarchical structure
