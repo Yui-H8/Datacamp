@@ -18,3 +18,5 @@ The hierarchy typically involves several levels.
 ### Storage account functionality
 ### The right storage service
 * Azure storage services are cloud-based storage services that provides scalable and secure data storage solutions, suitable for various data storage needs.
+
+### Table storage use cases
