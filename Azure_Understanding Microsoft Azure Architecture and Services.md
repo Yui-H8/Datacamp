@@ -21,3 +21,5 @@ The hierarchy typically involves several levels.
 
 ### Table storage use cases
 * Azure provides an extensive array of data storage services designed for diverse real-world scenarios, spanning from simple applications to more complex architectures and data processing workflows.
+- Tables provide faster and more scalable access to large amounts of unstructured data, such as key-value pairs.
+- Azure tables service allows you to store and retrieve data in a flexible, schema-less way.
