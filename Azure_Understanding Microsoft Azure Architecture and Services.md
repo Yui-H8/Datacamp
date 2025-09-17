@@ -12,3 +12,5 @@ Create an Azure account
 - Azure availability zones are separate, physically independent data centers within a region.
 
 ### Azure hierarchical structure
+* The hierarchical structure of Azure refers to the way resources can be organized in a hierarchy, allowing for a structured and organized management approach.   
+The hierarchy typically involves several levels.
