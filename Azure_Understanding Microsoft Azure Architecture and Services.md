@@ -20,3 +20,4 @@ The hierarchy typically involves several levels.
 * Azure storage services are cloud-based storage services that provides scalable and secure data storage solutions, suitable for various data storage needs.
 
 ### Table storage use cases
+* Azure provides an extensive array of data storage services designed for diverse real-world scenarios, spanning from simple applications to more complex architectures and data processing workflows.
