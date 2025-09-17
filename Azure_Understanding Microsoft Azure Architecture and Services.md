@@ -25,3 +25,4 @@ The hierarchy typically involves several levels.
 - Azure tables service allows you to store and retrieve data in a flexible, schema-less way.
 ---
 ### Create storage accounts
+* Once logged in, you'll enter the Azure homepage which provides an overview of popular services as well as recently used resources, and quick start options.
