@@ -6,3 +6,4 @@
 Create an Azure account
 
 ### Azure physical infrastructure
+* Please choose all accurate statements regarding Azure's physical infrastructure.
