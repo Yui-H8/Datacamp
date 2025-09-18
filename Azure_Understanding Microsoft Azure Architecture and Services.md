@@ -51,3 +51,5 @@ To minimize associated costs, the manager has requested the removal of the stora
 ---
 
 ### Redundancy hierarchy
+* Storage redundancy refers to the practice of duplicating or replicating data across multiple locations or devices within a storage system.
+* Azure storage offers several options for your data redundancy, to cover most scenarios and available budgets.
