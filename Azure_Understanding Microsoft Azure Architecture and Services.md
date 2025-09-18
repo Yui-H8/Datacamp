@@ -36,3 +36,6 @@ They need two storage accounts, one for Finance department and the other one for
 1. Once logged in, you'll enter the Azure homepage which provides an overview of popular services as well as recently used resources, and quick start options.
    
 *Note: depending on your regional settings, your Azure Portal might be displayed in another language. To quickly change the language to English, click the gear icon at the top right, select the third tab on the left (about language and region), and then change the language appropriately.*
+
+2. Create a new storage account called "finance" and a suffix of your own to make it unique.    
+Use East US as region and make it zone-redundant.
