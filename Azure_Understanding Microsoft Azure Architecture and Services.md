@@ -26,3 +26,6 @@ The hierarchy typically involves several levels.
 ---
 ### Create storage accounts
 * Once logged in, you'll enter the Azure homepage which provides an overview of popular services as well as recently used resources, and quick start options.
+---
+*Platform on the screen*
+### Create storage accounts
