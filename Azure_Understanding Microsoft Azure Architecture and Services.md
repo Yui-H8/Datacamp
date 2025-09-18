@@ -39,3 +39,6 @@ They need two storage accounts, one for Finance department and the other one for
 
 2. Create a new storage account called "finance" and a suffix of your own to make it unique.    
 Use East US as region and make it zone-redundant.
+
+3. Create a second storage account called "marketing" and a suffix of your own to make it unique.   
+Use East US as region and make it locally-redundant.
