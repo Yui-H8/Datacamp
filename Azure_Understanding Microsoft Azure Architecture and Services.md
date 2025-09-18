@@ -29,3 +29,7 @@ The hierarchy typically involves several levels.
 ---
 *Platform on the screen*
 ### Create storage accounts
+* You are an IT engineer in a company that aims to establish a shared space on Azure for storing, editing, and downloading documents.    
+You advise them to opt for different storage account for each department to align to their requirements.     
+The manager agrees with your recommendation and requests you to set up a storage account with the specified configuration.     
+They need two storage accounts, one for Finance department and the other one for Marketing.
