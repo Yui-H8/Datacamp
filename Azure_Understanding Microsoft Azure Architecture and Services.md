@@ -33,3 +33,6 @@ The hierarchy typically involves several levels.
 You advise them to opt for different storage account for each department to align to their requirements.     
 The manager agrees with your recommendation and requests you to set up a storage account with the specified configuration.     
 They need two storage accounts, one for Finance department and the other one for Marketing.
+1. Once logged in, you'll enter the Azure homepage which provides an overview of popular services as well as recently used resources, and quick start options.
+   
+*Note: depending on your regional settings, your Azure Portal might be displayed in another language. To quickly change the language to English, click the gear icon at the top right, select the third tab on the left (about language and region), and then change the language appropriately.*
