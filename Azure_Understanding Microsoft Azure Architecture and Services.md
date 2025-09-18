@@ -44,3 +44,5 @@ Use East US as region and make it zone-redundant.
 Use East US as region and make it locally-redundant.
 
 ### Remove storage account
+* The Finance department decide they will not use a storage account until later on.     
+To minimize associated costs, the manager has requested the removal of the storage account.
