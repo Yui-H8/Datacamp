@@ -55,4 +55,5 @@ To minimize associated costs, the manager has requested the removal of the stora
 * Azure storage offers several options for your data redundancy, to cover most scenarios and available budgets.
 
 ### Storage tools comparison
-* Use your knowledge about the intended use of different storage tools in Azure to identify the inaccurate statement from the descriptions provided below.
+* Use your knowledge about the intended use of different storage tools in Azure to identify the inaccurate statement from the descriptions provided below.   
+*Azure Data Box is a hardware device with numerous storage drives that Azure sends to you to keep it in your offices*
