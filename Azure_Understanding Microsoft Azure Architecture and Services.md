@@ -42,3 +42,5 @@ Use East US as region and make it zone-redundant.
 
 3. Create a second storage account called "marketing" and a suffix of your own to make it unique.   
 Use East US as region and make it locally-redundant.
+
+### Remove storage account
