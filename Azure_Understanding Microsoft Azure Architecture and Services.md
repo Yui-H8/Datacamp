@@ -66,3 +66,4 @@ Great work! Migration tools are commonly used by companies starting their cloud 
 ---
 *Demo*
 ### Upload blobs
+1. There should be an existing storage account called "marketing***" from a previous exercise.
