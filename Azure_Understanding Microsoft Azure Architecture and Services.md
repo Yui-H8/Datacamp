@@ -59,4 +59,7 @@ To minimize associated costs, the manager has requested the removal of the stora
 *Azure Data Box is a hardware device with numerous storage drives that Azure sends to you to keep it in your offices*    
 Perfect! Azure sends the Azure Data Box to your location, you copy data onto it, and then send it back. You do not get to keep it.
 
-### Migration vs. file operations
+### Migration vs. file operations 
+Azure offers services to support moving infrastructure, applications, and data in real-time.   
+
+In addition to large scale migrations, Azure also provides tools specifically designed for moving or interacting with individual files or small groups of files.
