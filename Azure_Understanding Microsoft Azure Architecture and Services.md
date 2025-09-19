@@ -71,3 +71,4 @@ Great work! Migration tools are commonly used by companies starting their cloud 
 3. Upload the new-york-plaza.png and azure-course.txt located in the Resources folder on the Desktop to the "sharedfiles" container.
 
 ### Edit and download blob
+1. Navigate to previously created "sharedfiles" container and start editing "azure-courses.txt" blob.
