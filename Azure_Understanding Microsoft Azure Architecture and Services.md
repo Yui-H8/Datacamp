@@ -63,3 +63,6 @@ Perfect! Azure sends the Azure Data Box to your location, you copy data onto it,
 * Azure offers services to support moving infrastructure, applications, and data in real-time.   
 * In addition to large scale migrations, Azure also provides tools specifically designed for moving or interacting with individual files or small groups of files.    
 Great work! Migration tools are commonly used by companies starting their cloud journey until their data is securely stored online. File operation tools assist in managing files stored in the cloud throughout the entire use of cloud services.
+---
+*Demo*
+### Upload blobs
