@@ -72,5 +72,5 @@ Great work! Migration tools are commonly used by companies starting their cloud 
 
 ### Edit and download blob
 1. Navigate to previously created "sharedfiles" container and start editing "azure-courses.txt" blob.
-2. Add content to the third line of the file, which is currently empty. Write the name of the current course.
-Save the file.
+2. Add content to the third line of the file, which is currently empty. Write the name of the current course. Save the file. "Azure Architecture and Services"
+3. Download the modified file to the downloads folder.
