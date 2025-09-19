@@ -58,3 +58,5 @@ To minimize associated costs, the manager has requested the removal of the stora
 * Use your knowledge about the intended use of different storage tools in Azure to identify the inaccurate statement from the descriptions provided below.   
 *Azure Data Box is a hardware device with numerous storage drives that Azure sends to you to keep it in your offices*    
 Perfect! Azure sends the Azure Data Box to your location, you copy data onto it, and then send it back. You do not get to keep it.
+
+### Migration vs. file operations
