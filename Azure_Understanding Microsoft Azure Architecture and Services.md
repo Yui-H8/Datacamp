@@ -68,3 +68,4 @@ Great work! Migration tools are commonly used by companies starting their cloud 
 ### Upload blobs
 1. There should be an existing storage account called "marketing***" from a previous exercise.
 2. Create a new container "sharedfiles" in the storage account.
+3. Upload the new-york-plaza.png and azure-course.txt located in the Resources folder on the Desktop to the "sharedfiles" container.
