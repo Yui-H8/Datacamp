@@ -1,5 +1,5 @@
 # Datacamp [Basic level]
-A platform to practice Python, SQL, R, AI etc...
+A platform to practice Python, SQL, R, AI, AWS etc...
 
 
 https://app.datacamp.com/learn/courses/
@@ -73,3 +73,8 @@ https://app.datacamp.com/learn/courses/
 
 ### Azure
 * Understanding Microsoft Azure Architecture and Services
+
+---
+
+### AWS
+* AWS Concepts
