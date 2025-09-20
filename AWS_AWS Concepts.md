@@ -5,3 +5,4 @@
 *Note: The sandboxes in this course have been configured to achieve the goals within the exercises therefore some non-related services may be restricted.*
 1. Once logged in, you'll enter the AWS Management Console where you will see several different widgets including recently visited services, applications in the current region, getting started information, and much more.
 2. This will open up the EC2 dashboard that includes various widgets such as Resources, Instance alarms and more.
+3. Under the Resources widget, there are multiple services available. Which service is not included in the list?
