@@ -9,3 +9,4 @@
     You won't find billing information on the EC2 dashboard, instead that is located under Billing and Cost Management.
 ---
 ### Classifying the benefits of using AWS
+*Cost efficiency, Operationnal Flexibility*
