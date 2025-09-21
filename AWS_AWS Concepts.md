@@ -7,3 +7,5 @@
 2. This will open up the EC2 dashboard that includes various widgets such as Resources, Instance alarms and more.
 3. Under the Resources widget, there are multiple services available. Which service is not included in the list?    
     You won't find billing information on the EC2 dashboard, instead that is located under Billing and Cost Management.
+---
+### Classifying the benefits of using AWS
