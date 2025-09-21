@@ -18,3 +18,6 @@
 
 2. Let's explore the topic Budgets and planning.
 * Here we can see Common tasks and Other tasks. Common tasks include tools to help estimate workload cost, set up budgets as well as reporting against budget options.
+
+3. Time to look at a popular service in AWS, Amazon S3.
+* Navigate to the S3 service page  Review the overview page that includes details such as how it works, benefits and use cases.
