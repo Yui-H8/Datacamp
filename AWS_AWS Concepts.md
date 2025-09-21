@@ -24,3 +24,5 @@
 
 4. A service that works well with S3 that you'll explore more in future courses is Amazon CloudFront. CloudFront is a content delivery network used to send content like images, videos and more quickly.
 * Navigate to the CloudFront service page Review the overview page that includes details such as how it works, benefits and use cases.
+---
+### Protecting systems, information, and assets
