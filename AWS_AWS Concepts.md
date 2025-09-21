@@ -15,3 +15,6 @@
 1. Cost management is an important aspect of managing your AWS infrastructure, let's explore a service that will help with this crucial function.
 * From the console dashboard, use the Search bar to locate Billing and Cost Management. You'll land on the home page which provides insights such as Cost summary, Cost breakdown and more.
 * Navigate to the Getting Started page where you'll find a range of topics that can be explored further.
+
+2. Let's explore the topic Budgets and planning.
+* Here we can see Common tasks and Other tasks. Common tasks include tools to help estimate workload cost, set up budgets as well as reporting against budget options.
