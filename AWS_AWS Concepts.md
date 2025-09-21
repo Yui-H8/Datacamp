@@ -10,3 +10,5 @@
 ---
 ### Classifying the benefits of using AWS
 *Cost efficiency, Operationnal Flexibility*
+   
+### Exploring useful services in AWS
