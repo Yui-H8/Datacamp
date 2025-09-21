@@ -21,3 +21,6 @@
 
 3. Time to look at a popular service in AWS, Amazon S3.
 * Navigate to the S3 service page  Review the overview page that includes details such as how it works, benefits and use cases.
+
+4. A service that works well with S3 that you'll explore more in future courses is Amazon CloudFront. CloudFront is a content delivery network used to send content like images, videos and more quickly.
+* Navigate to the CloudFront service page Review the overview page that includes details such as how it works, benefits and use cases.
