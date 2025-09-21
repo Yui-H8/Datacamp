@@ -26,3 +26,4 @@
 * Navigate to the CloudFront service page Review the overview page that includes details such as how it works, benefits and use cases.
 ---
 ### Protecting systems, information, and assets
+Spot on! This pillar is all about safeguarding your information, systems, and assets while ensuring your business can continue to deliver value.
