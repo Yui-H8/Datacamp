@@ -38,3 +38,5 @@ Spot on! This pillar is all about safeguarding your information, systems, and as
 ### Exploring migration services
 * You are an IT project manager responsible for overseeing your company’s cloud migration to AWS. The initial phase of the migration involves tracking the progress of several teams using different tools and ensuring the timely transfer of your on-premise data to AWS.
 * You are evaluating AWS Migration Hub to monitor these processes, and you are exploring the first two steps of setting up an AWS Snowball job to securely move large datasets.
+
+1. First, we'll start by exploring a migration service called AWS Snowball, which is a service that provides secure devices to transfer your data into and out of AWS.
