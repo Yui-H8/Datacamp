@@ -42,3 +42,5 @@ Spot on! This pillar is all about safeguarding your information, systems, and as
 1. First, we'll start by exploring a migration service called AWS Snowball, which is a service that provides secure devices to transfer your data into and out of AWS.
 * Navigate to the AWS Snow Family service page.
 * Time to review the configuration options in Snowball, start by clicking the button to Order an AWS Snow family device (we will not be completing the configuration or ordering any devices).
+
+2. Provide a name for the data transfer job, such as 'MyFirstImport' For job type, we'll set it to Import into Amazon S3.
