@@ -40,3 +40,5 @@ Spot on! This pillar is all about safeguarding your information, systems, and as
 * You are evaluating AWS Migration Hub to monitor these processes, and you are exploring the first two steps of setting up an AWS Snowball job to securely move large datasets.
 
 1. First, we'll start by exploring a migration service called AWS Snowball, which is a service that provides secure devices to transfer your data into and out of AWS.
+* Navigate to the AWS Snow Family service page.
+* Time to review the configuration options in Snowball, start by clicking the button to Order an AWS Snow family device (we will not be completing the configuration or ordering any devices).
