@@ -44,3 +44,7 @@ Spot on! This pillar is all about safeguarding your information, systems, and as
 * Time to review the configuration options in Snowball, start by clicking the button to Order an AWS Snow family device (we will not be completing the configuration or ordering any devices).
 
 2. Provide a name for the data transfer job, such as 'MyFirstImport' For job type, we'll set it to Import into Amazon S3.
+
+3. Navigate to Step 2, Compute and Storage. In this section is where you would typically configure what type of device you want based on factors such as Compute (CPUs/GPUs), Memory, Storage (HDD) and Storage (SDD).
+* Further down the page, you can also select the destination you would like your data transferred to. You can select an already available bucket in your organization, alternatively you can create a new one.
+* Now we can cancel out of the Snowball job creation process, and look at other services.
