@@ -32,3 +32,5 @@ Spot on! This pillar is all about safeguarding your information, systems, and as
 * Your company is planning to migrate a mission-critical application to AWS. The application must ensure data protection and compliance with regulations, maintain high availability, and optimize costs.
 ---
 ### Cloud adoption strategies with AWS CAFCloud adoption strategies with AWS CAF
+6 parts   
+* Your organization is preparing for cloud migration, and it's essential to classify strategies based on their alignment with the** AWS Cloud Adoption Framework** (AWS CAF). Your task is to evaluate different approaches and determine which align with AWS CAF principles.
