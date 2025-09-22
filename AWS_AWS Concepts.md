@@ -36,3 +36,5 @@ Spot on! This pillar is all about safeguarding your information, systems, and as
 * Your organization is preparing for cloud migration, and it's essential to classify strategies based on their alignment with the **AWS Cloud Adoption Framework** (AWS CAF). Your task is to evaluate different approaches and determine which align with AWS CAF principles.
 
 ### Exploring migration services
+* You are an IT project manager responsible for overseeing your company’s cloud migration to AWS. The initial phase of the migration involves tracking the progress of several teams using different tools and ensuring the timely transfer of your on-premise data to AWS.
+* You are evaluating AWS Migration Hub to monitor these processes, and you are exploring the first two steps of setting up an AWS Snowball job to securely move large datasets.
