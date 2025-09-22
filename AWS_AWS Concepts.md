@@ -30,3 +30,5 @@ Spot on! This pillar is all about safeguarding your information, systems, and as
 
 ### Apply the Well-Architected Framework pillars
 * Your company is planning to migrate a mission-critical application to AWS. The application must ensure data protection and compliance with regulations, maintain high availability, and optimize costs.
+---
+### Cloud adoption strategies with AWS CAFCloud adoption strategies with AWS CAF
