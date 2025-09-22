@@ -29,3 +29,4 @@
 Spot on! This pillar is all about safeguarding your information, systems, and assets while ensuring your business can continue to deliver value.
 
 ### Apply the Well-Architected Framework pillars
+* Your company is planning to migrate a mission-critical application to AWS. The application must ensure data protection and compliance with regulations, maintain high availability, and optimize costs.
