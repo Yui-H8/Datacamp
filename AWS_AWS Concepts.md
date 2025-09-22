@@ -27,3 +27,5 @@
 ---
 ### Protecting systems, information, and assets
 Spot on! This pillar is all about safeguarding your information, systems, and assets while ensuring your business can continue to deliver value.
+
+### Apply the Well-Architected Framework pillars
