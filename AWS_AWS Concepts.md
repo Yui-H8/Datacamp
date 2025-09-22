@@ -48,3 +48,7 @@ Spot on! This pillar is all about safeguarding your information, systems, and as
 3. Navigate to Step 2, Compute and Storage. In this section is where you would typically configure what type of device you want based on factors such as Compute (CPUs/GPUs), Memory, Storage (HDD) and Storage (SDD).
 * Further down the page, you can also select the destination you would like your data transferred to. You can select an already available bucket in your organization, alternatively you can create a new one.
 * Now we can cancel out of the Snowball job creation process, and look at other services.
+
+4. Navigate to Step 2, Compute and Storage. In this section is where you would typically configure what type of device you want based on factors such as Compute (CPUs/GPUs), Memory, Storage (HDD) and Storage (SDD).
+Further down the page, you can also select the destination you would like your data transferred to. You can select an already available bucket in your organization, alternatively you can create a new one.
+Now we can cancel out of the Snowball job creation process, and look at other services.
