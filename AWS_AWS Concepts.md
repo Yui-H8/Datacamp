@@ -55,4 +55,5 @@ Now we can cancel out of the Snowball job creation process, and look at other se
 
 5. To view the migration tools available to us, let's explore the Tools section under Migrate in the Migration Hub navigation pane.
 
-6. What is one of the primary benefits of using AWS Migration Hub in a cloud migration project?
+6. What is one of the primary benefits of using AWS Migration Hub in a cloud migration project?    
+AWS Migration Hub provides a unified view, making it easier to monitor the progress of your migration efforts across various tools and services. You've successfully explored the AWS Migration Hub tools and demonstrated your understanding of the initial steps in setting up a Snowball job. You are now well-prepared to track and manage cloud migration efforts and securely transfer large datasets to AWS!
