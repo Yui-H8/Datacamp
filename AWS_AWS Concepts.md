@@ -54,3 +54,5 @@ Further down the page, you can also select the destination you would like your d
 Now we can cancel out of the Snowball job creation process, and look at other services.
 
 5. To view the migration tools available to us, let's explore the Tools section under Migrate in the Migration Hub navigation pane.
+
+6. What is one of the primary benefits of using AWS Migration Hub in a cloud migration project?
