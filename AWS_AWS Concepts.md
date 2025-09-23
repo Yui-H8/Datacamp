@@ -53,4 +53,4 @@ Spot on! This pillar is all about safeguarding your information, systems, and as
 Further down the page, you can also select the destination you would like your data transferred to. You can select an already available bucket in your organization, alternatively you can create a new one.
 Now we can cancel out of the Snowball job creation process, and look at other services.
 
-### Exploring migration services
+5. To view the migration tools available to us, let's explore the Tools section under Migrate in the Migration Hub navigation pane.
