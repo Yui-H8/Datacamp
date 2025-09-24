@@ -27,3 +27,5 @@ Compute-optimized instances are an excellent fit for compute-intensive workloads
 * Key pair type: RSA
 * Private key file format: **.pem **
 4. Note; DataCamp has configured the Network settings inline with our policies, so we will utilize the default security group.
+* Update the Firewall (security groups), select existing security group button.
+* The security group should be set to "default"
