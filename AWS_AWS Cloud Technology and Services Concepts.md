@@ -16,3 +16,4 @@ Which of the following EC2 instance types is most suitable?
 Compute-optimized instances are an excellent fit for compute-intensive workloads such as financial and scientific modeling applications.
 
 ### Launching a Web Server on EC2
+1. Let's launch our first web server. Use the search bar to navigate to the EC2 services page. Click on Launch instance from the EC2 dashboard, and name this "MyFirstWebServer."
