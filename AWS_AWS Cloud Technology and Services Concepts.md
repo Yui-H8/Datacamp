@@ -6,3 +6,5 @@
 3. Which of the following services is not part of the _Compute_ category?    
 *Answer*    
 Elastic Container Service (ECS) falls under the containers category, offering a fully managed container orchestration service.
+---
+### Selecting the right instance type
