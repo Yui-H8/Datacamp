@@ -20,3 +20,4 @@ Compute-optimized instances are an excellent fit for compute-intensive workloads
 2. We can now start configuring our web server, we'll start by configuring our Amazon Machine Image under the Applications and OS Images header. To begin, we can apply the following configuration from the dropdowns:
 * Amazon Machine Image: Amazon Linux 2023 AMI
 * Architecture: 64-bit (x-86)
+3. We can configure our Instance type and Key pair (login) settings next. The instance type refers to compute power, memory and networking capacity. A key pair helps us securely connect to our instance.
