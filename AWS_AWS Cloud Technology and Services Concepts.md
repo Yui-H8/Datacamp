@@ -17,3 +17,6 @@ Compute-optimized instances are an excellent fit for compute-intensive workloads
 
 ### Launching a Web Server on EC2
 1. Let's launch our first web server. Use the search bar to navigate to the EC2 services page. Click on Launch instance from the EC2 dashboard, and name this "MyFirstWebServer."
+2. We can now start configuring our web server, we'll start by configuring our Amazon Machine Image under the Applications and OS Images header. To begin, we can apply the following configuration from the dropdowns:
+* Amazon Machine Image: Amazon Linux 2023 AMI
+* Architecture: 64-bit (x-86)
