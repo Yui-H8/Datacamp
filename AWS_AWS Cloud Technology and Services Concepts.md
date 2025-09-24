@@ -21,3 +21,8 @@ Compute-optimized instances are an excellent fit for compute-intensive workloads
 * Amazon Machine Image: Amazon Linux 2023 AMI
 * Architecture: 64-bit (x-86)
 3. We can configure our Instance type and Key pair (login) settings next. The instance type refers to compute power, memory and networking capacity. A key pair helps us securely connect to our instance.
+* Set the instance type to t2.small in the dropdown.
+* Create a new key, by selecting Create new key pair and filling out the following details:
+* Key pair name: "WebServerEC2"
+* Key pair type: RSA
+* Private key file format: **.pem **
