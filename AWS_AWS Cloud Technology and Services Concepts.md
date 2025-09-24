@@ -14,3 +14,5 @@ Which of the following EC2 instance types is most suitable?
 * General Purpose: As you might have guessed, this instance type is more suitable for general-purpose applications such as web servers and code repositories.
 *Answer*
 Compute-optimized instances are an excellent fit for compute-intensive workloads such as financial and scientific modeling applications.
+
+### Launching a Web Server on EC2
