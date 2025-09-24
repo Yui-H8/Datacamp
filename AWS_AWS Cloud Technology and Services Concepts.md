@@ -12,3 +12,5 @@ You are a cloud engineer looking to migrate a financial modeling application to 
 Which of the following EC2 instance types is most suitable?
 * Storage-optimized instances are better suited to applications that require high storage and low-latency access.
 * General Purpose: As you might have guessed, this instance type is more suitable for general-purpose applications such as web servers and code repositories.
+*Answer*
+Compute-optimized instances are an excellent fit for compute-intensive workloads such as financial and scientific modeling applications.
