@@ -8,3 +8,5 @@
 Elastic Container Service (ECS) falls under the containers category, offering a fully managed container orchestration service.
 ---
 ### Selecting the right instance type
+You are a cloud engineer looking to migrate a financial modeling application to AWS.    
+Which of the following EC2 instance types is most suitable?
