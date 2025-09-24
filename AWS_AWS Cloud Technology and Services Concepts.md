@@ -11,4 +11,4 @@ Elastic Container Service (ECS) falls under the containers category, offering a 
 You are a cloud engineer looking to migrate a financial modeling application to AWS.    
 Which of the following EC2 instance types is most suitable?
 * Storage-optimized instances are better suited to applications that require high storage and low-latency access.
-* 
+* General Purpose: As you might have guessed, this instance type is more suitable for general-purpose applications such as web servers and code repositories.
