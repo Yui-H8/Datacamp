@@ -33,3 +33,5 @@ Compute-optimized instances are an excellent fit for compute-intensive workloads
     
 In this section, we can provide commands or command scripts that will run when the instance is launched. Open the bash.txt file from the Resources folder on the Desktop. Copy and paste the script into the User data section.
 6. Good job, you've configured all settings for our web server. Launch the instance from the Summary pane.
+    
+*By defining the instance we are specifying the hardware that the instance will utilise. Each instance type offers different compute, memory and storage capabilities and are grouped into instance families such as general purpose, compute optimised etc.*
