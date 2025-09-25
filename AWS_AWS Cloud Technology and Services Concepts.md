@@ -42,3 +42,5 @@ You are a Solutions Architect leading two specialized teams within your organiza
 Team A is responsible for implementing a robust load balancing architecture for your servers.   
 Team B is tasked with creating an efficient auto-scaling solution to handle dynamic changes in demand for the servers.   
 You have a set of deliverables that you need to divide among the two teams.   
+* Load barancing
+* Auto scaling
