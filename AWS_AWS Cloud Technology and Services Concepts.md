@@ -35,3 +35,5 @@ In this section, we can provide commands or command scripts that will run when t
 6. Good job, you've configured all settings for our web server. Launch the instance from the Summary pane.
     
 *By defining the instance we are specifying the hardware that the instance will utilise. Each instance type offers different compute, memory and storage capabilities and are grouped into instance families such as general purpose, compute optimised etc.*
+---
+### Load balancing vs Auto-scaling
