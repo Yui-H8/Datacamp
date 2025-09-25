@@ -29,3 +29,6 @@ Compute-optimized instances are an excellent fit for compute-intensive workloads
 4. Note; DataCamp has configured the Network settings inline with our policies, so we will utilize the default security group.
 * Update the Firewall (security groups), select existing security group button.
 * The security group should be set to "default"
+5. No changes will be made to the storage for our instance. Instead, explore the Advanced details section. Skip over the various options until you reach the User data header.
+    
+In this section, we can provide commands or command scripts that will run when the instance is launched. Open the bash.txt file from the Resources folder on the Desktop. Copy and paste the script into the User data section.
