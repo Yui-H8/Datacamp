@@ -43,6 +43,10 @@ Team A is responsible for implementing a robust load balancing architecture for 
 Team B is tasked with creating an efficient auto-scaling solution to handle dynamic changes in demand for the servers.   
 You have a set of deliverables that you need to divide among the two teams.   
 * Load balancing
-* Auto scaling   
+* Auto scaling
+
 *Load balancing and auto-scaling will ensure your compute is scalable and cost efficient.*
 ### Setting up a launch template
+As a Cloud Administrator, you've been tasked with setting up an EC2 launch template to be used for Auto Scaling.
+
+A launch template helps streamline EC2 provisioning by allowing users to define reusable configurations with settings such as Amazon Machine Image and Instance type. Your overall goal is to ensure that instances can automatically scale up or down based on demand, ensuring high availability for your application.
