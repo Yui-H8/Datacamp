@@ -37,3 +37,8 @@ In this section, we can provide commands or command scripts that will run when t
 *By defining the instance we are specifying the hardware that the instance will utilise. Each instance type offers different compute, memory and storage capabilities and are grouped into instance families such as general purpose, compute optimised etc.*
 ---
 ### Load balancing vs Auto-scaling
+You are a Solutions Architect leading two specialized teams within your organization.
+
+Team A is responsible for implementing a robust load balancing architecture for your servers.   
+Team B is tasked with creating an efficient auto-scaling solution to handle dynamic changes in demand for the servers.   
+You have a set of deliverables that you need to divide among the two teams.   
