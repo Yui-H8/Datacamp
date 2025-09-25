@@ -45,3 +45,4 @@ You have a set of deliverables that you need to divide among the two teams.
 * Load balancing
 * Auto scaling   
 *Load balancing and auto-scaling will ensure your compute is scalable and cost efficient.*
+### Setting up a launch template
