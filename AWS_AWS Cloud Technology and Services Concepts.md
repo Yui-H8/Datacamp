@@ -32,3 +32,4 @@ Compute-optimized instances are an excellent fit for compute-intensive workloads
 5. No changes will be made to the storage for our instance. Instead, explore the Advanced details section. Skip over the various options until you reach the User data header.
     
 In this section, we can provide commands or command scripts that will run when the instance is launched. Open the bash.txt file from the Resources folder on the Desktop. Copy and paste the script into the User data section.
+6. Good job, you've configured all settings for our web server. Launch the instance from the Summary pane.
