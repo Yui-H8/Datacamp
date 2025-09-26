@@ -69,3 +69,5 @@ A launch template helps streamline EC2 provisioning by allowing users to define 
 * Private key file format: .pem
 * Subnet: Do not include in template
 * Firewall: Select existing security group: default
+
+5. Once you have filled out the configuration settings for this launch template, so we can setup our Auto Scaling group.
