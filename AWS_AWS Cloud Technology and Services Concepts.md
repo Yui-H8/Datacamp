@@ -59,3 +59,6 @@ As a Cloud Administrator, you've been tasked with setting up an EC2 launch templ
 
 A launch template helps streamline EC2 provisioning by allowing users to define reusable configurations with settings such as Amazon Machine Image and Instance type. Your overall goal is to ensure that instances can automatically scale up or down based on demand, ensuring high availability for your application.  
 1. Before we setup our auto-scaling group, we first need to create a launch template which will contain the configuration information to launch an instance including the ID and Amazon Machine Image. When used with Auto Scaling, these templates ensure that new instances are automatically launched with consistent settings as demand changes, enhancing application performance and resource efficiency.
+2. The interface for a launch template is very similar to setting up an EC2 instance except for the first step, defining the Launch name and description.
+* Provide a useful launch template name, such as "MyWebServerTemplate"
+* Provide a useful launch template description such as "A re-usable web server template for setting up different environments."
