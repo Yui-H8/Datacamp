@@ -61,3 +61,11 @@ A launch template helps streamline EC2 provisioning by allowing users to define 
 3. Let's configure our launch template in two sections, first we'll configure the Amazon Machine Image and Instance type.
 * Amazon Machine Image: Amazon Linux 2023 AMI
 * Instance type: t2.small
+
+4. Next, we'll move into configuring our key pair and firewall settings; in this example, we will not include the subnet.
+* Key pair: Create new key pair
+* Key pair name: "WebServerEC2Template"
+* Key pair type: RSA
+* Private key file format: .pem
+* Subnet: Do not include in template
+* Firewall: Select existing security group: default
