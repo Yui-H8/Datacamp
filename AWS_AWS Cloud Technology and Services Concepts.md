@@ -71,3 +71,5 @@ A launch template helps streamline EC2 provisioning by allowing users to define 
 * Firewall: Select existing security group: default
 
 5. Once you have filled out the configuration settings for this launch template, so we can setup our Auto Scaling group.
+
+6. How does an EC2 launch template contribute to Auto Scaling functionality?
