@@ -55,3 +55,6 @@ A launch template helps streamline EC2 provisioning by allowing users to define 
 * Navigate to the Launch Templates page on the EC2 Dashboard, and select Create launch template.
 
 ### Setting up a launch template
+As a Cloud Administrator, you've been tasked with setting up an EC2 launch template to be used for Auto Scaling.
+
+A launch template helps streamline EC2 provisioning by allowing users to define reusable configurations with settings such as Amazon Machine Image and Instance type. Your overall goal is to ensure that instances can automatically scale up or down based on demand, ensuring high availability for your application.
