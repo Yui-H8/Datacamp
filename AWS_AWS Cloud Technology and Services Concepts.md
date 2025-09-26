@@ -75,3 +75,6 @@ A launch template helps streamline EC2 provisioning by allowing users to define 
 6. How does an EC2 launch template contribute to Auto Scaling functionality?
 
 *Correct! You've successfully grasped how an EC2 launch template integrates with Auto Scaling. By understanding how the template defines the instance settings and Auto Scaling adjusts the number of instances, you're now ready to manage scalable, efficient cloud infrastructure.*
+
+
+### Auto-scaling your instances
