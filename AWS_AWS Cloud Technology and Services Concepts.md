@@ -78,3 +78,4 @@ A launch template helps streamline EC2 provisioning by allowing users to define 
 
 
 ### Auto-scaling your instances
+You are a Cloud Administrator responsible for ensuring your web application can handle varying traffic loads. Your task is to set up an Auto Scaling Group that automatically adjusts the number of EC2 instances based on the current demand, ensuring high availability and cost efficiency.
