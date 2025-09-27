@@ -98,3 +98,7 @@ Get familiar with the configuration settings, then move to Step 4.
 5. We can now review the advanced options step by navigating to Step 3. We won't be updating any settings here, but this is where you would typically add a load balancer, apply any VPC lattice integration options (topic not covered) and define any health check settings you need to apply.
    
 Get familiar with the configuration settings, then move to Step 4.
+
+   We can now review the advanced options step by navigating to Step 3. We won't be updating any settings here, but this is where you would typically add a load balancer, apply any VPC lattice integration options (topic not covered) and define any health check settings you need to apply.
+   
+Get familiar with the configuration settings, then move to Step 4.
