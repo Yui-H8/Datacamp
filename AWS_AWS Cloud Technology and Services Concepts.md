@@ -83,4 +83,10 @@ You are a Cloud Administrator responsible for ensuring your web application can 
 2. Start by naming our auto-scaling group and selecting the launch template that we created in the previous exercise.
 
 Provide a useful Auto Scaling Group name, such as "My Web Server Auto Scaling Group"   
-Select the launch template we created, for example MyWebServerTemplate and leave the version to Default.
+Select the launch template we created, for example MyWebServerTemplate and leave the version to Default.   
+3. Let's configure our instance launch options by navigating to Step 2. No changes will be made to the Instance type requirements, but we will update the network settings to ensure we use multiple availability zones.
+
+Update the VPC which is the virtual network for the group, there should only be one option in the dropdown with the pre-fix vpc-.    
+Update the Availability Zones and subnets dropdown to use the following zones:   
+- us-east-1a
+- us-east-1b
