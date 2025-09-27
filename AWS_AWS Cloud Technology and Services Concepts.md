@@ -95,6 +95,9 @@ Update the Availability Zones and subnets dropdown to use the following zones:
   
 Get familiar with the configuration settings, then move to Step 4.
    
-5. No further configuration updates are necessary, but we would recommend familiarizing yourself with the Instance maintenance policy. We'll be leaving the default option of Mixed behaviour (No policy).
-     
+5. Let's define our groups desired capacity and limits.
+* Update the Desired Capacity under the Group Size header to 1, this is because we always want one instance running.
+* Update the Min desired capacity to 1 and the Max desired capacity to 3, this sets the limit on how much our desired capacity can be increased or decreased.
+> No further configuration updates are necessary, but we would recommend familiarizing yourself with the Instance maintenance policy. We'll be leaving the default option of Mixed behaviour (No policy).
+
 Skip to Step 7 where we can review our configuration and create our group.
