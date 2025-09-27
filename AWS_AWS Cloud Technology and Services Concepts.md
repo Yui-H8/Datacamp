@@ -80,3 +80,7 @@ A launch template helps streamline EC2 provisioning by allowing users to define 
 ### Auto-scaling your instances
 You are a Cloud Administrator responsible for ensuring your web application can handle varying traffic loads. Your task is to set up an Auto Scaling Group that automatically adjusts the number of EC2 instances based on the current demand, ensuring high availability and cost efficiency.
 1. On the EC2 Dashboard, use the navigation pane to locate Auto Scaling Groups page and select Create Auto Scaling Group.
+2. Start by naming our auto-scaling group and selecting the launch template that we created in the previous exercise.
+
+Provide a useful Auto Scaling Group name, such as "My Web Server Auto Scaling Group"   
+Select the launch template we created, for example MyWebServerTemplate and leave the version to Default.
