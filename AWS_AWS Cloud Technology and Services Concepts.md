@@ -103,3 +103,5 @@ Get familiar with the configuration settings, then move to Step 4.
 Skip to Step 7 where we can review our configuration and create our group.
 6. How do we check that our auto scaling group has worked? We can navigate to our Instances page, where we should be able to see a new instance booting up (this may take a few seconds to occur, and might require a page refresh).
 * Once the Instance state is Running, select the newly created instance by selecting the check box and navigating to the Instance state dropdown and selecting Stop Instance.
+
+7. Which of the following is NOT a key configuration setting when creating an Auto Scaling Group in AWS?
