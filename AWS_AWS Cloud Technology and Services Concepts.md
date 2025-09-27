@@ -94,11 +94,7 @@ Update the Availability Zones and subnets dropdown to use the following zones:
 4. We can now review the advanced options step by navigating to Step 3. We won't be updating any settings here, but this is where you would typically add a load balancer, apply any VPC lattice integration options (topic not covered) and define any health check settings you need to apply.
   
 Get familiar with the configuration settings, then move to Step 4.
-
-5. We can now review the advanced options step by navigating to Step 3. We won't be updating any settings here, but this is where you would typically add a load balancer, apply any VPC lattice integration options (topic not covered) and define any health check settings you need to apply.
    
-Get familiar with the configuration settings, then move to Step 4.
-
-   We can now review the advanced options step by navigating to Step 3. We won't be updating any settings here, but this is where you would typically add a load balancer, apply any VPC lattice integration options (topic not covered) and define any health check settings you need to apply.
-   
-Get familiar with the configuration settings, then move to Step 4.
+5. No further configuration updates are necessary, but we would recommend familiarizing yourself with the Instance maintenance policy. We'll be leaving the default option of Mixed behaviour (No policy).
+     
+Skip to Step 7 where we can review our configuration and create our group.
