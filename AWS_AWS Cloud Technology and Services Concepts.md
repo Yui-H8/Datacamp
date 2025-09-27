@@ -105,3 +105,5 @@ Skip to Step 7 where we can review our configuration and create our group.
 * Once the Instance state is Running, select the newly created instance by selecting the check box and navigating to the Instance state dropdown and selecting Stop Instance.
 
 7. Which of the following is NOT a key configuration setting when creating an Auto Scaling Group in AWS?
+
+*You've correctly identified that the instance type is set in the launch configuration or template, not directly in the Auto Scaling Group settings.*
