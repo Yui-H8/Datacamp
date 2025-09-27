@@ -101,3 +101,4 @@ Get familiar with the configuration settings, then move to Step 4.
 > No further configuration updates are necessary, but we would recommend familiarizing yourself with the Instance maintenance policy. We'll be leaving the default option of Mixed behaviour (No policy).
 
 Skip to Step 7 where we can review our configuration and create our group.
+6. How do we check that our auto scaling group has worked? We can navigate to our Instances page, where we should be able to see a new instance booting up (this may take a few seconds to occur, and might require a page refresh).
