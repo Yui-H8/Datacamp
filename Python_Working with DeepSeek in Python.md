@@ -41,3 +41,4 @@ response = client.chat.completions.create(
 
 print(response.choices[0].message.content)
 ```
+### Specifying a DeepSeek model
