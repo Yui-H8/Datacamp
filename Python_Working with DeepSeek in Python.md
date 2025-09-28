@@ -26,3 +26,18 @@ The OpenAI class has already been imported for you from the openai library.
 
 * Create an OpenAI API client (keep <TogetherAI API Key> unchanged).   
 create a request for the "deepseek-ai/DeepSeek-V3" model to the Chat Completions endpoint.
+```python
+# Create the OpenAI client
+client = OpenAI(api_key="<TogetherAI API Key>", base_url="https://api.together.xyz/v1")
+
+# Create a request to the chat model
+response = client.chat.completions.create(
+    model="deepseek-ai/DeepSeek-V3",
+    max_tokens=200,
+    messages=[
+        {"role": "user", 
+         "content": "Write a polite reply accepting an AI Engineer job offer. Only output the reply."}]
+)
+
+print(response.choices[0].message.content)
+```
