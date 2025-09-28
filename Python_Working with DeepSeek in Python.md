@@ -15,3 +15,4 @@ response = client.chat.completions.create(
 
 print(response.choices[0].message.content)
 ```
+*Answer* : DeepSeek revolutionized LLMs by introducing highly efficient, long-context models with advanced retrieval-augmented generation (RAG) capabilities, enabling superior performance in complex reasoning and knowledge-intensive tasks.
