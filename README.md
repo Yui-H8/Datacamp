@@ -27,6 +27,7 @@ https://app.datacamp.com/learn/courses/
  * Introduction to NumPy
  * Introduction to Data Visualization with Plotly in Python
  * Regular Expressions in Python
+ * Working with DeepSeek in Python
 
 ---
 
