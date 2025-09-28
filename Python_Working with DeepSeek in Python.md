@@ -22,4 +22,7 @@ Throughout the course, you'll write Python code to prompt DeepSeek models via th
 
 The OpenAI class has already been imported for you from the openai library.
 
-Please note that although base_url is set to "https://api.together.xyz/v1" , the official DeepSeek API, the requests in these exercises are actually being rerouted to together.ai's API.
+> Please note that although base_url is set to "https://api.together.xyz/v1" , the official DeepSeek API, the requests in these exercises are actually being rerouted to together.ai's API.
+
+* Create an OpenAI API client (keep <TogetherAI API Key> unchanged).   
+create a request for the "deepseek-ai/DeepSeek-V3" model to the Chat Completions endpoint.
