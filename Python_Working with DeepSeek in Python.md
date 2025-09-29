@@ -45,3 +45,18 @@ print(response.choices[0].message.content)
 OpenAI offers multiple models for different use cases. In this exercise, you'll specify the model and define the role to structure your API requests.
 * Specify the deepseek-ai/DeepSeek-V3 model.
 * Assign the correct role in the messages list.
+```python
+client = OpenAI(api_key="<TogetherAI API Key>", base_url="https://api.together.xyz/v1")
+
+response = client.chat.completions.create(
+    # Specify the model
+    model="deepseek-ai/DeepSeek-V3",
+    max_tokens=200,
+    messages=[
+        # Assign the correct role
+        {"role": "user", 
+         "content": "Write a post to announce my new AI Engineer role on LinkedIn. Only output the post."}]
+)
+
+print(response.choices[0].message.content)
+```
