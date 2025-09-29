@@ -60,3 +60,15 @@ response = client.chat.completions.create(
 
 print(response.choices[0].message.content)
 ```
+> <script.py> output:
+    **Exciting News! 🚀**  
+    
+    I’m thrilled to share that I’ve started a new role as an **AI Engineer**!  
+    
+    This is an incredible opportunity to dive deeper into machine learning, NLP, and cutting-edge AI technologies while working alongside talented teams to build innovative solutions.  
+    
+    A huge thank you to everyone who has supported me on this journey—mentors, colleagues, and friends—your guidance has been invaluable.  
+    
+    I’m excited for this next chapter and can’t wait to contribute, learn, and grow in the world of AI. Let’s connect and collaborate!  
+    
+    #AI #MachineLearning #NewRole #CareerGrowth #ArtificialIntelligence
