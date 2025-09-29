@@ -42,3 +42,4 @@ response = client.chat.completions.create(
 print(response.choices[0].message.content)
 ```
 ### Specifying a DeepSeek model
+OpenAI offers multiple models for different use cases. In this exercise, you'll specify the model and define the role to structure your API requests.
