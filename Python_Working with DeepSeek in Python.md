@@ -75,3 +75,4 @@ print(response.choices[0].message.content)
 
 ### Digging into the response
 One key skill in working with APIs is extracting the right data from a structured response. Now, you'll practice retrieving the necessary text from an OpenAI API response.
+* Extract the content from the response, which is nested inside the message attribute.
