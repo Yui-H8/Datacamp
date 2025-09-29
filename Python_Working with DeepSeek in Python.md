@@ -74,3 +74,4 @@ print(response.choices[0].message.content)
     #AI #MachineLearning #NewRole #CareerGrowth #ArtificialIntelligence
 
 ### Digging into the response
+One key skill in working with APIs is extracting the right data from a structured response. Now, you'll practice retrieving the necessary text from an OpenAI API response.
