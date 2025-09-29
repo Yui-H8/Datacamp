@@ -72,3 +72,5 @@ print(response.choices[0].message.content)
     I’m excited for this next chapter and can’t wait to contribute, learn, and grow in the world of AI. Let’s connect and collaborate!  
     
     #AI #MachineLearning #NewRole #CareerGrowth #ArtificialIntelligence
+
+### Digging into the response
