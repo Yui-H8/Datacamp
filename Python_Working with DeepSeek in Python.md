@@ -87,3 +87,6 @@ response = client.chat.completions.create(
 # Extract the content from the response
 print(response.choices[0].message.content)
 ```
+*Asswer*
+> <script.py> output:
+    "Prioritize your top three tasks each morning and tackle them first to maintain focus and momentum."
