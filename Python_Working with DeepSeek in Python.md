@@ -43,3 +43,5 @@ print(response.choices[0].message.content)
 ```
 ### Specifying a DeepSeek model
 OpenAI offers multiple models for different use cases. In this exercise, you'll specify the model and define the role to structure your API requests.
+* Specify the deepseek-ai/DeepSeek-V3 model.
+* Assign the correct role in the messages list.
