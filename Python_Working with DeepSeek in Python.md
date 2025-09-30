@@ -102,3 +102,17 @@ In this exercise, you'll use reasoning models to solve a typical math problem th
 > math_problem    
 Calculate the area of a house in m^2 comprised of two rooms of sizes 3mx2m and 4mx5m.
 * Create a request to send the math_problem prompt to the "deepseek-ai/DeepSeek-R1" model via the Chat Completions endpoint.
+```python
+client = OpenAI(api_key="<TogetherAI API Key>", base_url="https://api.together.xyz/v1")
+
+# Create a request to the chat model
+response = client.chat.completions.create(
+    model="deepseek-ai/DeepSeek-R1",
+    max_tokens=400,
+    messages=[
+        {"role": "user", 
+         "content": "Calculate the area of a house in m^2 comprised of two rooms of sizes 3mx2m and 4mx5m."}]
+)
+
+print(response.choices[0].message.content)
+```
