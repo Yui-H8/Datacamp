@@ -152,3 +152,8 @@ So, area of first room: 3 m × 2 m = 6 m²
 *The response from the model was likely cut-off, as the model generates lots of thoughts along the way which go beyond the limit we set with max_tokens=400 (more on this in Chapter 2). How about we take a closer look at those thoughts?*
 
 ### Extracting the model’s thoughts
+The model response content from the previous exercise's math_problem has been stored under response_content.
+
+Note that this may differ from what you saw when you ran the exercise, as LLM outputs are inherently random (more on this in Chapter 2).
+
+Your job is to separate thought from answer using regular expressions (RegEx).
