@@ -96,3 +96,6 @@ print(response.choices[0].message.content)
 
 ---
 ### Getting models to think
+ Time to make the switch from chat models to reasoning models! These are great for deeper reasoning tasks like data analysis, code debugging, math, or research.
+
+In this exercise, you'll use reasoning models to solve a typical math problem that might be presented to high-school math students.
