@@ -157,3 +157,7 @@ The model response content from the previous exercise's math_problem has been st
 Note that this may differ from what you saw when you ran the exercise, as LLM outputs are inherently random (more on this in Chapter 2).
 
 Your job is to separate thought from answer using regular expressions (RegEx).
+
+* Import the re built-in Python module.
+* Search for the model's thoughts in the response by looking for strings between two <think> tags using the RegEx provided.
+* Extract the first group from match using the .group() method ,and strip these thoughts of any leading and trailing whitespace.
