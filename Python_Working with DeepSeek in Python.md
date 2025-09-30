@@ -92,3 +92,7 @@ print(response.choices[0].message.content)
     "Prioritize your top three tasks each morning and tackle them first to maintain focus and momentum."
 ### Reasoning models and DeepSeek R1
 
+
+
+---
+### Getting models to think
