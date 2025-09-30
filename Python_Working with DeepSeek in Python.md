@@ -101,3 +101,4 @@ print(response.choices[0].message.content)
 In this exercise, you'll use reasoning models to solve a typical math problem that might be presented to high-school math students.
 > math_problem    
 Calculate the area of a house in m^2 comprised of two rooms of sizes 3mx2m and 4mx5m.
+* Create a request to send the math_problem prompt to the "deepseek-ai/DeepSeek-R1" model via the Chat Completions endpoint.
