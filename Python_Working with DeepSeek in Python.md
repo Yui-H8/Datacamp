@@ -111,7 +111,8 @@ response = client.chat.completions.create(
     max_tokens=400,
     messages=[
         {"role": "user", 
-         "content": "Calculate the area of a house in m^2 comprised of two rooms of sizes 3mx2m and 4mx5m."}]
+         "content": math_problem}],
+  stream=False
 )
 
 print(response.choices[0].message.content)
