@@ -175,6 +175,6 @@ print(think_content)
 > Okay, so I need to calculate the total area of a house that has two rooms. The rooms are 3 meters by 2 meters and 4 meters by 5 meters. Hmm, right. Let me think about how to approach this.   
 First, I remember that the area of a rectangle is calculated by multiplying its length by its width. So, for each room, I can find the area individually and then add them together to get the total area of the house. That makes sense because the total area should be the sum of the areas of all the rooms.    
 Let me start with the first room. The dimensions are 3 meters by 2 meters. So, if I multiply 3 meters by 2 meters, that should give me the area. Let me write that down: 3m * 2m. Multiplying those numbers gives 6. And the unit would be square meters because meters times meters is meters squared. So, the first room is 6 m². That seems right. A 3x2 rectangle, yeah, 3 times 2 is 6.     
-Now, moving on to the second room. It's 4 meters by 5 meters. Again, applying the same formula: length multiplied by width. So, 4m * 5m. Let me calculate that. 4 times 5 is 20. So, the area here is 20 m². That also makes sense. A 4x5 room would have an area of 20 square meters. 
-
+Now, moving on to the second room. It's 4 meters by 5 meters. Again, applying the same formula: length multiplied by width. So, 4m * 5m. Let me calculate that. 4 times 5 is 20. So, the area here is 20 m². That also makes sense. A 4x5 room would have an area of 20 square meters.     
 Now, to find the total area of the house, I need to add the areas of both rooms together. So, the first room is 6 m² and the second is 20 m². Adding those together: 6 + 20. Let me do that math. 6 plus 20 equals 26. So, the total area should be 26 square meters.
+
