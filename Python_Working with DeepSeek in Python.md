@@ -178,3 +178,5 @@ Let me start with the first room. The dimensions are 3 meters by 2 meters. So, i
 Now, moving on to the second room. It's 4 meters by 5 meters. Again, applying the same formula: length multiplied by width. So, 4m * 5m. Let me calculate that. 4 times 5 is 20. So, the area here is 20 m². That also makes sense. A 4x5 room would have an area of 20 square meters.     
 Now, to find the total area of the house, I need to add the areas of both rooms together. So, the first room is 6 m² and the second is 20 m². Adding those together: 6 + 20. Let me do that math. 6 plus 20 equals 26. So, the total area should be 26 square meters.
 
+
+With a few lines of code, you can read thoughts! In the next chapter, you’ll learn strategies for prompting DeepSeek models to perform a wide range of tasks. You’ll summarize long documents, generate marketing content, analyze customer sentiment, and perform deep analysis. See you there!
