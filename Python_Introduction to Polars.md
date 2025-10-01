@@ -10,6 +10,7 @@ ev_df = pl.read_csv("electric_vehicles.csv")
 # Print the first three rows
 print(ev_df.head(3))
 ```
+<pre> 
 shape: (3, 8)
 ┌────────────┬─────────────────┬───────────┬───────┬───────────┬───────┬─────────────┬───────┐
 │ brand      ┆ model           ┆ style     ┆ accel ┆ top_speed ┆ range ┆ charge_rate ┆ price │
@@ -20,4 +21,4 @@ shape: (3, 8)
 │ Smart      ┆ EQ fortwo coupe ┆ Hatchback ┆ 11.6  ┆ 130.0     ┆ 100.0 ┆ null        ┆ 21387 │
 │ Volkswagen ┆ e-Up!           ┆ hatchback ┆ 11.9  ┆ 130.0     ┆ 195.0 ┆ 170.0       ┆ 21421 │
 └────────────┴─────────────────┴───────────┴───────┴───────────┴───────┴─────────────┴───────┘
-In [1]:
+</pre>
