@@ -161,3 +161,14 @@ Your job is to separate thought from answer using regular expressions (RegEx).
 * Import the re built-in Python module.
 * Search for the model's thoughts in the response by looking for strings between two <think> tags using the RegEx provided.
 * Extract the first group from match using the .group() method ,and strip these thoughts of any leading and trailing whitespace.
+```python
+# Import the re module
+import re
+
+# Search for strings between think tags
+match = re.search(r'<think>(.*?)</think>', response_content, re.DOTALL)
+
+# Extract the group from the match and strip whitespace
+think_content = match.group(1).strip()
+print(think_content)
+```
