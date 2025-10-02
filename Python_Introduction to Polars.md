@@ -40,3 +40,8 @@ print(ev_df.columns)
 print(ev_df.schema)
 ```
 4. Use a single method to get the shape, column names, dtypes and first rows in a vertical format.
+```python
+# Print the first values in a vertical format
+print(ev_df.glimpse())
+```
+the .glimpse() method displays the first values in a vertical format that can be easier to read for DataFrames with many columns. In this case, it shows you the size of the dataset and a preview of the brands and performance characteristics.
