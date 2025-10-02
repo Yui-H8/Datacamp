@@ -34,3 +34,4 @@ print(ev_df.shape)
 # Print the column names of ev_df
 print(ev_df.columns)
 ```
+3. Print the column names along with their dtypes.
