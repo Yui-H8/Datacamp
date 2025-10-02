@@ -180,3 +180,4 @@ Now, to find the total area of the house, I need to add the areas of both rooms 
 
 
 With a few lines of code, you can read thoughts! In the next chapter, you’ll learn strategies for prompting DeepSeek models to perform a wide range of tasks. You’ll summarize long documents, generate marketing content, analyze customer sentiment, and perform deep analysis. See you there!
+### Inspect a DataFrame
