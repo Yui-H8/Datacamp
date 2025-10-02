@@ -39,3 +39,4 @@ print(ev_df.columns)
 # Print the column names and dtypes
 print(ev_df.schema)
 ```
+4. Use a single method to get the shape, column names, dtypes and first rows in a vertical format.
