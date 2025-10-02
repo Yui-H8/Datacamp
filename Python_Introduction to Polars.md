@@ -29,3 +29,4 @@ Before diving into detailed analysis, you want to understand the structure and c
 # Print number of rows and columns of ev_df
 print(ev_df.shape)
 ```
+2. Print the list of column names of the DataFrame ev_df.
