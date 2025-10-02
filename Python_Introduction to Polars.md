@@ -25,3 +25,7 @@ shape: (3, 8)
 ### Inspect a DataFrame
 Before diving into detailed analysis, you want to understand the structure and content of the EV dataset.
 1. Print the number of rows and columns of the DataFrame ev_df.
+```python
+# Print number of rows and columns of ev_df
+print(ev_df.shape)
+```
