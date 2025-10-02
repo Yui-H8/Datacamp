@@ -30,3 +30,7 @@ Before diving into detailed analysis, you want to understand the structure and c
 print(ev_df.shape)
 ```
 2. Print the list of column names of the DataFrame ev_df.
+```python
+# Print the column names of ev_df
+print(ev_df.columns)
+```
