@@ -35,3 +35,7 @@ print(ev_df.shape)
 print(ev_df.columns)
 ```
 3. Print the column names along with their dtypes.
+```python
+# Print the column names and dtypes
+print(ev_df.schema)
+```
