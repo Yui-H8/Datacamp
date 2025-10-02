@@ -23,3 +23,4 @@ shape: (3, 8)
 └────────────┴─────────────────┴───────────┴───────┴───────────┴───────┴─────────────┴───────┘
 </pre>
 ### Inspect a DataFrame
+Before diving into detailed analysis, you want to understand the structure and content of the EV dataset.
