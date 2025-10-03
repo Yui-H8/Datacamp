@@ -45,3 +45,5 @@ print(ev_df.schema)
 print(ev_df.glimpse())
 ```
 the .glimpse() method displays the first values in a vertical format that can be easier to read for DataFrames with many columns. In this case, it shows you the size of the dataset and a preview of the brands and performance characteristics.
+---
+### Creating a Series from a DataFrame
