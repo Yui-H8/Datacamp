@@ -97,3 +97,4 @@ output:
     │ Tesla   ┆ 215000 │
     └─────────┴────────┘
 </pre>
+*Correct, with bracket notation you can combine row indexes and column names while using negative indexing from the end of the DataFrame.*
