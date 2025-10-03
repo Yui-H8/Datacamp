@@ -48,3 +48,7 @@ the .glimpse() method displays the first values in a vertical format that can be
 ---
 ### Creating a Series from a DataFrame
 * Create a Series from the "brand" column of ev_df.
+```python
+# Create a Series from the brand column
+print(ev_df["brand"])
+```
