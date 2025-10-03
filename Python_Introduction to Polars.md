@@ -59,3 +59,23 @@ print(ev_df["brand"])
 # Extract the brand, model and price columns
 print(ev_df[["brand", "model", "price"]])
 ```
+<pre> output:
+    shape: (106, 3)
+    ┌────────────┬──────────────────────┬────────┐
+    │ brand      ┆ model                ┆ price  │
+    │ ---        ┆ ---                  ┆ ---    │
+    │ str        ┆ str                  ┆ i64    │
+    ╞════════════╪══════════════════════╪════════╡
+    │ SEAT       ┆ Mii Electric         ┆ 20129  │
+    │ Smart      ┆ EQ fortwo coupe      ┆ 21387  │
+    │ Volkswagen ┆ e-Up!                ┆ 21421  │
+    │ Smart      ┆ EQ forfour           ┆ 22030  │
+    │ Skoda      ┆ CITIGOe iV           ┆ 24534  │
+    │ …          ┆ …                    ┆ …      │
+    │ Porsche    ┆ Taycan Turbo         ┆ 148301 │
+    │ Lightyear  ┆ One                  ┆ 149000 │
+    │ Porsche    ┆ Taycan Cross Turismo ┆ 150000 │
+    │ Porsche    ┆ Taycan Turbo S       ┆ 180781 │
+    │ Tesla      ┆ Roadster             ┆ 215000 │
+    └────────────┴──────────────────────┴────────┘
+</pre>
