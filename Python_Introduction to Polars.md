@@ -80,3 +80,7 @@ print(ev_df[["brand", "model", "price"]])
     └────────────┴──────────────────────┴────────┘
 </pre>
 2. Print the last three rows of the "brand" and "price" columns (in that order) from ev_df using only bracket notation.
+```python
+# Print the last three rows of the brand and price columns
+print(ev_df[-3:,["brand", "price"]])
+```
