@@ -53,3 +53,4 @@ the .glimpse() method displays the first values in a vertical format that can be
 print(ev_df["brand"])
 ```
 *Correct, you can create a Series of the brand names by passing a single column name inside square brackets. The output of .select() is always a DataFrame.*
+### Subsetting a DataFrame with bracket notation
