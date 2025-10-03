@@ -84,3 +84,16 @@ print(ev_df[["brand", "model", "price"]])
 # Print the last three rows of the brand and price columns
 print(ev_df[-3:,["brand", "price"]])
 ```
+<pre>
+output:
+    shape: (3, 2)
+    ┌─────────┬────────┐
+    │ brand   ┆ price  │
+    │ ---     ┆ ---    │
+    │ str     ┆ i64    │
+    ╞═════════╪════════╡
+    │ Porsche ┆ 150000 │
+    │ Porsche ┆ 180781 │
+    │ Tesla   ┆ 215000 │
+    └─────────┴────────┘
+</pre>
