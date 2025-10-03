@@ -55,3 +55,7 @@ print(ev_df["brand"])
 *Correct, you can create a Series of the brand names by passing a single column name inside square brackets. The output of .select() is always a DataFrame.*
 ### Subsetting a DataFrame with bracket notation
 1. Print the "brand", "model" and "price" columns (in that order) using bracket notation.
+```python
+# Extract the brand, model and price columns
+print(ev_df[["brand", "model", "price"]])
+```
