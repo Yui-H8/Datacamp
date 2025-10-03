@@ -79,3 +79,4 @@ print(ev_df[["brand", "model", "price"]])
     │ Tesla      ┆ Roadster             ┆ 215000 │
     └────────────┴──────────────────────┴────────┘
 </pre>
+2. Print the last three rows of the "brand" and "price" columns (in that order) from ev_df using only bracket notation.
