@@ -152,3 +152,5 @@ print(ev_df.select("brand", "model", "price"))
 </pre>
 ---
 ### Sorting the EV data
+* Sort the DataFrame by the "range" column.
+* Ensure the results are ordered with the longest ranges first.
