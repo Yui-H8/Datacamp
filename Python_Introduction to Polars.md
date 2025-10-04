@@ -98,3 +98,4 @@ output:
     └─────────┴────────┘
 </pre>
 *Correct, with bracket notation you can combine row indexes and column names while using negative indexing from the end of the DataFrame.*
+### Select a subset of columns with .select()
