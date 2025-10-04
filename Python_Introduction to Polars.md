@@ -106,3 +106,7 @@ A fleet management client is particularly interested in how vehicle performance 
 print(ev_df.select("model", "accel", "price"))
 ```
 2. Create a DataFrame by passing the "brand","model", and "price" columns as a list using .select().
+```python
+# Select the brand, model and price columns
+print(ev_df.select("brand", "model", "price"))
+```
