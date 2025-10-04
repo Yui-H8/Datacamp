@@ -99,3 +99,4 @@ output:
 </pre>
 *Correct, with bracket notation you can combine row indexes and column names while using negative indexing from the end of the DataFrame.*
 ### Select a subset of columns with .select()
+A fleet management client is particularly interested in how vehicle performance relates to price. You need to know if faster acceleration justifies higher prices across different models in ev_df.
