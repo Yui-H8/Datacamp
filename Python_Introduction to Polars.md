@@ -44,7 +44,9 @@ print(ev_df.schema)
 # Print the first values in a vertical format
 print(ev_df.glimpse())
 ```
-the .glimpse() method displays the first values in a vertical format that can be easier to read for DataFrames with many columns. In this case, it shows you the size of the dataset and a preview of the brands and performance characteristics.
+
+  the .glimpse() method displays the first values in a vertical format that can be easier to read for DataFrames with many columns. In this case, it shows you the size of the dataset and a preview of the brands and performance characteristics.
+  
 ---
 ### Creating a Series from a DataFrame
 * Create a Series from the "brand" column of ev_df.
@@ -154,3 +156,9 @@ print(ev_df.select("brand", "model", "price"))
 ### Sorting the EV data
 * Sort the DataFrame by the "range" column.
 * Ensure the results are ordered with the longest ranges first.
+```python
+# Sort with longest range first
+sorted_ev_df = ev_df.sort("range", descending=True)
+
+print(sorted_ev_df)
+```
