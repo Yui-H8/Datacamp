@@ -105,3 +105,4 @@ A fleet management client is particularly interested in how vehicle performance 
 # Select the model, accel and price columns
 print(ev_df.select("model", "accel", "price"))
 ```
+2. Create a DataFrame by passing the "brand","model", and "price" columns as a list using .select().
