@@ -150,3 +150,5 @@ print(ev_df.select("brand", "model", "price"))
     │ Tesla      ┆ Roadster             ┆ 215000 │
     └────────────┴──────────────────────┴────────┘
 </pre>
+---
+### Sorting the EV data
