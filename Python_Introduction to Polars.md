@@ -162,3 +162,24 @@ sorted_ev_df = ev_df.sort("range", descending=True)
 
 print(sorted_ev_df)
 ```
+<pre>
+  shape: (106, 8)
+┌───────────┬──────────────────────┬───────────┬───────┬───────────┬───────┬─────────────┬────────┐
+│ brand     ┆ model                ┆ style     ┆ accel ┆ top_speed ┆ range ┆ charge_rate ┆ price  │
+│ ---       ┆ ---                  ┆ ---       ┆ ---   ┆ ---       ┆ ---   ┆ ---         ┆ ---    │
+│ str       ┆ str                  ┆ str       ┆ f64   ┆ f64       ┆ f64   ┆ f64         ┆ i64    │
+╞═══════════╪══════════════════════╪═══════════╪═══════╪═══════════╪═══════╪═════════════╪════════╡
+│ Tesla     ┆ Roadster             ┆ Cabrio    ┆ 2.1   ┆ 410.0     ┆ 970.0 ┆ 920.0       ┆ 215000 │
+│ Tesla     ┆ Cybertruck Tri Motor ┆ pickup    ┆ 3.0   ┆ 210.0     ┆ 750.0 ┆ 710.0       ┆ 75000  │
+│ Lucid     ┆ Air                  ┆ sedan     ┆ 2.8   ┆ 250.0     ┆ 610.0 ┆ 620.0       ┆ 105000 │
+│ Lightyear ┆ One                  ┆ Liftback  ┆ 10.0  ┆ 150.0     ┆ 575.0 ┆ 540.0       ┆ 149000 │
+│ Tesla     ┆ Model S Long Range   ┆ Liftback  ┆ 3.8   ┆ 250.0     ┆ 515.0 ┆ 560.0       ┆ 79990  │
+│ …         ┆ …                    ┆ …         ┆ …     ┆ …         ┆ …     ┆ …           ┆ …      │
+│ Renault   ┆ Kangoo Maxi ZE 33    ┆ SPV       ┆ 22.4  ┆ 130.0     ┆ 160.0 ┆ null        ┆ 38000  │
+│ Renault   ┆ Twingo ZE            ┆ Hatchback ┆ 12.6  ┆ 135.0     ┆ 130.0 ┆ null        ┆ 24790  │
+│ Smart     ┆ EQ fortwo coupe      ┆ Hatchback ┆ 11.6  ┆ 130.0     ┆ 100.0 ┆ null        ┆ 21387  │
+│ Smart     ┆ EQ forfour           ┆ hatchback ┆ 12.7  ┆ 130.0     ┆ 95.0  ┆ null        ┆ 22030  │
+│ Smart     ┆ EQ fortwo cabrio     ┆ Cabrio    ┆ 11.9  ┆ 130.0     ┆ 95.0  ┆ null        ┆ 24565  │
+└───────────┴──────────────────────┴───────────┴───────┴───────────┴───────┴─────────────┴────────┘
+
+</pre>
