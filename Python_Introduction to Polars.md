@@ -210,3 +210,9 @@ print(ev_df.describe())
 </pre>
 ### Extreme values in a DataFrame
 1. Find and print the rows with the four most expensive vehicles by "price".
+```python
+# Get the most expensive 4 vehicles
+expensive_df = ev_df.top_k(4, by="price")
+
+print(expensive_df)
+```
