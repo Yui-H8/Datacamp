@@ -232,3 +232,9 @@ print(expensive_df)
 
 </pre>
 2. Find and print the rows with the four cheapest vehicles by "price".
+```python
+# Find the four cheapest vehicles
+cheap_df = ev_df.bottom_k(4, by="price")
+
+print(cheap_df)
+```
