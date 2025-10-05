@@ -252,3 +252,4 @@ print(cheap_df)
 └────────────┴─────────────────┴───────────┴───────┴───────────┴───────┴─────────────┴───────┘
 
 </pre>
+*Correct, you use .top_k() to get the rows with the highest prices and .bottom_k() to get the rows with the lowest prices. Using these methods is faster than sorting the entire DataFrame when there are many rows.*
