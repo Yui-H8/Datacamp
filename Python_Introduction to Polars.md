@@ -209,3 +209,4 @@ print(ev_df.describe())
 
 </pre>
 ### Extreme values in a DataFrame
+1. Find and print the rows with the four most expensive vehicles by "price".
