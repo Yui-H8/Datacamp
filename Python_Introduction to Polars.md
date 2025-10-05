@@ -231,3 +231,4 @@ print(expensive_df)
     └───────────┴──────────────────────┴──────────┴───────┴───────────┴───────┴─────────────┴────────┘
 
 </pre>
+2. Find and print the rows with the four cheapest vehicles by "price".
