@@ -185,3 +185,7 @@ print(sorted_ev_df)
 </pre>
 ### Summarizing a DataFrame
 * Print a summary of the DataFrame to see the number of missing values and statistics of numerical columns.
+```python
+# Print a summary of the DataFrame
+print(ev_df.describe())
+```
