@@ -70,6 +70,7 @@ https://app.datacamp.com/learn/courses/
 * Introduction to ChatGPT
 * Understanding Prompt Engineering
 * Intermediate ChatGPT
+* Introduction to AI for Work
 
 ---
 
