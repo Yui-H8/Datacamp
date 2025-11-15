@@ -90,3 +90,5 @@ Billions of people rely on these predictions daily for timing their commutes and
 
 2. - Which of the following statements about AI is true?
    - AI has been around for decades and is already integrated into many systems we use daily
+
+*You clearly understand that AI enables computers to perform tasks requiring human intelligence and that AI has been integrated into our daily lives for decades, not just since ChatGPT appeared.*
