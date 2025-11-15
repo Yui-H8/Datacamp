@@ -82,3 +82,8 @@ Here's what's remarkable: 80% of Netflix viewing comes from these personalized r
 Google Maps predicts how long your trip will take and updates estimates in real-time as you drive. Instead of guessing travel time, you get accurate predictions that account for current traffic conditions, helping you plan departures and communicate realistic arrival times.
 
 Billions of people rely on these predictions daily for timing their commutes and appointments. AI has been guiding your daily travel for years.
+
+---
+
+1. - What is artificial intelligence?
+   - Computer systems that perform tasks typically associated with human intelligence, such as learning, reasoning, and decision-making
