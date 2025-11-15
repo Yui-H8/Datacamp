@@ -87,3 +87,6 @@ Billions of people rely on these predictions daily for timing their commutes and
 
 1. - What is artificial intelligence?
    - Computer systems that perform tasks typically associated with human intelligence, such as learning, reasoning, and decision-making
+
+2. - Which of the following statements about AI is true?
+   - AI has been around for decades and is already integrated into many systems we use daily
