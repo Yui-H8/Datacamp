@@ -49,3 +49,22 @@ That's a great example of what AI can do! Creating images from keywords is indee
 Let me help you see the bigger picture: AI isn't just about one specific task like image generation. It's the broader technology that enables computers to perform any task requiring human-like intelligence—whether that's understanding language, recognizing patterns, making decisions, or yes, creating images.
 
 So when you explain AI to someone, you might say: "AI is technology that lets computers do things that normally need human thinking—like understanding speech, recognizing faces, making decisions, or even creating new content."
+
+---
+
+### AI Fundamentals
+
+Artificial intelligence enables computer systems to perform tasks typically associated with human intelligence, such as learning, reasoning, and decision-making.
+AI has actually been around for decades and is already deeply integrated into your daily life in ways you might not even realize.  
+
+### Traditional Programming
+
+Before modern AI, engineers created intelligent systems by explicitly programming step-by-step procedures.
+The challenge is that for many important tasks, we simply can't spell out the procedure—a human expert may excel but can't articulate the instructions for a computer.
+
+### Machine Learning
+
+Instead of programming step-by-step procedures, machine learning enables computers to learn from examples.
+AI fundamentally works through pattern recognition..
+During Training: The system recognizes and learns patterns from examples.
+During Operation: The trained system receives new cases and compares them against the patterns it learned during training to make decisions.
