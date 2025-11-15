@@ -68,3 +68,11 @@ Instead of programming step-by-step procedures, machine learning enables compute
 AI fundamentally works through pattern recognition..
 During Training: The system recognizes and learns patterns from examples.
 During Operation: The trained system receives new cases and compares them against the patterns it learned during training to make decisions.
+
+---
+
+ Here are two more examples of AI you've likely been using:
+
+Netflix recommendations suggest movies and shows you're likely to enjoy based on your viewing history and preferences. Instead of endlessly scrolling through thousands of titles, the system surfaces content matched to your tastes, helping you find your next favorite show without choice overload.
+
+Here's what's remarkable: 80% of Netflix viewing comes from these personalized recommendations. AI has been shaping your entertainment choices for years.
