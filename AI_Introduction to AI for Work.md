@@ -73,7 +73,9 @@ During Operation: The trained system receives new cases and compares them agains
 
  Here are two more examples of AI you've likely been using:
 
-Netflix recommendations suggest movies and shows you're likely to enjoy based on your viewing history and preferences. Instead of endlessly scrolling through thousands of titles, the system surfaces content matched to your tastes, helping you find your next favorite show without choice overload.
+* Netflix recommendations suggest movies and shows you're likely to enjoy based on your viewing history and preferences.
+
+ Instead of endlessly scrolling through thousands of titles, the system surfaces content matched to your tastes, helping you find your next favorite show without choice overload.
 
 Here's what's remarkable: 80% of Netflix viewing comes from these personalized recommendations. AI has been shaping your entertainment choices for years.
 
