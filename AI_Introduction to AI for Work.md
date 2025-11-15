@@ -38,3 +38,14 @@ Think about tasks that normally require human thinking—like understanding what
 Artificial intelligence is technology that allows computers to do these kinds of tasks that would normally require human intelligence.
 
 So it's not just about speed or automation—it's about enabling computers to handle tasks that involve understanding, reasoning, and decision-making, things that traditionally only humans could do.
+
+---
+
+How would you explain AI to someone who's never heard of it before? Imagine you're teaching a colleague in AI ethics who's completely new to the field.
+
+
+That's a great example of what AI can do! Creating images from keywords is indeed one impressive AI capability.
+
+Let me help you see the bigger picture: AI isn't just about one specific task like image generation. It's the broader technology that enables computers to perform any task requiring human-like intelligence—whether that's understanding language, recognizing patterns, making decisions, or yes, creating images.
+
+So when you explain AI to someone, you might say: "AI is technology that lets computers do things that normally need human thinking—like understanding speech, recognizing faces, making decisions, or even creating new content."
