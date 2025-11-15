@@ -27,3 +27,13 @@ This eliminates hours of manual work, reduces copy-paste errors, and lets you fo
 In this course, we'll learn how to work with AI to save time and boost productivity, as well as how to work with AI safely—including critical considerations around data privacy.
 
 Clear so far?
+
+---
+
+That's a good start! You're right that AI can calculate faster and automate tasks. Let me build on that.
+
+Think about tasks that normally require human thinking—like understanding what someone is saying, recognizing a face in a photo, or deciding the fastest route somewhere.
+
+Artificial intelligence is technology that allows computers to do these kinds of tasks that would normally require human intelligence.
+
+So it's not just about speed or automation—it's about enabling computers to handle tasks that involve understanding, reasoning, and decision-making, things that traditionally only humans could do.
