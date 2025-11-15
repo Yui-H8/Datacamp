@@ -14,3 +14,16 @@ Imagine you're working on an AI ethics review and need to consolidate informatio
 The old way? You'd spend hours manually extracting key data points—study methodology, dataset size, bias metrics, mitigation strategies, and findings—then copy-pasting everything into a spreadsheet for comparison.
 
 Now, let's look at how this can be done with AI.
+
+---
+Here's how AI transforms this task:
+
+Upload the 15 research papers to AI (ensuring they're appropriate per your organization's policies) and specify the fields to extract: study methodology, dataset size, bias metrics, mitigation strategies, and key findings
+AI reads each paper and pulls the relevant data points
+AI organizes everything into a clean spreadsheet format, making comparison and analysis straightforward
+Review the consolidated data against the original papers to confirm accuracy
+This eliminates hours of manual work, reduces copy-paste errors, and lets you focus on the actual ethics analysis rather than data gathering. And this is just one example of how AI can help.
+
+In this course, we'll learn how to work with AI to save time and boost productivity, as well as how to work with AI safely—including critical considerations around data privacy.
+
+Clear so far?
