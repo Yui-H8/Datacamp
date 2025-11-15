@@ -76,3 +76,9 @@ During Operation: The trained system receives new cases and compares them agains
 Netflix recommendations suggest movies and shows you're likely to enjoy based on your viewing history and preferences. Instead of endlessly scrolling through thousands of titles, the system surfaces content matched to your tastes, helping you find your next favorite show without choice overload.
 
 Here's what's remarkable: 80% of Netflix viewing comes from these personalized recommendations. AI has been shaping your entertainment choices for years.
+
+* Google Maps arrival time prediction is our final example.
+
+Google Maps predicts how long your trip will take and updates estimates in real-time as you drive. Instead of guessing travel time, you get accurate predictions that account for current traffic conditions, helping you plan departures and communicate realistic arrival times.
+
+Billions of people rely on these predictions daily for timing their commutes and appointments. AI has been guiding your daily travel for years.
