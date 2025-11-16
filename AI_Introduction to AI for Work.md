@@ -126,3 +126,7 @@ During training, the system recognizes and learns patterns from data. During ope
 In spam detection, it learned patterns like suspicious phrases and sender reputation. In Netflix, it learned patterns connecting viewing preferences with content characteristics.
 
 Machine learning took off dramatically because it could solve problems that were impractical or impossible with traditional programming, making modern AI possible.
+
+---
+
+1. - Why can't we just write rules to detect cancer in medical scans?
