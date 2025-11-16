@@ -134,4 +134,6 @@ Machine learning took off dramatically because it could solve problems that were
 The patterns that indicate cancer are too complex and subtle for humans to write as explicit rules, even though radiologists can recognize them
 
 
-2. - A hospital trains an AI system on thousands of medical scans labeled as normal or showing cancer. During training, what is the system learning? 
+2. - A hospital trains an AI system on thousands of medical scans labeled as normal or showing cancer. During training, what is the system learning?
+ 
+     Patterns in medical scans that indicate cancer likelihood
