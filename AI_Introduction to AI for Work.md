@@ -100,3 +100,9 @@ Billions of people rely on these predictions daily for timing their commutes and
 Now consider Netflix recommendations. Personal taste involves complex, subjective preferences that vary by mood, time, and countless personal factors. No fixed rules can predict what any individual will enjoy.
 
 See the pattern?
+
+*Exactly! You could look for invitation words and suspicious links. But spammers adapt constantly—they misspell words, disguise links, and change tactics faster than you can update rules.*
+
+Here's the key insight: Many important tasks are too complex to solve by programming rules. A human expert may excel at the task, but can't articulate step-by-step instructions that would allow a computer to replicate it.
+
+So how did people solve this? Let's find out!
