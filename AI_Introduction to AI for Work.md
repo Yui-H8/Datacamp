@@ -130,3 +130,5 @@ Machine learning took off dramatically because it could solve problems that were
 ---
 
 1. - Why can't we just write rules to detect cancer in medical scans?
+  
+2. - A hospital trains an AI system on thousands of medical scans labeled as normal or showing cancer. During training, what is the system learning? 
