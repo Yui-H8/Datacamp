@@ -112,3 +112,9 @@ Instead of humans writing and updating rules, AI scientists developed techniques
 During training, we show the system thousands of cases. The system analyzes these examples to identify patterns that help it accomplish the task.
 
 This is the foundation of how modern AI works.
+
+> Spam detection works like this:
+>
+> The system learns from millions of labeled examples, identifying patterns like suspicious phrases ("You've won!", "Act now!"), sender reputation, and formatting that distinguish spam from legitimate mail.
+>
+> For each incoming email, it matches content against these patterns to calculate a spam score and filter accordingly.
