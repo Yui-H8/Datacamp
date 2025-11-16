@@ -106,3 +106,9 @@ See the pattern?
 Here's the key insight: Many important tasks are too complex to solve by programming rules. A human expert may excel at the task, but can't articulate step-by-step instructions that would allow a computer to replicate it.
 
 So how did people solve this? Let's find out!
+
+Instead of humans writing and updating rules, AI scientists developed techniques that enable computers to learn the patterns themselves from examples.
+
+During training, we show the system thousands of cases. The system analyzes these examples to identify patterns that help it accomplish the task.
+
+This is the foundation of how modern AI works.
