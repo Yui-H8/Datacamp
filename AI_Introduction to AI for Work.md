@@ -118,3 +118,11 @@ This is the foundation of how modern AI works.
 > The system learns from millions of labeled examples, identifying patterns like suspicious phrases ("You've won!", "Act now!"), sender reputation, and formatting that distinguish spam from legitimate mail.
 >
 > For each incoming email, it matches content against these patterns to calculate a spam score and filter accordingly.
+
+**AI fundamentally works through pattern recognition.**
+
+During training, the system recognizes and learns patterns from data. During operation, it recognizes them in new situations to make decisions.
+
+In spam detection, it learned patterns like suspicious phrases and sender reputation. In Netflix, it learned patterns connecting viewing preferences with content characteristics.
+
+Machine learning took off dramatically because it could solve problems that were impractical or impossible with traditional programming, making modern AI possible.
