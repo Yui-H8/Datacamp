@@ -94,3 +94,9 @@ Billions of people rely on these predictions daily for timing their commutes and
    - AI has been around for decades and is already integrated into many systems we use daily
 
 *You clearly understand that AI enables computers to perform tasks requiring human intelligence and that AI has been integrated into our daily lives for decades, not just since ChatGPT appeared.*
+
+---
+
+Now consider Netflix recommendations. Personal taste involves complex, subjective preferences that vary by mood, time, and countless personal factors. No fixed rules can predict what any individual will enjoy.
+
+See the pattern?
