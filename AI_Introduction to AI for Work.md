@@ -166,3 +166,14 @@ That's why systems like spam detection and Netflix are trained on millions of ex
 > Prompt injection is when someone crafts inputs to manipulate the AI's behavior in unintended ways—like tricking it into ignoring safety guidelines. This is a security vulnerability, not a training issue.
 > 
 > The parameters we discussed are internal settings adjusted during training. Wrong parameters would make the AI perform poorly at its task (like misclassifying emails), but that's different from prompt injection attacks.
+
+You're asking about **data quality during training**.
+
+If someone rated every movie as "Bad" during training, it would introduce noise into the training data. However:
+* One person's bad data among millions has minimal impact—the system learns from the overall patterns across all users
+* Netflix likely has data validation to detect and filter out suspicious rating patterns
+* The system learns aggregate patterns, so outliers get averaged out
+
+But you've identified a real concern in AI ethics: "**garbage in, garbage out."** If training data is biased, incomplete, or manipulated at scale, the AI will learn flawed patterns.
+
+This is why data quality and integrity are critical ethical considerations—something very relevant to your work in AI ethics! We'll explore these risks later in the course.
