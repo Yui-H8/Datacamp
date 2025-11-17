@@ -177,3 +177,13 @@ If someone rated every movie as "Bad" during training, it would introduce noise 
 But you've identified a real concern in AI ethics: "**garbage in, garbage out."** If training data is biased, incomplete, or manipulated at scale, the AI will learn flawed patterns.
 
 This is why data quality and integrity are critical ethical considerations—something very relevant to your work in AI ethics! We'll explore these risks later in the course.
+
+---
+
+How the learning happens:   
+ Machine learning systems improve through three repeating steps: 
+ 1. First, they attempt the task and make a prediction.
+ 2. Second, they compare their prediction to the correct answer and calculate the error.
+ 3. Third, they automatically adjust their internal parameters to reduce that error.
+
+This process repeats thousands of times across many examples, gradually tuning the system to recognize the right patterns.
