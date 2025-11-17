@@ -139,22 +139,17 @@ Machine learning took off dramatically because it could solve problems that were
 
 ---
 
-Here's a simplified sense of how machine learning systems improve during training.
-
-An AI system has adjustable parameters that define the patterns it has learned to recognize.
-
+Here's a simplified sense of how machine learning systems improve during training.    
+An AI system has adjustable parameters that define the patterns it has learned to recognize.    
 Think of these parameters like tuning knobs—the system adjusts them to get better at its task.
 
 - First, the system attempts to perform the task.
 
-For spam detection, it looks at an email and predicts: "Is this spam or not?"
-
+For spam detection, it looks at an email and predicts: "Is this spam or not?"    
 For Netflix, it looks at your profile and predicts: "Will this person enjoy this show?"
 
 - Second, the system compares its output to the correct answer and calculates how far off it was.
 
-For spam detection: If it predicted "not spam" but the email was actually spam, it calculates the difference.
-
-For Netflix: If it predicted you'd rate a show 2 stars but you actually rated it 5 stars, it measures that gap.
-
+For spam detection: If it predicted "not spam" but the email was actually spam, it calculates the difference.    
+For Netflix: If it predicted you'd rate a show 2 stars but you actually rated it 5 stars, it measures that gap.    
 This difference is called the error.
