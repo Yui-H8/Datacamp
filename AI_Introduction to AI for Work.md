@@ -144,3 +144,9 @@ Here's a simplified sense of how machine learning systems improve during trainin
 An AI system has adjustable parameters that define the patterns it has learned to recognize.
 
 Think of these parameters like tuning knobs—the system adjusts them to get better at its task.
+
+- First, the system attempts to perform the task.
+
+For spam detection, it looks at an email and predicts: "Is this spam or not?"
+
+For Netflix, it looks at your profile and predicts: "Will this person enjoy this show?"
