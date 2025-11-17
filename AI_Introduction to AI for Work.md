@@ -160,3 +160,9 @@ With more examples, the AI system can:
 * Handle edge cases better (unusual situations it might not have seen with fewer examples)
 * Make more accurate predictions overall
 That's why systems like spam detection and Netflix are trained on millions of examples—it helps them learn robust patterns that work across many different situations.
+
+> Prompt injection is actually a different concept from training parameters—it's about how users interact with AI systems after they're already trained.
+>
+> Prompt injection is when someone crafts inputs to manipulate the AI's behavior in unintended ways—like tricking it into ignoring safety guidelines. This is a security vulnerability, not a training issue.
+> 
+> The parameters we discussed are internal settings adjusted during training. Wrong parameters would make the AI perform poorly at its task (like misclassifying emails), but that's different from prompt injection attacks.
