@@ -187,3 +187,5 @@ How the learning happens:
  3. Third, they automatically adjust their internal parameters to reduce that error.
 
 This process repeats thousands of times across many examples, gradually tuning the system to recognize the right patterns.
+
+So it's not just about having many inputs—it's about this **predict-compare-adjust** cycle that enables the system to learn from those inputs.
