@@ -1,4 +1,7 @@
 # Introduction to AI for Work
+
+(With AI trainer)
+
 ---
 First, what's your current role or the role you're working toward, and in what industry or field?   
 This helps me choose examples and applications that are most relevant to your work.   
