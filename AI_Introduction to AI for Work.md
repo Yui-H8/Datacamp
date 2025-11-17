@@ -153,3 +153,10 @@ For Netflix, it looks at your profile and predicts: "Will this person enjoy this
 For spam detection: If it predicted "not spam" but the email was actually spam, it calculates the difference.    
 For Netflix: If it predicted you'd rate a show 2 stars but you actually rated it 5 stars, it measures that gap.    
 This difference is called the error.
+
+**More examples generally lead to better learning.**  
+With more examples, the AI system can:    
+* Recognize more diverse patterns (like different types of spam or varied user preferences)
+* Handle edge cases better (unusual situations it might not have seen with fewer examples)
+* Make more accurate predictions overall
+That's why systems like spam detection and Netflix are trained on millions of examples—it helps them learn robust patterns that work across many different situations.
