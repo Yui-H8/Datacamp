@@ -192,6 +192,13 @@ So it's not just about having many inputs—it's about this **predict-compare-ad
 
 ---
 
+### Traditional Programming
+
+* Before modern AI, engineers created intelligent systems by explicitly programming step-by-step procedures.
+* The challenge is that for many important tasks, we simply can't spell out the procedure—a human expert may excel but can't articulate the instructions for a computer.
+
+---
+
 Machine learning means computers learn from examples instead of following programmed rules. Remember the spam filter? Instead of writing rules for every spam variation, we show it millions of labeled emails and it learns the patterns itself.
 
 Pattern recognition is the core mechanism. During training, the system analyzes examples and identifies patterns (like "emails with 'click here' and suspicious links are usually spam"). During operation, it compares new cases against those learned patterns to make decisions ("this new email matches spam patterns, so filter it").
