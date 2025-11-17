@@ -136,3 +136,11 @@ Machine learning took off dramatically because it could solve problems that were
 2. - A hospital trains an AI system on thousands of medical scans labeled as normal or showing cancer. During training, what is the system learning?
  
      Patterns in medical scans that indicate cancer likelihood
+
+---
+
+Here's a simplified sense of how machine learning systems improve during training.
+
+An AI system has adjustable parameters that define the patterns it has learned to recognize.
+
+Think of these parameters like tuning knobs—the system adjusts them to get better at its task.
