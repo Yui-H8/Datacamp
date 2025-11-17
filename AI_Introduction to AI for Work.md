@@ -209,3 +209,7 @@ Pattern recognition is the core mechanism. During training, the system analyzes 
 Think of it like this: 
 1. - Training = learning what patterns to look for.
    - Operation = recognizing those patterns in new situations.
+
+---
+
+*If AI has been around for a while, why is everyone suddenly talking about it?*
