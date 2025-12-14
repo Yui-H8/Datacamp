@@ -82,3 +82,8 @@ https://app.datacamp.com/learn/courses/
 ### AWS
 * AWS Concepts
 * AWS Cloud Technology and Services Concepts
+
+---
+
+### Theory
+* Communicating Data Insights
