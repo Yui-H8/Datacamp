@@ -9,3 +9,5 @@ Data-driven organizations consistently rely on insights to inspire action and dr
 ### Communication types
 Blending different communication styles creates powerful messaging. Which of the following is not an accurate summary of the type of communication someone may utilize when sharing information?
 
+
+*When done correctly, visual communication is just as widely accepted as other methods and can stand on its own to relay information quickly.*
