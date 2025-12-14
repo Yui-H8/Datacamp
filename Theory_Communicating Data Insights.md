@@ -16,3 +16,4 @@ Blending different communication styles creates powerful messaging. Which of the
 
 ### Communication journey
 ### Becoming a more effective communicator
+When trying to improve communication methods it is important to consider the strengths and weaknesses for each of the four types. Which of the following statements is not a guideline for improving communication?
