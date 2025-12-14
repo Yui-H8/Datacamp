@@ -13,3 +13,5 @@ Blending different communication styles creates powerful messaging. Which of the
 
 
 *When done correctly, visual communication is just as widely accepted as other methods and can stand on its own to relay information quickly.*
+
+### Communication journey
