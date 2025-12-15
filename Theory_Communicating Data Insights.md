@@ -42,3 +42,6 @@ Gabriel is working on improving his organization's approach to scheduling resour
 
 ### Getting to know your audience
 ### Audience information
+Harold, an analyst at Buildingsway, is working on a presentation for a new stakeholder, Elise.
+
+Harold has never met this stakeholder and is reaching out to Elise and his contacts within Buildingsway to gather information to prepare.
