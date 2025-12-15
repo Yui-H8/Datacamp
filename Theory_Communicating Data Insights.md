@@ -39,3 +39,5 @@ Relates to business objectives and outcomes.
 Gabriel is working on improving his organization's approach to scheduling resources. Gabriel's organization is looking for a data driven solution and tasks him with uncovering insights to guide their decision.
 
 *Perfect! Gabriel is ready to tackle being data-driven and delivering quality insights.*
+
+### Getting to know your audience
