@@ -36,3 +36,4 @@ Relates to business objectives and outcomes.
 *Perfect! Even the smallest insight is useful to data-driven organizations.*
 
 ### Insightful journey
+Gabriel is working on improving his organization's approach to scheduling resources. Gabriel's organization is looking for a data driven solution and tasks him with uncovering insights to guide their decision.
