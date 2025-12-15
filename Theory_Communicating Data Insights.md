@@ -17,6 +17,10 @@ Blending different communication styles creates powerful messaging. Which of the
 ### Communication journey
 ### Becoming a more effective communicator
 When trying to improve communication methods it is important to consider the strengths and weaknesses for each of the four types. Which of the following statements is not a guideline for improving communication?
-
-
+```
+Rely on tone to connect with the audience.
+Balance simplicity with sufficient background information.
+× Rely on complex visualizations to simplify concepts.
+Remain flexible during delivery.
+```
 *Perfect! Simplicity eases all forms of communication. Overly complex visualizations should be avoided in favor of simpler ones to increase how easy it is to receive the central message.*
