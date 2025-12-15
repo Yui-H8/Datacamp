@@ -27,3 +27,9 @@ Remain flexible during delivery.
 
 ### Insightful characteristics
 Which of the following is not a required characteristic of an actionable insight?
+```
+Possesses a clear set of actions that can be taken as a result of the findings.
+Focuses on simplicity to enhance communication.
+Creates large impacts on business processes and procedures.
+Relates to business objectives and outcomes.
+```
