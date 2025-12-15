@@ -41,3 +41,4 @@ Gabriel is working on improving his organization's approach to scheduling resour
 *Perfect! Gabriel is ready to tackle being data-driven and delivering quality insights.*
 
 ### Getting to know your audience
+### Audience information
