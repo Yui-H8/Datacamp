@@ -34,3 +34,5 @@ Focuses on simplicity to enhance communication.
 Relates to business objectives and outcomes.
 ```
 *Perfect! Even the smallest insight is useful to data-driven organizations.*
+
+### Insightful journey
