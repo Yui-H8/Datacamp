@@ -1,12 +1,9 @@
 # Large Language Models (LLMs) Concepts
 ---
-What you'll learn
+What you'll learn   
 ✅ Apply preprocessing and text-handling methods that support LLM performance   
-
 ✅ Distinguish adaptation strategies and training approaches for customizing LLMs   
-
 ✅ Identify core language modeling and transformer mechanisms used in LLMs.   
-
 ✅ Identify societal, ethical, and privacy risks associated with LLM deployment and use   
 
 **Description**
