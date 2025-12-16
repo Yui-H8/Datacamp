@@ -49,3 +49,9 @@ Harold has never met this stakeholder and is reaching out to Elise and his conta
 
 ### Factoring importance
 Communicating insights has many different factors that come together and interact heavily with each other. What is the most important aspect to consider when communicating data insights?
+```
+How the message interacts with the intended recipients.
+The expected complexity of the insights.
+What format the insights will be utilized to communicate the insights.
+The relationship between the insights and business objectives.
+```
