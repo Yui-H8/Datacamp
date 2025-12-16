@@ -58,3 +58,8 @@ The relationship between the insights and business objectives.
 *Amazing! Your audience is at the heart of every aspect of communicating.*
 
 ### Communication framework
+Communicating effectively requires having a clear objective and following a framework for success.
+
+Kevin is creating a presentation for a new client he has never met before. This client is interested in signing up for Kevin's analytics service and wants to know key details before making the purchase.
+
+Kevin needs to determine how he should approach communicating with the client to earn their business.
