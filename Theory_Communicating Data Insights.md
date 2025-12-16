@@ -46,3 +46,5 @@ Harold, an analyst at Buildingsway, is working on a presentation for a new stake
 
 Harold has never met this stakeholder and is reaching out to Elise and his contacts within Buildingsway to gather information to prepare.
 *Perfect! Harold is equipped with valuable information to effectively communicate with Elise.*
+
+### Factoring importance
