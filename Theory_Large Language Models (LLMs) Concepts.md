@@ -36,3 +36,5 @@ Now, you'll demonstrate your understanding of the AI landscape by arranging the 
 The emergence of LLMs is considered a defining moment in AI, with their impressive language processing capabilities. This defining moment marks a leap in how AI can understand and interact with human language, resulting in many applications and possibilities never seen before.
 
 What are some of the applications that are specific to LLMs and which are generic to AI?
+
+*Congratulations! You know a lot of LLM-specific applications. These will continue to grow because of their versatility in understanding and generating human language.*
