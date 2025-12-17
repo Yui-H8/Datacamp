@@ -24,3 +24,5 @@ Perform tasks such as playing chess or driving a car
 〇 Perform tasks such as text summarization, sentiment analysis, and text generation
 ```
 *Well done! You have learned how LLMs are at the core of many language-based tasks, such as text translation, generation, and sentiment analysis.*
+
+### LLMs in the AI landscape
