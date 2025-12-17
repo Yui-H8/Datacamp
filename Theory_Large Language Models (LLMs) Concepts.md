@@ -26,3 +26,6 @@ Perform tasks such as playing chess or driving a car
 *Well done! You have learned how LLMs are at the core of many language-based tasks, such as text translation, generation, and sentiment analysis.*
 
 ### LLMs in the AI landscape
+In the video, you visualized where LLMs fit in the broader AI landscape, including Machine Learning and Deep Learning.
+
+Now, you'll demonstrate your understanding of the AI landscape by arranging the items from the broadest at the top to the most specific at the bottom.
