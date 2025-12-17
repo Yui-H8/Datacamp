@@ -13,3 +13,7 @@ In this course, you’ll journey through the world of Large Language Models (LLM
 ---
 
 ### Definition of an LLM
+Natural Language Processing (NLP) is the technology that allows computers to understand, interpret, and generate human language in a meaningful way. This technology is often employed in applications such as translation services and chatbots. Large Language Models (LLMs) are a subset of NLP that generate human-like text responses, making them integral to many areas of your life, from customer service to personalized education and entertainment.
+
+
+Which of these options apply to LLMs? Select the three answers that apply.
