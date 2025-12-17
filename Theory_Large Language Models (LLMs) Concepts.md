@@ -29,3 +29,4 @@ Perform tasks such as playing chess or driving a car
 In the video, you visualized where LLMs fit in the broader AI landscape, including Machine Learning and Deep Learning.
 
 Now, you'll demonstrate your understanding of the AI landscape by arranging the items from the broadest at the top to the most specific at the bottom.
+*Nice! The AI landscape includes many sub-fields, with large language models at the heart of deep learning, intersecting with natural language processing.*
