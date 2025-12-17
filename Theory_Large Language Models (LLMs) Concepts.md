@@ -18,8 +18,9 @@ Natural Language Processing (NLP) is the technology that allows computers to und
 
 Which of these options apply to LLMs? Select the three answers that apply.
 ```
-Designed to understand and generate language
+〇 Designed to understand and generate language
 Perform tasks such as playing chess or driving a car
-Trained on vast amounts of text data
-Perform tasks such as text summarization, sentiment analysis, and text generation
+〇 Trained on vast amounts of text data
+〇 Perform tasks such as text summarization, sentiment analysis, and text generation
 ```
+*Well done! You have learned how LLMs are at the core of many language-based tasks, such as text translation, generation, and sentiment analysis.*
