@@ -31,3 +31,5 @@ In the video, you visualized where LLMs fit in the broader AI landscape, includi
 Now, you'll demonstrate your understanding of the AI landscape by arranging the items from the broadest at the top to the most specific at the bottom.
   
 *Nice! The AI landscape includes many sub-fields, with large language models at the heart of deep learning, intersecting with natural language processing.*
+
+### AI vs. LLM applications
