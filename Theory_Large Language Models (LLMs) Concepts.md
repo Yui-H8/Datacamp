@@ -44,3 +44,10 @@ What are some of the applications that are specific to LLMs and which are generi
 As technology advances change in different industries, it's important to know what it can do. One such breakthrough is the development of LLMs, which can be used in many different ways. You saw how they were applied to the finance, healthcare, and education industries. Using your understanding of LLMs, see if you can identify even more applications.
 
 Which of the following business applications can benefit from using large language models? Select the four answers that apply.
+```
+Customer support chatbots
+Sentiment analysis for market research
+Automated content creation for marketing
+Observe new stars and planets
+Personalized learning in education
+```
