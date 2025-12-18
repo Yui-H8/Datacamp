@@ -54,3 +54,6 @@ Observe new stars and planets
 *Well done! Observing planets requires seeing them through lenses or telescopes and does not involve language processing.*
 
 ### Multimodal applications
+The development of artificial intelligence has led to the emergence of various types of models, each with its unique capabilities. One particularly versatile and powerful category is multimodal LLMs.
+
+Which of the following best describes the applications of multimodal versus non-multimodal LLMs?
