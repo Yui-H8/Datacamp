@@ -61,3 +61,5 @@ Which of the following best describes the applications of multimodal versus non-
 *Way to go! Different AI models can handle different data types, but only multimodal LLMs can handle them simultaneously. Keep it up as you keep exploring the amazing world of LLMs!*
 
 ### Automate data-driven tasks
+In the video, you saw how LLMs are transforming various industries by helping to automate data-driven tasks and analyze unstructured data to summarize text, find trends, and improve efficiency. One such AI data-driven task is sentiment analysis. Imagine you are an analyst at a new fashion company, and your job is to analyze reviews. You collect data from customers talking about your products across social media, forums, and review platforms and build an LLM to help process this quickly and accurately.
+
