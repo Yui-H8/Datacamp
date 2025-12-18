@@ -57,3 +57,4 @@ Observe new stars and planets
 The development of artificial intelligence has led to the emergence of various types of models, each with its unique capabilities. One particularly versatile and powerful category is multimodal LLMs.
 
 Which of the following best describes the applications of multimodal versus non-multimodal LLMs?
+* Add the options with multimodal or non-multimodal applications to the relevant bucket.
