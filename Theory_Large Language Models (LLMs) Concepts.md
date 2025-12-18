@@ -52,3 +52,5 @@ Observe new stars and planets
 〇 Personalized learning in education
 ```
 *Well done! Observing planets requires seeing them through lenses or telescopes and does not involve language processing.*
+
+### Multimodal applications
