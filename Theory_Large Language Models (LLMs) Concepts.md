@@ -45,9 +45,10 @@ As technology advances change in different industries, it's important to know wh
 
 Which of the following business applications can benefit from using large language models? Select the four answers that apply.
 ```
-Customer support chatbots
-Sentiment analysis for market research
-Automated content creation for marketing
+〇 Customer support chatbots
+〇 Sentiment analysis for market research
+〇 Automated content creation for marketing
 Observe new stars and planets
-Personalized learning in education
+〇 Personalized learning in education
 ```
+*Well done! Observing planets requires seeing them through lenses or telescopes and does not involve language processing.*
