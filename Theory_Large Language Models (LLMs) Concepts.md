@@ -59,3 +59,5 @@ The development of artificial intelligence has led to the emergence of various t
 Which of the following best describes the applications of multimodal versus non-multimodal LLMs?
 * Add the options with multimodal or non-multimodal applications to the relevant bucket.
 *Way to go! Different AI models can handle different data types, but only multimodal LLMs can handle them simultaneously. Keep it up as you keep exploring the amazing world of LLMs!*
+
+### Automate data-driven tasks
