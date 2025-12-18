@@ -63,3 +63,6 @@ Which of the following best describes the applications of multimodal versus non-
 ### Automate data-driven tasks
 In the video, you saw how LLMs are transforming various industries by helping to automate data-driven tasks and analyze unstructured data to summarize text, find trends, and improve efficiency. One such AI data-driven task is sentiment analysis. Imagine you are an analyst at a new fashion company, and your job is to analyze reviews. You collect data from customers talking about your products across social media, forums, and review platforms and build an LLM to help process this quickly and accurately.
 
+Copy and paste each review into your new LLM to determine the sentiment.
+
+Which review is the most positive?
