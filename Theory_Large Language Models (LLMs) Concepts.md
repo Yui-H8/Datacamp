@@ -38,3 +38,9 @@ The emergence of LLMs is considered a defining moment in AI, with their impressi
 What are some of the applications that are specific to LLMs and which are generic to AI?
 
 *Congratulations! You know a lot of LLM-specific applications. These will continue to grow because of their versatility in understanding and generating human language.*
+
+---
+### Business applications
+As technology advances change in different industries, it's important to know what it can do. One such breakthrough is the development of LLMs, which can be used in many different ways. You saw how they were applied to the finance, healthcare, and education industries. Using your understanding of LLMs, see if you can identify even more applications.
+
+Which of the following business applications can benefit from using large language models? Select the four answers that apply.
