@@ -67,7 +67,7 @@ Copy and paste each review into your new LLM to determine the sentiment.
 
 Which review is the most positive?
 ```
-The item was too small and terrible quality.
+😱 The item was too small and terrible quality.
 I like it. The clothes are colorful and sustainable.
 The item was ok, not quite my style.
 This company is bad! I never got my order!
