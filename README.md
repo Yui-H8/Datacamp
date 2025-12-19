@@ -88,3 +88,4 @@ https://app.datacamp.com/learn/courses/
 ### Theory
 * Communicating Data Insights
 * Large Language Models (LLMs) Concepts
+* LLMOps Concepts
