@@ -75,3 +75,6 @@ Which review is the most positive?
 *Correct! This customer said they love the colorful clothes. That's positive!*
 
 ### What can a language model do?
+You have a language model to help you handle various natural language processing tasks. However, you suspect it may have some limitations. To better understand its capabilities, you decide to test the model with different tasks.
+
+Which of the following challenges are you likely to encounter when testing the language model? Select the three answers that apply.
