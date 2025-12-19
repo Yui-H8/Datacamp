@@ -87,3 +87,8 @@ The model cannot find an algorithm complex enough for translation
 *Great job! Your language model is likely to face challenges such as understanding context and identifying patterns, even though many algorithms are available.*
 
 ### Single vs. multi-task learning
+Large language models may use both single-task and multi-task learning. You are looking through a list of available LLMs and their uses and need to identify which are single-task and which are multi-task learning models.
+
+Finding this out will help you select the right approach for future projects.
+
+Both techniques have unique advantages and potential use cases, and each can profoundly impact model performance and accuracy.
