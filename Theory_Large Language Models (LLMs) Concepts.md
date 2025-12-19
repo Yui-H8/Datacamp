@@ -84,3 +84,4 @@ The model generates fantasy references when asked for "places to visit near Pari
 The model struggles to translate French sentences into English and answer general knowledge trivia at the same time
 In a series of user inputs telling a story, the model failed to remember key details from earlier inputs
 ```
+*Great job! Your language model is likely to face challenges such as understanding context and identifying patterns, even though many algorithms are available.*
