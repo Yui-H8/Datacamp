@@ -85,3 +85,5 @@ The model cannot find an algorithm complex enough for translation
 〇 In a series of user inputs telling a story, the model failed to remember key details from earlier inputs
 ```
 *Great job! Your language model is likely to face challenges such as understanding context and identifying patterns, even though many algorithms are available.*
+
+### Single vs. multi-task learning
