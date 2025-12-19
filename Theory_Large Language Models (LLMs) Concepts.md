@@ -72,3 +72,4 @@ Which review is the most positive?
 😱 The item was ok, not quite my style.
 😦 This company is bad! I never got my order!
 ```
+*Correct! This customer said they love the colorful clothes. That's positive!*
