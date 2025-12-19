@@ -80,8 +80,8 @@ You have a language model to help you handle various natural language processing
 Which of the following challenges are you likely to encounter when testing the language model? Select the three answers that apply.
 ```
 The model cannot find an algorithm complex enough for translation
-The model generates fantasy references when asked for "places to visit near Paris"
-The model struggles to translate French sentences into English and answer general knowledge trivia at the same time
-In a series of user inputs telling a story, the model failed to remember key details from earlier inputs
+〇 The model generates fantasy references when asked for "places to visit near Paris"
+〇 The model struggles to translate French sentences into English and answer general knowledge trivia at the same time
+〇 In a series of user inputs telling a story, the model failed to remember key details from earlier inputs
 ```
 *Great job! Your language model is likely to face challenges such as understanding context and identifying patterns, even though many algorithms are available.*
