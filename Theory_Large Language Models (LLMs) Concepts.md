@@ -92,3 +92,4 @@ Large language models may use both single-task and multi-task learning. You are 
 Finding this out will help you select the right approach for future projects.
 
 Both techniques have unique advantages and potential use cases, and each can profoundly impact model performance and accuracy.
+* Classify the descriptions based on the learning approach used.
