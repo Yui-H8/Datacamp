@@ -26,8 +26,9 @@ To automate data labeling tasks
 ### The purpose of lifecycle phases
 Which of the following statements explains the significance of knowing the different phases in an LLMOps lifecycle? Select the two answers that apply.
 ```
-Determining the lifecycle phase aids in resource allocation and planning
+〇 Determining the lifecycle phase aids in resource allocation and planning
 Determining the lifecycle phase should be used to accurately forecast project costs
 Determining the lifecycle phase is a conceptual exercise and does not have any practical impact
-Knowing the current lifecycle phase helps us to make decisions that positively impact outcomes in future phases
+〇 Knowing the current lifecycle phase helps us to make decisions that positively impact outcomes in future phases
 ```
+*Congratulations! Knowing each phase helps us figure out what to do first, where to put our resources, and how everything fits together.*
