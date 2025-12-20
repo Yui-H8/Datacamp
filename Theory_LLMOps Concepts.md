@@ -12,3 +12,5 @@ Delving into the LLM application lifecycle will reveal its pivotal role in organ
 ### LLMOps versus MLOps
 To understand how to use LLMs effectively in your organization, you need to look at the unique challenges LLMOps deals with.   
 *Congratulations! Learning about LLMOps' unique challenges is key to effectively using LLMs in your organization. Keep it up!*
+
+### Relevancy of LLMOps
