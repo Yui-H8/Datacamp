@@ -24,3 +24,4 @@ To automate data labeling tasks
 *Well done! LLMOps plays a crucial role in ensuring the seamless integration of LLMs into organizations, aligning them with existing processes and maximizing their benefits.*
 
 ### The purpose of lifecycle phases
+Which of the following statements explains the significance of knowing the different phases in an LLMOps lifecycle? Select the two answers that apply.
