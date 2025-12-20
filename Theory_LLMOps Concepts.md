@@ -6,3 +6,7 @@ Embark on a journey into Large Language Model Operations (LLMOps). This course, 
 
 
 Delving into the LLM application lifecycle will reveal its pivotal role in organizations. You will gain insights into the challenges and considerations at each stage and how to refine development and ensure smooth deployment while embracing data governance and security. By the end of the course, you'll have a solid grasp of LLMOps concepts and know how to apply them to your applications.
+
+---
+
+### LLMOps versus MLOps
