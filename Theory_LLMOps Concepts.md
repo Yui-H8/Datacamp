@@ -41,3 +41,9 @@ Each step in an LLM lifecycle includes key activities. Knowing what needs to be 
 
 ### Data sourcing
 Choosing the right data sources is key as you start developing your LLM application. What considerations should be prioritized to guarantee the optimal selection of data sources for your application?
+```
+The number of different data sources
+The complexity of the data transformation process to make the data available
+The relevance, availability and quality of the data
+The popularity of the data sources
+```
