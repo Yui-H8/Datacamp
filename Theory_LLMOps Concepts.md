@@ -44,6 +44,7 @@ Choosing the right data sources is key as you start developing your LLM applicat
 ```
 The number of different data sources
 The complexity of the data transformation process to make the data available
-The relevance, availability and quality of the data
+〇 The relevance, availability and quality of the data
 The popularity of the data sources
 ```
+*Great! Relevance, availability and quality are indeed critical to consider.*
