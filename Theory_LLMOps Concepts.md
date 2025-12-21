@@ -36,4 +36,4 @@ Determining the lifecycle phase is a conceptual exercise and does not have any p
 
 ### The application lifecycle
 Each step in an LLM lifecycle includes key activities. Knowing what needs to be done at each stage helps to highlight why each phase is essential and shows how the application matures as it progresses.
-
+* Match each activity to the appropriate phase of the LLM application lifecycle.
