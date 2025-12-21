@@ -32,3 +32,8 @@ Determining the lifecycle phase is a conceptual exercise and does not have any p
 〇 Knowing the current lifecycle phase helps us to make decisions that positively impact outcomes in future phases
 ```
 *Congratulations! Knowing each phase helps us figure out what to do first, where to put our resources, and how everything fits together.*
+
+
+### The application lifecycle
+Each step in an LLM lifecycle includes key activities. Knowing what needs to be done at each stage helps to highlight why each phase is essential and shows how the application matures as it progresses.
+
