@@ -40,3 +40,4 @@ Each step in an LLM lifecycle includes key activities. Knowing what needs to be 
 *Fantastic job! You now have a good grasp of the activities that belong to each phase of the LLM application lifecycle, and how the application evolves over time.*
 
 ### Data sourcing
+Choosing the right data sources is key as you start developing your LLM application. What considerations should be prioritized to guarantee the optimal selection of data sources for your application?
