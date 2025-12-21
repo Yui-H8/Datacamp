@@ -95,3 +95,5 @@ Both techniques have unique advantages and potential use cases, and each can pro
 * Classify the descriptions based on the learning approach used.
 
 *Nice one! LLMs can handle multiple tasks, but some only focus on a specific task. Knowing the difference will help you choose the right model for the job!*
+
+### The application lifecycle
