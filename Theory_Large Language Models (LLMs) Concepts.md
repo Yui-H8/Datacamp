@@ -95,6 +95,3 @@ Both techniques have unique advantages and potential use cases, and each can pro
 * Classify the descriptions based on the learning approach used.
 
 *Nice one! LLMs can handle multiple tasks, but some only focus on a specific task. Knowing the difference will help you choose the right model for the job!*
-
-### The application lifecycle
-Each step in an LLM lifecycle includes key activities. Knowing what needs to be done at each stage helps to highlight why each phase is essential and shows how the application matures as it progresses.
