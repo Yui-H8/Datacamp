@@ -55,3 +55,5 @@ Suppose you're an organization wanting to develop an LLM application. Your task 
 1. A proprietary base model; or,
 2. Utilizing open-source with on-premise hosting.
 *Nicely done! You've honed your ability to choose between open source and proprietary options, a crucial aspect of the LLM application lifecycle.*
+
+### Selecting the right base model
