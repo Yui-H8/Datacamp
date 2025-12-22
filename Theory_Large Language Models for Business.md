@@ -1,2 +1,5 @@
 # Large Language Models for Business
 ---
+**Description**
+
+Delve into the business applications of Large Language Models (LLMs). Discover how they are empowering businesses to improve their workflows and find success in the new AI-powered era. Grasping their foundational elements will equip you with key insights into LLMs and their impact on modern business.
