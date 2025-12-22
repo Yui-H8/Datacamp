@@ -58,3 +58,11 @@ Suppose you're an organization wanting to develop an LLM application. Your task 
 
 ### Selecting the right base model
 Identify the primary factors to consider when selecting a base model. Select the four answers that apply.
+```
+Response speed
+Response quality
+Number of parameters of the model
+License type
+Model popularity
+Model cost
+```
