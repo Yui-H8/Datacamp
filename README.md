@@ -89,3 +89,4 @@ https://app.datacamp.com/learn/courses/
 * Communicating Data Insights
 * Large Language Models (LLMs) Concepts
 * LLMOps Concepts
+* Large Language Models for Business
