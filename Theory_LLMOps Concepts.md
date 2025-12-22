@@ -66,3 +66,4 @@ License type
 Model popularity
 Model cost
 ```
+*You've correctly identified key factors for choosing a base model, crucial for future success of your LLM application. Well done!*
