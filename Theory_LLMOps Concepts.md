@@ -52,5 +52,5 @@ The popularity of the data sources
 ### Proprietary versus open-source models
 Suppose you're an organization wanting to develop an LLM application. Your task is to decide between opting for:
 
-A proprietary base model; or,
-Utilizing open-source with on-premise hosting.
+1. A proprietary base model; or,
+2. Utilizing open-source with on-premise hosting.
