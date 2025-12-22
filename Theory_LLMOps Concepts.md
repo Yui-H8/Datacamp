@@ -48,3 +48,5 @@ The complexity of the data transformation process to make the data available
 The popularity of the data sources
 ```
 *Great! Relevance, availability and quality are indeed critical to consider.*
+
+### Proprietary versus open-source models
