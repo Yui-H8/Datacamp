@@ -57,3 +57,4 @@ Suppose you're an organization wanting to develop an LLM application. Your task 
 *Nicely done! You've honed your ability to choose between open source and proprietary options, a crucial aspect of the LLM application lifecycle.*
 
 ### Selecting the right base model
+Identify the primary factors to consider when selecting a base model. Select the four answers that apply.
