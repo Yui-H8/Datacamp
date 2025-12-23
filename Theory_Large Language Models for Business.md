@@ -32,5 +32,6 @@ Automatically translate her menu based on her customers preferences.
 Create social media posts to attract customers.
 Identify key themes from customer feedback messages.
 Gauge the sentiment of clients interacting with her marketing campaign.
-All of the above
+〇 All of the above
 ```
+*Perfect! Evelyn can leverage LLMs to do all of these tasks, figuring out which ones have the greatest impact is her next challenge!*
