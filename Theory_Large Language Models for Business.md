@@ -20,3 +20,5 @@ Symbolizes the literal size of the language they can process.
 
 ### Spot AI in action
 We dove into the vast realm of Artificial Intelligence, discussing its various applications. One of the topics we looked at was categorizing different functionalities and applications of AI, especially in our daily lives.
+
+*Fantastic! Recognizing the broad applications of AI helps us appreciate its integration into our lives!*
