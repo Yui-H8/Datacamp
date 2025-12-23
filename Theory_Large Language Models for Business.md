@@ -17,3 +17,5 @@ Indicates the size of the physical model.
 Symbolizes the literal size of the language they can process.
 ```
 *Great job! You've grasped the multi-dimensional significance of 'large' in LLMs, which encompasses training data, computational needs, and vast capabilities.*
+
+### Spot AI in action
