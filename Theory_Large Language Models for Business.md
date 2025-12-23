@@ -35,3 +35,5 @@ Gauge the sentiment of clients interacting with her marketing campaign.
 〇 All of the above
 ```
 *Perfect! Evelyn can leverage LLMs to do all of these tasks, figuring out which ones have the greatest impact is her next challenge!*
+
+### Unraveling Workspace Buddy
