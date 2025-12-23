@@ -24,3 +24,6 @@ We dove into the vast realm of Artificial Intelligence, discussing its various a
 *Fantastic! Recognizing the broad applications of AI helps us appreciate its integration into our lives!*
 
 ### LLMs in your business
+Evelyn is developing the business plan for TechSip Dreams, an AI driven coffee house.
+
+During her planning she wants to ensure that she is leveraging LLMs to help power her business. Which of the following are potential applications that Evelyn could consider utilizing LLMs?
