@@ -9,3 +9,10 @@ Delve into the business applications of Large Language Models (LLMs). Discover h
 The term "large" in Large Language Models (LLMs) isn't merely decorative but holds specific importance when discussing these AI-driven tools.
 
 Select the statement(s) correctly describing the term large in LLMs.
+```
+Refers to the extensive training data of LLMs.
+Indicates the size of the physical model.
+Reflects the significant computational resources needed for training.
+Denotes their wide-ranging capabilities in understanding and generating text.
+Symbolizes the literal size of the language they can process.
+```
