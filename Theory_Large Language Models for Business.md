@@ -27,3 +27,10 @@ We dove into the vast realm of Artificial Intelligence, discussing its various a
 Evelyn is developing the business plan for TechSip Dreams, an AI driven coffee house.
 
 During her planning she wants to ensure that she is leveraging LLMs to help power her business. Which of the following are potential applications that Evelyn could consider utilizing LLMs?
+```
+Automatically translate her menu based on her customers preferences.
+Create social media posts to attract customers.
+Identify key themes from customer feedback messages.
+Gauge the sentiment of clients interacting with her marketing campaign.
+All of the above
+```
