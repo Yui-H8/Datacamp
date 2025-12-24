@@ -52,3 +52,6 @@ Helps employees with setting reminders and scheduling.
 *While karaoke is fun, it doesn't align with the core media functionalities. It might be an easter egg the development team adds later.*
 
 ### Learning at EducationCamp
+The e-learning company, EduCamp, is considering implementing LLMs to help communicate and engage with learners in different ways.
+
+The senior management team are unsure of how to exactly use LLMs for the benefit of their learners.
