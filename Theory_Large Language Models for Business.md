@@ -37,3 +37,8 @@ Gauge the sentiment of clients interacting with her marketing campaign.
 *Perfect! Evelyn can leverage LLMs to do all of these tasks, figuring out which ones have the greatest impact is her next challenge!*
 
 ### Unraveling Workspace Buddy
+he fictional media company, LlamaNews, has recently launched their LLM-based copilot, Workspace Buddy. It is a game-changer in the digital publishing and media industry.
+
+As a part of the media world, this copilot supports journalists, writers, and content creators by enhancing productivity.
+
+Which core functionality would we expect to NOT be provided by the Workspace Buddy?
