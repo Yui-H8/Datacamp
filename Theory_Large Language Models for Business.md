@@ -62,3 +62,5 @@ The senior management team are unsure of how to exactly use LLMs for the benefit
 Since the early days, LLMs have seen a huge transformation from humble beginnings to the most recent LLM applications.
 * Arrange each phase to follow the evolution of large language models in chronological order, from earliest at the top to most recent at the bottom.
 *Splendid sorting! LLMs surely have come a long way*
+
+### LLMs and creativity
