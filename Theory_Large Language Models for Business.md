@@ -42,3 +42,10 @@ The fictional media company, LlamaNews, has recently launched their LLM-based co
 As a part of the media world, this copilot supports journalists, writers, and content creators by enhancing productivity.
 
 Which core functionality would we expect to NOT be provided by the Workspace Buddy?
+```
+Assists in scriptwriting and revising.
+Generates trend forecasts and visual charts.
+Offers a karaoke mode for office parties.
+Efficiently transcribes virtual team meetings.
+Helps employees with setting reminders and scheduling.
+```
