@@ -45,7 +45,8 @@ Which core functionality would we expect to NOT be provided by the Workspace Bud
 ```
 Assists in scriptwriting and revising.
 Generates trend forecasts and visual charts.
-Offers a karaoke mode for office parties.
+× Offers a karaoke mode for office parties.
 Efficiently transcribes virtual team meetings.
 Helps employees with setting reminders and scheduling.
 ```
+*While karaoke is fun, it doesn't align with the core media functionalities. It might be an easter egg the development team adds later.*
