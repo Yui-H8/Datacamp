@@ -59,3 +59,4 @@ The senior management team are unsure of how to exactly use LLMs for the benefit
 *Awesome job! LLMs can offer exceptional capabilities and benefits to online educational companies like EduCamp.*
 
 ### LLMs through time
+Since the early days, LLMs have seen a huge transformation from humble beginnings to the most recent LLM applications.
