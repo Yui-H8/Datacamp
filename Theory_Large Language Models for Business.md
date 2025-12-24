@@ -50,3 +50,5 @@ Efficiently transcribes virtual team meetings.
 Helps employees with setting reminders and scheduling.
 ```
 *While karaoke is fun, it doesn't align with the core media functionalities. It might be an easter egg the development team adds later.*
+
+### Learning at EducationCamp
