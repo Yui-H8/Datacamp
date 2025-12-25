@@ -64,3 +64,6 @@ Since the early days, LLMs have seen a huge transformation from humble beginning
 *Splendid sorting! LLMs surely have come a long way*
 
 ### LLMs and creativity
+While LLMs have ventured into various creative fields, understanding and emulating human emotions remains a complex challenge.
+
+Why are new projects trying to make LLMs understand feelings?
