@@ -67,3 +67,10 @@ Since the early days, LLMs have seen a huge transformation from humble beginning
 While LLMs have ventured into various creative fields, understanding and emulating human emotions remains a complex challenge.
 
 Why are new projects trying to make LLMs understand feelings?
+```
+To help them write books
+To enhance business analytics
+To make interactions feel more natural
+To increase their energy efficiency
+To remove biases from data
+```
