@@ -77,3 +77,8 @@ To remove biases from data
 *Spot on! The main reason is to foster a deeper, more relatable interaction between humans and LLMs. Let's see a LLM in action in the next exercise!*
 
 ### LLMs in action
+Time to see an LLM in action! You'll be able to find the answer to the question by typing it into the Send a message box below. ChatGPT will analyze and interpret your question, and return an answer.
+
+In which of the following business areas can LLMs be used for assisting its workflow?
+
+Try asking ChatGPT how businesses can leverage LLMs. Run the question several times, and compare its output.
