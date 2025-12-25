@@ -6,3 +6,6 @@ Artificial Intelligence (AI) is being adopted at a faster and faster rate due to
 
 
 In this course, you'll learn how to successfully implement an AI solution for your business. You'll identify appropriate business use cases, build a proof of concept, measure success, and evaluate how to move from POC to a fully implemented solution. You'll learn how Responsible AI, security, and upskilling are equally important components.
+
+---
+### Do you know AI?
