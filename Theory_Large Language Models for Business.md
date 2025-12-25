@@ -70,7 +70,8 @@ Why are new projects trying to make LLMs understand feelings?
 ```
 To help them write books
 To enhance business analytics
-To make interactions feel more natural
+〇 To make interactions feel more natural
 To increase their energy efficiency
 To remove biases from data
 ```
+*Spot on! The main reason is to foster a deeper, more relatable interaction between humans and LLMs. Let's see a LLM in action in the next exercise!*
