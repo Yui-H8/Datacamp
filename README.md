@@ -90,3 +90,4 @@ https://app.datacamp.com/learn/courses/
 * Large Language Models (LLMs) Concepts
 * LLMOps Concepts
 * Large Language Models for Business
+* Implementing AI Solutions in Business
