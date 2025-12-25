@@ -82,3 +82,5 @@ Time to see an LLM in action! You'll be able to find the answer to the question 
 In which of the following business areas can LLMs be used for assisting its workflow?
 
 Try asking ChatGPT how businesses can leverage LLMs. Run the question several times, and compare its output.
+
+*Bravo! In addition to these four examples, you've seen that LLMs can assist in other areas as well, such as HR, legal departments, and customer support.*
