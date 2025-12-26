@@ -40,3 +40,4 @@ AI achieves human-like intelligence by replicating the structure of the human br
 
 ### Generative AI vs. Other AI
 Artificial Intelligence has been around for decades. Generative AI - e.g., ChatGPT, DALL-E, BARD - is the most recent advancement in this space with some important differences. Some of these differences were covered, at a high level, in the previous lesson.
+* Categorize the following statements as belonging to "Generative AI" or "Other AI."
