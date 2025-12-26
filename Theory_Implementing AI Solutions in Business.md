@@ -9,3 +9,6 @@ In this course, you'll learn how to successfully implement an AI solution for yo
 
 ---
 ### Do you know AI?
+Artificial Intelligence (AI) is not a new technology though exciting developments have emerged in recent years. The most recent form of AI is being modeled after the way we process information as humans - even how you are reading this text now! It can be used for many tasks and use cases across businesses and our lives.
+
+Which of the following statements about AI and AI solutions are true?
