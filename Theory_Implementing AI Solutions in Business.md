@@ -27,3 +27,6 @@ A successful AI solution implementation will generally follow five broad steps f
 
 ---
 ### Still know AI?
+As we have discussed, artificial intelligence refers to the development of computer systems that can perform tasks that normally require human intelligence.
+
+Select the answer that best explains how AI works.
