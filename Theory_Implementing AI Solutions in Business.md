@@ -19,3 +19,5 @@ AI is a recent (past 20 years) development in technology.
 An AI solution can be developed without connection to the business.
 ```
 *Well done! AI is quite exciting in its capabilities.*
+
+### The phases of an AI solution
