@@ -43,3 +43,5 @@ Artificial Intelligence has been around for decades. Generative AI - e.g., ChatG
 * Categorize the following statements as belonging to "Generative AI" or "Other AI."
 
 *Congratulations! You're starting to understand the different types of AI and how to apply them. Now, can you remember the components of AI?*
+
+### Components of an AI solution
