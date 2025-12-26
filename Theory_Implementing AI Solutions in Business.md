@@ -33,6 +33,7 @@ Select the answer that best explains how AI works.
 ```
 AI has fundamentally the same cognitive qualities and abilities as humans
 AI is a centralized repository designed to store, process, and secure large amounts of data.
-AI efficiently finds patterns in massive datasets, using those patterns to make decisions
+〇 AI efficiently finds patterns in massive datasets, using those patterns to make decisions
 AI achieves human-like intelligence by replicating the structure of the human brain.
 ```
+*Perfect! You are starting to get the hang of AI.*
