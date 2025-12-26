@@ -21,3 +21,4 @@ An AI solution can be developed without connection to the business.
 *Well done! AI is quite exciting in its capabilities.*
 
 ### The phases of an AI solution
+A successful AI solution implementation will generally follow five broad steps from ideation to production. These steps may look similar to any other technology strategy. However, the particular details about the implementation will differ.
