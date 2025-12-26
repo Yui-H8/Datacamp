@@ -14,7 +14,8 @@ Artificial Intelligence (AI) is not a new technology though exciting development
 Which of the following statements about AI and AI solutions are true?
 ```
 AI is a recent (past 20 years) development in technology.
-AI is the development of computer systems to perform tasks that normally require human intelligence.
-AI can be used for image processing and classification.
+〇 AI is the development of computer systems to perform tasks that normally require human intelligence.
+〇 AI can be used for image processing and classification.
 An AI solution can be developed without connection to the business.
 ```
+*Well done! AI is quite exciting in its capabilities.*
