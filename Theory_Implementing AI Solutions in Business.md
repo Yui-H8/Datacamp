@@ -37,3 +37,5 @@ AI is a centralized repository designed to store, process, and secure large amou
 AI achieves human-like intelligence by replicating the structure of the human brain.
 ```
 *Perfect! You are starting to get the hang of AI.*
+
+### Generative AI vs. Other AI
