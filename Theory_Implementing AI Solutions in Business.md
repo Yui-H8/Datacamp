@@ -57,3 +57,6 @@ ChatGPT
 〇 AI model
 ```
 *Congratulations! Knowing the high-level solution is half the battle to building a great AI solution. Before going into more detail, let's discuss how to remain responsible while building AI solutions.*
+
+---
+### Why is Responsible AI important?
