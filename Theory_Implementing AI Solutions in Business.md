@@ -73,3 +73,4 @@ It ensures the AI solution leverages the newest technology
 *Well done! A Responsible AI, when implemented correctly, can ensure the design is inclusive and accessible. Now let's see if you remember the common principles of Responsible AI.*
 
 ### Common Principles of Responsible AI
+Every business will create their own principles for responsible AI depending on their values and what they believe to be important. However, there are some which appear to be common across organizations.
