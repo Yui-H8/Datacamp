@@ -63,6 +63,11 @@ ChatGPT
 Responsible AI should be at the forefront of an AI solution strategy. It acts as a governance model to ensure the solution(s) are built in a safe and ethical way. It will also help the company mitigate against legal, social, and financial repercussions.
 
 With that said, which statements about Responsible AI are true?
-
+```
+〇 It can improve the design of the AI solution to be inclusive and accessible to more people.
+It ensures the AI solution leverages the newest technology
+〇 It can build trust with users, developers, and others.
+〇 Responsible AI can limit the amount of unconscious bias unintentionally built into the system.
+```
 
 *Well done! A Responsible AI, when implemented correctly, can ensure the design is inclusive and accessible. Now let's see if you remember the common principles of Responsible AI.*
