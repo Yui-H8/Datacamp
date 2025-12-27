@@ -48,3 +48,9 @@ Artificial Intelligence has been around for decades. Generative AI - e.g., ChatG
 A basic AI solution will have several important components that help with building the AI model and then integrating it into a product or system. Some of them will be general to technological solutions, while others are specific to meet the demands of an AI solution.
 
 Which of the options below are part of a basic AI solution, as described in the video lesson?
+```
+A product or system
+Specialized hardware
+ChatGPT
+AI model
+```
