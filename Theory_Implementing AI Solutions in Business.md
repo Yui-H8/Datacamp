@@ -74,3 +74,4 @@ It ensures the AI solution leverages the newest technology
 
 ### Common Principles of Responsible AI
 Every business will create their own principles for responsible AI depending on their values and what they believe to be important. However, there are some which appear to be common across organizations.
+* Classify the options into either part of a "Responsible AI" principle or not.
