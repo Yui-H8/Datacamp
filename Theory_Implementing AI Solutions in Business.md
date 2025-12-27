@@ -45,3 +45,6 @@ Artificial Intelligence has been around for decades. Generative AI - e.g., ChatG
 *Congratulations! You're starting to understand the different types of AI and how to apply them. Now, can you remember the components of AI?*
 
 ### Components of an AI solution
+A basic AI solution will have several important components that help with building the AI model and then integrating it into a product or system. Some of them will be general to technological solutions, while others are specific to meet the demands of an AI solution.
+
+Which of the options below are part of a basic AI solution, as described in the video lesson?
