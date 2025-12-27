@@ -51,8 +51,9 @@ Which of the options below are part of a basic AI solution, as described in the 
 > Hint   
 > An AI solution will be comprised of the core model, hardware to run the model, and an environment in which the AI solution will be stored and used.
 ```
-A product or system
-Specialized hardware
+〇 A product or system
+〇 Specialized hardware
 ChatGPT
-AI model
+〇 AI model
 ```
+*Congratulations! Knowing the high-level solution is half the battle to building a great AI solution. Before going into more detail, let's discuss how to remain responsible while building AI solutions.*
