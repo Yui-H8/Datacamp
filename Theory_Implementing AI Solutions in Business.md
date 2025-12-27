@@ -71,3 +71,5 @@ It ensures the AI solution leverages the newest technology
 ```
 
 *Well done! A Responsible AI, when implemented correctly, can ensure the design is inclusive and accessible. Now let's see if you remember the common principles of Responsible AI.*
+
+### Common Principles of Responsible AI
