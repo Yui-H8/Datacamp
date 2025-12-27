@@ -60,3 +60,6 @@ ChatGPT
 
 ---
 ### Why is Responsible AI important?
+Responsible AI should be at the forefront of an AI solution strategy. It acts as a governance model to ensure the solution(s) are built in a safe and ethical way. It will also help the company mitigate against legal, social, and financial repercussions.
+
+With that said, which statements about Responsible AI are true?
