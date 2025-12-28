@@ -91,3 +91,4 @@ https://app.datacamp.com/learn/courses/
 * LLMOps Concepts
 * Large Language Models for Business
 * Implementing AI Solutions in Business
+* Introduction to Data Privacy
