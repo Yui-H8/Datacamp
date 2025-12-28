@@ -79,3 +79,8 @@ Every business will create their own principles for responsible AI depending on 
 *Well done! Responsible AI can include principles for many specific areas but common ones center around Fairness, Transparency, and Accountability.*
 
 ### Assessing risk for a new AI solution
+A large financial services company is considering implementing an AI-powered chatbot to enhance their customer support services. The chatbot would take customer queries, provide personalized responses, and assist with basic financial transactions.
+
+Recognizing the potential risks associated with deploying an AI chatbot, the company decides to conduct a thorough risk assessment before proceeding with building a proof of concept.
+
+Which of the questions below would be appropriate to ask in order to assess risk?
