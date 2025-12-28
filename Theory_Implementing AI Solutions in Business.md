@@ -85,10 +85,10 @@ Recognizing the potential risks associated with deploying an AI chatbot, the com
 
 Which of the questions below would be appropriate to ask in order to assess risk?
 ```
-What types of decisions will the system make?
-Should we buy or build the AI solution?
-Who will be involved in the system design and development?
-Who will use or be exposed to the system?
+〇 What types of decisions will the system make?
+〇 Should we buy or build the AI solution?
+〇 Who will be involved in the system design and development?
+〇 Who will use or be exposed to the system?
 How much compute will be required to run the AI solution?
 ```
 
