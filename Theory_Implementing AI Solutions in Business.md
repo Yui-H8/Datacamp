@@ -78,3 +78,4 @@ Every business will create their own principles for responsible AI depending on 
 
 *Well done! Responsible AI can include principles for many specific areas but common ones center around Fairness, Transparency, and Accountability.*
 
+### Assessing risk for a new AI solution
