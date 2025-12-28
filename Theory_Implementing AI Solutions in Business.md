@@ -84,3 +84,6 @@ A large financial services company is considering implementing an AI-powered cha
 Recognizing the potential risks associated with deploying an AI chatbot, the company decides to conduct a thorough risk assessment before proceeding with building a proof of concept.
 
 Which of the questions below would be appropriate to ask in order to assess risk?
+
+
+*Well done! Risk assessments focus on users, the purpose of the system, fairness, security, and other areas which may lead to harm if not identified early on. Now that you fully understand AI and how to build responsibly, let's dive into some benefits!*
