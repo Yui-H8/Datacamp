@@ -20,3 +20,5 @@ It is unclear if Poh Ching will be alerted if the store misuses her information.
 〇 All of the above
 ```
 *Perfect! You understand how to apply PREACH to everyday Privacy scenarios!*
+
+### Focusing on data privacy
