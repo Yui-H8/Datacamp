@@ -7,3 +7,8 @@ What is data privacy, why is it so important, and how does it impact you daily? 
 ---
 
 ### Preach shopping scenario
+Poh Ching wants to do some online holiday shopping. She goes to her favorite online store to buy some climbing gear. However, when Poh Ching logs on to the site, she is redirected to a new privacy policy page.
+
+The new page is long and confusing. She skims the page and can understand that the website will collect information about her shopping experience to improve future shopping recommendations. At the end of the page, she is asked if she agrees to all of the new changes.
+
+Based on what you have learned, what is wrong with the online store's privacy policy?
