@@ -36,3 +36,4 @@ Drones and other surveillance technology.
 Privacy has different meanings and significance to different groups. You will be tasked with matching different personas (individual, company, regulator) with their responsibilities.
 
 Manuel has downloaded a new app from his favorite fast food chain, PizzaRUs. When he logs into the app for the first time, PizzaRUs asks him to agree to share his location and agree to the company's privacy policy. In the privacy policy, PizzaRUs mentions that they comply with several privacy laws. After reviewing the privacy policy, Manuel sets up his account and orders a pizza.
+* Match the different cards with the appropriate persona.
