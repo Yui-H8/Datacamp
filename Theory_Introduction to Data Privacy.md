@@ -17,5 +17,6 @@ It is not easy to understand for users.
 It is unclear how the company plans to use Poh Ching's data, for example, if they will share it with 3rd party companies.
 It is not clear if Poh Ching can change her information.
 It is unclear if Poh Ching will be alerted if the store misuses her information.
-All of the above
+〇 All of the above
 ```
+*Perfect! You understand how to apply PREACH to everyday Privacy scenarios!*
