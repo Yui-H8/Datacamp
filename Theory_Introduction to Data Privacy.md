@@ -31,3 +31,5 @@ The Internet.
 Drones and other surveillance technology.
 ```
 *Perfect, you got it! Conversations around Data Privacy have increased due to an increased dependence of technology, overall amount of data, and analysis of user data.*
+
+### Understanding privacy responsibilities
