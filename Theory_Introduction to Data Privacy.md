@@ -23,3 +23,6 @@ It is unclear if Poh Ching will be alerted if the store misuses her information.
 
 ### Focusing on data privacy
 Why have conversations around Data Privacy increased?
+
+
+*Perfect, you got it! Conversations around Data Privacy have increased due to an increased dependence of technology, overall amount of data, and analysis of user data.*
