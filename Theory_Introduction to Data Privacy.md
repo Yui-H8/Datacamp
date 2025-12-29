@@ -12,3 +12,10 @@ Poh Ching wants to do some online holiday shopping. She goes to her favorite onl
 The new page is long and confusing. She skims the page and can understand that the website will collect information about her shopping experience to improve future shopping recommendations. At the end of the page, she is asked if she agrees to all of the new changes.
 
 Based on what you have learned, what is wrong with the online store's privacy policy?
+```
+It is not easy to understand for users.
+It is unclear how the company plans to use Poh Ching's data, for example, if they will share it with 3rd party companies.
+It is not clear if Poh Ching can change her information.
+It is unclear if Poh Ching will be alerted if the store misuses her information.
+All of the above
+```
