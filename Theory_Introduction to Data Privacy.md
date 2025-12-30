@@ -47,7 +47,8 @@ What does CIA Triad stand for?
 ```
 Central Intelligence Agency
 Continuity Incident Access
-Confidentiality, Integrity, and Availability
+〇 Confidentiality, Integrity, and Availability
 Confidentiality Identity Availability
 None of the above
 ```
+*Perfect! You successfully broke down and understood the key components of the CIA Triad!*
