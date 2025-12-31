@@ -59,3 +59,4 @@ The CIA Triad contains some core security concepts and principles. Understanding
 *Congrats! You did a great job. You have a solid understanding of the CIA model and a few security controls related to the triad.*
 
 ### Security models three truths and a lie
+Which of the following statements about security models is false?
