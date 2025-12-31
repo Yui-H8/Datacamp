@@ -70,3 +70,6 @@ Security models help companies identify and create strong security programs, pro
 
 ---
 ### Privacy and security incident
+We have learned that malicious actors may try to access, alter, or exploit data. This may result in a privacy incident, a security incident, or sometimes both. It's important to think about the potential ramifications of a data breach. It's not just about figuring out how it happened but also why and when it happened. It's also important to think about who may have been impacted by the breach.
+
+In this exercise, please select the scenario that constitutes both a privacy and a security breach.
