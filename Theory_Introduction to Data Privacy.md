@@ -67,3 +67,6 @@ DIE is an example of a newer security model.
 Security models help companies identify and create strong security programs, processes, and controls.
 ```
 *Stellar, you got it! Well done! You understand that there are many security models out there and their intent*
+
+---
+### Privacy and security incident
