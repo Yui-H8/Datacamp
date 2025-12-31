@@ -57,3 +57,5 @@ None of the above
 The CIA Triad contains some core security concepts and principles. Understanding the difference between the different acronyms (Confidentiality, Integrity, Availability) can help engineers and program managers more effectively build out programs and identify additional controls, processes, or policies that need to be implemented.
 
 *Congrats! You did a great job. You have a solid understanding of the CIA model and a few security controls related to the triad.*
+
+### Security models three truths and a lie
