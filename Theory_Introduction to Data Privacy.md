@@ -60,3 +60,9 @@ The CIA Triad contains some core security concepts and principles. Understanding
 
 ### Security models three truths and a lie
 Which of the following statements about security models is false?
+```
+CIA Triad helps companies create security programs.
+CIA Triad is the only and the best security model.
+DIE is an example of a newer security model.
+Security models help companies identify and create strong security programs, processes, and controls.
+```
