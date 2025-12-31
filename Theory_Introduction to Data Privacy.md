@@ -54,3 +54,4 @@ None of the above
 *Perfect! You successfully broke down and understood the key components of the CIA Triad!*
 
 ### CIA Triad concept match
+The CIA Triad contains some core security concepts and principles. Understanding the difference between the different acronyms (Confidentiality, Integrity, Availability) can help engineers and program managers more effectively build out programs and identify additional controls, processes, or policies that need to be implemented.
