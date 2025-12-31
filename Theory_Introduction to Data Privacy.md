@@ -73,3 +73,9 @@ Security models help companies identify and create strong security programs, pro
 We have learned that malicious actors may try to access, alter, or exploit data. This may result in a privacy incident, a security incident, or sometimes both. It's important to think about the potential ramifications of a data breach. It's not just about figuring out how it happened but also why and when it happened. It's also important to think about who may have been impacted by the breach.
 
 In this exercise, please select the scenario that constitutes both a privacy and a security breach.
+```
+A hacker accesses and exports healthcare records from a local hospital. The records contain patient information, including names, addresses, and dates of birth.
+An engineer accidentally makes a company's internal training available to the public; the training does not contain any images or references to people.
+A hacker group steals a company's patented technology and sells it to a competitor.
+A company posts customer testimonials on its website; the customers have already signed non-disclosure agreements (NDAs) and consent forms, which approve the use of their testimonials.
+```
