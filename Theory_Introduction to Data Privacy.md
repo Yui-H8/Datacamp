@@ -80,3 +80,5 @@ A hacker group steals a company's patented technology and sells it to a competit
 A company posts customer testimonials on its website; the customers have already signed non-disclosure agreements (NDAs) and consent forms, which approve the use of their testimonials.
 ```
 *Perfect, you understand the overlap between security and privacy. A data breach is extra knarly when it results in both a security compromise and a privacy compromise!*
+
+### Analyzing key themes within Security and Privacy
