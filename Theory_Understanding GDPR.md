@@ -12,3 +12,4 @@ After completing the course, you will have a clear understanding of GDPR princip
 
 ---
 ### First ideas about GDPR
+It's still the beginning, but we have covered the motivation and context behind GDPR. We've seen, so far, that GDPR, or the General Data Protection Regulation is a data protection law with some crucial objectives. Let's see if you have grasped these first ideas around GDPR.
