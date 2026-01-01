@@ -82,3 +82,6 @@ A company posts customer testimonials on its website; the customers have already
 *Perfect, you understand the overlap between security and privacy. A data breach is extra knarly when it results in both a security compromise and a privacy compromise!*
 
 ### Analyzing key themes within Security and Privacy
+Security and Privacy are often viewed as being mutually exclusive. However, as we've learned, there are significant areas of overlap between security and privacy. Security controls are the basis of a strong privacy program.
+
+It is important that you can identify the similarities and differences between security and privacy.
