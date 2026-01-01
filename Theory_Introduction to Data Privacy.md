@@ -85,3 +85,4 @@ A company posts customer testimonials on its website; the customers have already
 Security and Privacy are often viewed as being mutually exclusive. However, as we've learned, there are significant areas of overlap between security and privacy. Security controls are the basis of a strong privacy program.
 
 It is important that you can identify the similarities and differences between security and privacy.
+* In this exercise, you will be creating a Venn Diagram. The exercise aims to match the appropriate terms and concepts with the correct category.
