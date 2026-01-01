@@ -17,3 +17,4 @@ It's still the beginning, but we have covered the motivation and context behind 
 *Well done! Indeed, GDPR is about balancing human rights and the responsible flow of data to enable business transactions with the EU27 countries.*
 
 ### Can we do anything at all with GDPR?
+Which of the following statements describes a situation companies cannot do under GDPR.
