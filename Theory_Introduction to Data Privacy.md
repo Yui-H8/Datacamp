@@ -86,3 +86,5 @@ Security and Privacy are often viewed as being mutually exclusive. However, as w
 
 It is important that you can identify the similarities and differences between security and privacy.
 * In this exercise, you will be creating a Venn Diagram. The exercise aims to match the appropriate terms and concepts with the correct category.
+
+*Stellar! You understand the differences and similarities between privacy and security!*
