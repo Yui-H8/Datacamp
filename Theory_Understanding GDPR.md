@@ -15,3 +15,5 @@ After completing the course, you will have a clear understanding of GDPR princip
 It's still the beginning, but we have covered the motivation and context behind GDPR. We've seen, so far, that GDPR, or the General Data Protection Regulation is a data protection law with some crucial objectives. Let's see if you have grasped these first ideas around GDPR.
 
 *Well done! Indeed, GDPR is about balancing human rights and the responsible flow of data to enable business transactions with the EU27 countries.*
+
+### Can we do anything at all with GDPR?
