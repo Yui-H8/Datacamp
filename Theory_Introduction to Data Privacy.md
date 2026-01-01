@@ -74,8 +74,9 @@ We have learned that malicious actors may try to access, alter, or exploit data.
 
 In this exercise, please select the scenario that constitutes both a privacy and a security breach.
 ```
-A hacker accesses and exports healthcare records from a local hospital. The records contain patient information, including names, addresses, and dates of birth.
+〇 A hacker accesses and exports healthcare records from a local hospital. The records contain patient information, including names, addresses, and dates of birth.
 An engineer accidentally makes a company's internal training available to the public; the training does not contain any images or references to people.
 A hacker group steals a company's patented technology and sells it to a competitor.
 A company posts customer testimonials on its website; the customers have already signed non-disclosure agreements (NDAs) and consent forms, which approve the use of their testimonials.
 ```
+*Perfect, you understand the overlap between security and privacy. A data breach is extra knarly when it results in both a security compromise and a privacy compromise!*
