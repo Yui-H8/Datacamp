@@ -9,3 +9,6 @@ Whether you are a data scientist, manager, student, or curious citizen, you may 
 Since it took effect, GDPR, or the General Data Protection Regulation, is arguably the most influential data protection law in the world. Whether you live in the EU or not, GDPR impacts how you do business and how it might influence the data protection laws and procedures wherever you are.
 
 After completing the course, you will have a clear understanding of GDPR principles, the accountability obligations, and how your and your company can benefit by setting up GDPR-compliant processes not only for the present but also to be able to adapt to evolving technologies and regulations.
+
+---
+### First ideas about GDPR
