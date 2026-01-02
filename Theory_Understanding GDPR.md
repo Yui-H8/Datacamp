@@ -32,3 +32,5 @@ We've seen that not all data, but only personal data falls under GDPR. Understan
 * Place the personal data elements in the right bucket, depending on whether they belong within the GDPR scope or not.
 
 *Congratulations! Knowing what data falls under GDPR is very important to understand its scope.*
+
+### To process or not to process
