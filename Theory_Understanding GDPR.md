@@ -18,3 +18,9 @@ It's still the beginning, but we have covered the motivation and context behind 
 
 ### Can we do anything at all with GDPR?
 Which of the following statements describes a situation companies cannot do under GDPR.
+```
+Companies are not allowed to use the personal data of their clients to send them new product advertisements.
+Companies cannot share the personal data of their clients outside of the EU27 countries.
+Companies cannot seek exemptions from GDPR regulations based on their size and legal entity status.
+Companies are not allowed to share sensitive personal data with law enforcement authorities.
+```
