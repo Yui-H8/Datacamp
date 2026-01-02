@@ -34,3 +34,4 @@ We've seen that not all data, but only personal data falls under GDPR. Understan
 *Congratulations! Knowing what data falls under GDPR is very important to understand its scope.*
 
 ### To process or not to process
+GDPR covers a wide range of data processing activities; which of the following statements is NOT true related to data processing.
