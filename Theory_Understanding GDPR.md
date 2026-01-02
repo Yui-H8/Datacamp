@@ -37,7 +37,8 @@ We've seen that not all data, but only personal data falls under GDPR. Understan
 GDPR covers a wide range of data processing activities; which of the following statements is NOT true related to data processing.
 ```
 Performing summary statistics of website visitor analytics is not personal data processing activity.
-Shredding physical copies of an individual's file is not a data processing activity.
+〇 Shredding physical copies of an individual's file is not a data processing activity.
 Facial recognition software processes highly sensitive data.
 Primary schools have additional obligations and restrictions under GDPR for data processing.
 ```
+*Perfect! Any automated or manual operation with personal data falls under GDPR.*
