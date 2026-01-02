@@ -25,3 +25,6 @@ Companies cannot share the personal data of their clients outside of the EU27 co
 Companies are not allowed to share sensitive personal data with law enforcement authorities.
 ```
 *Nicely done! Everyone, whether it is an individual or a company, regardless of its size, needs to comply with GDPR. However, there are additional responsibilities for larger companies.*
+
+---
+### Personal data according to GDPR
