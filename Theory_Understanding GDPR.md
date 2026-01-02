@@ -28,3 +28,4 @@ Companies are not allowed to share sensitive personal data with law enforcement 
 
 ---
 ### Personal data according to GDPR
+We've seen that not all data, but only personal data falls under GDPR. Understanding whether you are processing personal data is essential because that'll determine whether you must comply with GDPR. Let's see if you can spot those personal data elements.
