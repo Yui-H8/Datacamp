@@ -21,6 +21,7 @@ Which of the following statements describes a situation companies cannot do unde
 ```
 Companies are not allowed to use the personal data of their clients to send them new product advertisements.
 Companies cannot share the personal data of their clients outside of the EU27 countries.
-Companies cannot seek exemptions from GDPR regulations based on their size and legal entity status.
+〇 Companies cannot seek exemptions from GDPR regulations based on their size and legal entity status.
 Companies are not allowed to share sensitive personal data with law enforcement authorities.
 ```
+*Nicely done! Everyone, whether it is an individual or a company, regardless of its size, needs to comply with GDPR. However, there are additional responsibilities for larger companies.*
