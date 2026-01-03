@@ -48,3 +48,4 @@ Primary schools have additional obligations and restrictions under GDPR for data
 Imagine that you are a fast-growing tech startup with a client base in the US and Europe. Your company uses several social media channels to promote your business and attract new customers. You have dedicated pages and profiles of your company on these social media sites to get valuable business insights from user engagement on these pages.
 
 You may wonder what this type of social media presence means for your company concerning GDPR.
+* Place each of the statements in the right box based on whether they are True or False according to GDPR
