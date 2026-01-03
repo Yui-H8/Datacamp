@@ -57,3 +57,5 @@ We've seen the various roles and responsibilities of GDPR compliance. When a dat
 
 Imagine that you are a cloud service provider based in Berlin. Due to a botched maintenance activity of your server facility, you accidentally lose several hard drives containing personal data belonging to several of its clients (companies).
 * Rearrange the actions based on time-sensitiveness (most urgent to least urgent) after a data breach.
+
+*Congratulations! It's crucial to communicate both to the SA and the affected data subjects after a data breach in a time-sensitive manner.*
