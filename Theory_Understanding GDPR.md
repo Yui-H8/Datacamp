@@ -42,3 +42,6 @@ Facial recognition software processes highly sensitive data.
 Primary schools have additional obligations and restrictions under GDPR for data processing.
 ```
 *Perfect! Any automated or manual operation with personal data falls under GDPR.*
+
+---
+### With great data comes great responsibility
