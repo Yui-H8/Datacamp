@@ -93,3 +93,4 @@ https://app.datacamp.com/learn/courses/
 * Implementing AI Solutions in Business
 * Introduction to Data Privacy
 * Understanding GDPR
+* Artificial Intelligence Governance
