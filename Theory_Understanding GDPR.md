@@ -56,3 +56,4 @@ You may wonder what this type of social media presence means for your company co
 We've seen the various roles and responsibilities of GDPR compliance. When a data breach occurs, GDPR mandates specific actions from them. Let's practice on a practical use case.
 
 Imagine that you are a cloud service provider based in Berlin. Due to a botched maintenance activity of your server facility, you accidentally lose several hard drives containing personal data belonging to several of its clients (companies).
+* Rearrange the actions based on time-sensitiveness (most urgent to least urgent) after a data breach.
