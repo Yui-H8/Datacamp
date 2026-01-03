@@ -51,3 +51,5 @@ You may wonder what this type of social media presence means for your company co
 * Place each of the statements in the right box based on whether they are True or False according to GDPR
 
 *Congratulations! GDPR requires companies who collect personal data to be aware of their obligations and implement the necessary safeguards.*
+
+### Data breach! Now what?
