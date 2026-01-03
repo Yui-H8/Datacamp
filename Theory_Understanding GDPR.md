@@ -49,3 +49,5 @@ Imagine that you are a fast-growing tech startup with a client base in the US an
 
 You may wonder what this type of social media presence means for your company concerning GDPR.
 * Place each of the statements in the right box based on whether they are True or False according to GDPR
+
+*Congratulations! GDPR requires companies who collect personal data to be aware of their obligations and implement the necessary safeguards.*
