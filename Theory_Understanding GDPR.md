@@ -53,3 +53,6 @@ You may wonder what this type of social media presence means for your company co
 *Congratulations! GDPR requires companies who collect personal data to be aware of their obligations and implement the necessary safeguards.*
 
 ### Data breach! Now what?
+We've seen the various roles and responsibilities of GDPR compliance. When a data breach occurs, GDPR mandates specific actions from them. Let's practice on a practical use case.
+
+Imagine that you are a cloud service provider based in Berlin. Due to a botched maintenance activity of your server facility, you accidentally lose several hard drives containing personal data belonging to several of its clients (companies).
