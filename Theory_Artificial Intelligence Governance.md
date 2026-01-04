@@ -15,3 +15,5 @@ Applying moral values to guide AI decisions
 〇 Establishing structures and processes to ensure responsible AI development and use
 ```
 *Correct! Governance sets up rules and responsibilities that guide responsible AI practices.*
+
+### Distinguishing governance from ethics
