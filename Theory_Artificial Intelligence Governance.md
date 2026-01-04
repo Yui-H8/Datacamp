@@ -28,3 +28,6 @@ Ethics determines who is accountable when an AI model fails
 *Exactly! Governance is how ethical principles are implemented and enforced.*
 
 ### Responding to external AI pressures
+You're reviewing your team's AI governance plan ahead of a regulatory audit.
+
+Which tool is most likely to help demonstrate compliance with external AI regulations?
