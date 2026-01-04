@@ -17,3 +17,6 @@ Applying moral values to guide AI decisions
 *Correct! Governance sets up rules and responsibilities that guide responsible AI practices.*
 
 ### Distinguishing governance from ethics
+You're reviewing your organization's AI policies and notice confusion between governance and ethics.
+
+What best explains how governance differs from ethics?
