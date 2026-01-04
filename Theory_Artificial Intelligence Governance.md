@@ -21,6 +21,8 @@ You're reviewing your organization's AI policies and notice confusion between go
 
 What best explains how governance differs from ethics?
 ```
-
+Governance replaces the need for ethical principles
+〇 Governance puts ethical principles into practice through structures and policies
+Ethics determines who is accountable when an AI model fails
 ```
 *Exactly! Governance is how ethical principles are implemented and enforced.*
