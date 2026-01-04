@@ -33,6 +33,7 @@ You're reviewing your team's AI governance plan ahead of a regulatory audit.
 Which tool is most likely to help demonstrate compliance with external AI regulations?
 ```
 A dashboard showing customer engagement metrics
-A tool that logs data sources, model decisions, and ethical checks
+〇 A tool that logs data sources, model decisions, and ethical checks
 An automated system that tunes model hyperparameters
 ```
+*Correct! Tools that document decisions and ethical adherence are critical for regulatory compliance.*
