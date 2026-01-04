@@ -37,3 +37,5 @@ A dashboard showing customer engagement metrics
 An automated system that tunes model hyperparameters
 ```
 *Correct! Tools that document decisions and ethical adherence are critical for regulatory compliance.*
+
+### Who walks the talk?
