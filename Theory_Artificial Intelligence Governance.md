@@ -9,3 +9,8 @@ Want to ensure your AI systems are ethical, scalable, and compliant? This course
 Your team is preparing to launch a machine learning model, and you're asked to explain AI governance to the product owner.
 
 What is the core function of AI governance in this situation?
+```
+Writing the code that powers AI algorithms
+Applying moral values to guide AI decisions
+Establishing structures and processes to ensure responsible AI development and use
+```
