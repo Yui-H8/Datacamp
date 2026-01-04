@@ -6,3 +6,6 @@ Want to ensure your AI systems are ethical, scalable, and compliant? This course
 
 ---
 ### Defining AI governance in practice
+Your team is preparing to launch a machine learning model, and you're asked to explain AI governance to the product owner.
+
+What is the core function of AI governance in this situation?
