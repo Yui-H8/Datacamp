@@ -12,5 +12,6 @@ What is the core function of AI governance in this situation?
 ```
 Writing the code that powers AI algorithms
 Applying moral values to guide AI decisions
-Establishing structures and processes to ensure responsible AI development and use
+〇 Establishing structures and processes to ensure responsible AI development and use
 ```
+*Correct! Governance sets up rules and responsibilities that guide responsible AI practices.*
