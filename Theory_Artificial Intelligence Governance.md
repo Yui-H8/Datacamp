@@ -26,3 +26,5 @@ Governance replaces the need for ethical principles
 Ethics determines who is accountable when an AI model fails
 ```
 *Exactly! Governance is how ethical principles are implemented and enforced.*
+
+### Responding to external AI pressures
