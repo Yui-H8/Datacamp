@@ -50,3 +50,8 @@ The Chief Risk Officer has asked you to categorize the team's recent AI initiati
 You're training new hires on how your organization applies governance to AI development.
 
 Where should governance be applied within the AI lifecycle?
+```
+Throughout planning, development, deployment, and monitoring
+Only after the model is trained and validated
+Only during risk review by compliance teams
+```
