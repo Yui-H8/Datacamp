@@ -51,7 +51,8 @@ You're training new hires on how your organization applies governance to AI deve
 
 Where should governance be applied within the AI lifecycle?
 ```
-Throughout planning, development, deployment, and monitoring
+〇 Throughout planning, development, deployment, and monitoring
 Only after the model is trained and validated
 Only during risk review by compliance teams
 ```
+*Correct! Governance begins early and continues across the AI lifecycle to ensure responsible outcomes.*
