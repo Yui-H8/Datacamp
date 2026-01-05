@@ -72,3 +72,7 @@ To centralize AI model development in the data science team
 You are reviewing your onboarding notes on the components of an AI governance system.
 
 To check your understanding, you have been given a list of component names. Your task is to match each name to the correct definition by sorting the descriptions into the right order.
+* Sort the definitions to match the order of these components:
+1. Governance structure
+2. Policies and principles
+3. AI risk assessments
