@@ -56,3 +56,5 @@ Only after the model is trained and validated
 Only during risk review by compliance teams
 ```
 *Correct! Governance begins early and continues across the AI lifecycle to ensure responsible outcomes.*
+
+### Coordinating roles and responsibilities
