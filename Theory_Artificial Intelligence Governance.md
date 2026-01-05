@@ -67,3 +67,5 @@ To centralize AI model development in the data science team
 〇 To coordinate legal, compliance, tech, and business roles in AI oversight
 ```
 *Correct! Governance structures ensure oversight is shared across key departments.*
+
+### Match the parts to their purpose
