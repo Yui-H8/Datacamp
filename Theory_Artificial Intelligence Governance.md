@@ -43,3 +43,5 @@ You're joining the launch team for a new AI-powered lending product at TrustFair
 
 The Chief Risk Officer has asked you to categorize the team's recent AI initiatives into ethical principles or governance mechanisms.
 * Review each initiative and classify it as either AI ethics or AI governance.
+
+*Excellent! You've correctly identified the difference between principles and enforcement - ethics tells us what matters, and governance ensures it happens.*
