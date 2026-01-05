@@ -58,3 +58,6 @@ Only during risk review by compliance teams
 *Correct! Governance begins early and continues across the AI lifecycle to ensure responsible outcomes.*
 
 ### Coordinating roles and responsibilities
+Your company is launching a cross-functional AI governance committee.
+
+Which of the following best describes the purpose of this kind of governance structure?
