@@ -61,6 +61,9 @@ Only during risk review by compliance teams
 Your company is launching a cross-functional AI governance committee.
 
 Which of the following best describes the purpose of this kind of governance structure?
-
-
+```
+To ensure only the IT team can approve AI tools
+To centralize AI model development in the data science team
+〇 To coordinate legal, compliance, tech, and business roles in AI oversight
+```
 *Correct! Governance structures ensure oversight is shared across key departments.*
