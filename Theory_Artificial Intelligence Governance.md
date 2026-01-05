@@ -47,3 +47,6 @@ The Chief Risk Officer has asked you to categorize the team's recent AI initiati
 *Excellent! You've correctly identified the difference between principles and enforcement - ethics tells us what matters, and governance ensures it happens.*
 
 ### Embedding governance across the AI lifecycle
+You're training new hires on how your organization applies governance to AI development.
+
+Where should governance be applied within the AI lifecycle?
