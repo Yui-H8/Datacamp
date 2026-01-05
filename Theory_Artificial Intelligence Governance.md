@@ -42,3 +42,4 @@ An automated system that tunes model hyperparameters
 You're joining the launch team for a new AI-powered lending product at TrustFair Bank. Before go-live, your team needs to distinguish between the values you're committed to and the actions you're taking to enforce them.
 
 The Chief Risk Officer has asked you to categorize the team's recent AI initiatives into ethical principles or governance mechanisms.
+* Review each initiative and classify it as either AI ethics or AI governance.
