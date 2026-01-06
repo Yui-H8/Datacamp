@@ -80,3 +80,6 @@ To check your understanding, you have been given a list of component names. Your
 *Great job! You've correctly matched each definition to its corresponding governance component. A clear understanding of these building blocks is essential to designing responsible AI systems.*
 
 ### Governance in motion
+You are helping onboard a new product manager at your company. They are familiar with AI development, but not how governance fits in.
+
+To support their learning, you have been asked to organize four governance activities according to when they happen during the AI lifecycle.
