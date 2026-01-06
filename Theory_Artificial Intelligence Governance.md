@@ -97,3 +97,5 @@ It is the responsibility of the legal department only
 〇 It is shared across strategic, technical, legal, and business roles
 ```
 *Correct! AI governance spans departments and requires collaboration from multiple areas of expertise.*
+
+### Roles in AI governance
