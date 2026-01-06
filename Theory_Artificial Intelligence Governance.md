@@ -94,5 +94,6 @@ Which of the following best reflects how responsibility for AI governance is dis
 ```
 It is led exclusively by software engineers and data scientists
 It is the responsibility of the legal department only
-It is shared across strategic, technical, legal, and business roles
+〇 It is shared across strategic, technical, legal, and business roles
 ```
+*Correct! AI governance spans departments and requires collaboration from multiple areas of expertise.*
