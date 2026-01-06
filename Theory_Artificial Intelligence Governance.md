@@ -91,3 +91,8 @@ To support their learning, you have been asked to organize four governance activ
 You're onboarding a new colleague to your AI governance working group.
 
 Which of the following best reflects how responsibility for AI governance is distributed in most organizations?
+```
+It is led exclusively by software engineers and data scientists
+It is the responsibility of the legal department only
+It is shared across strategic, technical, legal, and business roles
+```
