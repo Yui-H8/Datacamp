@@ -83,3 +83,4 @@ To check your understanding, you have been given a list of component names. Your
 You are helping onboard a new product manager at your company. They are familiar with AI development, but not how governance fits in.
 
 To support their learning, you have been asked to organize four governance activities according to when they happen during the AI lifecycle.
+* Sort the governance descriptions into the correct lifecycle order, from planning to post-deployment.
