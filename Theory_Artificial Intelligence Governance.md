@@ -76,3 +76,5 @@ To check your understanding, you have been given a list of component names. Your
 1. Governance structure
 2. Policies and principles
 3. AI risk assessments
+
+*Great job! You've correctly matched each definition to its corresponding governance component. A clear understanding of these building blocks is essential to designing responsible AI systems.*
