@@ -86,3 +86,5 @@ To support their learning, you have been asked to organize four governance activ
 * Sort the governance descriptions into the correct lifecycle order, from planning to post-deployment.
 
 *Well done! Remember, governance isn't a single checklist. It's a continuous loop that helps AI systems stay compliant, ethical, and effective as they evolve. Keep it up!*
+
+### Sharing responsibility for AI governance
