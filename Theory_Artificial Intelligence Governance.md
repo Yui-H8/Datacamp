@@ -88,3 +88,6 @@ To support their learning, you have been asked to organize four governance activ
 *Well done! Remember, governance isn't a single checklist. It's a continuous loop that helps AI systems stay compliant, ethical, and effective as they evolve. Keep it up!*
 
 ### Sharing responsibility for AI governance
+You're onboarding a new colleague to your AI governance working group.
+
+Which of the following best reflects how responsibility for AI governance is distributed in most organizations?
