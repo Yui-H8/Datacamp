@@ -102,3 +102,8 @@ It is the responsibility of the legal department only
 You're mapping out governance roles for your company's AI initiative.
 
 Which function is most likely to be responsible for ensuring data quality, traceability, and documentation?
+```
+Information security
+Data governance
+Business operations
+```
