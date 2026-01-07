@@ -108,3 +108,5 @@ Information security
 Business operations
 ```
 *Correct! Data governance ensures that AI inputs are well-managed and traceable.*
+
+### Collaborating through governance committees
