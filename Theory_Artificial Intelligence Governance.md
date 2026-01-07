@@ -113,3 +113,9 @@ Business operations
 Your organization wants to improve coordination between departments involved in AI development.
 
 What is a common method used to enable effective collaboration on AI governance?
+```
+Creating a shared inbox for governance-related emails
+〇 Establishing a cross-functional AI governance committee or working group
+Limiting access to AI systems to a single department
+```
+*Exactly! Committees bring together diverse expertise to govern AI collectively.*
