@@ -104,6 +104,7 @@ You're mapping out governance roles for your company's AI initiative.
 Which function is most likely to be responsible for ensuring data quality, traceability, and documentation?
 ```
 Information security
-Data governance
+〇 Data governance
 Business operations
 ```
+*Correct! Data governance ensures that AI inputs are well-managed and traceable.*
