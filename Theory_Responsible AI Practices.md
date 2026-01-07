@@ -6,3 +6,8 @@ Dive into Responsible AI with this course designed to help you implement ethical
 
 ---
 ### RAI or AI Ethics at InnovateTech?
+Imagine you are an advisor at a company called InnovateTech, which is developing an AI-powered healthcare system.
+
+During a team meeting, your colleagues are confused about the difference between Responsible AI (RAI) and AI Ethics. They have asked you to explain it to them.
+
+How would you explain the difference between Responsible AI and AI Ethics to your colleagues at InnovateTech?
