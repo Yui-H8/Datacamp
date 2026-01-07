@@ -11,3 +11,8 @@ Imagine you are an advisor at a company called InnovateTech, which is developing
 During a team meeting, your colleagues are confused about the difference between Responsible AI (RAI) and AI Ethics. They have asked you to explain it to them.
 
 How would you explain the difference between Responsible AI and AI Ethics to your colleagues at InnovateTech?
+```
+AI Ethics is broader, dealing with philosophical and moral questions, while Responsible AI focuses on practical implementation through clear metrics and frameworks.
+AI Ethics involves designing, developing, and deploying AI systems, whereas Responsible AI deals with the broader philosophical questions.
+Responsible AI is about setting theoretical guidelines, while AI Ethics focuses on practical implementation.
+```
