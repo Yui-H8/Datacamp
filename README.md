@@ -94,3 +94,4 @@ https://app.datacamp.com/learn/courses/
 * Introduction to Data Privacy
 * Understanding GDPR
 * Artificial Intelligence Governance
+* Responsible AI Practices
