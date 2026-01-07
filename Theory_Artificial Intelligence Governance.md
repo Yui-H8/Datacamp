@@ -110,3 +110,6 @@ Business operations
 *Correct! Data governance ensures that AI inputs are well-managed and traceable.*
 
 ### Collaborating through governance committees
+Your organization wants to improve coordination between departments involved in AI development.
+
+What is a common method used to enable effective collaboration on AI governance?
