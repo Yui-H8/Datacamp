@@ -23,3 +23,5 @@ As an advisor at InnovateTech, you are tasked with building the company's awaren
 
 To illustrate the importance of these principles, you decide to organize and share a few examples of irresponsible AI practices.
 * Organize each item by their associated Responsible AI principle.
+
+*Brilliant! You successfully organized the examples of irresponsible AI for InnovateTech. This will help the company recognize and promote responsible practices.*
