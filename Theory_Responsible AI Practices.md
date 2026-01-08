@@ -39,3 +39,8 @@ Your CEO has asked you to prepare a presentation to help your new colleagues und
 *Fantastic! This was a tough exercise but you nailed it. You now understand some different methods of AI training.*
 
 ### Superintelligence
+While watching a discussion at Davos 2024 on YouTube, you come across a debate on the possible progression from Artificial Narrow Intelligence (ANI) to Superintelligence and its implications.
+
+Your CEO has asked you to provide a concise explanation of Superintelligence for the upcoming board meeting.
+
+Select the best description of Superintelligence.
