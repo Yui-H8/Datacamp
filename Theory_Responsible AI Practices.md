@@ -35,3 +35,6 @@ On your first day, you notice that there are some misconceptions among your coll
 
 Your CEO has asked you to prepare a presentation to help your new colleagues understand the different methods of AI training.
 * Categorize the following examples of AI training by type.
+
+*Fantastic! This was a tough exercise but you nailed it. You now understand some different methods of AI training.*
+
