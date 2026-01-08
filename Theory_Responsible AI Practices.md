@@ -17,3 +17,8 @@ AI Ethics involves designing, developing, and deploying AI systems, whereas Resp
 Responsible AI is about setting theoretical guidelines, while AI Ethics focuses on practical implementation.
 ```
 *Great job. You accurately differentiated AI Ethics from Responsible AI!*
+
+
+As an advisor at InnovateTech, you are tasked with building the company's awareness of Responsible AI principles.
+
+To illustrate the importance of these principles, you decide to organize and share a few examples of irresponsible AI practices.
