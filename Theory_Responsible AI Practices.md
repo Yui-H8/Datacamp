@@ -34,3 +34,4 @@ Imagine you are a technology strategist at FutureVision Corp, a company dedicate
 On your first day, you notice that there are some misconceptions among your colleagues about how AI models can be trained.
 
 Your CEO has asked you to prepare a presentation to help your new colleagues understand the different methods of AI training.
+* Categorize the following examples of AI training by type.
