@@ -25,3 +25,7 @@ To illustrate the importance of these principles, you decide to organize and sha
 * Organize each item by their associated Responsible AI principle.
 
 *Brilliant! You successfully organized the examples of irresponsible AI for InnovateTech. This will help the company recognize and promote responsible practices.*
+
+---
+
+### Training AI
