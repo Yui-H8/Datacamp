@@ -59,3 +59,9 @@ Across news and media, we are often presented with exciting and futuristic AI ap
 While these developments are impressive, they can lead to some common misconceptions about AI.
 
 Select the single TRUE statement about AI.
+```
+AI is sentient
+AI can create art completely independently without any human input
+AI can be used to develop a personalized health plan
+AI can understand and feel human emotions
+```
