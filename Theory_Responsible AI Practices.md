@@ -62,6 +62,7 @@ Select the single TRUE statement about AI.
 ```
 AI is sentient
 AI can create art completely independently without any human input
-AI can be used to develop a personalized health plan
+〇 AI can be used to develop a personalized health plan
 AI can understand and feel human emotions
 ```
+*Correct! AI can indeed be used to develop personalized health plans by analyzing individual data on pre-existing conditions, ongoing health concerns, and other relevant health information.*
