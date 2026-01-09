@@ -51,3 +51,6 @@ Superintelligence is when we can solve any mathematical problem with the help of
 Superintelligence is when robots have taken over from humans
 ```
 *Excellent! This description accurately captures the essence of Superintelligence.*
+
+---
+### Truth or hype?
