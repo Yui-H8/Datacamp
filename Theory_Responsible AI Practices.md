@@ -46,7 +46,8 @@ Your CEO has asked you to provide a concise explanation of Superintelligence for
 Select the best description of Superintelligence.
 ```
 Superintelligence is when human brains are implemented with a brain-computer interface
-Superintelligence is a hypothetical software-based AI system with an intellectual scope beyond human intelligence
+〇 Superintelligence is a hypothetical software-based AI system with an intellectual scope beyond human intelligence
 Superintelligence is when we can solve any mathematical problem with the help of AI
 Superintelligence is when robots have taken over from humans
 ```
+*Excellent! This description accurately captures the essence of Superintelligence.*
