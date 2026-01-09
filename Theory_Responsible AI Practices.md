@@ -54,3 +54,8 @@ Superintelligence is when robots have taken over from humans
 
 ---
 ### Truth or hype?
+Across news and media, we are often presented with exciting and futuristic AI applications: robots beating humans at table tennis, domestic service robots, and advanced virtual assistants.
+
+While these developments are impressive, they can lead to some common misconceptions about AI.
+
+Select the single TRUE statement about AI.
