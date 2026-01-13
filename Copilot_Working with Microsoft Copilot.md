@@ -1,15 +1,11 @@
 # Working with Microsoft Copilot
 ---
 **What you'll learn**
-Structure effective prompts using the GCSE framework to guide Copilot toward precise results.
-
-Refine Copilot outputs by adjusting tone, format, and detail through iterative prompting.
-
-Create documents, presentations, and charts in Word, PowerPoint, and Excel with Copilot.
-
-Build custom Copilot agents with tailored knowledge sources and advanced capabilities.
-
-Extract insights from multiple files using specialized Analyst and Researcher agents.
+* Structure effective prompts using the GCSE framework to guide Copilot toward precise results.
+* Refine Copilot outputs by adjusting tone, format, and detail through iterative prompting.
+* Create documents, presentations, and charts in Word, PowerPoint, and Excel with Copilot.
+* Build custom Copilot agents with tailored knowledge sources and advanced capabilities.
+* Extract insights from multiple files using specialized Analyst and Researcher agents.
 
 **Description**
 
