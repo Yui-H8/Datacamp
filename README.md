@@ -95,3 +95,8 @@ https://app.datacamp.com/learn/courses/
 * Understanding GDPR
 * Artificial Intelligence Governance
 * Responsible AI Practices
+
+---
+
+### Copilot
+* Working with Microsoft Copilot
