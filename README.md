@@ -95,6 +95,7 @@ https://app.datacamp.com/learn/courses/
 * Understanding GDPR
 * Artificial Intelligence Governance
 * Responsible AI Practices
+* Generative AI for Business
 
 ---
 
