@@ -14,3 +14,7 @@ Discover how to turn Microsoft Copilot into your everyday AI collaborator. This 
 ---
 ### A quick event invite
 You're part of the EcoGreen events team, and you need to quickly draft an event invitation email. Use Copilot with a simple, goal-only prompt to see what happens when you keep your request basic and straightforward.
+1. Welcome to Microsoft Copilot   
+You've been automatically logged into your own Copilot account   
+Make sure to close any pop-ups that may appear   
+The page should load showing a blank chat window
