@@ -18,3 +18,8 @@ You're part of the EcoGreen events team, and you need to quickly draft an event 
 You've been automatically logged into your own Copilot account   
 Make sure to close any pop-ups that may appear   
 The page should load showing a blank chat window
+```
+Hint
+Wait for the VM to finish loading. If you see any login issues, use the Can't log in? option at the bottom-right of the VM window to recover access.
+Once loaded, you should see the Copilot Chat interface ready to use.
+```
