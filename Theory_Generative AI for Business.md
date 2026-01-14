@@ -6,3 +6,7 @@ Firstly, you'll learn about generative AI and how it differs from traditional AI
 
 
 Consecutively, you'll learn how to use Generative AI to enhance workflows. You'll investigate how to use it through augmentation, co-creation, and replacement techniques. You'll discover generative AI's value to daily operations and strategic decisions. Finally, you'll dive into responsible AI and how to prepare and lead in a future with Generative AI through strategic alignment, change management and continuous improvement.
+
+---
+
+### What is generative AI?
