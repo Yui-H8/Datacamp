@@ -10,3 +10,5 @@ Consecutively, you'll learn how to use Generative AI to enhance workflows. You'l
 ---
 
 ### What is generative AI?
+**What is generative AI?**   
+This chapter introduces the fundamentals of generative AI, a powerful technology transforming how businesses create content and innovate. Understanding this will help you leverage AI to enhance your data analysis and creative projects.
