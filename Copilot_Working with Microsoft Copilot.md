@@ -26,3 +26,6 @@ Once loaded, you should see the Copilot Chat interface ready to use.
 
 2. In the Copilot prompt box, type or paste the following prompt: "Write an event invitation email."    
 Submit the prompt and observe Copilot's response.
+
+3. Review Copilot's output carefully.   
+Notice how the output is generic because we only provided a goal without context, source, or expectations.
