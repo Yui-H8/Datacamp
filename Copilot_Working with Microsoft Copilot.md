@@ -23,3 +23,6 @@ Hint
 Wait for the VM to finish loading. If you see any login issues, use the Can't log in? option at the bottom-right of the VM window to recover access.
 Once loaded, you should see the Copilot Chat interface ready to use.
 ```
+
+2. In the Copilot prompt box, type or paste the following prompt: "Write an event invitation email."    
+Submit the prompt and observe Copilot's response.
