@@ -33,3 +33,5 @@ Generative AI is an exciting new technology with the potential to revolutionize 
 
 ### The evolution of generative AI
 This lesson will deepen your understanding of how generative AI has evolved, empowering you to leverage these innovations in your projects and stay ahead in the rapidly changing AI landscape.
+
+### Key milestones
