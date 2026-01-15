@@ -21,6 +21,7 @@ In this exercise, you'll put your knowledge of generative AI to the test! You've
 Which of the following best describes generative AI?
 ```
 A type of AI that automates routine tasks and processes to increase efficiency.
-A type of AI that can generate new, original content based on input data it has seen.
+〇 A type of AI that can generate new, original content based on input data it has seen.
 A type of chatbot that uses prompts to generate responses and simulates human-like conversation.
 ```
+*Perfect! Generative AI creates new content, such as text, images, or other data types, in response to prompts. Such models have diverse applications across various industries.*
