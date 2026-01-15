@@ -14,3 +14,8 @@ Consecutively, you'll learn how to use Generative AI to enhance workflows. You'l
 This chapter introduces the fundamentals of generative AI, a powerful technology transforming how businesses create content and innovate. Understanding this will help you leverage AI to enhance your data analysis and creative projects.
 
 ### Getting to know generative AI
+You've seen a couple of examples of powerful generative AI models in action, from creating impressionist paintings to writing poetry, just like a human would.
+
+In this exercise, you'll put your knowledge of generative AI to the test! You've also been provided with an interactive playground, so you can interact with DataCamp's own version of ChatGPT, a generative AI chatbot.
+
+Which of the following best describes generative AI?
