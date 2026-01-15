@@ -19,3 +19,8 @@ You've seen a couple of examples of powerful generative AI models in action, fro
 In this exercise, you'll put your knowledge of generative AI to the test! You've also been provided with an interactive playground, so you can interact with DataCamp's own version of ChatGPT, a generative AI chatbot.
 
 Which of the following best describes generative AI?
+```
+A type of AI that automates routine tasks and processes to increase efficiency.
+A type of AI that can generate new, original content based on input data it has seen.
+A type of chatbot that uses prompts to generate responses and simulates human-like conversation.
+```
