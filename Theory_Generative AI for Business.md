@@ -48,3 +48,5 @@ Which of the following are important milestones in the Generative AI breakthroug
 
 ### Generative AI Breakthroughs
 In the previous exercise, we learned that there is another main reason for the evolution of generative AI: market competition. Let's zoom out and classify the cards into the three main reasons that led to a breakthrough in generative AI.
+
+*Nice work! You have a solid understanding of the different factors that led to the generative AI breakthrough!*
