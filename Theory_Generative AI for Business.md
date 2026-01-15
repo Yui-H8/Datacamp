@@ -39,8 +39,9 @@ You've learned about several major milestones in the evolution of generative AI,
 
 Which of the following are important milestones in the Generative AI breakthrough?
 ```
-The accumulation of large amounts of data
-The advent of cloud computing
-Market competition
-Development of new model architectures
+〇 The accumulation of large amounts of data
+〇 The advent of cloud computing
+〇 Market competition
+〇 Development of new model architectures
 ```
+*Well done!*
