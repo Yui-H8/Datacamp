@@ -25,3 +25,5 @@ A type of AI that automates routine tasks and processes to increase efficiency.
 A type of chatbot that uses prompts to generate responses and simulates human-like conversation.
 ```
 *Perfect! Generative AI creates new content, such as text, images, or other data types, in response to prompts. Such models have diverse applications across various industries.*
+
+### AI vs. Generative AI
