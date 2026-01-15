@@ -35,3 +35,6 @@ Generative AI is an exciting new technology with the potential to revolutionize 
 This lesson will deepen your understanding of how generative AI has evolved, empowering you to leverage these innovations in your projects and stay ahead in the rapidly changing AI landscape.
 
 ### Key milestones
+You've learned about several major milestones in the evolution of generative AI, leading to the amazing AI-powered consumer products you see today.
+
+Which of the following are important milestones in the Generative AI breakthrough?
