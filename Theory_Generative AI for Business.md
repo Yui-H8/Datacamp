@@ -32,3 +32,4 @@ Generative AI is an exciting new technology with the potential to revolutionize 
 *That's it! Any task that needs new content is ideal for generative AI. Tasks that require classification and prediction are more suited to traditional AI.*
 
 ### The evolution of generative AI
+This lesson will deepen your understanding of how generative AI has evolved, empowering you to leverage these innovations in your projects and stay ahead in the rapidly changing AI landscape.
