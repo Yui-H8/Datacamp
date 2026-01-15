@@ -38,3 +38,9 @@ This lesson will deepen your understanding of how generative AI has evolved, emp
 You've learned about several major milestones in the evolution of generative AI, leading to the amazing AI-powered consumer products you see today.
 
 Which of the following are important milestones in the Generative AI breakthrough?
+```
+The accumulation of large amounts of data
+The advent of cloud computing
+Market competition
+Development of new model architectures
+```
