@@ -30,3 +30,5 @@ A type of chatbot that uses prompts to generate responses and simulates human-li
 Generative AI is an exciting new technology with the potential to revolutionize business. Before we delve deep into how we could harness this potential, we must be clear on what generative AI is and how it differs from other types of AI.
 
 *That's it! Any task that needs new content is ideal for generative AI. Tasks that require classification and prediction are more suited to traditional AI.*
+
+### The evolution of generative AI
