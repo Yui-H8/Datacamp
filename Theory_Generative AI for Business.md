@@ -62,11 +62,12 @@ This chapter introduces tools that help you understand and prepare data, which i
 ### The key players
 Which of the following players were of critical importance in the recent development of generative AI?
 ```
-University spinoffs and startups
-Horizon Europe, the EU's research and innovation funding programme.
-The Berkeley Chatbot, an AI-powered chatbot created by the University of California, Berkeley
-Large tech companies such as Google with their paper on Transformers.
-Open-source models like Stable Diffusion
-Alan Turing institute
-Venture capitalist and investment firms
+〇 University spinoffs and startups
+〇 Horizon Europe, the EU's research and innovation funding programme.
+〇 The Berkeley Chatbot, an AI-powered chatbot created by the University of California, Berkeley
+〇 Large tech companies such as Google with their paper on Transformers.
+〇 Open-source models like Stable Diffusion
+〇 Alan Turing institute
+〇 Venture capitalist and investment firms
 ```
+*Excellent job! The 4 main players (Universities, Governments, Companies and open-source communities) contain a ton of smaller players in each of them!*
