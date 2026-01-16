@@ -52,3 +52,4 @@ In the previous exercise, we learned that there is another main reason for the e
 *Nice work! You have a solid understanding of the different factors that led to the generative AI breakthrough!*
 
 ### Innovations that led to Generative AI
+You learned about some of the key innovations that contributed to the development of generative AI. Each of these innovations solved a particular challenge that led to technologies like ChatGPT and Midjourney.
