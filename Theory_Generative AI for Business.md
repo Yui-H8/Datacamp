@@ -71,3 +71,5 @@ Which of the following players were of critical importance in the recent develop
 〇 Venture capitalist and investment firms
 ```
 *Excellent job! The 4 main players (Universities, Governments, Companies and open-source communities) contain a ton of smaller players in each of them!*
+
+### The open-source question
