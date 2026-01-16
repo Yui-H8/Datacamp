@@ -60,3 +60,4 @@ You learned about some of the key innovations that contributed to the developmen
 This chapter introduces tools that help you understand and prepare data, which is essential for making accurate insights and building reliable models in your role as a data analyst.
 
 ### The key players
+Which of the following players were of critical importance in the recent development of generative AI?
