@@ -61,3 +61,12 @@ This chapter introduces tools that help you understand and prepare data, which i
 
 ### The key players
 Which of the following players were of critical importance in the recent development of generative AI?
+```
+University spinoffs and startups
+Horizon Europe, the EU's research and innovation funding programme.
+The Berkeley Chatbot, an AI-powered chatbot created by the University of California, Berkeley
+Large tech companies such as Google with their paper on Transformers.
+Open-source models like Stable Diffusion
+Alan Turing institute
+Venture capitalist and investment firms
+```
