@@ -53,3 +53,4 @@ In the previous exercise, we learned that there is another main reason for the e
 
 ### Innovations that led to Generative AI
 You learned about some of the key innovations that contributed to the development of generative AI. Each of these innovations solved a particular challenge that led to technologies like ChatGPT and Midjourney.
+* Match the innovation to the generative AI challenge it solved.
