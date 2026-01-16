@@ -57,3 +57,4 @@ You learned about some of the key innovations that contributed to the developmen
 *You have a firm grasp on the innovation landscape that made generative AI possible, well done!*
 
 ### The progress of generative AI
+This chapter introduces tools that help you understand and prepare data, which is essential for making accurate insights and building reliable models in your role as a data analyst.
