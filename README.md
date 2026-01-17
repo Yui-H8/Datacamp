@@ -71,6 +71,7 @@ https://app.datacamp.com/learn/courses/
 * Understanding Prompt Engineering
 * Intermediate ChatGPT
 * Introduction to AI for Work
+* Practical AI with Google Gemini and NotebookLM
 
 ---
 
