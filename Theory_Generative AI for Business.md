@@ -93,3 +93,4 @@ The benefits of AICamp going open source with their breakthrough model can be sp
 * Both: Benefiting both the company open-sourcing the research and the wider community
 
 ### Accelerators vs. decelerators
+To understand the true implications of generative AI on the future of business, we must understand the factors that will promote and impede the development of generative AI itself.
