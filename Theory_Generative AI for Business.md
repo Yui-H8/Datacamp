@@ -84,3 +84,5 @@ It will increase the company's stock price, because investors will be impressed 
 Correct ethical use of the model.
 ```
 *Great work, you have a keen understanding of the pros and cons of open-source publishing.*
+
+### Open-source advantages are widespread
