@@ -94,3 +94,4 @@ The benefits of AICamp going open source with their breakthrough model can be sp
 
 ### Accelerators vs. decelerators
 To understand the true implications of generative AI on the future of business, we must understand the factors that will promote and impede the development of generative AI itself.
+*The interplay between the accelerating and decelerating factors of generative AI development will dictate how businesses will use it in the coming decades. Great job nailing down those factors!*
