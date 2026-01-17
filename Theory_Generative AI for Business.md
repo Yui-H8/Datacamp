@@ -88,6 +88,6 @@ Correct ethical use of the model.
 ### Open-source advantages are widespread
 The benefits of AICamp going open source with their breakthrough model can be split in three buckets:
 
-AICamp: benefits for the company open-sourcing the research
-The community (not including AICamp) gets benefit that are specific to AICamp open sourcing their research, first and foremost the ability to interact with the technology.
-Both: Benefiting both the company open-sourcing the research and the wider community
+* AICamp: benefits for the company open-sourcing the research
+* The community (not including AICamp) gets benefit that are specific to AICamp open sourcing their research, first and  foremost the ability to interact with the technology.
+* Both: Benefiting both the company open-sourcing the research and the wider community
