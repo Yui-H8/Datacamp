@@ -76,3 +76,8 @@ Which of the following players were of critical importance in the recent develop
 You are a VP at a software development firm "AICamp". You have taken the lead at your company on the implementation of generative AI in daily operations. Your AI team has trained, iterated and improved a generative AI model that helps them write code. The leadership team is now weighing whether to release this model as open-source.
 
 What are some of the benefits of going open-source?
+```
+
+
+```
+*Great work, you have a keen understanding of the pros and cons of open-source publishing.*
