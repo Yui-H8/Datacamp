@@ -77,7 +77,10 @@ You are a VP at a software development firm "AICamp". You have taken the lead at
 
 What are some of the benefits of going open-source?
 ```
-
-
+〇 A large number of developers can test the model and report errors.
+〇 The publicity achieved by  releasing the model can attract talent.
+〇 It could establish AICamp as a thought leader in the AI community.
+It will increase the company's stock price, because investors will be impressed at the company's achievement.
+Correct ethical use of the model.
 ```
 *Great work, you have a keen understanding of the pros and cons of open-source publishing.*
