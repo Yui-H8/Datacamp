@@ -18,6 +18,7 @@ What makes Gemini a "partner" rather than just a search tool?
 ```
 Gemini has access to more websites and can find obscure information faster than traditional search engines.
 Gemini remembers your previous searches and personalizes results based on your history.
-Gemini can analyze information, write content, and reason through complex problems—not just retrieve existing answers.
+〇 Gemini can analyze information, write content, and reason through complex problems—not just retrieve existing answers.
 Gemini uses voice input, making it more convenient than typing search queries.
 ```
+*Exactly! Unlike search, Gemini can synthesize information, create new content, and help you reason through problems—making it a true collaborator.*
