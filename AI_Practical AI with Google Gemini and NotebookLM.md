@@ -6,3 +6,7 @@ Master Google's AI tools to transform how you work. This course teaches you to u
 
 
 Then integrate Gemini into your daily workflow: summarize email threads in Gmail, overcome blank-page syndrome in Docs, search across Drive files with natural language, and analyze spreadsheet data in Sheets.
+
+---
+
+### Gemini as a partner
