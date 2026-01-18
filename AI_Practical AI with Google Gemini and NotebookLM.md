@@ -24,3 +24,6 @@ Gemini uses voice input, making it more convenient than typing search queries.
 *Exactly! Unlike search, Gemini can synthesize information, create new content, and help you reason through problems—making it a true collaborator.*
 
 ### Smart delegation to Gemini
+Maya's manager explains that the key to using Gemini effectively is smart delegation: knowing which tasks to automate with Gemini (full delegation), and which ones to augment with Gemini (partial delegation that requires human judgment).
+
+Help Maya understand how to approach different tasks by classifying them correctly.
