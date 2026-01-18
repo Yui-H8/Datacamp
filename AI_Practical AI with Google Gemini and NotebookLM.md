@@ -29,3 +29,5 @@ Maya's manager explains that the key to using Gemini effectively is smart delega
 Help Maya understand how to approach different tasks by classifying them correctly.
 
 *Great job! You've helped Maya understand smart delegation. Repetitive tasks can be automated, but high-value work needs your expertise with AI as a collaborator.*
+
+### Your first prompt
