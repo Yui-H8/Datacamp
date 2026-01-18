@@ -27,3 +27,5 @@ Gemini uses voice input, making it more convenient than typing search queries.
 Maya's manager explains that the key to using Gemini effectively is smart delegation: knowing which tasks to automate with Gemini (full delegation), and which ones to augment with Gemini (partial delegation that requires human judgment).
 
 Help Maya understand how to approach different tasks by classifying them correctly.
+
+*Great job! You've helped Maya understand smart delegation. Repetitive tasks can be automated, but high-value work needs your expertise with AI as a collaborator.*
