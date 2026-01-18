@@ -31,3 +31,8 @@ Help Maya understand how to approach different tasks by classifying them correct
 *Great job! You've helped Maya understand smart delegation. Repetitive tasks can be automated, but high-value work needs your expertise with AI as a collaborator.*
 
 ### Your first prompt
+Maya has learned that Gemini is a creative partner. Now it's time to put that into practice!
+
+Imagine you're Maya, and you want to make a great impression in your first week. You need to send a brief email introducing yourself to your new team, but you're not sure how to strike the right tone.
+
+This is exactly the kind of task where Gemini can help: drafting professional content quickly.
