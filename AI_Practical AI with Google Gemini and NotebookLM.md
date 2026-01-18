@@ -10,3 +10,8 @@ Then integrate Gemini into your daily workflow: summarize email threads in Gmail
 ---
 
 ### Gemini as a partner
+Maya just started as a marketing coordinator at a growing tech company called FlowTech. Her manager mentions that the team uses Gemini to boost productivity. Maya has used search engines before, but she's not sure how Gemini is different.
+
+Her manager explains: "Think of Gemini as a creative and productive partner, not just a smarter search engine."
+
+What makes Gemini a "partner" rather than just a search tool?
