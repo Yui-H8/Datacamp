@@ -38,3 +38,14 @@ Imagine you're Maya, and you want to make a great impression in your first week.
 This is exactly the kind of task where Gemini can help: drafting professional content quickly.
 * Ask Gemini to help you write a self-introduction email to your new team. You can add relevant details like your name and role.
 * Keep your prompt simple—just tell Gemini what you need.
+```
+Prease write self-introduction email to my new team including name and role. My name is Maya, a marketing coordinator at a growing tech company called FlowTech.
+---
+Subject: Hello from Your New Marketing Coordinator!
+
+Hi Team,
+
+My name is Maya, and I'm thrilled to be joining FlowTech as the new Marketing Coordinator. I'm looking forward to working with all of you!
+
+Best, Maya
+```
