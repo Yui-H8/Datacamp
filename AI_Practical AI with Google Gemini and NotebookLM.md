@@ -49,3 +49,12 @@ My name is Maya, and I'm thrilled to be joining FlowTech as the new Marketing Co
 
 Best, Maya
 ```
+Answer:
+```
+Well done!
++100XP
+
+Great Start! You clearly specified the task and provided relevant context about your new role and team. For even better results, consider mentioning the desired tone or any specific details you'd like to include. Your clarity is a strong point!
+
+Nice work! You just used Gemini to draft professional content in seconds.
+```
