@@ -65,3 +65,5 @@ Imagine you've just joined FlowTech, and your manager asks you to announce the l
 You've already learned that AI output quality depends on the quality of the context you provide and the clarity of your instructions. Now, you'll put that into practice.
 
 You'll ask Gemini to write a LinkedIn post announcing the launch of FlowTrack, a productivity app for remote team managers. To get the best results, you'll need to include key details as described in the instructions.
+* Ask Gemini to write a LinkedIn post announcing the launch of FlowTrack, a productivity app.
+* Include details about the tone of the post (warm and friendly), the audience (remote team managers), the product's benefits (helps teams stay aligned with shared task views and smart reminders), the timing (launching next week), and a call to action.
