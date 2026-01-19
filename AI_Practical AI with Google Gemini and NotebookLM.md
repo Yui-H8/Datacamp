@@ -77,3 +77,8 @@ You'll ask Gemini to write a LinkedIn post announcing the launch of FlowTrack, a
 In the previous exercise, you saw how adding context makes Gemini's output more useful. Now, you'll take it one step further by using a more structured prompt.
 
 Imagine now your manager asks you to announce a new internal sustainability initiative called GreenFuture. You decide to pair with Gemini to write the internal memo. You'll use a structured prompt format with three key parts:
+* Role: Who Gemini should act as.
+* Context: What Gemini needs to know to do the task well.
+* Task: What you want Gemini to produce.
+
+This structure helps you give Gemini everything it needs to respond accurately, clearly, and in the right tone.
