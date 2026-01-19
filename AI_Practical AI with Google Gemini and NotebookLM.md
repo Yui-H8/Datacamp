@@ -82,3 +82,5 @@ Imagine now your manager asks you to announce a new internal sustainability init
 * Task: What you want Gemini to produce.
 
 This structure helps you give Gemini everything it needs to respond accurately, clearly, and in the right tone.
+* Write a structured prompt for Gemini to draft an internal memo announcing FlowTech’s sustainability initiative, GreenFuture.
+* Be sure to include: Gemini's role (marketing manager at a tech company), the audience (FlowTech's employees), the initiative (GreenFuture), the goal (reduce packaging waste by 40%), the task (write a concise internal memo inviting employees to share ideas), and the tone (professional and optimistic).
