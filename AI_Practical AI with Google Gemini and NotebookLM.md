@@ -67,3 +67,6 @@ You've already learned that AI output quality depends on the quality of the cont
 You'll ask Gemini to write a LinkedIn post announcing the launch of FlowTrack, a productivity app for remote team managers. To get the best results, you'll need to include key details as described in the instructions.
 * Ask Gemini to write a LinkedIn post announcing the launch of FlowTrack, a productivity app.
 * Include details about the tone of the post (warm and friendly), the audience (remote team managers), the product's benefits (helps teams stay aligned with shared task views and smart reminders), the timing (launching next week), and a call to action.
+
+> Write a professional LinkedIn post announcing the launch of FlowTrack, a new productivity app for remote team managers. Highlight how it helps teams stay aligned with shared task views and smart reminders. Keep the tone upbeat and mention that it’s launching next week. End with a clear call to action inviting readers to join the waitlist.
+
