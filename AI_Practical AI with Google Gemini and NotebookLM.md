@@ -70,3 +70,6 @@ You'll ask Gemini to write a LinkedIn post announcing the launch of FlowTrack, a
 
 > Write a professional LinkedIn post announcing the launch of FlowTrack, a new productivity app for remote team managers. Highlight how it helps teams stay aligned with shared task views and smart reminders. Keep the tone upbeat and mention that it’s launching next week. End with a clear call to action inviting readers to join the waitlist.
 
+```
+🚀 Exciting news! We're thrilled to introduce FlowTrack, the productivity app built for remote team managers who want to keep their teams aligned and motivated. With shared task views, smart reminders, and seamless collaboration, FlowTrack helps you bring structure and clarity to every project. Launching next week — join the waitlist today and be the first to experience a new way to stay on track!
+```
