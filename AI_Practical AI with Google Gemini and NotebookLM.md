@@ -74,3 +74,6 @@ You'll ask Gemini to write a LinkedIn post announcing the launch of FlowTrack, a
 🚀 Exciting news! We're thrilled to introduce FlowTrack, the productivity app built for remote team managers who want to keep their teams aligned and motivated. With shared task views, smart reminders, and seamless collaboration, FlowTrack helps you bring structure and clarity to every project. Launching next week — join the waitlist today and be the first to experience a new way to stay on track!
 ```
 ### Writing a structured prompt
+In the previous exercise, you saw how adding context makes Gemini's output more useful. Now, you'll take it one step further by using a more structured prompt.
+
+Imagine now your manager asks you to announce a new internal sustainability initiative called GreenFuture. You decide to pair with Gemini to write the internal memo. You'll use a structured prompt format with three key parts:
