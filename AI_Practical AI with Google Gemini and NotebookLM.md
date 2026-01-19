@@ -60,3 +60,8 @@ Nice work! You just used Gemini to draft professional content in seconds.
 ```
 ---
 ### The power of context
+Imagine you've just joined FlowTech, and your manager asks you to announce the launch of their new product, FlowTrack.
+
+You've already learned that AI output quality depends on the quality of the context you provide and the clarity of your instructions. Now, you'll put that into practice.
+
+You'll ask Gemini to write a LinkedIn post announcing the launch of FlowTrack, a productivity app for remote team managers. To get the best results, you'll need to include key details as described in the instructions.
