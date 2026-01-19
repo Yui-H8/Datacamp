@@ -58,3 +58,5 @@ Great Start! You clearly specified the task and provided relevant context about 
 
 Nice work! You just used Gemini to draft professional content in seconds.
 ```
+---
+### The power of context
