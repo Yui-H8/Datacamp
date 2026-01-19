@@ -73,3 +73,4 @@ You'll ask Gemini to write a LinkedIn post announcing the launch of FlowTrack, a
 ```
 🚀 Exciting news! We're thrilled to introduce FlowTrack, the productivity app built for remote team managers who want to keep their teams aligned and motivated. With shared task views, smart reminders, and seamless collaboration, FlowTrack helps you bring structure and clarity to every project. Launching next week — join the waitlist today and be the first to experience a new way to stay on track!
 ```
+### Writing a structured prompt
