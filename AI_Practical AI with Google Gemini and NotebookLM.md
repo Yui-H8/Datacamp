@@ -85,3 +85,21 @@ This structure helps you give Gemini everything it needs to respond accurately, 
 * Write a structured prompt for Gemini to draft an internal memo announcing FlowTech’s sustainability initiative, GreenFuture.
 * Be sure to include: Gemini's role (marketing manager at a tech company), the audience (FlowTech's employees), the initiative (GreenFuture), the goal (reduce packaging waste by 40%), the task (write a concise internal memo inviting employees to share ideas), and the tone (professional and optimistic).
 > You are a marketing manager at a tech company. Write a concise internal memo inviting employees to share ideas with professional and optimistic tone. To send FlowTech’s employees sustainability initiative, GreenFuture. Our goal is that reduce packaging waste by 40%.
+```
+Subject: Join FlowTech's GreenFuture Initiative!
+
+Hi Team,
+
+Exciting news! We're launching GreenFuture, a sustainability initiative to reduce packaging waste by 40%. We're inviting all employees to share innovative ideas to help us achieve this ambitious goal. Your input is crucial to our success.
+
+Let's build a greener future together!
+
+Best,
+
+[Your Name] Marketing Manager
+---
+83/100
+Well done!
+
+Great Start, But Add Structure! You clearly specify the audience and provide strong context, especially about the initiative and its goal. However, the prompt lacks a fully structured format with explicit role, context, and task sections. Nice job on clarity and tone guidance!
+```
