@@ -110,3 +110,4 @@ Your colleague Maya loved the FlowTrack LinkedIn post you and Gemini wrote! Now 
 Maya opens Gemini and types her first prompt, along with the Canvas option checked. The output is decent, but the milestones feel generic and the timeline is unrealistic. Instead of starting over, Maya decides to iterate directly in Canvas.
 
 Help Maya understand the iterative workflow that makes Canvas so powerful.
+* Arrange the steps to show how Maya iterates on her work in Gemini Canvas.
