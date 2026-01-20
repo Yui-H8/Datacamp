@@ -111,5 +111,7 @@ Maya opens Gemini and types her first prompt, along with the Canvas option check
 
 Help Maya understand the iterative workflow that makes Canvas so powerful.
 * Arrange the steps to show how Maya iterates on her work in Gemini Canvas.
-* 
+ 
 *Perfect! You've mastered the Canvas workflow: prompt, review, identify, refine, repeat. This iterative approach is how you turn a "decent" first draft into something genuinely useful.*
+
+### Refining with Canvas
