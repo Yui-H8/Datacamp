@@ -120,3 +120,9 @@ Maya's conference project plan is taking shape, but her manager flags that the "
 She's still learning the Canvas interface and isn't sure which option will give her the best collaborative feedback.
 
 What should Maya do in Gemini Canvas to have Gemini review her draft and suggest meaningful improvements?
+```
+Ask Gemini in the chat sidebar to "suggest improvements" while keeping Canvas open.
+Use the Suggest Edits option so Gemini can review the document and add inline comments for improvement.
+Highlight the vague section and delete it, then ask Gemini to write a new version from scratch.
+Close Canvas and start a new conversation with a more detailed prompt.
+```
