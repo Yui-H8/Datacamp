@@ -105,3 +105,8 @@ Great Start, But Add Structure! You clearly specify the audience and provide str
 ```
 
 ### The Canvas workflow
+Your colleague Maya loved the FlowTrack LinkedIn post you and Gemini wrote! Now she wants to create a project plan for the company's upcoming client conference using Gemini Canvas.
+
+Maya opens Gemini and types her first prompt, along with the Canvas option checked. The output is decent, but the milestones feel generic and the timeline is unrealistic. Instead of starting over, Maya decides to iterate directly in Canvas.
+
+Help Maya understand the iterative workflow that makes Canvas so powerful.
