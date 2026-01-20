@@ -115,3 +115,8 @@ Help Maya understand the iterative workflow that makes Canvas so powerful.
 *Perfect! You've mastered the Canvas workflow: prompt, review, identify, refine, repeat. This iterative approach is how you turn a "decent" first draft into something genuinely useful.*
 
 ### Refining with Canvas
+Maya's conference project plan is taking shape, but her manager flags that the "stakeholder communication" section feels vague. Maya wants Gemini to analyze that specific section and suggest improvements, without losing the rest of her work.
+
+She's still learning the Canvas interface and isn't sure which option will give her the best collaborative feedback.
+
+What should Maya do in Gemini Canvas to have Gemini review her draft and suggest meaningful improvements?
