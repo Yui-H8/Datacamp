@@ -6,3 +6,4 @@ What is data science and how can you use it to strengthen your organization? Thi
 
 ---
 ### Customer Segmentation Workflow
+Stephanie manages a data science team at a subscription dog food company. Her team has been asked to investigate customer churn.
