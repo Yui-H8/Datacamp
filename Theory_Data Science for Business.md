@@ -16,3 +16,5 @@ Ritesh and his data team are working on a customer service chatbot. They will us
 * Classify each action that Ritesh's team will take as either Data Collection, Exploration and Visualization, or Experimentation and Prediction.
 
 *Great job! Ritesh's team should start by gathering customer information and timestamps for each transcript. They should then visualize the number of conversations and understand when they happen each day. Finally, they can classify each question and predict a possible response using a Markov model.*
+
+### Improving OKRs
