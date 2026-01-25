@@ -12,3 +12,4 @@ Stephanie manages a data science team at a subscription dog food company. Her te
 *Well done! You've organized these tasks according to the data science workflow: data collection comes first, followed by exploration and visualization, then experimentation and prediction.*
 
 ### Building a customer service chatbot
+Ritesh and his data team are working on a customer service chatbot. They will use transcripts from over 300,000 customer service interactions to train a chatbot to answer customer questions.
