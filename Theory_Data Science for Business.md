@@ -29,3 +29,6 @@ Collect data on which users are most active on the website.
 Create a dashboard with a histogram showing the number of users with different levels of engagement.
 ```
 *Yes, training a linear regression is an example of “Predicting and Experimenting with Data”.*
+
+---
+### Assigning data science projects
