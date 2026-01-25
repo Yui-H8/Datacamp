@@ -24,10 +24,8 @@ Justina's company creates OKRs every quarter to set goals and track progress. He
 
 Which of the following Key Results would be an example of "Predicting and Experimenting with Data", the third step in the data science workflow?
 ```
-
-Use a linear regression to estimate a user's Net Promoter Score (NPS) based on their previous purchases, social media interactions, and cohort.
-
+〇 Use a linear regression to estimate a user's Net Promoter Score (NPS) based on their previous purchases, social media interactions, and cohort.
 Collect data on which users are most active on the website.
-
 Create a dashboard with a histogram showing the number of users with different levels of engagement.
 ```
+*Yes, training a linear regression is an example of “Predicting and Experimenting with Data”.*
