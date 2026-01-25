@@ -14,3 +14,5 @@ Stephanie manages a data science team at a subscription dog food company. Her te
 ### Building a customer service chatbot
 Ritesh and his data team are working on a customer service chatbot. They will use transcripts from over 300,000 customer service interactions to train a chatbot to answer customer questions.
 * Classify each action that Ritesh's team will take as either Data Collection, Exploration and Visualization, or Experimentation and Prediction.
+
+*Great job! Ritesh's team should start by gathering customer information and timestamps for each transcript. They should then visualize the number of conversations and understand when they happen each day. Finally, they can classify each question and predict a possible response using a Markov model.*
