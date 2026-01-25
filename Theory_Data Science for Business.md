@@ -23,3 +23,11 @@ OKR stands for Objective/Key Result. An Objective is a goal, and a Key Result is
 Justina's company creates OKRs every quarter to set goals and track progress. Her team put together the Data Science OKRs slide on the right. She completed the first two OKRs, but is still working on OKR 3. She wants to select a Key Result for OKR 3 from the list below.
 
 Which of the following Key Results would be an example of "Predicting and Experimenting with Data", the third step in the data science workflow?
+```
+
+Use a linear regression to estimate a user's Net Promoter Score (NPS) based on their previous purchases, social media interactions, and cohort.
+
+Collect data on which users are most active on the website.
+
+Create a dashboard with a histogram showing the number of users with different levels of engagement.
+```
