@@ -56,3 +56,8 @@ Natural language processing
 
 ### Interpreting a team sprint
 Jake is helping organize his team's sprint planning. Sprint planning is when a technical team plans which tasks they will focus on in the coming week. Based on the tasks listed in the sprint planning board, which model of team is Jake working with?
+```
+Hybrid
+Embedded
+Isolated
+```
