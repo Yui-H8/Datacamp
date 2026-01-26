@@ -39,4 +39,5 @@ Laura manages three teams, each with a different specialty:
   
 Laura has a several tasks that she's hoping to achieve this quarter. To get started, she needs to assign each task to the appropriate team.
 * Match each task to the team that is best suited to complete it.
- 
+
+*Great job! Text summary and image classification are generally deep learning problems. Anything involving a physical device is probably an IoT problem. All other problems can probably be solved by traditional machine learning.*
