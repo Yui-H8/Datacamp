@@ -55,3 +55,4 @@ Natural language processing
 *Correct! A vibration sensing device is an example of the Internet of Things, also known as IoT.*
 
 ### Interpreting a team sprint
+Jake is helping organize his team's sprint planning. Sprint planning is when a technical team plans which tasks they will focus on in the coming week. Based on the tasks listed in the sprint planning board, which model of team is Jake working with?
