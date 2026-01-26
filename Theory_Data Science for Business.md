@@ -57,7 +57,8 @@ Natural language processing
 ### Interpreting a team sprint
 Jake is helping organize his team's sprint planning. Sprint planning is when a technical team plans which tasks they will focus on in the coming week. Based on the tasks listed in the sprint planning board, which model of team is Jake working with?
 ```
-Hybrid
+〇 Hybrid
 Embedded
 Isolated
 ```
+*Yes, this team is a hybrid model! Notice how some of these tasks involve design, Javascript, or C++. This means that the team contains non-data members. Also notice that they need to coordinate with a “central data team”. This suggests a hybrid model.*
