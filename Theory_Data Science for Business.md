@@ -43,3 +43,7 @@ Laura has a several tasks that she's hoping to achieve this quarter. To get star
 *Great job! Text summary and image classification are generally deep learning problems. Anything involving a physical device is probably an IoT problem. All other problems can probably be solved by traditional machine learning.*
 
 ### Investment research
+Greg is an investment analyst. He's been asked to review a new start-up that uses easy-to-install vibration sensors to measure the amount of traffic on a bridge or highway.
+
+His boss has asked him to do some background research and decide what category this start-up belongs in.
+
