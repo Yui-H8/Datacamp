@@ -35,7 +35,8 @@ Create a dashboard with a histogram showing the number of users with different l
 Laura manages three teams, each with a different specialty:
 * Traditional Machine Learning
 * Internet of Things
-* Deep Learning   
+* Deep Learning
+  
 Laura has a several tasks that she's hoping to achieve this quarter. To get started, she needs to assign each task to the appropriate team.
 * Match each task to the team that is best suited to complete it.
-* 
+ 
