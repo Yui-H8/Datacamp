@@ -46,4 +46,9 @@ Laura has a several tasks that she's hoping to achieve this quarter. To get star
 Greg is an investment analyst. He's been asked to review a new start-up that uses easy-to-install vibration sensors to measure the amount of traffic on a bridge or highway.
 
 His boss has asked him to do some background research and decide what category this start-up belongs in.
-
+```
+Traditional machine learning
+Deep learning
+Internet of things
+Natural language processing
+```
