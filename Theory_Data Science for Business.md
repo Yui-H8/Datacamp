@@ -49,6 +49,7 @@ His boss has asked him to do some background research and decide what category t
 ```
 Traditional machine learning
 Deep learning
-Internet of things
+〇 Internet of things
 Natural language processing
 ```
+*Correct! A vibration sensing device is an example of the Internet of Things, also known as IoT.*
