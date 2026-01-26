@@ -53,3 +53,5 @@ Deep learning
 Natural language processing
 ```
 *Correct! A vibration sensing device is an example of the Internet of Things, also known as IoT.*
+
+### Interpreting a team sprint
