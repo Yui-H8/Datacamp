@@ -75,3 +75,4 @@ Basic proficiency in either Java, Scala, or Python for database operations
 *Yes, spreadsheet tools are important for data analysts. They allow analysts to quickly analyze data and share their results with less data-savvy coworkers.*
 
 ### Matching skills to jobs
+Johan manages a Data Science team, and is looking to post some new job listings for a Data Engineer and a Machine Learning Scientist. Help Johan decide which skill requirements belong with each job.
