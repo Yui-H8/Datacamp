@@ -73,3 +73,5 @@ Some experience with Deep Learning and neural nets
 Basic proficiency in either Java, Scala, or Python for database operations
 ```
 *Yes, spreadsheet tools are important for data analysts. They allow analysts to quickly analyze data and share their results with less data-savvy coworkers.*
+
+### Matching skills to jobs
