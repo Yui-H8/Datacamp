@@ -64,3 +64,6 @@ Isolated
 *Yes, this team is a hybrid model! Notice how some of these tasks involve design, Javascript, or C++. This means that the team contains non-data members. Also notice that they need to coordinate with a “central data team”. This suggests a hybrid model.*
 
 ### Editing a job posting
+Quyen is looking to expand her team by hiring a Data Analyst. This analyst will be performing ad hoc analyses and building dashboards to track company-wide goals.
+
+Quyen is working on a job description for a job board. She's almost done writing the Basic Qualifications section. Which of the following should she add?
