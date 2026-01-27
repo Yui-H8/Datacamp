@@ -62,3 +62,5 @@ Embedded
 Isolated
 ```
 *Yes, this team is a hybrid model! Notice how some of these tasks involve design, Javascript, or C++. This means that the team contains non-data members. Also notice that they need to coordinate with a “central data team”. This suggests a hybrid model.*
+
+### Editing a job posting
