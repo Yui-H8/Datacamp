@@ -81,3 +81,4 @@ Johan manages a Data Science team, and is looking to post some new job listings 
 *Great job! Data engineers need to know SQL and Java. Although data engineers also need to know Python, they use it for data cleaning, not for prediction and modeling.*
 
 ### Classifying data tasks
+Alma is leading sprint planning this week. Sprint planning is when a technical team assigns tasks for the coming week and sets priorities. Alma's team is composed of a Data Engineer, a Data Analyst, and a Machine Learning Scientist.
