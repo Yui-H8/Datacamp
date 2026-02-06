@@ -72,6 +72,7 @@ https://app.datacamp.com/learn/courses/
 * Intermediate ChatGPT
 * Introduction to AI for Work
 * Practical AI with Google Gemini and NotebookLM
+* Working with Microsoft Copilot
 
 ---
 
