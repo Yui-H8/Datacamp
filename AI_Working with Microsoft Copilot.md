@@ -12,3 +12,7 @@ You're part of the EcoGreen events team, and you need to quickly draft an event 
 * You've been automatically logged into your own Copilot account
 * Make sure to close any pop-ups that may appear
 * The page should load showing a blank chat window
+
+---
+
+Platform doesn't work.
