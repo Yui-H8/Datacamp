@@ -6,3 +6,4 @@ Discover how to turn Microsoft Copilot into your everyday AI collaborator. This 
 
 ---
 ### A quick event invite
+1. Welcome to Microsoft Copilot
