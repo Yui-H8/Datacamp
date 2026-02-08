@@ -11,3 +11,5 @@ You've just joined the finance team at HarborView Capital, a growing investment 
 As part of your onboarding, your manager has asked you to explore how generative AI tools, like Microsoft Copilot, could enhance the team's day-to-day work.
 
 Your task is to identify practical ways generative AI might support financial analysis, risk management, and operational efficiency. This research will form the foundation of a short presentation to your team later this week.
+
+1．Welcome to Microsoft Copilot
