@@ -13,3 +13,4 @@ As part of your onboarding, your manager has asked you to explore how generative
 Your task is to identify practical ways generative AI might support financial analysis, risk management, and operational efficiency. This research will form the foundation of a short presentation to your team later this week.
 
 1．Welcome to Microsoft Copilot
+---
