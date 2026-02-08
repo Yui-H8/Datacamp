@@ -14,3 +14,5 @@ Your task is to identify practical ways generative AI might support financial an
 
 1．Welcome to Microsoft Copilot
 ---
+
+Platform doesn't work.
