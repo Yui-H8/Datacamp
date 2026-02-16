@@ -29,3 +29,8 @@ U.S. Executive Order on AI
 China's Algorithm Guidelines
 ```
 *You nailed it! Fun fact: The EU AI Act is the first comprehensive legal framework on AI — it even bans social scoring AI systems!*
+
+### Governance requirements by risk
+Sort the following governance requirements into the correct risk categories.
+* Drag each requirement to the correct risk category.
+* High-risk AI typically faces stricter governance requirements.
