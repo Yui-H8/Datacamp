@@ -23,3 +23,9 @@ Documented risk classification and human oversight procedures
 
 ### High-risk AI in healthcare
 A healthcare startup uses AI to assist in diagnosing rare diseases. Based on global regulatory trends, which framework is most likely to classify this system as "high risk"?
+```
+〇 EU AI Act
+U.S. Executive Order on AI
+China's Algorithm Guidelines
+```
+*You nailed it! Fun fact: The EU AI Act is the first comprehensive legal framework on AI — it even bans social scoring AI systems!*
