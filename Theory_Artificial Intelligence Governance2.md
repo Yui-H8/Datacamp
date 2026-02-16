@@ -19,3 +19,5 @@ A software license agreement with developers
 User interface testing for accessibility
 Documented risk classification and human oversight procedures
 ```
+*That's right! Documentation and oversight are key legal requirement - good job!*
+
