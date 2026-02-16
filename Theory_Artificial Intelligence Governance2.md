@@ -5,7 +5,8 @@
 A company is deploying an AI system that provides loan approval recommendations. Based on current global trends, which type of regulation is most likely to apply?
 ```
 Consumer technology standards focused on app performance
-Risk-based governance requirements due to potential impact on individuals
+〇 Risk-based governance requirements due to potential impact on individuals
 Only voluntary ethical guidelines
 Data retention policies unrelated to model outputs
 ```
+*Excellent! Systems affecting life opportunities are usually high-risk under most frameworks.*
