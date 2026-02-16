@@ -34,3 +34,9 @@ China's Algorithm Guidelines
 Sort the following governance requirements into the correct risk categories.
 * Drag each requirement to the correct risk category.
 * High-risk AI typically faces stricter governance requirements.
+
+*Great classification! Did you know? The concept of "risk tiers" in AI governance is inspired by medical device regulation frameworks.*
+
+### Credit scoring: compliance order
+A bank in the EU is deploying a credit scoring AI. Place the required governance steps in the correct order.
+* Drag and arrange the compliance steps in their correct chronological order.
