@@ -13,3 +13,9 @@ Data retention policies unrelated to model outputs
 
 ### Core elements of high-risk AI regulation
 Which of the following is most commonly required by law when deploying a high-risk AI system?
+```
+A public press release about the AI system
+A software license agreement with developers
+User interface testing for accessibility
+Documented risk classification and human oversight procedures
+```
