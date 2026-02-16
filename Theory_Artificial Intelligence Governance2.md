@@ -21,3 +21,5 @@ Documented risk classification and human oversight procedures
 ```
 *That's right! Documentation and oversight are key legal requirement - good job!*
 
+### High-risk AI in healthcare
+A healthcare startup uses AI to assist in diagnosing rare diseases. Based on global regulatory trends, which framework is most likely to classify this system as "high risk"?
