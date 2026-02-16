@@ -40,3 +40,5 @@ Sort the following governance requirements into the correct risk categories.
 ### Credit scoring: compliance order
 A bank in the EU is deploying a credit scoring AI. Place the required governance steps in the correct order.
 * Drag and arrange the compliance steps in their correct chronological order.
+
+*Excellent work! Bonus insight: Registration of high-risk systems under the EU AI Act will eventually feed into a public EU database for transparency.*
