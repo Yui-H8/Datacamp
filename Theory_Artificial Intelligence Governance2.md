@@ -10,3 +10,6 @@ Only voluntary ethical guidelines
 Data retention policies unrelated to model outputs
 ```
 *Excellent! Systems affecting life opportunities are usually high-risk under most frameworks.*
+
+### Core elements of high-risk AI regulation
+Which of the following is most commonly required by law when deploying a high-risk AI system?
