@@ -47,8 +47,9 @@ A bank in the EU is deploying a credit scoring AI. Place the required governance
 ### In-game governance
 A gaming company deploys an AI to suggest in-game purchases. What governance approach is most likely?
 ```
-Self-regulation with voluntary standards
+〇 Self-regulation with voluntary standards
 Strict government oversight
 Conformity assessment by law
 Mandatory EU registration
 ```
+*Spot on! Consumer tech is mostly self-regulated — for now. Fun fact: Some game companies have started publishing their own AI ethics guidelines!*
