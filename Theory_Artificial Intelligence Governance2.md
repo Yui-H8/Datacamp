@@ -53,3 +53,7 @@ Conformity assessment by law
 Mandatory EU registration
 ```
 *Spot on! Consumer tech is mostly self-regulated — for now. Fun fact: Some game companies have started publishing their own AI ethics guidelines!*
+
+### Voluntary standards: match the framework
+Match each voluntary AI governance standard to its primary characteristic or goal.
+* Drag each standard to the correct description.
