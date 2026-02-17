@@ -42,3 +42,13 @@ A bank in the EU is deploying a credit scoring AI. Place the required governance
 * Drag and arrange the compliance steps in their correct chronological order.
 
 *Excellent work! Bonus insight: Registration of high-risk systems under the EU AI Act will eventually feed into a public EU database for transparency.*
+
+---
+### In-game governance
+A gaming company deploys an AI to suggest in-game purchases. What governance approach is most likely?
+```
+Self-regulation with voluntary standards
+Strict government oversight
+Conformity assessment by law
+Mandatory EU registration
+```
