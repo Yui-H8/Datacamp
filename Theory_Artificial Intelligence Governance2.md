@@ -102,3 +102,8 @@ Providing a product discount
 Sort the following AI systems into risk categories under the EU AI Act.
 
 *Well sorted! Risk tiering helps regulators focus attention where it’s most needed. However, even low-risk tools may require transparency statements.*
+
+### AI compliance in practice
+Arrange the compliance actions taken by a telecom company building a high-risk AI system for fraud detection.
+
+*Great timeline! Bonus fact: companies deploying high-risk AI in the EU must log their conformity results for future auditability.*
