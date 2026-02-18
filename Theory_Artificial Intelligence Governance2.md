@@ -57,3 +57,5 @@ Mandatory EU registration
 ### Voluntary standards: match the framework
 Match each voluntary AI governance standard to its primary characteristic or goal.
 * Drag each standard to the correct description.
+
+### Voluntary standards: match the framework
