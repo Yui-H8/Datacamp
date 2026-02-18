@@ -117,3 +117,12 @@ Logging system performance over time
 Submitting audit documentation to regulators
 ```
 *Correct — model cards communicate details like intended use and limitations.*
+
+### Governance artifacts
+Which of the following governance artifacts help ensure accountability and traceability in AI systems?
+```
+Impact assessment
+Model card
+Audit log
+UI wireframe
+```
