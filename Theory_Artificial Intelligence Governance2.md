@@ -97,3 +97,8 @@ Providing a product discount
 〇 Enabling human oversight
 ```
 *Nice work! Conformity assessments may be internal or done by a third-party, depending on the regulation.*
+
+### Risk classification
+Sort the following AI systems into risk categories under the EU AI Act.
+
+*Well sorted! Risk tiering helps regulators focus attention where it’s most needed. However, even low-risk tools may require transparency statements.*
