@@ -121,8 +121,9 @@ Submitting audit documentation to regulators
 ### Governance artifacts
 Which of the following governance artifacts help ensure accountability and traceability in AI systems?
 ```
-Impact assessment
-Model card
-Audit log
+〇 Impact assessment
+〇 Model card
+〇 Audit log
 UI wireframe
 ```
+*Nice! These artifacts form the backbone of responsible AI governance. Fun fact: some regulations require that audit logs be accessible for years after deployment.*
