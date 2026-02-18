@@ -87,3 +87,12 @@ Low risk
 Not classified under the Act
 ```
 *Correct — AI used in employment decisions is considered high risk.*
+
+### Legal actions required
+A startup builds an AI system used in university admissions. What legal governance actions might be required under most AI regulations?
+```
+Documenting risk level
+Conducting conformity assessments
+Providing a product discount
+Enabling human oversight
+```
