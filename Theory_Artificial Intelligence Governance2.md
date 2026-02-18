@@ -113,6 +113,7 @@ Arrange the compliance actions taken by a telecom company building a high-risk A
 Which of the following best describes the purpose of a model card in AI governance?
 ```
 Logging system performance over time
-Summarizing the intended use, risks, and performance of an AI model
+〇 Summarizing the intended use, risks, and performance of an AI model
 Submitting audit documentation to regulators
 ```
+*Correct — model cards communicate details like intended use and limitations.*
