@@ -127,3 +127,6 @@ Which of the following governance artifacts help ensure accountability and trace
 UI wireframe
 ```
 *Nice! These artifacts form the backbone of responsible AI governance. Fun fact: some regulations require that audit logs be accessible for years after deployment.*
+
+### From training to traceability
+Put the stages of traceability in the correct order, from model creation to oversight.
