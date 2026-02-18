@@ -107,3 +107,12 @@ Sort the following AI systems into risk categories under the EU AI Act.
 Arrange the compliance actions taken by a telecom company building a high-risk AI system for fraud detection.
 
 *Great timeline! Bonus fact: companies deploying high-risk AI in the EU must log their conformity results for future auditability.*
+
+---
+### Model cards
+Which of the following best describes the purpose of a model card in AI governance?
+```
+Logging system performance over time
+Summarizing the intended use, risks, and performance of an AI model
+Submitting audit documentation to regulators
+```
