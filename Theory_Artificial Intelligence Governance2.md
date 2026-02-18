@@ -72,7 +72,17 @@ Reduced need for AI documentation
 ### Governance by sector
 A global social media company wants to apply AI to moderate harmful content. What governance approach is most likely?
 ```
-Self-regulation with emerging oversight
+〇 SSelf-regulation with emerging oversight
 Heavily regulated like finance
 Governed under medical device law
+```
+*Exactly — self-regulation has historically been common in tech.*
+
+---
+### Hiring risk
+A multinational company deploys AI to filter resumes during hiring. Based on the EU AI Act, how should this system be classified?
+```
+High risk
+Low risk
+Not classified under the Act
 ```
