@@ -82,7 +82,8 @@ Governed under medical device law
 ### Hiring risk
 A multinational company deploys AI to filter resumes during hiring. Based on the EU AI Act, how should this system be classified?
 ```
-High risk
+〇 High risk
 Low risk
 Not classified under the Act
 ```
+*Correct — AI used in employment decisions is considered high risk.*
