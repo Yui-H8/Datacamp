@@ -91,8 +91,9 @@ Not classified under the Act
 ### Legal actions required
 A startup builds an AI system used in university admissions. What legal governance actions might be required under most AI regulations?
 ```
-Documenting risk level
-Conducting conformity assessments
+〇 Documenting risk level
+〇 Conducting conformity assessments
 Providing a product discount
-Enabling human oversight
+〇 Enabling human oversight
 ```
+*Nice work! Conformity assessments may be internal or done by a third-party, depending on the regulation.*
