@@ -59,3 +59,4 @@ Match each voluntary AI governance standard to its primary characteristic or goa
 * Drag each standard to the correct description.
 
 ### Voluntary standards: match the framework
+### Proactive versus reactive
