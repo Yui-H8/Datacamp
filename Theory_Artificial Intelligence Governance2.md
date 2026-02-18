@@ -60,3 +60,10 @@ Match each voluntary AI governance standard to its primary characteristic or goa
 
 ### Voluntary standards: match the framework
 ### Proactive versus reactive
+A fintech company adopts voluntary governance tools before any regulations apply. Which of the following are potential benefits of this approach? Select all that apply.
+```
+Improved stakeholder trust
+Competitive advantage
+Reduced need for AI documentation
+Smoother adaptation to future laws
+```
