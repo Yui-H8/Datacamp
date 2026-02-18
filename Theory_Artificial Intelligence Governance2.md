@@ -68,3 +68,11 @@ Reduced need for AI documentation
 〇 Smoother adaptation to future laws
 ```
 *Nice work! Companies that align with voluntary standards early often help shape future regulations.*
+
+### Governance by sector
+A global social media company wants to apply AI to moderate harmful content. What governance approach is most likely?
+```
+Self-regulation with emerging oversight
+Heavily regulated like finance
+Governed under medical device law
+```
