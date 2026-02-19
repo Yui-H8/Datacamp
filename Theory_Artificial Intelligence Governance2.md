@@ -197,3 +197,4 @@ A global logistics company is expanding its use of AI across supply chain, custo
 Relying solely on manual governance reviews
 Avoiding governance to speed up deployment
 ```
+*Great job! You identified key strategies that support scalable, responsible AI governance across large organizations.*
