@@ -155,7 +155,18 @@ A health tech company is preparing to deploy AI models to assist with patient di
 A retail company is evaluating its current AI governance efforts. They want to know which tool or framework can help them assess their maturity and plan next steps. Which of the following is the most suitable tool to guide this evaluation?
 ```
 Agile Scrum Board
-AI Governance Maturity Model
+〇 AI Governance Maturity Model
 Predictive Analytics Pipeline
 Data Labeling Tool
+```
+*Correct! The AI Governance Maturity Model is designed to assess organizational readiness and guide improvement planning.*
+
+---
+### Governance in MLOps workflows
+A retail tech company is expanding its use of AI to optimize logistics and customer targeting. To ensure responsible AI use, they want to embed governance processes into their existing MLOps workflows. Which of the following three actions are appropriate ways to integrate governance into these technical workflows?
+```
+Triggering documentation updates during model development
+Adding approval gates before production deployment
+Conducting governance reviews only after models are live
+Including risk classification in a model registry
 ```
