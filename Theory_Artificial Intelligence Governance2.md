@@ -145,6 +145,17 @@ Avoiding changes to pipelines to minimize developer burden
 ```
 *Great job! You selected the correct governance integration mechanisms that align with proactive, embedded practices in technical workflows.*
 
-### efine governance objectives
+### Define governance objectives
 A health tech company is preparing to deploy AI models to assist with patient diagnostics. To ensure both regulatory compliance and alignment with business objectives like improving patient outcomes, the governance team must define SMART objectives to guide the strategy.
 * Drag each governance objective into the correct goal category: Business Goal or Compliance Goal.
+
+*Well done! You've successfully aligned governance objectives with their appropriate business and compliance goals.*
+
+### Assessing organizational readiness
+A retail company is evaluating its current AI governance efforts. They want to know which tool or framework can help them assess their maturity and plan next steps. Which of the following is the most suitable tool to guide this evaluation?
+```
+Agile Scrum Board
+AI Governance Maturity Model
+Predictive Analytics Pipeline
+Data Labeling Tool
+```
