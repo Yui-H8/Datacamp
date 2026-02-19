@@ -187,3 +187,13 @@ Check model fairness metrics across demographic groups
 Set up continuous monitoring for live models
 ```
 *Well done! Completing model documentation before deployment is a key governance control to ensure transparency, traceability, and accountability.*
+
+---
+### Scaling governance across teams
+A global logistics company is expanding its use of AI across supply chain, customer service, and warehousing teams. The company wants to scale its governance strategy efficiently across all units and countries. Which two of the following are important strategies for scaling AI governance?
+```
+〇 Establishing centralized policies with room for local adaptation
+〇 Assigning federated responsibilities to local teams or roles
+Relying solely on manual governance reviews
+Avoiding governance to speed up deployment
+```
