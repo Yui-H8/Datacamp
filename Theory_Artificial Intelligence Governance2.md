@@ -211,5 +211,6 @@ A telecom company has hundreds of AI models operating across business units. The
 Automation ensures all teams follow identical model development practices
 Automation eliminates the need for governance policies
 Automation removes the need for cross-functional collaboration
-Automation provides continuous, scalable compliance enforcement
+〇 Automation provides continuous, scalable compliance enforcement
 ```
+*Nice work! Automation is vital for maintaining effective and efficient governance at scale.*
