@@ -198,3 +198,7 @@ Relying solely on manual governance reviews
 Avoiding governance to speed up deployment
 ```
 *Great job! You identified key strategies that support scalable, responsible AI governance across large organizations.*
+
+### Governance platform capabilities
+A multinational bank is deploying a governance platform to manage AI models across its global operations. Match each governance platform capability with the category it best supports.
+* Drag each governance feature into the correct category: Automation, Monitoring, or Documentation.
