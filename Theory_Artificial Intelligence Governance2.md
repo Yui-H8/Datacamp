@@ -202,3 +202,14 @@ Avoiding governance to speed up deployment
 ### Governance platform capabilities
 A multinational bank is deploying a governance platform to manage AI models across its global operations. Match each governance platform capability with the category it best supports.
 * Drag each governance feature into the correct category: Automation, Monitoring, or Documentation.
+
+*Well done! You've correctly categorized the capabilities of AI governance platforms.*
+
+### Why automation matters for scale
+A telecom company has hundreds of AI models operating across business units. The governance team wants to reduce manual oversight while maintaining strong compliance practices. Which of the following benefits best explains why automation is essential for governance at scale?
+```
+Automation ensures all teams follow identical model development practices
+Automation eliminates the need for governance policies
+Automation removes the need for cross-functional collaboration
+Automation provides continuous, scalable compliance enforcement
+```
