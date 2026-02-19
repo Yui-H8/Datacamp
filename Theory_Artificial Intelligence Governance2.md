@@ -135,3 +135,11 @@ Put the stages of traceability in the correct order, from model creation to over
 *Excellent! Traceability depends on linking each artifact to lifecycle actions. Traceability is increasingly demanded in third-party AI audits.*
 
 ---
+### Foundational steps
+A retail tech company is expanding its use of AI to optimize logistics and customer targeting. To ensure responsible AI use, they want to embed governance processes into their existing MLOps workflows. Which of the following two actions are appropriate ways to integrate governance into these technical workflows?
+```
+Triggering documentation updates during model development
+Conducting governance reviews only after models are live
+Adding approval gates before production deployment
+Avoiding changes to pipelines to minimize developer burden
+```
