@@ -171,3 +171,7 @@ Conducting governance reviews only after models are live
 〇 Including risk classification in a model registry
 ```
 *Great job! You selected the correct governance integration mechanisms that align with proactive, embedded practices in technical workflows.*
+
+### Lightweight versus heavyweight
+Two companies are implementing AI governance. One is a small startup using chatbots internally, and the other is a multinational bank deploying AI for fraud detection. Each company has chosen a governance model suited to its needs. Match the governance features to the appropriate model: Lightweight or Heavyweight.
+* Drag each governance feature into the correct category: Lightweight or Heavyweight governance.
