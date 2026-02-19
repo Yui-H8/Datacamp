@@ -175,3 +175,15 @@ Conducting governance reviews only after models are live
 ### Lightweight versus heavyweight
 Two companies are implementing AI governance. One is a small startup using chatbots internally, and the other is a multinational bank deploying AI for fraud detection. Each company has chosen a governance model suited to its needs. Match the governance features to the appropriate model: Lightweight or Heavyweight.
 * Drag each governance feature into the correct category: Lightweight or Heavyweight governance.
+
+### Checklist items
+A healthcare company is building a model to recommend personalized treatment plans. To comply with ethical standards and regulatory expectations, they want to integrate a governance checklist into their model development pipeline.
+
+Which of the following checklist items would be most appropriate to include before deploying the model?
+```
+Ensure training data is anonymized
+〇 Complete the model documentation (e.g., model card)
+Check model fairness metrics across demographic groups
+Set up continuous monitoring for live models
+```
+*Well done! Completing model documentation before deployment is a key governance control to ensure transparency, traceability, and accountability.*
