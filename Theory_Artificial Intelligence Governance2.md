@@ -165,8 +165,9 @@ Data Labeling Tool
 ### Governance in MLOps workflows
 A retail tech company is expanding its use of AI to optimize logistics and customer targeting. To ensure responsible AI use, they want to embed governance processes into their existing MLOps workflows. Which of the following three actions are appropriate ways to integrate governance into these technical workflows?
 ```
-Triggering documentation updates during model development
-Adding approval gates before production deployment
+〇 Triggering documentation updates during model development
+〇 Adding approval gates before production deployment
 Conducting governance reviews only after models are live
-Including risk classification in a model registry
+〇 Including risk classification in a model registry
 ```
+*Great job! You selected the correct governance integration mechanisms that align with proactive, embedded practices in technical workflows.*
