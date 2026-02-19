@@ -130,3 +130,8 @@ UI wireframe
 
 ### From training to traceability
 Put the stages of traceability in the correct order, from model creation to oversight.
+* Order the steps that create traceability for governance.
+
+*Excellent! Traceability depends on linking each artifact to lifecycle actions. Traceability is increasingly demanded in third-party AI audits.*
+
+---
