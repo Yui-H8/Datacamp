@@ -144,3 +144,7 @@ Conducting governance reviews only after models are live
 Avoiding changes to pipelines to minimize developer burden
 ```
 *Great job! You selected the correct governance integration mechanisms that align with proactive, embedded practices in technical workflows.*
+
+### efine governance objectives
+A health tech company is preparing to deploy AI models to assist with patient diagnostics. To ensure both regulatory compliance and alignment with business objectives like improving patient outcomes, the governance team must define SMART objectives to guide the strategy.
+* Drag each governance objective into the correct goal category: Business Goal or Compliance Goal.
