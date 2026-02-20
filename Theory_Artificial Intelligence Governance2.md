@@ -225,3 +225,7 @@ Immediately retrain the model without further investigation
 Replace the model with manual systems
 ```
 *Great work! You selected the appropriate response: using post-deployment insight to refine earlier stages of governance.*
+
+### Monitoring governance actions
+A large insurance provider is monitoring several AI systems used for fraud detection and claims processing. Issues have been flagged during post-deployment monitoring, such as performance dips and biased outcomes. Match each monitoring insight to the governance action it should trigger.
+* Drag each insight into the correct category of governance response.
