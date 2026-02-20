@@ -214,3 +214,13 @@ Automation removes the need for cross-functional collaboration
 〇 Automation provides continuous, scalable compliance enforcement
 ```
 *Nice work! Automation is vital for maintaining effective and efficient governance at scale.*
+
+---
+### Post-deployment issues
+A social media company uses AI to recommend content. Post-deployment monitoring reveals that the recommendation algorithm promotes polarizing content, which was not caught during testing. What should be the primary governance response to this issue?
+```
+Ignore the issue unless it recurs across models
+Immediately retrain the model without further investigation
+Review model development and training data for overlooked risks
+Replace the model with manual systems
+```
