@@ -8,9 +8,15 @@ Discover the essentials of safeguarding AI systems in this introductory course o
 ### AI risk awareness
 What is one of the significant risks specifically associated with AI?
 ```
-Biased outputs
+〇 Biased outputs
 Phishing attacks
 Insider threats
 Data breaches
 ```
+*Correct! AI bias is indeed a significant risk associated with AI systems, leading to unfair outcomes or discrimination.*
 
+### Dinner at Riskland Junction
+Throughout the course, we will be following Lucia Riskwalker as she embarks on a pilgrimage to get past the hype surrounding AI security and risk management.   
+Her first stop is Riskland Junction, where she meets Dr. Vulnera, a social scientist etched with scars of past technological mistakes. She appreciates Lucia's willingness to go on a journey to understand better the risks associated with AI.
+
+"The first thing that you need to know," he said, "is that AI has its own unique set of security risks."
