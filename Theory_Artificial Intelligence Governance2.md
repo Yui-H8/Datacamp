@@ -229,3 +229,14 @@ Replace the model with manual systems
 ### Monitoring governance actions
 A large insurance provider is monitoring several AI systems used for fraud detection and claims processing. Issues have been flagged during post-deployment monitoring, such as performance dips and biased outcomes. Match each monitoring insight to the governance action it should trigger.
 * Drag each insight into the correct category of governance response.
+
+*Well done! You've mapped monitoring insights to the appropriate governance responses.*
+
+### Governance KPI examples
+A healthcare AI team wants to track how well their governance efforts are performing across model development, review, and deployment stages. Which of the following two options are valid Key Performance Indicators (KPIs) for evaluating AI governance?
+```
+Audit success rate across deployed AI systems
+Employee satisfaction scores
+Number of models using deep learning
+Policy adherence rate for development teams
+```
