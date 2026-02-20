@@ -221,6 +221,7 @@ A social media company uses AI to recommend content. Post-deployment monitoring 
 ```
 Ignore the issue unless it recurs across models
 Immediately retrain the model without further investigation
-Review model development and training data for overlooked risks
+〇 Review model development and training data for overlooked risks
 Replace the model with manual systems
 ```
+*Great work! You selected the appropriate response: using post-deployment insight to refine earlier stages of governance.*
