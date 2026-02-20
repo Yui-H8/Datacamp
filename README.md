@@ -73,6 +73,7 @@ https://app.datacamp.com/learn/courses/
 * Introduction to AI for Work
 * Practical AI with Google Gemini and NotebookLM
 * Working with Microsoft Copilot
+* AI Security and Risk Management
 
 ---
 
