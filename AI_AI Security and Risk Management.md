@@ -20,3 +20,6 @@ Throughout the course, we will be following Lucia Riskwalker as she embarks on a
 Her first stop is Riskland Junction, where she meets Dr. Vulnera, a social scientist etched with scars of past technological mistakes. She appreciates Lucia's willingness to go on a journey to understand better the risks associated with AI.
 
 "The first thing that you need to know," he said, "is that AI has its own unique set of security risks."
+
+*Congratulations on successfully navigating the complex landscape of AI security risks at Riskland Junction! You've learned that AI's unique security challenges, such as bias, data poisoning, and adversarial attacks, require vigilant attention and understanding. Your journey begins with a critical foundation in recognizing the nuanced dangers that lie ahead, preparing you for the road to come.*
+
