@@ -235,8 +235,9 @@ A large insurance provider is monitoring several AI systems used for fraud detec
 ### Governance KPI examples
 A healthcare AI team wants to track how well their governance efforts are performing across model development, review, and deployment stages. Which of the following two options are valid Key Performance Indicators (KPIs) for evaluating AI governance?
 ```
-Audit success rate across deployed AI systems
+〇 Audit success rate across deployed AI systems
 Employee satisfaction scores
 Number of models using deep learning
-Policy adherence rate for development teams
+〇 Policy adherence rate for development teams
 ```
+*Nice job! You've identified measurable KPIs that directly reflect governance performance.*
