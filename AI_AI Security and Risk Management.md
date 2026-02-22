@@ -71,3 +71,10 @@ IT professionals aiming for the quickest incident response
 〇 Customers expecting transparency and fairness
 ```
 *Well done! Recognizing the need to balance the interests of various stakeholders, and knowing which interests and concerns are relevant for AI security ensures that decisions are well-rounded and considerate of various perspectives.*
+
+### Ecosystem Nexus
+Lucia visits Ecosystem Nexus next to meet its diverse community. She befriends Maya Synthos, a digital princess who helps her understand various interests and build relationships.
+
+Maya explains to Lucia that when dealing with AI systems, it is crucial to consider the interests or concerns of various stakeholders.
+
+People, legal requirements, technologies, and processes will each have a piece of the puzzle to keep systems secure. The role of each in the broader picture must be clear.
