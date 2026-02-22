@@ -78,3 +78,15 @@ Lucia visits Ecosystem Nexus next to meet its diverse community. She befriends M
 Maya explains to Lucia that when dealing with AI systems, it is crucial to consider the interests or concerns of various stakeholders.
 
 People, legal requirements, technologies, and processes will each have a piece of the puzzle to keep systems secure. The role of each in the broader picture must be clear.
+
+*Congratulations on embracing the diverse perspectives at Ecosystem Nexus! You've learned the importance of considering various stakeholders' interests and responsibilities in AI systems, a crucial step for fostering secure and inclusive digital environments.*
+
+---
+### Common risks of AI models
+Which of the following is NOT a common risk associated with developing and deploying AI models?
+```
+Bias in the data
+Chance that it could be hacked
+Bias in the algorithm
+Model deterioration over time
+```
