@@ -102,3 +102,8 @@ It allows for early detection of potential issues like model drift
 〇 It simplifies the process of retraining the model with new data
 ```
 *Well done! You were able to identify what is an advantage of continuous monitoring and what is not.*
+
+### Model Risk Abyss
+Now let's rejoin our pilgrim Lucia on her journey. Along the way, she has met fellow pilgrim Maven. As they pass a deep canyon, he tells Lucia that it is the Model Risk Abyss.
+
+The analytical AI expert explains the challenges posed over the lifecycle of AI models. Some risks can arise during the development of models and others appear over time when models are deployed.
