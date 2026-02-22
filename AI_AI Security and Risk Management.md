@@ -37,9 +37,10 @@ Fully automating security decision-making
 ### Risks of AI in security
 What are some risks to consider when implementing AI in security? Select the four answers that are correct.
 ```
-The possibility of AI systems being manipulated through adversarial attacks
-AI's reliance on large datasets might inadvertently introduce bias
+〇 The possibility of AI systems being manipulated through adversarial attacks
+〇 AI's reliance on large datasets might inadvertently introduce bias
 Ensuring AI systems are efficient and bring tangible business benefits.
-Challenges in ensuring AI's decisions comply with ethical standards and regulations
-The risk of data privacy breaches if AI systems are not properly secured
+〇 Challenges in ensuring AI's decisions comply with ethical standards and regulations
+〇 The risk of data privacy breaches if AI systems are not properly secured
 ```
+*Good job! Recognizing these risks is crucial for developing robust, secure AI systems. Adversarial attacks, bias from large datasets, ethical compliance, and data privacy are key considerations for safe AI implementation in security.*
