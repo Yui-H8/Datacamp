@@ -90,3 +90,14 @@ Chance that it could be hacked
 Bias in the algorithm
 Model deterioration over time
 ```
+*Correct! Cyber threats like hacking are a risk associated with AI, but it is an external risk, not one associated with the AI model as such.*
+
+### Continuous monitoring
+Continuous monitoring is when a model is regularly observed and evaluated.
+
+Which two answers do NOT show why this is a critical practice for managing AI models in production?
+```
+It can keep teams focused when checking the many alerts and false positives
+It allows for early detection of potential issues like model drift
+It simplifies the process of retraining the model with new data
+```
