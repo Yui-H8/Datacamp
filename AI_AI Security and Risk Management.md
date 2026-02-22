@@ -114,8 +114,9 @@ The analytical AI expert explains the challenges posed over the lifecycle of AI 
 ### Types of external risks
 Malicious actors can exploit AI systems through various external threats. Which three of the following are potential external risks to AI systems?
 ```
-Data poisoning
-Adversarial attacks
+〇 Data poisoning
+〇 Adversarial attacks
 System outages
-Model inversion
+〇 Model inversion
 ```
+*Well done! You've selected three of the ways that external actors can attempt to compromise AI systems.*
