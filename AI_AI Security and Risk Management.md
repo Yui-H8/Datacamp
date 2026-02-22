@@ -33,3 +33,13 @@ Solving compliance with legal requirements
 Fully automating security decision-making
 ```
 *Perfect! AI excels at automating repetitive tasks, which frees up human analysts to concentrate on more complex, strategic issues that require human insight.*
+
+### Risks of AI in security
+What are some risks to consider when implementing AI in security? Select the four answers that are correct.
+```
+The possibility of AI systems being manipulated through adversarial attacks
+AI's reliance on large datasets might inadvertently introduce bias
+Ensuring AI systems are efficient and bring tangible business benefits.
+Challenges in ensuring AI's decisions comply with ethical standards and regulations
+The risk of data privacy breaches if AI systems are not properly secured
+```
