@@ -23,3 +23,12 @@ Her first stop is Riskland Junction, where she meets Dr. Vulnera, a social scien
 
 *Congratulations on successfully navigating the complex landscape of AI security risks at Riskland Junction! You've learned that AI's unique security challenges, such as bias, data poisoning, and adversarial attacks, require vigilant attention and understanding. Your journey begins with a critical foundation in recognizing the nuanced dangers that lie ahead, preparing you for the road to come.*
 
+---
+### Enhancing security operations with AI
+Which of the following best describes how AI can enhance security operations?
+```
+Replacing human security personnel entirely
+Solving compliance with legal requirements
+Automating routine tasks
+Fully automating security decision-making
+```
