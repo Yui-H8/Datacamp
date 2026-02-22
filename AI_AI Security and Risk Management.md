@@ -65,8 +65,9 @@ To simplify the legal compliance process
 Which stakeholders’ interests and concerns should be balanced to make informed and effective AI security decisions? Select the four correct answers below.
 ```
 IT professionals aiming for the quickest incident response
-Data scientists focusing on AI model precision
-Legal teams concerned with privacy implications
-Executives considering the company's reputation
-Customers expecting transparency and fairness
+〇 Data scientists focusing on AI model precision
+〇 Legal teams concerned with privacy implications
+〇 Executives considering the company's reputation
+〇 Customers expecting transparency and fairness
 ```
+*Well done! Recognizing the need to balance the interests of various stakeholders, and knowing which interests and concerns are relevant for AI security ensures that decisions are well-rounded and considerate of various perspectives.*
