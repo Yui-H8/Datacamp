@@ -86,7 +86,7 @@ People, legal requirements, technologies, and processes will each have a piece o
 Which of the following is NOT a common risk associated with developing and deploying AI models?
 ```
 Bias in the data
-Chance that it could be hacked
+〇 Chance that it could be hacked
 Bias in the algorithm
 Model deterioration over time
 ```
@@ -97,7 +97,8 @@ Continuous monitoring is when a model is regularly observed and evaluated.
 
 Which two answers do NOT show why this is a critical practice for managing AI models in production?
 ```
-It can keep teams focused when checking the many alerts and false positives
+〇 It can keep teams focused when checking the many alerts and false positives
 It allows for early detection of potential issues like model drift
-It simplifies the process of retraining the model with new data
+〇 It simplifies the process of retraining the model with new data
 ```
+*Well done! You were able to identify what is an advantage of continuous monitoring and what is not.*
