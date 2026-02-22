@@ -29,6 +29,7 @@ Which of the following best describes how AI can enhance security operations?
 ```
 Replacing human security personnel entirely
 Solving compliance with legal requirements
-Automating routine tasks
+〇 Automating routine tasks
 Fully automating security decision-making
 ```
+*Perfect! AI excels at automating repetitive tasks, which frees up human analysts to concentrate on more complex, strategic issues that require human insight.*
