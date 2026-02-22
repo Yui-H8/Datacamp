@@ -107,3 +107,15 @@ It allows for early detection of potential issues like model drift
 Now let's rejoin our pilgrim Lucia on her journey. Along the way, she has met fellow pilgrim Maven. As they pass a deep canyon, he tells Lucia that it is the Model Risk Abyss.
 
 The analytical AI expert explains the challenges posed over the lifecycle of AI models. Some risks can arise during the development of models and others appear over time when models are deployed.
+
+*Kudos for crossing the Model Risk Abyss! You've tackled the intricacies of model risks, understanding that challenges can arise both during development and post-deployment. This knowledge helps you gain the vigilance needed to anticipate and mitigate risks throughout the AI lifecycle.*
+
+---
+### Types of external risks
+Malicious actors can exploit AI systems through various external threats. Which three of the following are potential external risks to AI systems?
+```
+Data poisoning
+Adversarial attacks
+System outages
+Model inversion
+```
