@@ -197,8 +197,9 @@ The first thing you need to know, says Goldia, is what they are for. They help o
 ### Risk appetite
 Which of the following is a company with a high risk appetite most likely to do?
 ```
-Prioritize rapid innovation in AI development, even if it means accepting some security risks
+〇 Prioritize rapid innovation in AI development, even if it means accepting some security risks
 Invest heavily in preventive security measures, even for low-probability threats
 Implement only the most basic security measures to minimize costs
 Completely avoid using AI due to the inherent security risks
 ```
+*Exactly! An organization with a high risk appetite would be willing to prioritize innovation and take some calculated risks.*
