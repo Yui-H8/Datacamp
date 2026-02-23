@@ -127,5 +127,11 @@ When managing external threats to AI systems over time, what approach is least e
 Implementing continuous learning for the AI model
 Promoting a culture of proactive risk management
 Encouraging ongoing vigilance among stakeholders
-Maintaining a reactive approach
+〇 Maintaining a reactive approach
 ```
+*Exactly! A reactive approach leaves the AI system vulnerable until an attack happens. Continuous learning, proactive risk management, and ongoing vigilance are all essential practices for staying ahead of external threats.*
+
+### Perimeter Peril Point
+Shortly after Maven and Lucia part ways, she is confronted by the infamous Byte Bandit. Lucia has a personal vendetta against Byte because he once sabotaged and impaired Lucia's most treasured AI creation.
+
+Byte is angry at Lucia because he didn't succeed a second time, as Lucia's AI system was much better prepared for the external threats. "I'm not afraid of you!" says Lucia. Then she lists all of the attacks that her system was able to resist.
