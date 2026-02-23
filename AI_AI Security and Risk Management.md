@@ -207,8 +207,9 @@ Completely avoid using AI due to the inherent security risks
 ### Balancing innovation and security
 Which two factors are important to consider when balancing innovation and security in AI development?
 ```
-Implementing robust access controls to user data
-Integrating security considerations into the design phase of AI projects
+〇 Implementing robust access controls to user data
+〇 tegrating security considerations into the design phase of AI projects
 Prioritizing cost-cutting measures when choosing security solutions
 Focusing mainly on achieving the fastest time-to-market for new AI products
 ```
+*Well done! You have proven to have a solid understanding of how to find a balance between innovation and security in AI.*
