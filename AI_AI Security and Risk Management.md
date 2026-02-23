@@ -203,3 +203,12 @@ Implement only the most basic security measures to minimize costs
 Completely avoid using AI due to the inherent security risks
 ```
 *Exactly! An organization with a high risk appetite would be willing to prioritize innovation and take some calculated risks.*
+
+### Balancing innovation and security
+Which two factors are important to consider when balancing innovation and security in AI development?
+```
+Implementing robust access controls to user data
+Integrating security considerations into the design phase of AI projects
+Prioritizing cost-cutting measures when choosing security solutions
+Focusing mainly on achieving the fastest time-to-market for new AI products
+```
