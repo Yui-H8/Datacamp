@@ -175,3 +175,12 @@ The AI system is designed purely for entertainment, like generating funny memes.
 The AI system is used to forecast weather using vast datasets of weather data.
 ```
 *Perfect! The EU AI Act focuses on AI systems with the potential to cause significant harm. Systems used in critical infrastructure or those employing sensitive technologies like facial recognition used in law enforcement are more likely to require a risk assessment.*
+
+### Risk assessment steps
+Which three of the following are key steps involved in conducting a comprehensive AI risk assessment?
+```
+Standardizing the model training process for all AI systems
+Identifying potential risks associated with the AI system
+Developing mitigation strategies to address identified risks
+Documenting the severity of the risks identified
+```
