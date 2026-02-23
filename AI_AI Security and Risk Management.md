@@ -151,8 +151,14 @@ Secure coding practices
 ### Secure access
 Strict access controls are a critical component of secure AI development. Which three risks can be reduced by implementing strict access controls?
 ```
-Accidental data modification by unauthorized users
+〇 Accidental data modification by unauthorized users
 Hardware malfunctions causing system disruption
-Intentional manipulation of the model by malicious actors
-Unauthorized access to sensitive training data
+〇 Intentional manipulation of the model by malicious actors
+〇 Unauthorized access to sensitive training data
 ```
+*Well done! You correctly identified that strict access controls primarily address security risks related to human actions. They are essential for securing the AI system and data.*
+
+### Fortified Code Forge
+At Fortified Code Forge, Lucia meets the great CodeMaster Fortify. Their discussions are technical but enlightening. He teaches Lucia not to underestimate the power of robust development.
+
+He shows Lucia common practices to confront the challenges unique to AI.
