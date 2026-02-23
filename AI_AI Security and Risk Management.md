@@ -143,6 +143,7 @@ Which of the following practices is not a core principle of secure AI developmen
 ```
 Prioritizing explainability\
 Data minimization
-Prioritizing accuracy over security
+〇 Prioritizing accuracy over security
 Secure coding practices
 ```
+*Perfect! Security should be a fundamental consideration throughout the AI development process, not something to be sacrificed for accuracy.*
