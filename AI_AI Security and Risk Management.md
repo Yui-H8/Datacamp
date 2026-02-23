@@ -185,3 +185,9 @@ Standardizing the model training process for all AI systems
 〇 Documenting the severity of the risks identified
 ```
 *Well done! You've learned that a risk assessment involves identifying potential problems, developing solutions to address them, and documenting the entire process for transparency and future reference.*
+
+### Assessment Framework Enclave
+At Assessment Framework Enclave, Lucia helps the lost Goldia Sentinel, a diligent droid who thanks her by explaining assessment frameworks.
+
+The first thing you need to know, says Goldia, is what they are for. They help organizations identify, analyze, and mitigate potential risks associated with their AI systems by mapping out specific risks. Then they suggest appropriate controls to manage those risks effectively.
+
