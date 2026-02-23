@@ -135,3 +135,14 @@ Encouraging ongoing vigilance among stakeholders
 Shortly after Maven and Lucia part ways, she is confronted by the infamous Byte Bandit. Lucia has a personal vendetta against Byte because he once sabotaged and impaired Lucia's most treasured AI creation.
 
 Byte is angry at Lucia because he didn't succeed a second time, as Lucia's AI system was much better prepared for the external threats. "I'm not afraid of you!" says Lucia. Then she lists all of the attacks that her system was able to resist.
+
+*Well done for standing your ground against the Byte Bandit! You've learned the importance of preparing AI systems against external threats, showcasing resilience and adaptability. This victory is a testament to your growing expertise in safeguarding AI technology against external attacks, a crucial milestone in your quest.*
+
+### Secure AI development
+Which of the following practices is not a core principle of secure AI development?
+```
+Prioritizing explainability\
+Data minimization
+Prioritizing accuracy over security
+Secure coding practices
+```
