@@ -191,3 +191,4 @@ At Assessment Framework Enclave, Lucia helps the lost Goldia Sentinel, a diligen
 
 The first thing you need to know, says Goldia, is what they are for. They help organizations identify, analyze, and mitigate potential risks associated with their AI systems by mapping out specific risks. Then they suggest appropriate controls to manage those risks effectively.
 
+*Congratulations on your achievements at Assessment Framework Enclave! You've learned the importance of assessment frameworks in identifying, analyzing, and mitigating risks in AI systems. This understanding is crucial, empowering you to navigate AI security with confidence.*
