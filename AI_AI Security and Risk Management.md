@@ -164,3 +164,14 @@ At Fortified Code Forge, Lucia meets the great CodeMaster Fortify. Their discuss
 He shows Lucia common practices to confront the challenges unique to AI.
 
 *Well done on mastering the lessons of robust coding at Fortified Code Forge! You've learned that confronting AI's unique challenges requires meticulous development practices, focusing on data audit trails and privacy. This knowledge is a cornerstone of your journey, emphasizing the power of precision and foresight in AI security.*
+
+---
+### The EU AI Act
+The EU AI Act requires that companies do risk assessments for high-risk AI systems. Which of the following factors is most likely to trigger the requirement for a risk assessment?
+```
+The AI system to optimize scheduling internally within a company and does not involve personal data.
+〇 The AI system is intended for use in critical infrastructures like energy grids or transportation systems.
+The AI system is designed purely for entertainment, like generating funny memes.
+The AI system is used to forecast weather using vast datasets of weather data.
+```
+*Perfect! The EU AI Act focuses on AI systems with the potential to cause significant harm. Systems used in critical infrastructure or those employing sensitive technologies like facial recognition used in law enforcement are more likely to require a risk assessment.*
