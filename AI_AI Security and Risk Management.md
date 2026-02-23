@@ -180,7 +180,8 @@ The AI system is used to forecast weather using vast datasets of weather data.
 Which three of the following are key steps involved in conducting a comprehensive AI risk assessment?
 ```
 Standardizing the model training process for all AI systems
-Identifying potential risks associated with the AI system
-Developing mitigation strategies to address identified risks
-Documenting the severity of the risks identified
+〇 Identifying potential risks associated with the AI system
+〇 Developing mitigation strategies to address identified risks
+〇 Documenting the severity of the risks identified
 ```
+*Well done! You've learned that a risk assessment involves identifying potential problems, developing solutions to address them, and documenting the entire process for transparency and future reference.*
