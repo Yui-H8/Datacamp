@@ -120,3 +120,12 @@ System outages
 〇 Model inversion
 ```
 *Well done! You've selected three of the ways that external actors can attempt to compromise AI systems.*
+
+### Keeping up with external AI risks
+When managing external threats to AI systems over time, what approach is least effective in maintaining a strong security position?
+```
+Implementing continuous learning for the AI model
+Promoting a culture of proactive risk management
+Encouraging ongoing vigilance among stakeholders
+Maintaining a reactive approach
+```
