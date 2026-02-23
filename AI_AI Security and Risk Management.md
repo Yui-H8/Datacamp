@@ -147,3 +147,12 @@ Data minimization
 Secure coding practices
 ```
 *Perfect! Security should be a fundamental consideration throughout the AI development process, not something to be sacrificed for accuracy.*
+
+### Secure access
+Strict access controls are a critical component of secure AI development. Which three risks can be reduced by implementing strict access controls?
+```
+Accidental data modification by unauthorized users
+Hardware malfunctions causing system disruption
+Intentional manipulation of the model by malicious actors
+Unauthorized access to sensitive training data
+```
