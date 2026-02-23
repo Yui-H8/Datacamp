@@ -213,3 +213,8 @@ Prioritizing cost-cutting measures when choosing security solutions
 Focusing mainly on achieving the fastest time-to-market for new AI products
 ```
 *Well done! You have proven to have a solid understanding of how to find a balance between innovation and security in AI.*
+
+### General Landora Implementor
+Lucia crosses the Action Translation Bridge with General Landora Implementor, a project manager with an uncanny ability to turn plans into reality.
+
+Landora tells Lucia that before deciding which assessment findings to take action on, it is important to put them into buckets according to their potential impact and likelihood of occurrence.
