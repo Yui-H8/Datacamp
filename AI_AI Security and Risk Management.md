@@ -192,3 +192,13 @@ At Assessment Framework Enclave, Lucia helps the lost Goldia Sentinel, a diligen
 The first thing you need to know, says Goldia, is what they are for. They help organizations identify, analyze, and mitigate potential risks associated with their AI systems by mapping out specific risks. Then they suggest appropriate controls to manage those risks effectively.
 
 *Congratulations on your achievements at Assessment Framework Enclave! You've learned the importance of assessment frameworks in identifying, analyzing, and mitigating risks in AI systems. This understanding is crucial, empowering you to navigate AI security with confidence.*
+
+---
+### Risk appetite
+Which of the following is a company with a high risk appetite most likely to do?
+```
+Prioritize rapid innovation in AI development, even if it means accepting some security risks
+Invest heavily in preventive security measures, even for low-probability threats
+Implement only the most basic security measures to minimize costs
+Completely avoid using AI due to the inherent security risks
+```
