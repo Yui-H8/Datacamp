@@ -23,5 +23,9 @@ Take some time to explore the various available categories and sub-categories.
 4. Step4
    Within the "All services" menu on the left, find and navigate to the "Storage" category.
 
+5. Which of the following does not fall under the sub-header of “Object, File and Block Storage”?
 
+Answer: DataLake strage G1
 
+### Benefits of cloud services
+The cloud offers many benefits to its customers. Which of the following are general benefits of being on the cloud, and which of the following are key benefits of the Azure cloud?
