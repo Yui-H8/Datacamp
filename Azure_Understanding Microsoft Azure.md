@@ -20,3 +20,8 @@ Once logged in, you'll enter the Azure homepage which provides an overview of po
 
 Take some time to explore the various available categories and sub-categories.
 
+4. Step4
+   Within the "All services" menu on the left, find and navigate to the "Storage" category.
+
+
+
