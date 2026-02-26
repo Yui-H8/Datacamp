@@ -14,3 +14,9 @@ Once logged in, you'll enter the Azure homepage which provides an overview of po
 
 2. Step2
    Navigate to the menu bar, and go to "All services".
+
+3. Step3
+   Under the "All services" section, you can explore all the tools that Azure has to offer including categories such as AI & Machine Learning, Compute, Storage and more.
+
+Take some time to explore the various available categories and sub-categories.
+
