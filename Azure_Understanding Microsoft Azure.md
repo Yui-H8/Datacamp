@@ -62,3 +62,4 @@ Note: To avoid any policy restriction errors, make sure your virtual machine fol
 2. Step2
    * To create a new virtual machine, select Create and choose "Azure virtual machine" from the dropdown
    * Set a custom name for your virtual machine under the subscription pre-fixed with learn-students- and the resource group student-
+3. Configure your virtual machine to the following requirements:
