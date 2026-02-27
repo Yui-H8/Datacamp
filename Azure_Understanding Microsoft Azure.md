@@ -67,3 +67,11 @@ Note: To avoid any policy restriction errors, make sure your virtual machine fol
    * Set Availability Option as Availability zone and availability zone as Zone 3
    * Image as Ubuntu Server 24.04 LTS - x64 Gen2 (If not preselected)
    * Size as Standard_DS1_v2 - 1 vcpu, 3.5GiB memory. You can select it after clicking on See all sizes.
+```
+Hint
+Under instance details:
+
+Region can be changed by clicking the drop-down and selecting the appropriate region - (US) East US may be your default.
+Availability can be changed by clicking the drop-down and selecting Availability Zone.
+More than one availability zone can be selected; de-select all zones except for Zone 3.
+```
