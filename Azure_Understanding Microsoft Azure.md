@@ -63,3 +63,7 @@ Note: To avoid any policy restriction errors, make sure your virtual machine fol
    * To create a new virtual machine, select Create and choose "Azure virtual machine" from the dropdown
    * Set a custom name for your virtual machine under the subscription pre-fixed with learn-students- and the resource group student-
 3. Configure your virtual machine to the following requirements:
+   * Set Region to (US) East US
+   * Set Availability Option as Availability zone and availability zone as Zone 3
+   * Image as Ubuntu Server 24.04 LTS - x64 Gen2 (If not preselected)
+   * Size as Standard_DS1_v2 - 1 vcpu, 3.5GiB memory. You can select it after clicking on See all sizes.
