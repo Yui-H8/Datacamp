@@ -81,3 +81,4 @@ More than one availability zone can be selected; de-select all zones except for 
 5. Step5
    * Go to Disk configuration and set a Standard HDD for the OS disk.
    * Navigate to Networking and set Public IP to None.
+6. Before creating your virtual machine, run final validation checks to ensure all configurations meet your requirements and Azure's standards.
