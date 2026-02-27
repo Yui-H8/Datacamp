@@ -46,7 +46,8 @@ Which of the following storage type best suits our requirements?
 Which of the following is Microsoft's cloud-based identity and access management service?
 ```
 Azure Compute
-Microsoft Entra ID (formerly Azure Active Directory)
+〇 Microsoft Entra ID (formerly Azure Active Directory)
 Azure Networking
 Azure Storage
 ```
+*Well done! Microsoft Entra ID (formerly Azure Active Directory) is Microsoft's identity and access management service.*
