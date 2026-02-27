@@ -57,4 +57,8 @@ Azure Storage
 Understanding how to create and configure VMs is crucial for deploying applications and services in the cloud. In this exercise, you'll be working on Azure to create your first virtual machine.
 
 Note: To avoid any policy restriction errors, make sure your virtual machine follows all the exact requirements laid out in the exercise.
-1. Navigate to the menu bar, and select "Virtual Machines"
+1. Step1
+   Navigate to the menu bar, and select "Virtual Machines"
+2. Step2
+   * To create a new virtual machine, select Create and choose "Azure virtual machine" from the dropdown
+   * Set a custom name for your virtual machine under the subscription pre-fixed with learn-students- and the resource group student-
