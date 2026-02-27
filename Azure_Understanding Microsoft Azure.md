@@ -40,3 +40,13 @@ Provides highly available access that's protected against data-center level issu
 Which of the following storage type best suits our requirements?
 
 *Great job! This option offers both GRS and ZRS which is recommended for critical data scenarios.*
+
+---
+### Identity and access management
+Which of the following is Microsoft's cloud-based identity and access management service?
+```
+Azure Compute
+Microsoft Entra ID (formerly Azure Active Directory)
+Azure Networking
+Azure Storage
+```
