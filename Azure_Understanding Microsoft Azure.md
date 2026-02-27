@@ -78,3 +78,6 @@ More than one availability zone can be selected; de-select all zones except for 
 4. Step4
    * Configure the username for the administrator account with something you like.
    * Configure a strong password for the account. (e.g. ACflLKAW968!)
+5. Step5
+   * Go to Disk configuration and set a Standard HDD for the OS disk.
+   * Navigate to Networking and set Public IP to None.
