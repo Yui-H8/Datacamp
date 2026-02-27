@@ -38,3 +38,5 @@ When working in the cloud having data storage that is resilient, highly availabl
 Supports backups through second region failover
 Provides highly available access that's protected against data-center level issues
 Which of the following storage type best suits our requirements?
+
+*Great job! This option offers both GRS and ZRS which is recommended for critical data scenarios.*
