@@ -29,3 +29,5 @@ Answer: DataLake strage G1
 
 ### Benefits of cloud services
 The cloud offers many benefits to its customers. Which of the following are general benefits of being on the cloud, and which of the following are key benefits of the Azure cloud?
+
+*Congratulations! Azure has some extra key benefits when you're working with Microsoft, but the other main cloud providers also offer key benefits such as flexibility and scalability!*
