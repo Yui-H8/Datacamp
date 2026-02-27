@@ -31,3 +31,10 @@ Answer: DataLake strage G1
 The cloud offers many benefits to its customers. Which of the following are general benefits of being on the cloud, and which of the following are key benefits of the Azure cloud?
 
 *Congratulations! Azure has some extra key benefits when you're working with Microsoft, but the other main cloud providers also offer key benefits such as flexibility and scalability!*
+
+### Choosing the right storage option
+When working in the cloud having data storage that is resilient, highly available and protected against failure is important. You are creating your first Azure storage account and need to choose a redundancy option that meets the following criteria:
+
+Supports backups through second region failover
+Provides highly available access that's protected against data-center level issues
+Which of the following storage type best suits our requirements?
