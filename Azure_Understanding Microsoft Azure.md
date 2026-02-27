@@ -75,3 +75,6 @@ Region can be changed by clicking the drop-down and selecting the appropriate re
 Availability can be changed by clicking the drop-down and selecting Availability Zone.
 More than one availability zone can be selected; de-select all zones except for Zone 3.
 ```
+4. Step4
+   * Configure the username for the administrator account with something you like.
+   * Configure a strong password for the account. (e.g. ACflLKAW968!)
