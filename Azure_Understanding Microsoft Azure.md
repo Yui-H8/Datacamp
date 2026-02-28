@@ -99,3 +99,5 @@ Answer: 4
 
 *That's right! There are 4 different resources created under the two types Microsoft.Compute and Microsoft.Network.*
 
+### Resource Categorization
+Understanding the difference between compute, storage and networking is key for anyone working with the cloud. Do you know the difference?
