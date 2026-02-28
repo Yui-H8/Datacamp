@@ -83,3 +83,15 @@ More than one availability zone can be selected; de-select all zones except for 
    * Navigate to Networking and set Public IP to None.
 6. Before creating your virtual machine, run final validation checks to ensure all configurations meet your requirements and Azure's standards.
 7. Under deployment details, how many Resources were generated when you created a virtual machine?
+```
+Hint
+Does your virtual machine meet all of the following requirements:
+
+Region: (US) East US
+Availability Option: Availability zone
+Availability zone: Zones 3
+Image: Ubuntu Server 20.04 LTS - x64 Gen2
+Size: Standard_DS1_v2 - 1 vcpu, 3.5GiB memory
+OS disk type: Standard HDD (in Disks)
+Public inbound ports: None (in Networking)
+```
