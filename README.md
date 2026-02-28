@@ -80,6 +80,7 @@ https://app.datacamp.com/learn/courses/
 ### Azure
 * Understanding Microsoft Azure Architecture and Services
 * Understanding Microsoft Azure
+* Understanding Microsoft Azure Management and Governance
 
 ---
 
