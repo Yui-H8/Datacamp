@@ -114,3 +114,5 @@ Which of the following offers the Customer the greatest amount of control?
 
 ### Analytics vs AI/ML
 Azure has a vast ecosystem, including services dedicated to Big Data and Analytics and AI & Machine Learning.
+
+Categorize the following Azure services based on the type of tool category that fall into.
