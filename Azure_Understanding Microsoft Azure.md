@@ -101,3 +101,5 @@ Answer: 4
 
 ### Resource Categorization
 Understanding the difference between compute, storage and networking is key for anyone working with the cloud. Do you know the difference?
+
+*Congratulations! Knowing the difference between the main storage options will set you up for success!*
