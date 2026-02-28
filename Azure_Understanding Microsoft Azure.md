@@ -103,3 +103,9 @@ Answer: 4
 Understanding the difference between compute, storage and networking is key for anyone working with the cloud. Do you know the difference?
 
 *Congratulations! Knowing the difference between the main storage options will set you up for success!*
+
+---
+### Who is responsible?
+In Azure, resources typically fall under one of the three cloud service types: Infrastructure as a Service, Platform as a Service, and Software as a Service.
+
+Which of the following offers the Customer the greatest amount of control?
