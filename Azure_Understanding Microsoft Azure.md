@@ -95,3 +95,7 @@ Size: Standard_DS1_v2 - 1 vcpu, 3.5GiB memory
 OS disk type: Standard HDD (in Disks)
 Public inbound ports: None (in Networking)
 ```
+Answer: 4
+
+*That's right! There are 4 different resources created under the two types Microsoft.Compute and Microsoft.Network.*
+
