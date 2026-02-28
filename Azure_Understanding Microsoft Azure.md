@@ -116,3 +116,5 @@ Which of the following offers the Customer the greatest amount of control?
 Azure has a vast ecosystem, including services dedicated to Big Data and Analytics and AI & Machine Learning.
 
 Categorize the following Azure services based on the type of tool category that fall into.
+
+*Well done! Your choices reflect a profound understanding of Azure services tailored for AI-driven applications, particularly in the health sector. With such insights, your startup is on the right path to innovate in health tech. Keep it up!*
