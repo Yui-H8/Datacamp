@@ -112,3 +112,5 @@ Answer : IssS
 *That's right! IaaS is the most fliexible, and provides the greatest amount of control. Azure is responsible for the hardware, network connectivity and physical security. The customer is responsible for everything else.*
 Which of the following offers the Customer the greatest amount of control?
 
+### Analytics vs AI/ML
+Azure has a vast ecosystem, including services dedicated to Big Data and Analytics and AI & Machine Learning.
