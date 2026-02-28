@@ -106,6 +106,9 @@ Understanding the difference between compute, storage and networking is key for 
 
 ---
 ### Who is responsible?
-In Azure, resources typically fall under one of the three cloud service types: Infrastructure as a Service, Platform as a Service, and Software as a Service.
+In Azure, resources typically fall under one of the three cloud service types: Infrastructure as a Service, Platform as a Service, and Software as a Service.    
+Answer : IssS
 
+*That's right! IaaS is the most fliexible, and provides the greatest amount of control. Azure is responsible for the hardware, network connectivity and physical security. The customer is responsible for everything else.*
 Which of the following offers the Customer the greatest amount of control?
+
