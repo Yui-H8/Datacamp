@@ -10,7 +10,8 @@ You'll often encounter 'resources' and 'services' when working with Azure. They 
 
 What is the difference between a resource and a service?
 ```
-A service is a set of features in Azure, and a resource is the product or object of a service.
+〇 A service is a set of features in Azure, and a resource is the product or object of a service.
 A resource and a service are the same thing in Azure.
 A resource is a set of features in Azure, and a service is the product of a resource.
 ```
+*That's right! Services and resources are important building blocks of Azure; we'll talk about both often throughout the course.*
