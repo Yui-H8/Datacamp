@@ -58,3 +58,10 @@ Link the following key words to the right descriptions by placing them in order.
 4. Pay-as-you-go
 
 *Well done! Understanding these concepts is important to also understand how Azure can be applied to help you with specific use cases, such as in the next exercise!*
+
+### Use case: managing budgets
+You are working for an e-commerce company that uses Azure as its cloud solution. The company would like to ensure cost efficiency, monitor spending, and allocate costs across different departments and projects.
+
+Which tasks can you do with the help of Azure? Select all that apply.
+
+To help you along, you can explore the prompts to learn more about the main features of cost management in Azure.
