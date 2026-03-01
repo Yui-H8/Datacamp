@@ -56,3 +56,5 @@ Link the following key words to the right descriptions by placing them in order.
 2. Azure Marketplace
 3. Compliance
 4. Pay-as-you-go
+
+*Well done! Understanding these concepts is important to also understand how Azure can be applied to help you with specific use cases, such as in the next exercise!*
