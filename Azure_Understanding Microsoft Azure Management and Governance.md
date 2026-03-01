@@ -45,3 +45,8 @@ Yes, but only with the help of a third-party application from Azure Marketplace
 Yes, but this is only available for the US and Europe
 ```
 *Perfect! You can take into account regional differences in compliance and data protection with the help of Azure Regions. These are geographical areas where the physical Azure data centers reside. Azure also uses them to define boundaries for data residency and compliance.*
+
+### Concepts of cost management and governance
+In the video, we saw some important concepts related to cost management and governance in Azure.
+
+In this exercise, we'll put your knowledge to the test by linking these concepts to the right description.
