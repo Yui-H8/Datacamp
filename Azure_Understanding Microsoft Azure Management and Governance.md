@@ -4,3 +4,8 @@
 
 This course is the third course in preparing you for the Azure Fundamentals (AZ-900) exam. Through interactive exercises and videos, you will learn about managing and governing resources in Microsoft Azure, focusing on tools for resource management, cost control, and security. Key topics include Azure Resource Manager (ARM), role-based access control (RBAC), cost management, and monitoring.
 
+---
+### Azure resources vs. services
+You'll often encounter 'resources' and 'services' when working with Azure. They are both important building blocks in Azure.
+
+What is the difference between a resource and a service?
