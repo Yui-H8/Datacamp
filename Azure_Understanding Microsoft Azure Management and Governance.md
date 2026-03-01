@@ -50,3 +50,9 @@ Yes, but this is only available for the US and Europe
 In the video, we saw some important concepts related to cost management and governance in Azure.
 
 In this exercise, we'll put your knowledge to the test by linking these concepts to the right description.
+
+Link the following key words to the right descriptions by placing them in order.
+1. Governance
+2. Azure Marketplace
+3. Compliance
+4. Pay-as-you-go
