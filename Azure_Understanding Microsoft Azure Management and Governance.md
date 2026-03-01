@@ -72,3 +72,7 @@ Establish and manage budgets to control spending within predefined limits. Set u
 **Financial control and optimization**
 
 Manage costs effectively, ensuring you have the tools needed to optimize spending, maintain financial control, and align cloud resources with business objectives.
+
+**Cost analysis**
+
+Access detailed cost analysis tools and custom reports to understand spending patterns across different Azure services. Visualize cost data to identify areas for optimization.
