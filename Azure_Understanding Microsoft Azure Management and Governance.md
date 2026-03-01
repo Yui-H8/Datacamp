@@ -62,10 +62,13 @@ Link the following key words to the right descriptions by placing them in order.
 ### Use case: managing budgets
 You are working for an e-commerce company that uses Azure as its cloud solution. The company would like to ensure cost efficiency, monitor spending, and allocate costs across different departments and projects.
 
-Which tasks can you do with the help of Azure? Select all that apply.
-
+Which tasks can you do with the help of Azure? Select all that apply.   
 To help you along, you can explore the prompts to learn more about the main features of cost management in Azure.
 
 **Budget management**
 
 Establish and manage budgets to control spending within predefined limits. Set up alerts to receive notifications when actual spending approaches or exceeds budget thresholds.
+
+**Financial control and optimization**
+
+Manage costs effectively, ensuring you have the tools needed to optimize spending, maintain financial control, and align cloud resources with business objectives.
