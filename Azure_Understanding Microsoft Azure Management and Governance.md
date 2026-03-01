@@ -32,3 +32,5 @@ Which of the options below are possible use cases for the Azure management and g
 You are in charge of the management and governance of a web application in Azure. The application consists of a dashboard with regularly updated financial performance data, displaying real-time information on revenue, expenses, and profit margins.
 
 Which statements are true or false with respect to your use of Azure?
+
+*Well done! You now know more about how Azure management and governance can be relevant for different use cases and tasks. In the following videos and exercises, we'll go deeper into cost management and governance.*
