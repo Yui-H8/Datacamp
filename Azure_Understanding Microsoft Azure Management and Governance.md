@@ -20,3 +20,9 @@ A resource is a set of features in Azure, and a service is the product of a reso
 Azure provides you with a set of services to help you with the management and governance of your data, applications and other resources in Azure.
 
 Which of the options below are possible use cases for the Azure management and governance services? Select all that apply.
+```
+Implement data protection standards
+Manage resources of web applications, such as a dashboard
+Analyze the performance of web applications
+Optimize costs to avoid overspending
+```
