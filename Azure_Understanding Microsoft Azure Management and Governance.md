@@ -21,8 +21,9 @@ Azure provides you with a set of services to help you with the management and go
 
 Which of the options below are possible use cases for the Azure management and governance services? Select all that apply.
 ```
-Implement data protection standards
-Manage resources of web applications, such as a dashboard
-Analyze the performance of web applications
-Optimize costs to avoid overspending
+〇 Implement data protection standards
+〇 Manage resources of web applications, such as a dashboard
+〇 Analyze the performance of web applications
+〇 Optimize costs to avoid overspending
 ```
+*Well done! All these options are indeed specific use cases for which you can use Azure. It is a comprehensive cloud platform with a lot of functionality.*
