@@ -27,3 +27,8 @@ Which of the options below are possible use cases for the Azure management and g
 〇 Optimize costs to avoid overspending
 ```
 *Well done! All these options are indeed specific use cases for which you can use Azure. It is a comprehensive cloud platform with a lot of functionality.*
+
+### Use case: dashboard performance
+You are in charge of the management and governance of a web application in Azure. The application consists of a dashboard with regularly updated financial performance data, displaying real-time information on revenue, expenses, and profit margins.
+
+Which statements are true or false with respect to your use of Azure?
