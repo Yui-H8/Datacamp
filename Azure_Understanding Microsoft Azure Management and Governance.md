@@ -76,3 +76,7 @@ Manage costs effectively, ensuring you have the tools needed to optimize spendin
 **Cost analysis**
 
 Access detailed cost analysis tools and custom reports to understand spending patterns across different Azure services. Visualize cost data to identify areas for optimization.
+
+**Manage Azure spending**
+
+Enable proactive monitoring and control over Azure spending, helping organizations stay within budget constraints.
