@@ -34,3 +34,7 @@ You are in charge of the management and governance of a web application in Azure
 Which statements are true or false with respect to your use of Azure?
 
 *Well done! You now know more about how Azure management and governance can be relevant for different use cases and tasks. In the following videos and exercises, we'll go deeper into cost management and governance.*
+
+---
+### Regional differences in compliance
+Can you take into account regional differences when using Azure for compliance?
