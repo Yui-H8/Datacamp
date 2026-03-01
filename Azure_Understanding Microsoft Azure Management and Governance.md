@@ -65,3 +65,7 @@ You are working for an e-commerce company that uses Azure as its cloud solution.
 Which tasks can you do with the help of Azure? Select all that apply.
 
 To help you along, you can explore the prompts to learn more about the main features of cost management in Azure.
+
+**Budget management**
+
+Establish and manage budgets to control spending within predefined limits. Set up alerts to receive notifications when actual spending approaches or exceeds budget thresholds.
