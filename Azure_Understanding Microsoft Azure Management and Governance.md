@@ -38,3 +38,9 @@ Which statements are true or false with respect to your use of Azure?
 ---
 ### Regional differences in compliance
 Can you take into account regional differences when using Azure for compliance?
+```
+No, this is not possible in Azure
+Yes, Azure supports regional differences in compliance
+Yes, but only with the help of a third-party application from Azure Marketplace
+Yes, but this is only available for the US and Europe
+```
