@@ -15,3 +15,8 @@ A resource and a service are the same thing in Azure.
 A resource is a set of features in Azure, and a service is the product of a resource.
 ```
 *That's right! Services and resources are important building blocks of Azure; we'll talk about both often throughout the course.*
+
+### Possible use cases for management and governance
+Azure provides you with a set of services to help you with the management and governance of your data, applications and other resources in Azure.
+
+Which of the options below are possible use cases for the Azure management and governance services? Select all that apply.
