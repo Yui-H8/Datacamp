@@ -116,3 +116,6 @@ To get you started, you can ask ChatGPT: 'Why is monitoring with Azure important
 > **Cost management**: By monitoring resource usage and performance, organizations can optimize their Azure spending and avoid unnecessary costs.
 > **Compliance**: Monitoring with Azure helps organizations ensure that they are meeting regulatory requirements and industry standards, reducing the risk of non-compliance penalties.
 > **Proactive problem-solving**: Monitoring allows organizations to identify and address issues before they impact users, helping to maintain a positive user experience and minimize downtime.
+
+*Excellent! The advanced monitoring that is available in Azure is one of its main strengths. In the following chapter, we'll dive deeper into cost management and governance.*
+
