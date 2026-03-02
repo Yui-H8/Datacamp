@@ -109,3 +109,10 @@ You are part of a data project. Your team is considering a migration to Azure. O
 Which arguments could you put forward to convince management of the advantages of monitoring with Azure? Select all that apply.
 
 To get you started, you can ask ChatGPT: 'Why is monitoring with Azure important? Name five key reasons'.
+
+> Why is monitoring with Azure important? Name five key reasons
+> **Security**: Monitoring with Azure allows organizations to detect and respond to security threats in real-time, helping to protect sensitive data and prevent breaches.
+> **Performance optimization**: Monitoring helps organizations identify and address performance issues, ensuring that applications and services run smoothly and efficiently.
+> **Cost management**: By monitoring resource usage and performance, organizations can optimize their Azure spending and avoid unnecessary costs.
+> **Compliance**: Monitoring with Azure helps organizations ensure that they are meeting regulatory requirements and industry standards, reducing the risk of non-compliance penalties.
+> **Proactive problem-solving**: Monitoring allows organizations to identify and address issues before they impact users, helping to maintain a positive user experience and minimize downtime.
