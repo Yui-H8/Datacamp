@@ -80,3 +80,5 @@ Access detailed cost analysis tools and custom reports to understand spending pa
 **Manage Azure spending**
 
 Enable proactive monitoring and control over Azure spending, helping organizations stay within budget constraints.
+
+*Well done! Another example of a task would be to manage resource usage and monitor costs to identify optimization opportunities. You'll learn more about resource management and monitoring in the next video.*
