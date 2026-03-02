@@ -84,7 +84,10 @@ Enable proactive monitoring and control over Azure spending, helping organizatio
 *Well done! Another example of a task would be to manage resource usage and monitor costs to identify optimization opportunities. You'll learn more about resource management and monitoring in the next video.*
 
 ---
+### Benefits of Infrastructure as Code (IaC)
+Azure makes extensive use of Infrastructure as Code (IaC) principles. IaC is a practice that involves managing infrastructure resources using code and automation tools rather than manual processes.
 
+What are the main benefits of using IaC for Azure resources? Select all that apply.
 ```
 Provides consistency and reproducibility
 press
