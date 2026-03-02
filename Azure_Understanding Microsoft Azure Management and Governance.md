@@ -100,3 +100,5 @@ Easy to learn
 Azure has two important features for managing resources: resource tags and resource locks.
 
 These features help you organize resources and apply metadata to help identify and protect them. You're likely to make use of them for a wide range of tasks.
+
+*Congratulations! Both resource tags and locks are complementary; for example, you could tag resources as 'critical' and then apply locks to prevent deletion or modifications.*
