@@ -119,3 +119,10 @@ To get you started, you can ask ChatGPT: 'Why is monitoring with Azure important
 
 *Excellent! The advanced monitoring that is available in Azure is one of its main strengths. In the following chapter, we'll dive deeper into cost management and governance.*
 
+---
+### Create a resource
+You are part of a project team that creates machine learning applications (ML apps) supported by Azure. Your first task is to create the first resource for the project, a virtual machine (VM). You have received the following minimum requirements for the VM:
+
+the region should be 'East-US' for cost optimization
+its size should be set to the lowest option
+authentication for the administrator should be set to password
