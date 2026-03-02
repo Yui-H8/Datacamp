@@ -102,3 +102,10 @@ Azure has two important features for managing resources: resource tags and resou
 These features help you organize resources and apply metadata to help identify and protect them. You're likely to make use of them for a wide range of tasks.
 
 *Congratulations! Both resource tags and locks are complementary; for example, you could tag resources as 'critical' and then apply locks to prevent deletion or modifications.*
+
+### Use case: monitoring with Azure
+You are part of a data project. Your team is considering a migration to Azure. One of the key reasons for this move is Azure's comprehensive features for monitoring the project's resources and applications. You need to present your case to management.
+
+Which arguments could you put forward to convince management of the advantages of monitoring with Azure? Select all that apply.
+
+To get you started, you can ask ChatGPT: 'Why is monitoring with Azure important? Name five key reasons'.
