@@ -89,8 +89,9 @@ Azure makes extensive use of Infrastructure as Code (IaC) principles. IaC is a p
 
 What are the main benefits of using IaC for Azure resources? Select all that apply.
 ```
-Provides consistency and reproducibility
-Makes it easier to document and share knowledge
+〇 Provides consistency and reproducibility
+〇 Makes it easier to document and share knowledge
 Easy to learn
-More efficient and less error-prone
+〇 More efficient and less error-prone
 ```
+*Well done! IaC allows standardized and automated infrastructure management, resulting in increased consistency and efficiency while reducing errors and improving collaboration.*
