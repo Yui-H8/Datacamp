@@ -95,3 +95,8 @@ Easy to learn
 〇 More efficient and less error-prone
 ```
 *Well done! IaC allows standardized and automated infrastructure management, resulting in increased consistency and efficiency while reducing errors and improving collaboration.*
+
+### Resource tags and resource locks
+Azure has two important features for managing resources: resource tags and resource locks.
+
+These features help you organize resources and apply metadata to help identify and protect them. You're likely to make use of them for a wide range of tasks.
