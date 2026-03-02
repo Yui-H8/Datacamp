@@ -126,3 +126,5 @@ You are part of a project team that creates machine learning applications (ML ap
 the region should be 'East-US' for cost optimization
 its size should be set to the lowest option
 authentication for the administrator should be set to password
+
+1. From the Azure Portal, click on Create a resource and create a new virtual machine.
