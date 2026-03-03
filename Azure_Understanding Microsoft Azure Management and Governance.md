@@ -142,3 +142,6 @@ authentication for the administrator should be set to password
    * Name: "project"
    * Value: "ML-apps"
    * You can ignore the pop-up about a recommendation for the region if you see one.
+5. Go to the Review + Create tab to validate and create the virtual machine.
+   * If there is an error it might be because there is no virtual network. If necessary, navigate to Networking and create a Virtual Network with settings of your choice.
+   * Make sure the Public IP setting right below is set to None.
