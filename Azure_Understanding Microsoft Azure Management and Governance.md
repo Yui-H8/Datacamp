@@ -151,3 +151,5 @@ authentication for the administrator should be set to password
 You've successfully created a virtual machine for the ML apps project. However, the project manager has decided to make the project name tag more specific to "fraud detection". The resource tags need to be updated to reflect this.
 
 As the virtual machine is a critical resource, you'll also need to add an additional tag that identifies it as a critical resource. Later this can be used to apply locks if needed or to monitor critical resources specifically.
+
+1. From the Azure Portal, go to the overview screen of the resource vm-01 you've created in the previous exercise.
