@@ -102,6 +102,7 @@ https://app.datacamp.com/learn/courses/
 * Responsible AI Practices
 * Generative AI for Business
 * Data Science for Business
+* Generative AI Concepts
 
 ---
 
