@@ -14,3 +14,9 @@ You've seen a few examples of these powerful generative AI models in action, fro
 In this exercise, you'll put your knowledge of generative AI to the test! You've also been provided with an interactive playground, so you can interact with DataCamp's own version of ChatGPT, a generative AI chatbot.
 
 Which of the following best describes generative AI?
+```
+A subcategory of AI that focuses on image generation
+〇 A class of machine learning that can generate new, original content based on input data it has seen
+A type of AI that requires text-based prompts to generate human-like responses
+A type of chatbot that uses prompts to generate responses and simulates human-like conversation
+```
