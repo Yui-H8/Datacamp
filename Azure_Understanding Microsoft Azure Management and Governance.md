@@ -129,3 +129,4 @@ authentication for the administrator should be set to password
 
 1. From the Azure Portal, click on Create a resource and create a new virtual machine.
 2. Fill in the required settings of the virtual machine as follows and leave the other settings at their default value.
+3. Go to Disks and set Standard HDD as the OS disk. Go to Networking and set Public IP to None.
