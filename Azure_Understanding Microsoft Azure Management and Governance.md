@@ -155,3 +155,4 @@ As the virtual machine is a critical resource, you'll also need to add an additi
 1. From the Azure Portal, go to the overview screen of the resource vm-01 you've created in the previous exercise.
 2. Edit the tags: change the existing tag from project: ML-apps to "project: fraud-detection".
    * Add a new tag: / Name: "classification" / Value: "critical"
+3. Which tag does NOT exist in the Virtual Machine vm-01 that you created?
