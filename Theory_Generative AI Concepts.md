@@ -6,3 +6,11 @@ Artificial Intelligence (AI) is reshaping our world like never before. Generativ
 
 
 The videos contain live transcripts, which can be accessed by clicking "Show transcript" at the bottom left of the videos.
+
+---
+### Getting to know generative AI
+You've seen a few examples of these powerful generative AI models in action, from creating magazine covers to chatting with users just like a human would.
+
+In this exercise, you'll put your knowledge of generative AI to the test! You've also been provided with an interactive playground, so you can interact with DataCamp's own version of ChatGPT, a generative AI chatbot.
+
+Which of the following best describes generative AI?
