@@ -21,3 +21,6 @@ A type of AI that requires text-based prompts to generate human-like responses
 A type of chatbot that uses prompts to generate responses and simulates human-like conversation
 ```
 *Perfect! Generative AI creates new content, such as text, images, or other data types, in response to prompts. Such models have diverse applications across various industries.*
+
+### Working with a generative AI model
+You've seen some examples of generative AI models being used to create new content. Although these models can input and output a huge variety of data types, the general process is always the same.
