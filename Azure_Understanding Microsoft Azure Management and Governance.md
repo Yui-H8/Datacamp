@@ -137,4 +137,8 @@ authentication for the administrator should be set to password
    * Authentication type: password
    * Username: "student-dc"
    * Password: "AFmgDCvm258!" 
-4. Go to Disks and set Standard HDD as the OS disk. Go to Networking and set Public IP to None.
+3. Go to Disks and set Standard HDD as the OS disk. Go to Networking and set Public IP to None.
+4. Go to the tab Tags and fill in the following tag.
+   * Name: "project"
+   * Value: "ML-apps"
+   * You can ignore the pop-up about a recommendation for the region if you see one.
