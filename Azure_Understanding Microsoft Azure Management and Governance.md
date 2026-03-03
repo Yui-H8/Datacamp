@@ -146,3 +146,8 @@ authentication for the administrator should be set to password
    * If there is an error it might be because there is no virtual network. If necessary, navigate to Networking and create a Virtual Network with settings of your choice.
    * Make sure the Public IP setting right below is set to None.
 6. What are resource tags mainly used for?
+
+### Changing and adding tags
+You've successfully created a virtual machine for the ML apps project. However, the project manager has decided to make the project name tag more specific to "fraud detection". The resource tags need to be updated to reflect this.
+
+As the virtual machine is a critical resource, you'll also need to add an additional tag that identifies it as a critical resource. Later this can be used to apply locks if needed or to monitor critical resources specifically.
