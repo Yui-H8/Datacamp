@@ -129,4 +129,12 @@ authentication for the administrator should be set to password
 
 1. From the Azure Portal, click on Create a resource and create a new virtual machine.
 2. Fill in the required settings of the virtual machine as follows and leave the other settings at their default value.
-3. Go to Disks and set Standard HDD as the OS disk. Go to Networking and set Public IP to None.
+   * Subscription: select the only available option
+   * Resource group: select the available resource group (student-)
+   * Virtual machine name: "vm-01"
+   * Region: (US) East US
+   * Size: click on See all sizes and select the first available option (DS1_v2).
+   * Authentication type: password
+   * Username: "student-dc"
+   * Password: "AFmgDCvm258!" 
+4. Go to Disks and set Standard HDD as the OS disk. Go to Networking and set Public IP to None.
