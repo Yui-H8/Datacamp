@@ -56,3 +56,6 @@ Structures that utilize Artificial General Intelligence (AGI) to create original
 Layers of predictive models that produce generative responses
 ```
 *Perfect! Generative AI models can produce such high-quality, creative works because they combine many techniques.*
+
+### More dogs and GANs
+Here are the results of a dog image generation GAN as it trains over time to create the most realistic-looking dog images that it can.
