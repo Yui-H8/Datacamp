@@ -44,3 +44,8 @@ Operating a self-driving car
 Your turn to be a 'discriminative model'! A discriminative model can classify things, and that's exactly what you'll do next. Classify the following tasks according to which type of model, generative or discriminative, is best suited to address them.
 
 *Congratulations, you've got a great grasp of how activities require discriminative models or generative AI to complete.*
+
+### Differentiating generative AI from traditional ML
+The video covered key features of discriminative and generative models, as well as artificial general intelligence (AGI).
+
+Which of the following describes generative AI model structures?
