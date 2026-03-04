@@ -59,3 +59,8 @@ Layers of predictive models that produce generative responses
 
 ### More dogs and GANs
 Here are the results of a dog image generation GAN as it trains over time to create the most realistic-looking dog images that it can.
+
+Remember that a GAN consists of two models in competition:
+* A generator model tries to create fake data that looks indistinguishable from real data
+* A discriminator model tries to tell the difference between real and fake data   
+How would you describe what's happening to the results as training progresses?
