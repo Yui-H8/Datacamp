@@ -29,3 +29,6 @@ You've seen some examples of generative AI models being used to create new conte
 Generative AI can be applied in real-world professions, across a variety of industries and roles. That being said, it isn't a one-stop solution for every problem. In this exercise, you'll test your understanding of generative AI's usage in real-world applications.
 
 Which of the following can be accomplished with generative AI?
+
+
+*Well done! You're building a solid understanding of how generative AI can be used in the real world. Head on over to the next video to learn about how generative AI fits into the machine learning landscape!*
