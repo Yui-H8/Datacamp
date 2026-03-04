@@ -67,6 +67,7 @@ How would you describe what's happening to the results as training progresses?
 ```
 Dogs look less realistic over time, as the generator gets better at tricking the discriminator
 Images improve, because the generator gets better at calling out fakes made by the discriminator
-Results improve, because the models share notes after each round of competition and incorporate feedback
+〇 Results improve, because the models share notes after each round of competition and incorporate feedback
 Dogs look more realistic, owing to the large size of the training dataset
 ```
+*Correct! As GANs train, the generator and discriminator share feedback after each round of competition, leading to more realistic pups.*
