@@ -71,3 +71,9 @@ Images improve, because the generator gets better at calling out fakes made by t
 Dogs look more realistic, owing to the large size of the training dataset
 ```
 *Correct! As GANs train, the generator and discriminator share feedback after each round of competition, leading to more realistic pups.*
+
+---
+### Driving the field forward
+You've learned about several key factors that drive the evolution of generative AI, leading to the amazing AI-powered consumer products you see today.
+
+Which of the following is not a key factor that drives the advancement of generative AI models?
