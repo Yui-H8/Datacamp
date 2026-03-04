@@ -81,6 +81,7 @@ Which of the following is not a key factor that drives the advancement of genera
 Computing power to run models
 Availability of training data
 Competitive interests among public technology companies
-Government regulation
+〇 Government regulation
 Breakthrough model design research
 ```
+*Correct! Regulation is constantly evolving as generative AI evolves, and this does not directly contribute to the development of generative AI. In some cases, regulation may slow it down!*
