@@ -49,3 +49,9 @@ Your turn to be a 'discriminative model'! A discriminative model can classify th
 The video covered key features of discriminative and generative models, as well as artificial general intelligence (AGI).
 
 Which of the following describes generative AI model structures?
+```
+Complex systems made up of multiple, interconnected generative models working together to produce a result
+Structures that utilize Artificial General Intelligence (AGI) to create original and relevant responses to inputs
+Generative models and other machine learning techniques utilized together in specialized architectures
+Layers of predictive models that produce generative responses
+```
