@@ -39,3 +39,6 @@ Operating a self-driving car
 ```
 
 *Well done! You're building a solid understanding of how generative AI can be used in the real world. Head on over to the next video to learn about how generative AI fits into the machine learning landscape!*
+
+### Picking the right tool for the job
+Your turn to be a 'discriminative model'! A discriminative model can classify things, and that's exactly what you'll do next. Classify the following tasks according to which type of model, generative or discriminative, is best suited to address them.
