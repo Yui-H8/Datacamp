@@ -24,3 +24,8 @@ A type of chatbot that uses prompts to generate responses and simulates human-li
 
 ### Working with a generative AI model
 You've seen some examples of generative AI models being used to create new content. Although these models can input and output a huge variety of data types, the general process is always the same.
+
+### Applications of generative AI
+Generative AI can be applied in real-world professions, across a variety of industries and roles. That being said, it isn't a one-stop solution for every problem. In this exercise, you'll test your understanding of generative AI's usage in real-world applications.
+
+Which of the following can be accomplished with generative AI?
