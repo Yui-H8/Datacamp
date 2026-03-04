@@ -77,3 +77,10 @@ Dogs look more realistic, owing to the large size of the training dataset
 You've learned about several key factors that drive the evolution of generative AI, leading to the amazing AI-powered consumer products you see today.
 
 Which of the following is not a key factor that drives the advancement of generative AI models?
+```
+Computing power to run models
+Availability of training data
+Competitive interests among public technology companies
+Government regulation
+Breakthrough model design research
+```
