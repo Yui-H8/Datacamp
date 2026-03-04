@@ -52,6 +52,7 @@ Which of the following describes generative AI model structures?
 ```
 Complex systems made up of multiple, interconnected generative models working together to produce a result
 Structures that utilize Artificial General Intelligence (AGI) to create original and relevant responses to inputs
-Generative models and other machine learning techniques utilized together in specialized architectures
+〇 Generative models and other machine learning techniques utilized together in specialized architectures
 Layers of predictive models that produce generative responses
 ```
+*Perfect! Generative AI models can produce such high-quality, creative works because they combine many techniques.*
