@@ -92,3 +92,7 @@ Transformers have been a game-changer for generative AI, allowing text-generatin
 You've been provided with a sentence, Transformers excel at grasping the context of text, which allows them to generate more coherent responses., where the word "them" refers to another word in the sentence.
 
 Use the application provided to explore the likelihood that "them" refers to each word in the sentence.
+
+Which word does "them" refer to in the sentence, "Transformers excel at grasping the context of text, which allows them to generate more coherent responses."
+> answer: Transformers
+
