@@ -64,3 +64,9 @@ Remember that a GAN consists of two models in competition:
 * A generator model tries to create fake data that looks indistinguishable from real data
 * A discriminator model tries to tell the difference between real and fake data   
 How would you describe what's happening to the results as training progresses?
+```
+Dogs look less realistic over time, as the generator gets better at tricking the discriminator
+Images improve, because the generator gets better at calling out fakes made by the discriminator
+Results improve, because the models share notes after each round of competition and incorporate feedback
+Dogs look more realistic, owing to the large size of the training dataset
+```
