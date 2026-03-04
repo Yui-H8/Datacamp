@@ -85,3 +85,10 @@ Competitive interests among public technology companies
 Breakthrough model design research
 ```
 *Correct! Regulation is constantly evolving as generative AI evolves, and this does not directly contribute to the development of generative AI. In some cases, regulation may slow it down!*
+
+### Transformers
+Transformers have been a game-changer for generative AI, allowing text-generating AI models to gain a much deeper understanding of language.
+
+You've been provided with a sentence, Transformers excel at grasping the context of text, which allows them to generate more coherent responses., where the word "them" refers to another word in the sentence.
+
+Use the application provided to explore the likelihood that "them" refers to each word in the sentence.
