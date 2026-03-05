@@ -13,4 +13,7 @@ As part of your onboarding, your manager has asked you to explore how generative
 Your task is to identify practical ways generative AI might support research, analysis, and client delivery. Your findings will form the foundation of a short presentation you'll deliver to your team later this week.
 
 1. Welcome to Microsoft Copilot
-   
+   * You've been automatically logged into your own Copilot account!
+   * Make sure to close any undesirable pop-ups to avoid distraction.
+   * The page should load showing a blank chat window.
+   * Navigate to the next steps to get started.
