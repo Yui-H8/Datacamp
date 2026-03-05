@@ -27,3 +27,5 @@ After exploring AI use-cases, your manager is impressed with your initiative. Sh
 A retail client is considering expanding into the European market and needs a quick competitive landscape analysis. Your manager emphasizes that getting good results from AI starts with structured prompting.
 
 Using the GSCE framework (Goal, Style, Context, Examples), craft a prompt that will help you analyze the competitive landscape for your client's European expansion. For this exercise, focus on Goal, Style, and Context—Examples are not required.
+
+1. Craft a prompt that will help you analyze the competitive landscape for your client's European expansion:
