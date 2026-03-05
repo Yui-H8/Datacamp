@@ -31,3 +31,4 @@ Using the GSCE framework (Goal, Style, Context, Examples), craft a prompt that w
 1. Craft a prompt that will help you analyze the competitive landscape for your client's European expansion:
    * Start a new Copilot Chat to clear any previous conversation.
    * In the prompt box, begin writing your prompt by stating the Goal—what specific output you want from Copilot. Don't send the prompt just yet!
+2. Add Style guidance to your prompt—specify the tone, structure, or format you want. For example, a neutral analytical tone and formatting using Porter's Five Forces framework with bullet points for each competitor.
