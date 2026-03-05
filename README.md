@@ -108,3 +108,4 @@ https://app.datacamp.com/learn/courses/
 
 ### Copilot
 * Working with Microsoft Copilot
+* AI for Consulting
