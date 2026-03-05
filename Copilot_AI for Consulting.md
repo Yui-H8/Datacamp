@@ -42,3 +42,10 @@ Using the GSCE framework (Goal, Style, Context, Examples), craft a prompt that w
 You're advising a US-based EV-charging company considering market entry into Germany. Before your client's leadership meeting tomorrow, you need to synthesize findings from three different sources into a single comparison table and flag any inconsistencies. The sources include a Trade.gov market intelligence article, an academic paper on EV subsidies, and a government infographic on charging infrastructure.
 
 Your task is to create a comparison table that compares these sources across four key topics (Market Size, Policy Instruments, Charging Infrastructure, and Consumer Behavior) to check for any contradictions or data inconsistencies.
+
+1. Start a new chat for the new task, and upload files using the + button.
+   * Provide Copilot with the three research sources, which you can upload from Desktop > Resources:
+   * The Trade.gov market intelligence german_ev_infrastructure.pdf (Original Source)
+   * The academic paper public_purchasing_subsidies.pdf (Original Source)
+   * The government infographic german_electric_mobility.pdf (Original Source)
+     
