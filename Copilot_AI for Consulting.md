@@ -34,3 +34,4 @@ Using the GSCE framework (Goal, Style, Context, Examples), craft a prompt that w
 2. Add Style guidance to your prompt—specify the tone, structure, or format you want. For example, a neutral analytical tone and formatting using Porter's Five Forces framework with bullet points for each competitor.
 3. Add Context to your prompt—include relevant background information such as client industry, target market, and any constraints. Do not send the prompt yet.
 4. Review your complete GSCE prompt to ensure it includes Goal, Style, and Context. Send it to Copilot and observe how the structured prompt influences the output quality.
+> Goal: Analyze a retail competitive landscape in European market for my client. / Style: a neutral analytical and formatting using Porter's Five Forces framework with bullet points for each competitor. / Context: client industry is retail, they want to expand into Euro.
