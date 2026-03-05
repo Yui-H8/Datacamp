@@ -39,3 +39,6 @@ Using the GSCE framework (Goal, Style, Context, Examples), craft a prompt that w
 *Well done! You've successfully applied the GSCE framework to craft a structured prompt. Notice how including Goal, Style, and Context helps Copilot deliver more relevant and actionable insights. This approach will serve you well throughout your consulting projects!*
 
 ### Turn Multiple Sources Into One Story
+You're advising a US-based EV-charging company considering market entry into Germany. Before your client's leadership meeting tomorrow, you need to synthesize findings from three different sources into a single comparison table and flag any inconsistencies. The sources include a Trade.gov market intelligence article, an academic paper on EV subsidies, and a government infographic on charging infrastructure.
+
+Your task is to create a comparison table that compares these sources across four key topics (Market Size, Policy Instruments, Charging Infrastructure, and Consumer Behavior) to check for any contradictions or data inconsistencies.
