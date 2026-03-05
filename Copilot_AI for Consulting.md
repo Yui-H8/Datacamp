@@ -22,3 +22,8 @@ Your task is to identify practical ways generative AI might support research, an
 *Nice work! You successfully prompted Copilot to explore AI use cases in consultancy. This first interaction helps you see how Copilot can brainstorm practical applications. You’ll explore some more as you move through the course!*
 
 ### GSCE: The Prompting Formula That Works
+After exploring AI use-cases, your manager is impressed with your initiative. She now wants to see you apply what you've learned.
+
+A retail client is considering expanding into the European market and needs a quick competitive landscape analysis. Your manager emphasizes that getting good results from AI starts with structured prompting.
+
+Using the GSCE framework (Goal, Style, Context, Examples), craft a prompt that will help you analyze the competitive landscape for your client's European expansion. For this exercise, focus on Goal, Style, and Context—Examples are not required.
