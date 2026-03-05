@@ -29,3 +29,5 @@ A retail client is considering expanding into the European market and needs a qu
 Using the GSCE framework (Goal, Style, Context, Examples), craft a prompt that will help you analyze the competitive landscape for your client's European expansion. For this exercise, focus on Goal, Style, and Context—Examples are not required.
 
 1. Craft a prompt that will help you analyze the competitive landscape for your client's European expansion:
+   * Start a new Copilot Chat to clear any previous conversation.
+   * In the prompt box, begin writing your prompt by stating the Goal—what specific output you want from Copilot. Don't send the prompt just yet!
