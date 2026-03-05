@@ -11,3 +11,6 @@ You've just joined the consulting team at Meridian Advisory, a boutique manageme
 As part of your onboarding, your manager has asked you to explore how generative AI tools, such as Microsoft Copilot, could enhance the firm's consulting workflows and client outcomes.
 
 Your task is to identify practical ways generative AI might support research, analysis, and client delivery. Your findings will form the foundation of a short presentation you'll deliver to your team later this week.
+
+1. Welcome to Microsoft Copilot
+   
