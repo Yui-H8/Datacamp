@@ -37,3 +37,5 @@ Using the GSCE framework (Goal, Style, Context, Examples), craft a prompt that w
 > Goal: Analyze a retail competitive landscape in European market for my client. / Style: a neutral analytical and formatting using Porter's Five Forces framework with bullet points for each competitor. / Context: client industry is retail, they want to expand into Euro.
 
 *Well done! You've successfully applied the GSCE framework to craft a structured prompt. Notice how including Goal, Style, and Context helps Copilot deliver more relevant and actionable insights. This approach will serve you well throughout your consulting projects!*
+
+### Turn Multiple Sources Into One Story
