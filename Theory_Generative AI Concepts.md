@@ -96,3 +96,5 @@ Use the application provided to explore the likelihood that "them" refers to eac
 Which word does "them" refer to in the sentence, "Transformers excel at grasping the context of text, which allows them to generate more coherent responses."
 > answer: Transformers
 
+### Generative AI breakthroughs
+You've reviewed three key model innovations in the history of generative AI that have driven the rapid evolution of AI. Do you remember how each makes for better models?
