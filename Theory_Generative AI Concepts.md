@@ -98,3 +98,5 @@ Which word does "them" refer to in the sentence, "Transformers excel at grasping
 
 ### Generative AI breakthroughs
 You've reviewed three key model innovations in the history of generative AI that have driven the rapid evolution of AI. Do you remember how each makes for better models?
+
+*Congratulations, you now know many of the key model innovations that led to the blossoming of generative AI. By the way, you just finished Chapter 1! Enjoying the course so far? Tell us what you think on Twitter.*
