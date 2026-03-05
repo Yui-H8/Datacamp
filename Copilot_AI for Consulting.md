@@ -17,3 +17,4 @@ Your task is to identify practical ways generative AI might support research, an
    * Make sure to close any undesirable pop-ups to avoid distraction.
    * The page should load showing a blank chat window.
    * Navigate to the next steps to get started.
+2. Write a simple prompt to Copilot, asking for a list of five use-cases for generative AI in consultancy.
