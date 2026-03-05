@@ -48,4 +48,4 @@ Your task is to create a comparison table that compares these sources across fou
    * The Trade.gov market intelligence german_ev_infrastructure.pdf (Original Source)
    * The academic paper public_purchasing_subsidies.pdf (Original Source)
    * The government infographic german_electric_mobility.pdf (Original Source)
-     
+   Note: You can use Ctrl + Left-Click to select multiple files at once inside the VM's file explorer window.
