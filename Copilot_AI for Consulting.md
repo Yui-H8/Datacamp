@@ -51,3 +51,4 @@ Your task is to create a comparison table that compares these sources across fou
      
 Note: You can use Ctrl + Left-Click to select multiple files at once inside the VM's file explorer window.
 2. Prompt Copilot to create a comparison table with rows for Market Size, Policy Instruments, Charging Infrastructure, and Consumer Behavior, with one column per source (Website, Paper, Infographic).
+3. In a second prompt, ask Copilot to check the table for any contradictions or inconsistencies across the sources, considering that they come from different years.
