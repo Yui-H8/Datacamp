@@ -81,6 +81,7 @@ https://app.datacamp.com/learn/courses/
 * Understanding Microsoft Azure Architecture and Services
 * Understanding Microsoft Azure
 * Understanding Microsoft Azure Management and Governance
+* Introduction to Microsoft Fabric
 
 ---
 
