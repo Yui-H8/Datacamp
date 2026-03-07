@@ -104,3 +104,4 @@ The tone is too informal for client delivery
 The narrative lacks a logical flow and feels like a list of disconnected facts
 The content contains factually incorrect information
 ```
+> At least one answer is incorrect: The points about "Infrastructure is growing rapidly" and "Infrastructure growth in Western Europe has been particularly strong" overlap. MECE requires each point to be distinct without repetition.
