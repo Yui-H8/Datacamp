@@ -61,3 +61,8 @@ Almost there, but missing a key step! You attached all three files and requested
 *You did it! You've used Copilot to synthesize information from multiple sources into a structured comparison table and validated the data for consistency. This approach saves hours of manual research and helps ensure accuracy in your client deliverables.*
 
 ### When Data Comes in Pictures
+You're continuing your research on the German EV market for your US-based client.
+
+You've noticed that one of the research sources you're working with is an infographic.jpg stored as an image (Original Source). Yesterday, a colleague mentioned that when we ask a model to process visual content, we are using not only its natural language capabilities but also its visual capabilities.
+
+This makes you wonder whether which method is more reliable: uploading an image file or using a link to the image.
