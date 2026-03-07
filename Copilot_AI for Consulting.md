@@ -59,3 +59,5 @@ Incorrect
 Almost there, but missing a key step! You attached all three files and requested a structured comparison table with the correct row and column setup. However, you did NOT ask Copilot to check for contradictions, inconsistencies, or discrepancies across the sources. Always request a consistency check to ensure data reliability.
 ```
 *You did it! You've used Copilot to synthesize information from multiple sources into a structured comparison table and validated the data for consistency. This approach saves hours of manual research and helps ensure accuracy in your client deliverables.*
+
+### When Data Comes in Pictures
