@@ -88,3 +88,12 @@ She has asked you to create a research narrative that organizes this information
 Your prompt should ask for a narrative structured as Situation, Complication, and Resolution, and specify that it must rely solely on the data in the uploaded Excel file.*
 
 ### Is This Narrative Ready?
+You're reviewing an AI-generated research narrative that a colleague created using Microsoft Copilot. The narrative was supposed to follow the Pyramid Principle—starting with a clear top-line message supported by MECE (Mutually Exclusive, Collectively Exhaustive) points.
+
+Here's what Copilot produced:
+
+"The European EV charging market presents interesting dynamics. Infrastructure is growing rapidly, with Germany leading installations. France is also expanding its network significantly. Consumer adoption varies by region, influenced by government incentives. Germany offers substantial purchase subsidies. The regulatory environment continues to evolve across all markets. Infrastructure growth in Western Europe has been particularly strong. Electric vehicle sales are increasing year over year."
+
+Your manager asks you to review this narrative before it goes to the client. You recall the quality checks from your training: question AI output if the narrative feels unclear, if the tone is off, if it doesn't match the framework, or if key insights are missing.
+
+Which of the following issues are present in this AI-generated narrative?
