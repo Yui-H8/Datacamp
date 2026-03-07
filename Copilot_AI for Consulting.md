@@ -79,3 +79,5 @@ This makes you wonder whether which method is more reliable: uploading an image 
 You're advising ShopSphere, a retail technology company planning to launch an AI-powered shopping platform. Your manager has compiled an Excel file (ai_shopping_platform.xlsx) that aggregates market size, consumer behavior, competitive landscape, and regulatory data.
 
 She has asked you to create a research narrative that organizes this information using the SCR framework (Situation, Complication, Resolution). This structured approach will help the leadership team quickly understand the market opportunity and key challenges.
+1. Start a new Copilot Chat to clear any previous conversation.
+   * Upload the ai_shopping_platform.xlsx file from the Resources folder on your Desktop
