@@ -97,3 +97,10 @@ Here's what Copilot produced:
 Your manager asks you to review this narrative before it goes to the client. You recall the quality checks from your training: question AI output if the narrative feels unclear, if the tone is off, if it doesn't match the framework, or if key insights are missing.
 
 Which of the following issues are present in this AI-generated narrative?
+```
+Missing a clear top-line message that summarizes the key insight
+Supporting points overlap and are not MECE
+The tone is too informal for client delivery
+The narrative lacks a logical flow and feels like a list of disconnected facts
+The content contains factually incorrect information
+```
