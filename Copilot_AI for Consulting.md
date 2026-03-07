@@ -83,3 +83,6 @@ She has asked you to create a research narrative that organizes this information
    * Upload the ai_shopping_platform.xlsx file from the Resources folder on your Desktop
 2. Prompt Copilot to generate a research narrative using the SCR framework.
    * Your prompt should ask for a narrative structured as Situation, Complication, and Resolution, and specify that it must rely solely on the data in the uploaded Excel file.
+
+*Prompt Copilot to generate a research narrative using the SCR framework.
+Your prompt should ask for a narrative structured as Situation, Complication, and Resolution, and specify that it must rely solely on the data in the uploaded Excel file.*
