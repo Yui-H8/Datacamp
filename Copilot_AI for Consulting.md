@@ -66,3 +66,5 @@ You're continuing your research on the German EV market for your US-based client
 You've noticed that one of the research sources you're working with is an infographic.jpg stored as an image (Original Source). Yesterday, a colleague mentioned that when we ask a model to process visual content, we are using not only its natural language capabilities but also its visual capabilities.
 
 This makes you wonder whether which method is more reliable: uploading an image file or using a link to the image.
+1. Start a new Copilot Chat to clear any previous conversation.
+   * Prompt Copilot to transcribe the text in the infographic by providing the website link: https://energiewende.bundeswirtschaftsministerium.de/EWD/Redaktion/EN/Newsletter/2021/08/Meldung/direkt-answers-infographic.html
