@@ -71,3 +71,5 @@ This makes you wonder whether which method is more reliable: uploading an image 
 2. Now, upload the infographic.jpg file from the Resources folder on your Desktop and prompt Copilot to transcribe the text from the image.
    * Compare this output to the previous response.
 3. Which response best reflects the model's behavior when extracting information from visual content?
+
+*Which response best reflects the model's behavior when extracting information from visual content?*
