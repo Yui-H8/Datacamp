@@ -68,3 +68,5 @@ You've noticed that one of the research sources you're working with is an infogr
 This makes you wonder whether which method is more reliable: uploading an image file or using a link to the image.
 1. Start a new Copilot Chat to clear any previous conversation.
    * Prompt Copilot to transcribe the text in the infographic by providing the website link: https://energiewende.bundeswirtschaftsministerium.de/EWD/Redaktion/EN/Newsletter/2021/08/Meldung/direkt-answers-infographic.html
+2. Now, upload the infographic.jpg file from the Resources folder on your Desktop and prompt Copilot to transcribe the text from the image.
+   * Compare this output to the previous response.
