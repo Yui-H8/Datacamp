@@ -98,11 +98,13 @@ Your manager asks you to review this narrative before it goes to the client. You
 
 Which of the following issues are present in this AI-generated narrative?
 ```
-Missing a clear top-line message that summarizes the key insight
-Supporting points overlap and are not MECE
+〇 Missing a clear top-line message that summarizes the key insight
+〇 Supporting points overlap and are not MECE
 The tone is too informal for client delivery
-The narrative lacks a logical flow and feels like a list of disconnected facts
+〇 The narrative lacks a logical flow and feels like a list of disconnected facts
 The content contains factually incorrect information
 ```
 > At least one answer is incorrect: The points about "Infrastructure is growing rapidly" and "Infrastructure growth in Western Europe has been particularly strong" overlap. MECE requires each point to be distinct without repetition.
 > Correct! The narrative jumps straight into details without stating the main conclusion upfront. A proper Pyramid structure requires a clear top-line message like "Germany is the most attractive market for EV charging expansion" before supporting points.
+
+*Spot on! You correctly identified that this narrative lacks a clear top-line message, has overlapping (non-MECE) points, and reads as disconnected facts rather than a structured story. These are exactly the issues to watch for when reviewing AI-generated content before client delivery.*
