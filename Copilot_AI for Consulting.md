@@ -86,3 +86,5 @@ She has asked you to create a research narrative that organizes this information
 
 *Prompt Copilot to generate a research narrative using the SCR framework.
 Your prompt should ask for a narrative structured as Situation, Complication, and Resolution, and specify that it must rely solely on the data in the uploaded Excel file.*
+
+### Is This Narrative Ready?
