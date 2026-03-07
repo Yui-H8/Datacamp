@@ -73,3 +73,6 @@ This makes you wonder whether which method is more reliable: uploading an image 
 3. Which response best reflects the model's behavior when extracting information from visual content?
 
 *Which response best reflects the model's behavior when extracting information from visual content?*
+
+---
+### SCR and Pyramid: Structure Your Story
