@@ -16,3 +16,9 @@ Recognize effective techniques for communicating insights, including selecting s
 Data is all around us; we can learn so much about the world around us through data. Being data literate in today's world is important in helping us understand how data can be combined and connected to create value.
 
 What is not a component of data literacy?
+```
+The ability to communicate insights effectively
+The ability to read and understand mathematical functions
+The ability to identify potential data sources
+The ability to understand how to get from data to insights
+```
