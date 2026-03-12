@@ -98,6 +98,7 @@ https://app.datacamp.com/learn/courses/
 * Large Language Models for Business
 * Implementing AI Solutions in Business
 * Introduction to Data Privacy
+* Introduction to Data Literacy
 * Understanding GDPR
 * Artificial Intelligence Governance
 * Responsible AI Practices
