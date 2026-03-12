@@ -26,3 +26,5 @@ The ability to understand how to get from data to insights
 
 ### The data literacy toolbox
 To help us read, analyze and communicate data, there are several tools at our disposal.
+
+*Great! Reading, interpreting and communicating data comes easier with the right tools.*
