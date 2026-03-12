@@ -18,7 +18,8 @@ Data is all around us; we can learn so much about the world around us through da
 What is not a component of data literacy?
 ```
 The ability to communicate insights effectively
-The ability to read and understand mathematical functions
+〇 The ability to read and understand mathematical functions
 The ability to identify potential data sources
 The ability to understand how to get from data to insights
 ```
+*Good job! It is not necessary at all to learn mathematical functions to become data literate.*
