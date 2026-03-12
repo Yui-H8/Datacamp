@@ -23,3 +23,6 @@ The ability to identify potential data sources
 The ability to understand how to get from data to insights
 ```
 *Good job! It is not necessary at all to learn mathematical functions to become data literate.*
+
+### The data literacy toolbox
+To help us read, analyze and communicate data, there are several tools at our disposal.
