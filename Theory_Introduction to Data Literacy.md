@@ -68,3 +68,5 @@ Insight allows us to apply knowledge and take action
 How does raw data become actionable wisdom? Explore the interactive tool to see the DIKW pyramid in action across three domains: Retail, Fitness, and Education. Select a domain, then click through each level of the pyramid (Data → Information → Knowledge → Wisdom) to see how information builds at each stage.
 
 Once you've explored the examples, answer the question.
+
+Based on the examples, what transformation occurs when moving from Information to Knowledge?
