@@ -70,3 +70,9 @@ How does raw data become actionable wisdom? Explore the interactive tool to see 
 Once you've explored the examples, answer the question.
 
 Based on the examples, what transformation occurs when moving from Information to Knowledge?
+```
+Raw observations are collected through measurements
+Data is organized and placed into context
+Patterns are identified and predictions become possible
+Knowledge is applied to make decisions and take action
+```
