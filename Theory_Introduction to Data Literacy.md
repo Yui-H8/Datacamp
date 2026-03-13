@@ -81,6 +81,6 @@ What is not an objective of data-driven decision making?
 Assist in making informed decisions
 Explain processes and behaviours
 Proactively handle events
-Collect as much data as possible and analyze
+〇 Collect as much data as possible and analyze
 ```
-`
+*Perfect! Data-driven decision making is not about analyzing as much data as possible, it is always used in the context a specific problem.*
