@@ -69,6 +69,7 @@ Based on the examples, what transformation occurs when moving from Information t
 ```
 Raw observations are collected through measurements
 Data is organized and placed into context
-Patterns are identified and predictions become possible
+〇 Patterns are identified and predictions become possible
 Knowledge is applied to make decisions and take action
 ```
+*Correct! Moving from Information to Knowledge means identifying patterns, making connections, and enabling predictions. This is where data gains meaning.*
