@@ -33,3 +33,11 @@ To help us read, analyze and communicate data, there are several tools at our di
 What does data literacy look like in practice? Explore the interactive tool to follow four professionals: a marketing manager, a nurse, a teacher, and a sales representative through their typical workday.
 
 Click on each person to see how they interact with data in their daily tasks, then answer the question.
+
+Based on the scenarios, which statement best describes what data literacy enables these professionals to do?
+```
+They all write code to build databases and analytics tools
+They all critically engage with data to inform their decisions
+They all perform complex statistical calculations on datasets
+They all create advanced visualizations using specialized software
+```
