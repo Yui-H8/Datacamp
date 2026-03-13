@@ -56,3 +56,9 @@ Order the items to match the DIKW steps below:
 
 ### What is insight?
 What is not a characteristic of insight?
+```
+Insight allows us to get closer to the ideal of wisdom
+Insight is valuable, and can realistically be achieved
+Insight allows us to apply knowledge and take action
+Wisdom can be approached, but not quite fully reached
+```
