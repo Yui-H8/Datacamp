@@ -84,3 +84,6 @@ Proactively handle events
 〇 Collect as much data as possible and analyze
 ```
 *Perfect! Data-driven decision making is not about analyzing as much data as possible, it is always used in the context a specific problem.*
+
+### Facts & myths about being data-driven
+Data-driven decision making has its benefits, but there are also misconceptions about its use.
