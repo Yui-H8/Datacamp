@@ -60,5 +60,6 @@ What is not a characteristic of insight?
 Insight allows us to get closer to the ideal of wisdom
 Insight is valuable, and can realistically be achieved
 Insight allows us to apply knowledge and take action
-Wisdom can be approached, but not quite fully reached
+〇 Wisdom can be approached, but not quite fully reached
 ```
+*That's right! Wisdom is the ideal that is just beyond our reach, but insight is the next best thing we can reach.*
