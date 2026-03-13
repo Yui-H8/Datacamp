@@ -42,3 +42,5 @@ They all perform complex statistical calculations on datasets
 They all create advanced visualizations using specialized software
 ```
 *Correct! All four professionals — regardless of their field — use data literacy to read, interpret, and communicate data to make better decisions. This is the core of data literacy: critically engaging with data without needing technical expertise.*
+
+### DIKW pyramid as a process
