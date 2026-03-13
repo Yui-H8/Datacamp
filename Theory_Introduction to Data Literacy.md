@@ -89,3 +89,5 @@ Proactively handle events
 Data-driven decision making has its benefits, but there are also misconceptions about its use.
 
 *Good job! Applying data-driven decision making does not have to be complicated.*
+
+### The data-driven process
