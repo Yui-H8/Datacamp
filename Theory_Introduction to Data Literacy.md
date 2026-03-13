@@ -63,3 +63,5 @@ Insight allows us to apply knowledge and take action
 〇 Wisdom can be approached, but not quite fully reached
 ```
 *That's right! Wisdom is the ideal that is just beyond our reach, but insight is the next best thing we can reach.*
+
+### The DIKW journey
