@@ -91,3 +91,8 @@ Data-driven decision making has its benefits, but there are also misconceptions 
 *Good job! Applying data-driven decision making does not have to be complicated.*
 
 ### The data-driven process
+Every data-driven process follows a consistent pattern — but what does that look like in practice?
+
+Explore the interactive tool to see how three different organizations (E-commerce, Restaurant Chain, and Manufacturing) apply the five-step process. Select a scenario, then click through each step to see specific examples of what happens at each stage.
+
+Once you've explored, answer the question.
