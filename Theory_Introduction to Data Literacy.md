@@ -45,3 +45,9 @@ They all create advanced visualizations using specialized software
 
 ### DIKW pyramid as a process
 Getting from data to wisdom according to the DIKW framework takes different steps, each taking us one level higher on the pyramid.
+
+Order the items to match the DIKW steps below:
+1. Data
+2. Information
+3. Knowledge
+4. Wisdom
