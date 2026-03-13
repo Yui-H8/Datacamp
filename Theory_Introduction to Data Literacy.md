@@ -65,3 +65,6 @@ Insight allows us to apply knowledge and take action
 *That's right! Wisdom is the ideal that is just beyond our reach, but insight is the next best thing we can reach.*
 
 ### The DIKW journey
+How does raw data become actionable wisdom? Explore the interactive tool to see the DIKW pyramid in action across three domains: Retail, Fitness, and Education. Select a domain, then click through each level of the pyramid (Data → Information → Knowledge → Wisdom) to see how information builds at each stage.
+
+Once you've explored the examples, answer the question.
