@@ -73,3 +73,7 @@ Data is organized and placed into context
 Knowledge is applied to make decisions and take action
 ```
 *Correct! Moving from Information to Knowledge means identifying patterns, making connections, and enabling predictions. This is where data gains meaning.*
+
+---
+### Becoming data-driven
+What is not an objective of data-driven decision making?
