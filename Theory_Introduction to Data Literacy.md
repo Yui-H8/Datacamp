@@ -53,3 +53,6 @@ Order the items to match the DIKW steps below:
 4. Wisdom
 
 *Great! Each higher step means more added value, as each time we can do more with our data and answer more complex questions.*
+
+### What is insight?
+What is not a characteristic of insight?
