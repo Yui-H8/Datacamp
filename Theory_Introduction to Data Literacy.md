@@ -77,3 +77,10 @@ Knowledge is applied to make decisions and take action
 ---
 ### Becoming data-driven
 What is not an objective of data-driven decision making?
+```
+Assist in making informed decisions
+Explain processes and behaviours
+Proactively handle events
+Collect as much data as possible and analyze
+```
+`
