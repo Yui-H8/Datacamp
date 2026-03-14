@@ -105,3 +105,5 @@ Begin analyzing historical data to find patterns
 Communicate findings to hospital management
 ```
 *Correct! Defining a clear problem statement is always the first step in any data-driven process. It guides what data to collect, what analysis to perform, and ultimately what actions to take.*
+
+### Fitting the problem statement
