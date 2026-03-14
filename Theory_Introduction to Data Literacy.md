@@ -112,3 +112,9 @@ Some analysis has been carried out to compare test scores on mathematics, readin
 Each graph (from left to right) compares student test scores in mathematics, reading, and writing between those who completed the test preparation course (green check mark) and those who did not (red x). The x-axis shows whether students took the course ("none" vs. "completed"), while the y-axis represents test scores from 0 to 100. The first graph shows mathematics scores, the second shows reading scores, and the third shows writing scores. The blue line in each graph connects the average scores of both groups, highlighting the comparison.
 
 Which problem statement question was most likely the start point for this analysis?
+```
+Do students who score high on one test also score higher on the other final tests?
+Which students are more likely to ace their classes?
+Does completion of the test preparation course improve student performance on the final tests?
+Are there gender differences between the test scores?
+```
