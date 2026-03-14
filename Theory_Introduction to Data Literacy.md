@@ -107,3 +107,8 @@ Communicate findings to hospital management
 *Correct! Defining a clear problem statement is always the first step in any data-driven process. It guides what data to collect, what analysis to perform, and ultimately what actions to take.*
 
 ### Fitting the problem statement
+Some analysis has been carried out to compare test scores on mathematics, reading and writing between two groups. One group that completed the test preparation course and one that did not.
+
+Each graph (from left to right) compares student test scores in mathematics, reading, and writing between those who completed the test preparation course (green check mark) and those who did not (red x). The x-axis shows whether students took the course ("none" vs. "completed"), while the y-axis represents test scores from 0 to 100. The first graph shows mathematics scores, the second shows reading scores, and the third shows writing scores. The blue line in each graph connects the average scores of both groups, highlighting the comparison.
+
+Which problem statement question was most likely the start point for this analysis?
