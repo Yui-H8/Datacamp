@@ -98,5 +98,10 @@ Explore the interactive tool to see how three different organizations (E-commerc
 Once you've explored, answer the question.
 
 A hospital identifies that patient wait times are too long. What should they focus on FIRST in a data-driven approach?
-
+```
+Start collecting all available patient data
+〇 Define a clear problem statement about what aspects to improve
+Begin analyzing historical data to find patterns
+Communicate findings to hospital management
+```
 *Correct! Defining a clear problem statement is always the first step in any data-driven process. It guides what data to collect, what analysis to perform, and ultimately what actions to take.*
