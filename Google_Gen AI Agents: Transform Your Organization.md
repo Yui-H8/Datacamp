@@ -6,3 +6,5 @@ Gen AI Agents: Transform Your Organization is the fifth and final course of the 
 
 ### Introduction to your learning journey
 Google Cloud Generative AI Leader learning path
+
+Let's hear from the course creators about the evolution of agents and how generative AI has revolutionized their capabilities.
