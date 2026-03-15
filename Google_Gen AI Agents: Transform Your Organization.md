@@ -16,3 +16,5 @@ Order the agents in terms of their technical innovation, from oldest (1) to newe
 * Generative agents with RAG
 * Generative agents without RAG
 * Deterministic agents
+> Key takeaway
+> Now that you have reviewed the individual components of an agent, this course will dive deeper into each component and some of the tools Google Cloud has to support you in building out your agents.
