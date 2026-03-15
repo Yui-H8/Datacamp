@@ -115,6 +115,7 @@ Which problem statement question was most likely the start point for this analys
 ```
 Do students who score high on one test also score higher on the other final tests?
 Which students are more likely to ace their classes?
-Does completion of the test preparation course improve student performance on the final tests?
+〇 Does completion of the test preparation course improve student performance on the final tests?
 Are there gender differences between the test scores?
 ```
+*Great! Clearly defining a problem beforehand goes a long way toward succesfull data-driven decision making.*
