@@ -10,3 +10,9 @@ Google Cloud Generative AI Leader learning path
 Let's hear from the course creators about the evolution of agents and how generative AI has revolutionized their capabilities.
 
 video---
+
+Quiz yourself: Order the agents
+Order the agents in terms of their technical innovation, from oldest (1) to newest (2). The cards are: 
+* Generative agents with RAG
+* Generative agents without RAG
+* Deterministic agents
