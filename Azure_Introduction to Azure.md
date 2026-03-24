@@ -36,3 +36,4 @@ In Azure, serverless means running code or services without managing the underly
 To test serverless computing, a Function App has already been set up. Let's dive in and access the pre-configured Function App to see how it works!
 
 1. Navigate to the Function app section.
+2. Lets access your first Function app!
