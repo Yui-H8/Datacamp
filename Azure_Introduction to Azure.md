@@ -21,6 +21,5 @@ You've been automatically logged into your own Azure account!
    * Navigate to the Virtual Machines overview page using the Search bar
    * In chapter 3, you will be creating your first virtual machine!
 3. Let's try the alternative using the Portal menu:
-
-In the Portal menu on the top left of the home page to navigate to Storage Accounts.    
-In chapter 2, you will be working with Storage accounts!
+   * In the Portal menu on the top left of the home page to navigate to Storage Accounts.
+   * In chapter 2, you will be working with Storage accounts!
