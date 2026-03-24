@@ -16,3 +16,7 @@ In this exercise, we'll start by navigating the Azure portal and getting familia
 
 You've been automatically logged into your own Azure account!    
 **Note** : You may be prompted with a Getting started page, you can exit out of this to land on the Azure portal home page.
+
+2. In Azure, there are many ways of navigating, lets explore using the Search bar:
+   * Navigate to the Virtual Machines overview page using the Search bar
+   * In chapter 3, you will be creating your first virtual machine!
