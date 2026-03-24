@@ -27,3 +27,5 @@ You've been automatically logged into your own Azure account!
    Answer: Strage
 
 *Amazing work! Azure makes it really easy to navigate around the portal in so many ways!*
+
+### Exploring a Function app
