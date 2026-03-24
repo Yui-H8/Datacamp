@@ -24,4 +24,6 @@ You've been automatically logged into your own Azure account!
    * In the Portal menu on the top left of the home page to navigate to Storage Accounts.
    * In chapter 2, you will be working with Storage accounts!
 4. What pre-fix does the existing Storage account start with?
+   Answer: Strage
 
+*Amazing work! Azure makes it really easy to navigate around the portal in so many ways!*
