@@ -37,4 +37,5 @@ To test serverless computing, a Function App has already been set up. Let's dive
 
 1. Navigate to the Function app section.
 2. Lets access your first Function app!
-   * In the Function app overview page, open the pre-existing Function app called `cipher-coffee-app-...`
+   * In the Function app overview page, open the pre-existing Function app called `cipher-coffee-app-...`    
+**Note**: As this is the first time you're accessing the function app it will take some time to initiate.
