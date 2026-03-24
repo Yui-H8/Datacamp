@@ -45,3 +45,6 @@ To test serverless computing, a Function App has already been set up. Let's dive
 4. Which of the following best describes an Azure Function App?
 
 *Correct! Azure Function App allows you to run code in response to triggers like HTTP requests, timers, or messages, without managing servers.*
+
+---
+### Finding Resource groups
