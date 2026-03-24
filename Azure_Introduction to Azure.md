@@ -34,3 +34,5 @@ You're part of the development team at Cipher Coffee, a specialty coffee shop bl
 In Azure, serverless means running code or services without managing the underlying servers, where Azure automatically handles scaling, availability, and infrastructure.
 
 To test serverless computing, a Function App has already been set up. Let's dive in and access the pre-configured Function App to see how it works!
+
+1. Navigate to the Function app section.
