@@ -41,3 +41,4 @@ To test serverless computing, a Function App has already been set up. Let's dive
 **Note**: As this is the first time you're accessing the function app it will take some time to initiate.
 3. Now that your Function app has initialized:
    * Navigate to the Browse button to open your Function app.
+   * You have now successfully launched your first Function App, a serverless solution that runs on demand and scales automatically, no infrastructure management needed!
