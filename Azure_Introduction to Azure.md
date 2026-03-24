@@ -51,3 +51,4 @@ To test serverless computing, a Function App has already been set up. Let's dive
 Cipher Coffee has successfully completed one of their projects and now needs to clean up unused resources to avoid unnecessary charges. They’ve tasked you with identifying these no longer needed resources.
 
 In Azure, a resource group is like a container that holds related resources like virtual machines, databases, and storage, making them easier to manage as a unit.
+1. Resource groups are essential to managing your resources in Azure.
