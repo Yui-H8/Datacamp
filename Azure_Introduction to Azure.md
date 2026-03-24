@@ -9,3 +9,6 @@ This course serves as an engaging introduction and a foundational step toward ea
 
 ---
 ### Exploring Azure services
+Let's dive into Azure and explore what’s ahead in this course! Azure offers a wide range of services, from data storage to app hosting and automation. Instead of just talking about it, let’s jump in and see it for ourselves.
+
+In this exercise, we'll start by navigating the Azure portal and getting familiar with its interface.
