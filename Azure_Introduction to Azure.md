@@ -6,3 +6,6 @@ In this course, you will dive into a variety of Azure services, including Comput
 
 
 This course serves as an engaging introduction and a foundational step toward earning your AZ-204 certification. Let’s get started!
+
+---
+### Exploring Azure services
