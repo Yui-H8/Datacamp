@@ -29,3 +29,8 @@ You've been automatically logged into your own Azure account!
 *Amazing work! Azure makes it really easy to navigate around the portal in so many ways!*
 
 ### Exploring a Function app
+You're part of the development team at Cipher Coffee, a specialty coffee shop blending innovation with great brews. As the shop expands its digital presence with an online ordering system and a customer rewards app, the team is exploring cloud compute services to support these initiatives.
+
+In Azure, serverless means running code or services without managing the underlying servers, where Azure automatically handles scaling, availability, and infrastructure.
+
+To test serverless computing, a Function App has already been set up. Let's dive in and access the pre-configured Function App to see how it works!
