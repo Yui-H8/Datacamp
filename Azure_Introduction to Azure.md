@@ -43,3 +43,5 @@ To test serverless computing, a Function App has already been set up. Let's dive
    * Navigate to the Browse button to open your Function app.
    * You have now successfully launched your first Function App, a serverless solution that runs on demand and scales automatically, no infrastructure management needed!
 4. Which of the following best describes an Azure Function App?
+
+*Correct! Azure Function App allows you to run code in response to triggers like HTTP requests, timers, or messages, without managing servers.*
