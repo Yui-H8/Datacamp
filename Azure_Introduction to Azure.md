@@ -14,4 +14,5 @@ Let's dive into Azure and explore what’s ahead in this course! Azure offers a 
 In this exercise, we'll start by navigating the Azure portal and getting familiar with its interface.
 1. Welcome to the Azure Portal
 
-You've been automatically logged into your own Azure account!
+You've been automatically logged into your own Azure account!    
+**Note** : You may be prompted with a Getting started page, you can exit out of this to land on the Azure portal home page.
