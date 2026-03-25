@@ -52,3 +52,4 @@ Cipher Coffee has successfully completed one of their projects and now needs to 
 
 In Azure, a resource group is like a container that holds related resources like virtual machines, databases, and storage, making them easier to manage as a unit.
 1. Resource groups are essential to managing your resources in Azure.
+   * Once logged into the portal, navigate to the Resource groups section.
