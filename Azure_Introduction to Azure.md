@@ -64,3 +64,4 @@ In Azure, a resource group is like a container that holds related resources like
 Now that you've successfully located the project, it's time to clean up the resources, to prevent Cipher Coffee from incurring any unnecessary costs.
 1. Resource groups simplify resource management. In this case, we want to delete the entire group to remove all associated resources at once.    
    In the Resource group, navigate to Delete resource group and select it.
+2. Now you have to confirm that you'd like to delete this Resource group:
