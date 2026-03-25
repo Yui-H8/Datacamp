@@ -54,4 +54,5 @@ In Azure, a resource group is like a container that holds related resources like
 1. Resource groups are essential to managing your resources in Azure.
    * Once logged into the portal, navigate to the Resource groups section.
 2. Now that you're at the resource groups overview page:
+   * Open the Resource group named `student-...`
 
