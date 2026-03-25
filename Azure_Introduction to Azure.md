@@ -61,3 +61,4 @@ In Azure, a resource group is like a container that holds related resources like
 *Correct! Currently there are 3 resources in the Resource group that you're accessing. Great job!*
 
 ### Managing Resource groups
+Now that you've successfully located the project, it's time to clean up the resources, to prevent Cipher Coffee from incurring any unnecessary costs.
