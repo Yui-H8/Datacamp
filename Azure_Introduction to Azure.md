@@ -60,3 +60,4 @@ In Azure, a resource group is like a container that holds related resources like
 
 *Correct! Currently there are 3 resources in the Resource group that you're accessing. Great job!*
 
+### Managing Resource groups
