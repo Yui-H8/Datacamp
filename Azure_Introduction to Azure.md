@@ -56,4 +56,7 @@ In Azure, a resource group is like a container that holds related resources like
 2. Now that you're at the resource groups overview page:
    * Open the Resource group named `student-...`
 3. In the Resource group, how many resources currently exist?
+   3
+
+*Correct! Currently there are 3 resources in the Resource group that you're accessing. Great job!*
 
