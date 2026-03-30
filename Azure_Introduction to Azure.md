@@ -71,4 +71,6 @@ Now that you've successfully located the project, it's time to clean up the reso
 
 A notification will alert you that the resource group is being deleted and will be deleted in a few moments.
 
+3. Why is effective resource management important in a cloud environment?
+
 
