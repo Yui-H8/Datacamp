@@ -89,3 +89,6 @@ A resource is used for billing, while a resource group is only for organizing se
 ### Creating a HTTP function
 Cipher Coffee wants to accept orders online through an HTTP endpoint. Let's build a serverless function in Node.js that receives customer details and returns a friendly confirmation message.
 1. We've explored a Function app, Cipher Coffee now wants to make the app execute functions
+   * Navigate to the Function App section within the portal
+   * Open the pre-existing app named cipher-coffee-app-...
+   * In the Overview page start configuring the function by scrolling down and choosing Create function in Azure portal
