@@ -81,5 +81,6 @@ Which of the following statements correctly describes the difference between a r
 A resource group is a single cloud service, while a resource is a collection of multiple services.
 A resource group automatically scales resources, while individual resources must be manually adjusted.
 A resource is used for billing, while a resource group is only for organizing services.
-A resource is an individual cloud service, while a resource group is a container that organizes multiple related resources.
+〇 A resource is an individual cloud service, while a resource group is a container that organizes multiple related resources.
 ```
+*Correct! Resources include services like virtual machines, storage accounts, or databases, while resource groups help manage and organize these resources for easier administration.*
