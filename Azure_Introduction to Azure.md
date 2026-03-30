@@ -65,3 +65,6 @@ Now that you've successfully located the project, it's time to clean up the reso
 1. Resource groups simplify resource management. In this case, we want to delete the entire group to remove all associated resources at once.    
    In the Resource group, navigate to Delete resource group and select it.
 2. Now you have to confirm that you'd like to delete this Resource group:
+   * In the pop up menu, copy the name of the resource group.
+   * Paste the name of the Resource group to confirm deletion.
+   * Confirm the deletion by selecting Delete in the pop up.
