@@ -73,4 +73,4 @@ A notification will alert you that the resource group is being deleted and will 
 
 3. Why is effective resource management important in a cloud environment?
 
-
+*Correct! Resource management helps minimize costs, ensure efficient performance, and maintain a secure, well-organized cloud environment.*
