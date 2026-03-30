@@ -93,3 +93,8 @@ Cipher Coffee wants to accept orders online through an HTTP endpoint. Let's buil
    * Open the pre-existing app named cipher-coffee-app-...
    * In the Overview page start configuring the function by scrolling down and choosing Create function in Azure portal
 2. Lets set up the function, we want to execute code when it receives a HTTP request.
+   * A new side-window will appear with a variety of pre-configured functions
+   * Select HTTP trigger as the function template and navigate to the next menu
+   * Name the function PlaceCoffeeOrder
+   * Ensure Authorization level is set to Function
+   * Create the function
