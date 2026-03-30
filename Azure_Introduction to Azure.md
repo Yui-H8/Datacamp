@@ -68,3 +68,7 @@ Now that you've successfully located the project, it's time to clean up the reso
    * In the pop up menu, copy the name of the resource group.
    * Paste the name of the Resource group to confirm deletion.
    * Confirm the deletion by selecting Delete in the pop up.
+
+A notification will alert you that the resource group is being deleted and will be deleted in a few moments.
+
+
