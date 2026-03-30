@@ -77,3 +77,9 @@ A notification will alert you that the resource group is being deleted and will 
 
 ### Resources vs Resource groups
 Which of the following statements correctly describes the difference between a resource and a resource group in Azure?
+```
+A resource group is a single cloud service, while a resource is a collection of multiple services.
+A resource group automatically scales resources, while individual resources must be manually adjusted.
+A resource is used for billing, while a resource group is only for organizing services.
+A resource is an individual cloud service, while a resource group is a container that organizes multiple related resources.
+```
