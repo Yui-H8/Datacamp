@@ -84,3 +84,6 @@ A resource is used for billing, while a resource group is only for organizing se
 〇 A resource is an individual cloud service, while a resource group is a container that organizes multiple related resources.
 ```
 *Correct! Resources include services like virtual machines, storage accounts, or databases, while resource groups help manage and organize these resources for easier administration.*
+
+---
+### Creating a HTTP function
