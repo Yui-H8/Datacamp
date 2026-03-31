@@ -21,4 +21,5 @@ You saw that there are two main types of data: numeric and categorical.
 
 Numeric data can be classified as either continuous or count/interval, and categorical data can be classified as either nominal or ordinal. The data type determines which approaches are suitable when summarizing your data.
 
-You've been provided with several examples to classify as continuous, nominal, or ordinal data.
+You've been provided with several examples to classify as continuous, nominal, or ordinal data. 
+*Well done! Now let's look at how statistics are used in the real-world!*
