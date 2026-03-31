@@ -15,3 +15,10 @@ What factors make one TV show more popular than another?
 What will tomorrow's winning lottery numbers be?
 ```
 *Yes! Using inferential statistics to check whether a new product improves on a current version is common practice in many industries.*
+
+### Identifying data types
+You saw that there are two main types of data: numeric and categorical.
+
+Numeric data can be classified as either continuous or count/interval, and categorical data can be classified as either nominal or ordinal. The data type determines which approaches are suitable when summarizing your data.
+
+You've been provided with several examples to classify as continuous, nominal, or ordinal data.
