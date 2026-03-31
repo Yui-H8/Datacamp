@@ -114,3 +114,5 @@ You've successfully created a Azure Function that responds to HTTP requests by g
 
 ### Storage vs Compute
 Cipher Coffee is expanding its cloud setup and wants to ensure that services are properly organized. As a cloud engineer, your job is to classify different cloud services into the right category: Compute or Storage.
+
+*Great job! You've successfully categorized Compute and storage into their correct categories, lets dive deeper into both services!*
