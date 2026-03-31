@@ -99,3 +99,8 @@ Cipher Coffee wants to accept orders online through an HTTP endpoint. Let's buil
    * Ensure Authorization level is set to Function
    * Create the function
 3. Let's now test the function:
+   * Navigate to Get Function URL
+   * Copy the _master (Host key)
+   * Paste the URL in a new tab
+   * At the end of the url add &name=Jamie and press enter
+   - Example: `https://<your-function-url>PlaceCoffeeOrder?...&name=Jamie`
