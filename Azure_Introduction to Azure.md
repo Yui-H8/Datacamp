@@ -98,3 +98,4 @@ Cipher Coffee wants to accept orders online through an HTTP endpoint. Let's buil
    * Name the function PlaceCoffeeOrder
    * Ensure Authorization level is set to Function
    * Create the function
+3. Let's now test the function:
