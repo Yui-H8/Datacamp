@@ -104,3 +104,6 @@ Cipher Coffee wants to accept orders online through an HTTP endpoint. Let's buil
    * Paste the URL in a new tab
    * At the end of the url add &name=Jamie and press enter
    - Example: `https://<your-function-url>PlaceCoffeeOrder?...&name=Jamie`
+4. You will now see a message that reads `Hello, Jamie. This HTTP triggered function executed successfully.`
+
+You've successfully created a Azure Function that responds to HTTP requests by greeting the user by name.
