@@ -106,6 +106,7 @@ https://app.datacamp.com/learn/courses/
 * Generative AI for Business
 * Data Science for Business
 * Generative AI Concepts
+* Introduction to Statistics
 
 ---
 
