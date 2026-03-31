@@ -107,3 +107,5 @@ Cipher Coffee wants to accept orders online through an HTTP endpoint. Let's buil
 4. You will now see a message that reads `Hello, Jamie. This HTTP triggered function executed successfully.`
 
 You've successfully created a Azure Function that responds to HTTP requests by greeting the user by name.
+5. What is the output of the function if the name is changed to "John"?
+
