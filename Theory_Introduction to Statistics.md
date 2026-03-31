@@ -8,3 +8,9 @@ Statistics are all around us, from marketing to sales to healthcare. The ability
 Recall that statistics can help to answer specific, measurable questions.
 
 In this exercise, you have been provided with several real-world scenarios and need to select which one can be solved through the application of statistics.
+```
+Why do some people prefer dogs to cats?
+Testing whether a new model of car is safer than the current model?
+What factors make one TV show more popular than another?
+What will tomorrow's winning lottery numbers be?
+```
