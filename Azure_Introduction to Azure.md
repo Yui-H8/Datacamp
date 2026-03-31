@@ -110,3 +110,4 @@ You've successfully created a Azure Function that responds to HTTP requests by g
 
 5. What is the output of the function if the name is changed to "John"?
 
+*Correct! Well done on starting your journey on compute services, continue!*
