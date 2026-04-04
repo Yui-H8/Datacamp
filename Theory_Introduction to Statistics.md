@@ -32,3 +32,5 @@ Understanding what type of statistics is required for a given situation is an es
 Now you have the opportunity to check your knowledge of how these two branches of statistics are used in practice. You'll classify each scenario as a task for descriptive or inferential statistics.
 
 *Exactly! Recognizing the type of statistics required to answer a given question allows you to choose the appropriate method and, by extension, produce the most accurate answer!*
+
+### Typical number of robberies per London Borough
