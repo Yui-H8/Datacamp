@@ -49,3 +49,5 @@ Mean: 1354.50 ; Median: 1496.16
 Mean: Westminster ; Median: 1354.50
 ```
 *Well done! The mean number of robberies is higher than the median, suggesting one or more London boroughs have a particularly high volume of robberies.*
+
+### Choosing a measure
