@@ -66,3 +66,8 @@ Public Order Offenses
 *Correct! None of these crimes have a symmetrical distribution and there are different values for the mean and median, so we cannot accurately describe a typical value using both measures!*
 
 ### London Boroughs with most frequent crimes
+The mean and median are great for summarizing numeric data, but if you want to understand the typical value of a categorical variable then these measures can't be applied.
+
+An app containing the count of various crimes for each London Borough has been provided. You can use the arrows next to the column names to sort the data from smallest to largest and vice versa.
+
+Using this, your task is to find out which London Boroughs are the mode for Vehicle Offenses and Burglary.
