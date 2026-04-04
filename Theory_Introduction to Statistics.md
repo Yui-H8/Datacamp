@@ -23,3 +23,5 @@ Numeric data can be classified as either continuous or count/interval, and categ
 
 You've been provided with several examples to classify as continuous, nominal, or ordinal data. 
 *Well done! Now let's look at how statistics are used in the real-world!*
+
+### Descriptive vs. Inferential statistics
