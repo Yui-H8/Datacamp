@@ -51,3 +51,8 @@ Mean: Westminster ; Median: 1354.50
 *Well done! The mean number of robberies is higher than the median, suggesting one or more London boroughs have a particularly high volume of robberies.*
 
 ### Choosing a measure
+Selecting the correct measure of center is essential when describing a typical value of the data being observed.
+
+An app has been displayed, which shows a histogram of robberies in London. You can use the app to change which type of crime is displayed, and whether to include a dotted line for the mean or median.
+
+Your task is to decide which type of crime has a symmetrical histogram and can be accurately described by both the mean and median.
