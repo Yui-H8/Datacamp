@@ -61,5 +61,6 @@ Robbery
 Drug Offenses
 Arson and Criminal Damage
 Public Order Offenses
-None of these crimes
+〇 None of these crimes
 ```
+*Correct! None of these crimes have a symmetrical distribution and there are different values for the mean and median, so we cannot accurately describe a typical value using both measures!*
