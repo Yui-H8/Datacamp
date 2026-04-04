@@ -37,3 +37,7 @@ Now you have the opportunity to check your knowledge of how these two branches o
 In the video, you saw that the mean and median can both provide information about the typical value of a variable.
 
 Here are three definitions representing the mode, median, and mean, along with their respective values for robberies in the London crimes dataset:
+
+Add all values and divide by the number of observations	The London Borough where Robbery occurs most frequently	Sort all the data and take the middle value
+1496.16	Westminster	1354.5
+Looking at the table, what are the values of the mean and median?
