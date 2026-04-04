@@ -34,3 +34,6 @@ Now you have the opportunity to check your knowledge of how these two branches o
 *Exactly! Recognizing the type of statistics required to answer a given question allows you to choose the appropriate method and, by extension, produce the most accurate answer!*
 
 ### Typical number of robberies per London Borough
+In the video, you saw that the mean and median can both provide information about the typical value of a variable.
+
+Here are three definitions representing the mode, median, and mean, along with their respective values for robberies in the London crimes dataset:
