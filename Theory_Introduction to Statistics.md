@@ -30,3 +30,5 @@ Recall that there are two main branches of statistics—descriptive statistics a
 Understanding what type of statistics is required for a given situation is an essential skill in order to draw accurate conclusions.
 
 Now you have the opportunity to check your knowledge of how these two branches of statistics are used in practice. You'll classify each scenario as a task for descriptive or inferential statistics.
+
+*Exactly! Recognizing the type of statistics required to answer a given question allows you to choose the appropriate method and, by extension, produce the most accurate answer!*
