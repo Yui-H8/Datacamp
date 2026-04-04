@@ -56,3 +56,10 @@ Selecting the correct measure of center is essential when describing a typical v
 An app has been displayed, which shows a histogram of robberies in London. You can use the app to change which type of crime is displayed, and whether to include a dotted line for the mean or median.
 
 Your task is to decide which type of crime has a symmetrical histogram and can be accurately described by both the mean and median.
+```
+Robbery
+Drug Offenses
+Arson and Criminal Damage
+Public Order Offenses
+None of these crimes
+```
