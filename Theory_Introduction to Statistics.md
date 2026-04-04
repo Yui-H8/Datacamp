@@ -71,3 +71,5 @@ The mean and median are great for summarizing numeric data, but if you want to u
 An app containing the count of various crimes for each London Borough has been provided. You can use the arrows next to the column names to sort the data from smallest to largest and vice versa.
 
 Using this, your task is to find out which London Boroughs are the mode for Vehicle Offenses and Burglary.
+
+*Magnificent mode detection skills!*
