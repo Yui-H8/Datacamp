@@ -41,3 +41,10 @@ Here are three definitions representing the mode, median, and mean, along with t
 Add all values and divide by the number of observations	The London Borough where Robbery occurs most frequently	Sort all the data and take the middle value
 1496.16	Westminster	1354.5
 Looking at the table, what are the values of the mean and median?
+
+```
+Mean: 1496.16 ; Median: Westminster
+Mean: 1354.50 ; Median: 1496.16
+Mean: 1496.16 ; Median: 1354.50
+Mean: Westminster ; Median: 1354.50
+```
