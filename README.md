@@ -77,6 +77,11 @@ https://app.datacamp.com/learn/courses/
 
 ---
 
+### Microsoft Copilot
+* Microsoft Copilot in Word
+
+---
+
 ### Azure
 * Understanding Microsoft Azure Architecture and Services
 * Understanding Microsoft Azure
