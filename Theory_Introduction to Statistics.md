@@ -102,3 +102,9 @@ Drug offenses
 *Correct! Sometimes it might not be clear if two categories have similar interquartile ranges, in which case the measure needs to be calculated.*
 
 ### Which crime has the larger standard deviation
+For the final exercise of the chapter, it's time to see how you interpret spread using the standard deviation.
+
+Two histograms are displayed—one for Public Order Offenses and another for Miscellaneous Crimes Against Society.
+
+Your task is to choose which type of crime has a larger standard deviation.
+
