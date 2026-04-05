@@ -5,3 +5,6 @@
 Ready to transform how you work with documents? Microsoft Copilot in Word is your AI-powered writing assistant, and this course shows you how to use it effectively. You'll learn to create professional content faster, summarize lengthy documents instantly, and respond to feedback with ease. Discover practical prompting techniques, understand when to trust AI and when to verify, and build Copilot into your daily workflows. Whether you're drafting proposals, analyzing contracts, or collaborating with teams, you'll finish this course confident in using AI as your writing partner.
 
 ### Create, understand or collaborate?
+It's Monday morning and your inbox has exploded overnight. You've got a project proposal to write, a massive contract to review, client emails to polish, and a draft covered in your manager's comments - all before lunch.
+
+Luckily, Copilot can help with each of these, but you need to pick the right capability for the job.
