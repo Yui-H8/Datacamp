@@ -107,4 +107,8 @@ For the final exercise of the chapter, it's time to see how you interpret spread
 Two histograms are displayed—one for Public Order Offenses and another for Miscellaneous Crimes Against Society.
 
 Your task is to choose which type of crime has a larger standard deviation.
-
+```
+It's not possible to determine which has the larger standard deviation based on the plots.
+Miscellaneous Crimes Against Society
+〇 Public Order Offenses
+```
