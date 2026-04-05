@@ -75,3 +75,6 @@ An app containing the count of various crimes for each London Borough has been p
 Using this, your task is to find out which London Boroughs are the mode for Vehicle Offenses and Burglary.
 
 *Magnificent mode detection skills!*
+
+---
+### Defining measures of spread
