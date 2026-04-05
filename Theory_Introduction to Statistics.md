@@ -88,3 +88,8 @@ Three buckets have been included, one for each measure. You'll need to match the
 
 ---
 ### Box plots for measuring spread
+Data visualization can be useful in highlighting measures of spread, such as the interquartile range (IQR).
+
+Below is a box plot displaying the number of crimes across all London Boroughs in February 2021, grouped by the type of crime.
+
+Your task is to use the plot to determine which type of crime had the largest interquartile range for this month.
