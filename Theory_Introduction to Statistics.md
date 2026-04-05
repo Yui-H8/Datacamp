@@ -78,3 +78,8 @@ Using this, your task is to find out which London Boroughs are the mode for Vehi
 
 ---
 ### Defining measures of spread
+In the video you learned about several measures of spread—the range, the variance, and the standard deviation.
+
+So, how do you calculate each measure and what can they tell us about the data?
+
+Three buckets have been included, one for each measure. You'll need to match the definition and use for each measure to the appropriate bucket.
