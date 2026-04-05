@@ -112,3 +112,4 @@ It's not possible to determine which has the larger standard deviation based on 
 Miscellaneous Crimes Against Society
 〇 Public Order Offenses
 ```
+*Perfect! Public Order Offenses has a much larger x-value range than Miscellanous Crimes Against Society, and since the standard deviation is measured in units of the data it results in Public Order Offenses having a much larger standard deviation.*
