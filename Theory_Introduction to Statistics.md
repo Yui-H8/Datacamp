@@ -85,3 +85,6 @@ So, how do you calculate each measure and what can they tell us about the data?
 Three buckets have been included, one for each measure. You'll need to match the definition and use for each measure to the appropriate bucket.
 
 *Well done! Now you have a sense of the different ways to measure spread and their uses, let's see how visualization can help understand spread.*
+
+---
+### Box plots for measuring spread
