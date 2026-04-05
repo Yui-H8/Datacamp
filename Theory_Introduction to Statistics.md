@@ -99,3 +99,4 @@ Vehicle offenses
 Drug offenses
 〇 Theft
 ```
+*Correct! Sometimes it might not be clear if two categories have similar interquartile ranges, in which case the measure needs to be calculated.*
