@@ -29,3 +29,7 @@ Note: Close any pop-up windows or notifications that appear within the MS365 bro
 3. Based on Copilot’s summary of the Q3 Marketing Plan, which of the following best captures the three main themes Copilot identified?
 
 *Based on Copilot’s summary of the Q3 Marketing Plan, which of the following best captures the three main themes Copilot identified?*
+
+---
+
+### Preparing for a client meeting with Copilot
