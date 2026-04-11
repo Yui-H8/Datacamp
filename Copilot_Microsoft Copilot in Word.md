@@ -43,3 +43,5 @@ You're preparing a written proposal about Project Phoenix for an upcoming client
    * Navigate back to M365 Apps and create a new blank Word document.
    * Use Draft with Copilot to create a client proposal about Project Phoenix (approach, timeline, deliverables).
 Add the draft to your document.
+
+3. Refine the created content:
