@@ -34,3 +34,5 @@ Note: Close any pop-up windows or notifications that appear within the MS365 bro
 
 ### Preparing for a client meeting with Copilot
 You're preparing a written proposal about Project Phoenix for an upcoming client meeting. You need to create a brief overview, refine existing content, and understand a background document - all in 15 minutes. Use all three Copilot entrypoints to get it done.
+
+1. Review the automatic document summary:
