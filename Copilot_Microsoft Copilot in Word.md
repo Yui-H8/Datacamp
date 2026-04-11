@@ -38,3 +38,8 @@ You're preparing a written proposal about Project Phoenix for an upcoming client
 1. Review the automatic document summary:
    * **Open Project Phoenix** - Client Background Document.docx. You'll find it in Desktop/Resources/TechFlow Solutions using the File Explorer.
    * **Find the automatic summary at the top** - you'll use this context to create a proposal in the next step.
+
+2. Create the client proposal:
+   * Navigate back to M365 Apps and create a new blank Word document.
+   * Use Draft with Copilot to create a client proposal about Project Phoenix (approach, timeline, deliverables).
+Add the draft to your document.
