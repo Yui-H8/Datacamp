@@ -45,3 +45,6 @@ You're preparing a written proposal about Project Phoenix for an upcoming client
 Add the draft to your document.
 
 3. Refine the created content:
+   * Select the first paragraph in your document.
+   * Use the inline Copilot entrypoint to make it more concise.
+   * Apply the refined version.
