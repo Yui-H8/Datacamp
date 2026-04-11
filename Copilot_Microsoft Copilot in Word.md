@@ -20,3 +20,5 @@ It's 8:55 AM on your first Monday at TechFlow Solutions, and you're about to joi
    * To find Word: click Apps in the left sidebar, then select Word from the list. Alternatively, use the Search bar at the top to search for "Word".
    * If apps aren't visible yet, click Install apps in the top-right corner and select Microsoft 365 apps.
    * If the page loads slowly or appears empty, wait 10 seconds and refresh - licenses can take a moment to activate.
+
+Note: Close any pop-up windows or notifications that appear within the MS365 browser.
