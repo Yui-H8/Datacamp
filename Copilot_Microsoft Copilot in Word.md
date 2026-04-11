@@ -52,3 +52,4 @@ Add the draft to your document.
 *Excellent work! You've successfully explored all Copilot entrypoints in Word. You now know how to access automatic summaries, draft new content from scratch, and refine existing text. These skills will help you work faster and smarter in any document!*
 
 ### Same question, different answer
+You asked Copilot to summarize a document twice and got two different summaries - both accurate, but not identical. Why might Copilot generate different responses to the same question?
