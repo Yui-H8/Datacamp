@@ -8,3 +8,5 @@ Ready to transform how you work with documents? Microsoft Copilot in Word is you
 It's Monday morning and your inbox has exploded overnight. You've got a project proposal to write, a massive contract to review, client emails to polish, and a draft covered in your manager's comments - all before lunch.
 
 Luckily, Copilot can help with each of these, but you need to pick the right capability for the job.
+
+*Excellent work! You've correctly identified which Copilot capability to use for each scenario. Understanding when to Create, Understand, or Collaborate will help you choose the right approach and get better results faster.*
