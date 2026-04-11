@@ -13,3 +13,10 @@ Luckily, Copilot can help with each of these, but you need to pick the right cap
 
 ### Three minutes to meeting-ready
 It's 8:55 AM on your first Monday at TechFlow Solutions, and you're about to join a 9:00 AM meeting on the Q3 Marketing Plan. The document is 9 pages long, you haven't read it, and your manager expects you to contribute. Use Copilot to quickly understand the key points without reading the entire document.
+
+1. Open Microsoft Word
+   * You're logged into M365 automatically. Close any pop-up windows.
+   * You'll be automatically logged into your Microsoft 365 Copilot home page.
+   * To find Word: click Apps in the left sidebar, then select Word from the list. Alternatively, use the Search bar at the top to search for "Word".
+   * If apps aren't visible yet, click Install apps in the top-right corner and select Microsoft 365 apps.
+   * If the page loads slowly or appears empty, wait 10 seconds and refresh - licenses can take a moment to activate.
