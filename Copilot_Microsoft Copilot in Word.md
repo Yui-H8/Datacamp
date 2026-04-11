@@ -22,3 +22,7 @@ It's 8:55 AM on your first Monday at TechFlow Solutions, and you're about to joi
    * If the page loads slowly or appears empty, wait 10 seconds and refresh - licenses can take a moment to activate.
 
 Note: Close any pop-up windows or notifications that appear within the MS365 browser.
+
+2. Ask Copilot to summarize the document
+   * Load Q3_Marketing_Plan.docx from Desktop/Resources/TechFlow Solutions.
+   * Open Copilot Chat and ask for the 3 most important points in the document.
