@@ -48,3 +48,5 @@ Add the draft to your document.
    * Select the first paragraph in your document.
    * Use the inline Copilot entrypoint to make it more concise.
    * Apply the refined version.
+
+*Excellent work! You've successfully explored all Copilot entrypoints in Word. You now know how to access automatic summaries, draft new content from scratch, and refine existing text. These skills will help you work faster and smarter in any document!*
