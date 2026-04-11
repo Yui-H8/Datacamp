@@ -36,3 +36,5 @@ Note: Close any pop-up windows or notifications that appear within the MS365 bro
 You're preparing a written proposal about Project Phoenix for an upcoming client meeting. You need to create a brief overview, refine existing content, and understand a background document - all in 15 minutes. Use all three Copilot entrypoints to get it done.
 
 1. Review the automatic document summary:
+   * **Open Project Phoenix** - Client Background Document.docx. You'll find it in Desktop/Resources/TechFlow Solutions using the File Explorer.
+   * **Find the automatic summary at the top** - you'll use this context to create a proposal in the next step.
