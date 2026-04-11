@@ -27,3 +27,5 @@ Note: Close any pop-up windows or notifications that appear within the MS365 bro
    * Load Q3_Marketing_Plan.docx from Desktop/Resources/TechFlow Solutions.
    * Open Copilot Chat and ask for the 3 most important points in the document.
 3. Based on Copilot’s summary of the Q3 Marketing Plan, which of the following best captures the three main themes Copilot identified?
+
+*Based on Copilot’s summary of the Q3 Marketing Plan, which of the following best captures the three main themes Copilot identified?*
