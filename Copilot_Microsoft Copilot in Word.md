@@ -12,3 +12,4 @@ Luckily, Copilot can help with each of these, but you need to pick the right cap
 *Excellent work! You've correctly identified which Copilot capability to use for each scenario. Understanding when to Create, Understand, or Collaborate will help you choose the right approach and get better results faster.*
 
 ### Three minutes to meeting-ready
+It's 8:55 AM on your first Monday at TechFlow Solutions, and you're about to join a 9:00 AM meeting on the Q3 Marketing Plan. The document is 9 pages long, you haven't read it, and your manager expects you to contribute. Use Copilot to quickly understand the key points without reading the entire document.
