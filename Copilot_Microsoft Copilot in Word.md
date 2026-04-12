@@ -68,3 +68,4 @@ You need to create a concise summary of the Project Phoenix background document 
 1. Generate the initial summary:
    * Open the file Project Phoenix - Client Background Document.docx from the TechFlow Solutions folder in Desktop/Resources.
    * Ask Copilot Chat to create a concise summary of your document.
+2. Verify specific facts:
