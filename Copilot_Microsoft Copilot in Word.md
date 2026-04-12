@@ -63,3 +63,4 @@ Copilot brings speed; you bring judgment and context. But the line between what 
 *Excellent work! You understand the partnership: AI brings speed for drafting and pattern recognition, while you bring context, judgment, and accountability. The key is knowing when to leverage AI's strengths and when to apply your human expertise. This is what responsible AI use looks like in practice!*
 
 ### Trust but verify
+You need to create a concise summary of the Project Phoenix background document for tomorrow's strategy meeting. Use Copilot to generate a summary, then apply the responsible AI workflow - verify its accuracy and refine it until you're confident putting your name on it.
