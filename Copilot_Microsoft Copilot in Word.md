@@ -61,3 +61,5 @@ Copilot brings speed; you bring judgment and context. But the line between what 
 * Assign each statement to the correct zone: AI Strength (tasks where Copilot excels) or Human Touch (tasks where you need to step in).
 
 *Excellent work! You understand the partnership: AI brings speed for drafting and pattern recognition, while you bring context, judgment, and accountability. The key is knowing when to leverage AI's strengths and when to apply your human expertise. This is what responsible AI use looks like in practice!*
+
+### Trust but verify
