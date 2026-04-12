@@ -64,3 +64,5 @@ Copilot brings speed; you bring judgment and context. But the line between what 
 
 ### Trust but verify
 You need to create a concise summary of the Project Phoenix background document for tomorrow's strategy meeting. Use Copilot to generate a summary, then apply the responsible AI workflow - verify its accuracy and refine it until you're confident putting your name on it.
+
+1. Generate the initial summary:
