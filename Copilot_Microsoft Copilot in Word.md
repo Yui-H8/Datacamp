@@ -55,3 +55,5 @@ Add the draft to your document.
 You asked Copilot to summarize a document twice and got two different summaries - both accurate, but not identical. Why might Copilot generate different responses to the same question?
 
 *Exactly right - AI generates new responses each time, similar to how two people might summarize the same document differently, which is why reviewing the output and choosing what works best is important.*
+
+### AI Strength or human touch?
