@@ -66,3 +66,5 @@ Copilot brings speed; you bring judgment and context. But the line between what 
 You need to create a concise summary of the Project Phoenix background document for tomorrow's strategy meeting. Use Copilot to generate a summary, then apply the responsible AI workflow - verify its accuracy and refine it until you're confident putting your name on it.
 
 1. Generate the initial summary:
+   * Open the file Project Phoenix - Client Background Document.docx from the TechFlow Solutions folder in Desktop/Resources.
+   * Ask Copilot Chat to create a concise summary of your document.
