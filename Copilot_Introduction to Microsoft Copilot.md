@@ -15,3 +15,6 @@ Answer: Microsoft Copilot 365
 *Good job! Microsoft 365 Copilot is integrated in Outlook and can give you a summary of your inbox.*
 
 ### Copilot system components
+You have learned a lot about how Microsoft Copilot works behind the scenes. You saw the three components working together to provide seamless and powerful AI assistance.
+
+In this exercise, you'll test your knowledge of each component.
