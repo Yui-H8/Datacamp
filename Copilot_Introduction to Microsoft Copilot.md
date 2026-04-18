@@ -9,3 +9,7 @@ Take your business to the next level with Microsoft Copilot! This hands-on cours
 There are two types of Copilot: Microsoft Copilot and Microsoft 365 Copilot. You need to manage your email communication in Outlook and summarize the emails in your inbox.
 
 Which version of Copilot can help you organize your inbox and draft emails?
+
+Answer: Microsoft Copilot 365
+
+*Good job! Microsoft 365 Copilot is integrated in Outlook and can give you a summary of your inbox.*
