@@ -26,4 +26,6 @@ You have been asked to prepare a climate policy brief on how climate change affe
 
 1. Welcome to the Microsoft Copilot
    * You've been automatically logged into your own Copilot account!
-   * The page should load showing a blank chat window.
+   * The page should load showing a blank chat window.   
+Note: Make sure to close any pop-up windows or notifications that appear within the MS365 browser.
+
