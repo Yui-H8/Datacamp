@@ -73,3 +73,4 @@ You need to create a concise summary of the Project Phoenix background document 
    * Cross-check these claims against the document.
    * Ask Copilot to add more context about these claims to the summary, to make the summary more complete.
 
+*Excellent work! You've successfully applied the responsible AI workflow: reviewing Copilot's initial output, verifying specific facts, and refining the tone for your audience. This approach ensures that any content you share is accurate, complete, and appropriate - ready to put your name on it with confidence.*
