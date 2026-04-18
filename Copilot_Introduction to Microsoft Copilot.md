@@ -18,3 +18,5 @@ Answer: Microsoft Copilot 365
 You have learned a lot about how Microsoft Copilot works behind the scenes. You saw the three components working together to provide seamless and powerful AI assistance.
 
 In this exercise, you'll test your knowledge of each component.
+
+*Well done! You have a good understanding of the components that are part of the Copilot system. By understanding how Copilot works in the background, you gain a deeper understanding of AI-powered tools and processes, which are becoming increasingly essential in modern workplaces.*
