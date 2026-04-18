@@ -13,3 +13,5 @@ Which version of Copilot can help you organize your inbox and draft emails?
 Answer: Microsoft Copilot 365
 
 *Good job! Microsoft 365 Copilot is integrated in Outlook and can give you a summary of your inbox.*
+
+### Copilot system components
