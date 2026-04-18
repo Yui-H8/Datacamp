@@ -29,3 +29,6 @@ You have been asked to prepare a climate policy brief on how climate change affe
    * The page should load showing a blank chat window.   
 Note: Make sure to close any pop-up windows or notifications that appear within the MS365 browser.
 2. Let's quickly remember what task you were set: summarize the latest research on how climate change affects coastal cities for a policy brief. In the Copilot chat box, construct a prompt that will help you produce the output required. Use the following pointers to assist you.
+   * What: You need a summary of the top five most significant impacts of climate change on coastal cities.
+   * Format: Return the answer in bullet points.
+
