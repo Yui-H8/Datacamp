@@ -23,3 +23,5 @@ In this exercise, you'll test your knowledge of each component.
 
 ### Prompting in Copilot
 You have been asked to prepare a climate policy brief on how climate change affects coastal cities. Use the Microsoft Copilot web app to generate a concise, accurate summary of the top five most significant impacts of climate change on coastal cities. Focus on returning your answers in bullet point format.
+
+1. Welcome to the Microsoft Copilot
