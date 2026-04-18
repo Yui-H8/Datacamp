@@ -32,3 +32,4 @@ Note: Make sure to close any pop-up windows or notifications that appear within 
    * What: You need a summary of the top five most significant impacts of climate change on coastal cities.
    * Format: Return the answer in bullet points.
 
+3. Review Copilot's output:
