@@ -75,3 +75,5 @@ Answer: OneDrive, SharePoint
 Microsoft 365 Copilot has access to documents, emails, and people involved in a project. This means that it understands the content, which refers to the actual information or data that Copilot interacts with, and the context, which involves the situational information that helps Copilot understand and process the content more effectively.
 
 In this exercise, you'll test your knowledge of these terms.
+
+*Well done! You have a great understanding of content and context. This understanding will help refine Copilot's outputs, as the more information you give it, the more accurately it will interpret the data.*
