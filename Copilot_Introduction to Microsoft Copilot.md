@@ -63,3 +63,6 @@ Learn from company data
 *Great job! You have a great understanding of the exciting features of Microsoft Copilot that you can tell your colleague about!*
 
 ### Using Copilot with your documents
+To get the best assistance from Microsoft 365 Copilot, your documents need to be saved on a cloud storage solution. Microsoft 365 Copilot has two cloud storage solutions to help you with this.
+
+What are the two Microsoft 365 Copilot cloud storage solutions available to you to save your documents and ensure Copilot can have access to them?
