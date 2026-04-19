@@ -49,3 +49,5 @@ Describe an image on the current page
 Summarize a detailed research article on LLMs to give an overview of key points
 ```
 *Correct! Copilot in Microsoft Edge is great at describing content on the webpage and does not need access to your documents or cloud storage.*
+
+### Copilot features
