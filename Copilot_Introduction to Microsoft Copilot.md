@@ -44,7 +44,8 @@ You were introduced to the concept of Large Language Models (LLMs) as a componen
 
 Which of the following tasks is not something Microsoft Copilot in Edge could help you accomplish?
 ```
-Summarize details of LLMs in a Word document and save it in OneDrive
+〇 Summarize details of LLMs in a Word document and save it in OneDrive
 Describe an image on the current page
 Summarize a detailed research article on LLMs to give an overview of key points
 ```
+*Correct! Copilot in Microsoft Edge is great at describing content on the webpage and does not need access to your documents or cloud storage.*
