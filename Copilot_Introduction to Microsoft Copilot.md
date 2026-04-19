@@ -61,3 +61,5 @@ Learn from company data
 〇 Draft a business outline
 ```
 *Great job! You have a great understanding of the exciting features of Microsoft Copilot that you can tell your colleague about!*
+
+### Using Copilot with your documents
