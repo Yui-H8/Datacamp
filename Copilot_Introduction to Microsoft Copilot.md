@@ -33,3 +33,8 @@ Note: Make sure to close any pop-up windows or notifications that appear within 
    * Format: Return the answer in bullet points.
 
 3. Review Copilot's output:
+
+*Incorrect
+Almost there! Missing bullet point format. You correctly asked for a summary of the top five most significant impacts of climate change on coastal cities, but you did not specify that the answer should be in bullet points. Be sure to include the required format in your prompt next time.*
+
+*Awesome! You used aspects of the What/Why/Which/How framework to prompt Copilot and produced a concise output of climate change's five most significant impacts on coastal cities.*
