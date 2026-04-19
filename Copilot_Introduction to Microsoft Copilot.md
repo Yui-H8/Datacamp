@@ -43,3 +43,8 @@ Almost there! Missing bullet point format. You correctly asked for a summary of 
 You were introduced to the concept of Large Language Models (LLMs) as a component of the Copilot system. You have heard a lot about this term and want to understand LLMs and how they can be applied to improve business operations. You can use Microsoft Edge with Copilot to help you gather and organize information on LLMs.
 
 Which of the following tasks is not something Microsoft Copilot in Edge could help you accomplish?
+```
+Summarize details of LLMs in a Word document and save it in OneDrive
+Describe an image on the current page
+Summarize a detailed research article on LLMs to give an overview of key points
+```
