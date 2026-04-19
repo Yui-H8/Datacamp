@@ -55,8 +55,9 @@ You and your colleague are discussing the Microsoft Copilot course you are both 
 
 Select three Copilot capabilities that apply.
 ```
-Describe images in detail
-Summarize text on a webpage
+〇 Describe images in detail
+〇 Summarize text on a webpage
 Learn from company data
-Draft a business outline
+〇 Draft a business outline
 ```
+*Great job! You have a great understanding of the exciting features of Microsoft Copilot that you can tell your colleague about!*
