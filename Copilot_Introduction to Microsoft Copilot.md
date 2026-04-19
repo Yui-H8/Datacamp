@@ -72,3 +72,6 @@ Answer: OneDrive, SharePoint
 *Great job! Saving your documents in OneDrive or SharePoint ensures that Copilot can access your files to provide personalized and effective assistance. Keeping your files in these locations allows for seamless collaboration and real-time updates.*
 
 ### Content or context?
+Microsoft 365 Copilot has access to documents, emails, and people involved in a project. This means that it understands the content, which refers to the actual information or data that Copilot interacts with, and the context, which involves the situational information that helps Copilot understand and process the content more effectively.
+
+In this exercise, you'll test your knowledge of these terms.
