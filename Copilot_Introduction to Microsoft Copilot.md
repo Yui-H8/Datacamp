@@ -67,4 +67,6 @@ To get the best assistance from Microsoft 365 Copilot, your documents need to be
 
 What are the two Microsoft 365 Copilot cloud storage solutions available to you to save your documents and ensure Copilot can have access to them?
 
+Answer: OneDrive, SharePoint
+
 *Great job! Saving your documents in OneDrive or SharePoint ensures that Copilot can access your files to provide personalized and effective assistance. Keeping your files in these locations allows for seamless collaboration and real-time updates.*
