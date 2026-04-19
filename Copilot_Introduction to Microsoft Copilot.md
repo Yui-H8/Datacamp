@@ -54,3 +54,9 @@ Summarize a detailed research article on LLMs to give an overview of key points
 You and your colleague are discussing the Microsoft Copilot course you are both taking. You are excited about the features you have learned and used so far. Your colleague is curious and wants recommendations on how to leverage Copilot's capabilities in various scenarios. You want to provide them with specific, engaging examples to illustrate how Copilot can make their work more efficient and enjoyable.
 
 Select three Copilot capabilities that apply.
+```
+Describe images in detail
+Summarize text on a webpage
+Learn from company data
+Draft a business outline
+```
