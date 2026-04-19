@@ -40,3 +40,6 @@ Almost there! Missing bullet point format. You correctly asked for a summary of 
 *Awesome! You used aspects of the What/Why/Which/How framework to prompt Copilot and produced a concise output of climate change's five most significant impacts on coastal cities.*
 
 ### Copilot in Microsoft Edge
+You were introduced to the concept of Large Language Models (LLMs) as a component of the Copilot system. You have heard a lot about this term and want to understand LLMs and how they can be applied to improve business operations. You can use Microsoft Edge with Copilot to help you gather and organize information on LLMs.
+
+Which of the following tasks is not something Microsoft Copilot in Edge could help you accomplish?
