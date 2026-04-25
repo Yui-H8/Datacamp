@@ -79,3 +79,4 @@ In this exercise, you'll test your knowledge of these terms.
 *Well done! You have a great understanding of content and context. This understanding will help refine Copilot's outputs, as the more information you give it, the more accurately it will interpret the data.*
 
 ### Getting team updates
+You are a project manager and want a quick update on an upcoming presentation that has been discussed in a Team's group chat. Which of the features available would you use to ask for the the latest conversation and shared data files?
