@@ -82,6 +82,7 @@ In this exercise, you'll test your knowledge of these terms.
 You are a project manager and want a quick update on an upcoming presentation that has been discussed in a Team's group chat. Which of the features available would you use to ask for the the latest conversation and shared data files?
 ```
 Team's search bar
-Copilot's chat
+〇 Copilot's chat
 Copilot's suggested prompts
 ```
+*Correct! Copilot's chat in Teams is great at summarizing conversations and providing insights.*
