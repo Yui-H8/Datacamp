@@ -79,6 +79,7 @@ https://app.datacamp.com/learn/courses/
 
 ### Microsoft Copilot
 * Microsoft Copilot in Word
+* Microsoft Copilot in PowerPoint
 
 ---
 
