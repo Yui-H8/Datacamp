@@ -77,3 +77,5 @@ Microsoft 365 Copilot has access to documents, emails, and people involved in a 
 In this exercise, you'll test your knowledge of these terms.
 
 *Well done! You have a great understanding of content and context. This understanding will help refine Copilot's outputs, as the more information you give it, the more accurately it will interpret the data.*
+
+### Getting team updates
