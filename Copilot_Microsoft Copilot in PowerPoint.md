@@ -25,4 +25,5 @@ You're a Marketing Associate at BrightWave Energy, preparing an internal present
    * The page should load showing the PowerPoint App page ready to use.
 2. Step2
    * When PowerPoint opens, click Create blank presentation.
-   * Once the presentation loads, locate the shooting start icon and open the Copilot interface.
+   * Once the presentation loads, locate the shooting start icon and open the Copilot interface.   
+Note: Microsoft are continually updating Copilot and its integration to surrounding apps, so you may notice minor differences between the interface shown in the video and in the exercises.
