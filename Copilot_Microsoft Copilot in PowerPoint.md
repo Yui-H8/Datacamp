@@ -17,3 +17,4 @@ Deliver the presentation for you
 *Your journey is now underway! I hope you're as excited as we are to begin unlocking tons of value and time savings with Copilot in PowerPoint!*
 
 ### Generating Your First PowerPoint Deck
+You're a Marketing Associate at BrightWave Energy, preparing an internal presentation introducing the company's new SolarHome+ smart solar energy system. You'll use Copilot in PowerPoint to create a presentation outline, refine the narrative structure, and generate a complete deck from a simple prompt.
