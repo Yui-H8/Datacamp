@@ -20,3 +20,6 @@ Deliver the presentation for you
 You're a Marketing Associate at BrightWave Energy, preparing an internal presentation introducing the company's new SolarHome+ smart solar energy system. You'll use Copilot in PowerPoint to create a presentation outline, refine the narrative structure, and generate a complete deck from a simple prompt.
 
 1. Welcome to Microsoft Copilot
+   * You've been automatically logged into your own Copilot account
+   * Make sure to close any pop-ups that may appear
+   * The page should load showing the PowerPoint App page ready to use.
