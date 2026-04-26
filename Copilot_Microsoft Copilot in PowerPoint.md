@@ -31,3 +31,6 @@ Note: Microsoft are continually updating Copilot and its integration to surround
    * Generate the outline, which may take a minute.
    * Review the outline Copilot creates, noting the section headers and structure.
 4. Step4
+   * Make any adjustments you want by adding, renaming, or deleting sections.
+   * Choose a style and set the image preferences to personalize your presentation.
+   * Once satisfied, click Generate slides to build the slide deck and see your presentation!If this takes a while, feel free to Submit the exercise and move on.
