@@ -23,3 +23,4 @@ You're a Marketing Associate at BrightWave Energy, preparing an internal present
    * You've been automatically logged into your own Copilot account
    * Make sure to close any pop-ups that may appear
    * The page should load showing the PowerPoint App page ready to use.
+2. Step2
