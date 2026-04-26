@@ -8,3 +8,9 @@ Gone are the days of spending hours switching between documents and writing your
 Copilot is more than a bolted-on feature to the existing Microsoft Office suite of tools—it can be an orchestrator for automating many of the existing workflows you may have in your day-to-day work.
 
 Which of the following a ways that Microsoft Copilot can help you create presentations?
+```
+Refine the structure and narrative before creating the slides
+Integrate brand assets like design layouts and images
+Deliver the presentation for you
+Create presentations from reference files like documents and spreadsheets
+```
