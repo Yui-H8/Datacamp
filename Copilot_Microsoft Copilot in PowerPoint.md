@@ -9,9 +9,9 @@ Copilot is more than a bolted-on feature to the existing Microsoft Office suite 
 
 Which of the following a ways that Microsoft Copilot can help you create presentations?
 ```
-Refine the structure and narrative before creating the slides
-Integrate brand assets like design layouts and images
+〇 Refine the structure and narrative before creating the slides
+〇 Integrate brand assets like design layouts and images
 Deliver the presentation for you
-Create presentations from reference files like documents and spreadsheets
+〇 Create presentations from reference files like documents and spreadsheets
 ```
 *Your journey is now underway! I hope you're as excited as we are to begin unlocking tons of value and time savings with Copilot in PowerPoint!*
