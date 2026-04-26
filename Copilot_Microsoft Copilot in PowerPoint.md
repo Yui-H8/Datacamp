@@ -15,3 +15,5 @@ Deliver the presentation for you
 〇 Create presentations from reference files like documents and spreadsheets
 ```
 *Your journey is now underway! I hope you're as excited as we are to begin unlocking tons of value and time savings with Copilot in PowerPoint!*
+
+### Generating Your First PowerPoint Deck
