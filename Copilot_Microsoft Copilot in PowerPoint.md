@@ -30,3 +30,4 @@ Note: Microsoft are continually updating Copilot and its integration to surround
 3. In the prompt box, type a prompt that asks Copilot to create a presentation introducing SolarHome+ with sections covering Overview, Product Benefits, and Future Plans.
    * Generate the outline, which may take a minute.
    * Review the outline Copilot creates, noting the section headers and structure.
+4. Step4
