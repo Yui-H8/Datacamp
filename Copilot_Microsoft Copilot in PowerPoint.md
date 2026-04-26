@@ -14,3 +14,4 @@ Integrate brand assets like design layouts and images
 Deliver the presentation for you
 Create presentations from reference files like documents and spreadsheets
 ```
+*Your journey is now underway! I hope you're as excited as we are to begin unlocking tons of value and time savings with Copilot in PowerPoint!*
