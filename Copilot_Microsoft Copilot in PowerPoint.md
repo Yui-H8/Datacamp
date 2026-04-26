@@ -27,3 +27,4 @@ You're a Marketing Associate at BrightWave Energy, preparing an internal present
    * When PowerPoint opens, click Create blank presentation.
    * Once the presentation loads, locate the shooting start icon and open the Copilot interface.   
 Note: Microsoft are continually updating Copilot and its integration to surrounding apps, so you may notice minor differences between the interface shown in the video and in the exercises.
+3. In the prompt box, type a prompt that asks Copilot to create a presentation introducing SolarHome+ with sections covering Overview, Product Benefits, and Future Plans.
