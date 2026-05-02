@@ -34,3 +34,5 @@ Note: Microsoft are continually updating Copilot and its integration to surround
    * Make any adjustments you want by adding, renaming, or deleting sections.
    * Choose a style and set the image preferences to personalize your presentation.
    * Once satisfied, click Generate slides to build the slide deck and see your presentation!If this takes a while, feel free to Submit the exercise and move on.
+
+*Well done! You've successfully used Copilot to create your first presentation deck for BrightWave Energy. This workflow allows you to quickly transform ideas into structured presentations, saving time and breaking through creative blocks when facing tight deadlines.*
