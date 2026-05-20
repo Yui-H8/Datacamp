@@ -43,3 +43,9 @@ Note: Microsoft are continually updating Copilot and its integration to surround
 You're working as a Marketing Associate at BrightWave Energy. Your manager has asked you to use Copilot to create a presentation about SolarHome+, the company's new smart solar energy system. A colleague from another department shared their prompt with you: "Create a PowerPoint about our product."
 
 Which of the following are issues with the prompt "Create a PowerPoint about our product"?
+```
+Vagueness
+Context Overload
+Unclear Audience
+Excessive Technical Jargon
+```
