@@ -49,3 +49,4 @@ Context Overload
 Unclear Audience
 Excessive Technical Jargon
 ```
+*Spot on! You've correctly identified that this prompt suffers from both vagueness and an unclear audience. A better prompt would specify the presentation's purpose, target audience, key messages, desired length, and tone—giving Copilot the context it needs to create a tailored, effective presentation.*
