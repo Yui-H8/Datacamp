@@ -44,9 +44,9 @@ You're working as a Marketing Associate at BrightWave Energy. Your manager has a
 
 Which of the following are issues with the prompt "Create a PowerPoint about our product"?
 ```
-Vagueness
+〇 Vagueness
 Context Overload
-Unclear Audience
+〇 Unclear Audience
 Excessive Technical Jargon
 ```
 *Spot on! You've correctly identified that this prompt suffers from both vagueness and an unclear audience. A better prompt would specify the presentation's purpose, target audience, key messages, desired length, and tone—giving Copilot the context it needs to create a tailored, effective presentation.*
