@@ -52,3 +52,4 @@ Excessive Technical Jargon
 *Spot on! You've correctly identified that this prompt suffers from both vagueness and an unclear audience. A better prompt would specify the presentation's purpose, target audience, key messages, desired length, and tone—giving Copilot the context it needs to create a tailored, effective presentation.*
 
 ### The Prompt Clarity Disparity
+You need to prepare another internal presentation for SolarHome+. This time, you'll experiment with prompt quality—first using a vague prompt, then a clear, structured one—to see how Copilot's results differ in tone, structure, and relevance.
