@@ -62,3 +62,4 @@ You need to prepare another internal presentation for SolarHome+. This time, you
    * Generate a slide deck from the outline, which may take a minute.
 
 Note: if you encounter an error claiming during outline or slide generation, please wait a few moments before trying again.
+3. Create a new blank presentation by clicking the 3x3 dots button in the top-left of the PowerPoint app, and selecting PowerPoint. This will open a new tab for you to work in.
