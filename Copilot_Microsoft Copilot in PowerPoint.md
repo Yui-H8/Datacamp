@@ -56,4 +56,7 @@ You need to prepare another internal presentation for SolarHome+. This time, you
 
 1. Once PowerPoint opens, click Create blank presentation.
 2. In the blank presentation, click the Copilot (shooting star) icon in the top-left corner.
-   * 
+   * Select Create a new presentation.
+   * In the prompt box, type a vague prompt: Make a PowerPoint about SolarHome+.
+   * Review the outline and consider what Copilot what appears fairly generic in the outline.
+   * Generate a slide deck from the outline, which may take a minute.
