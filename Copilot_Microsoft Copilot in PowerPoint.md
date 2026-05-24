@@ -64,3 +64,7 @@ You need to prepare another internal presentation for SolarHome+. This time, you
 Note: if you encounter an error claiming during outline or slide generation, please wait a few moments before trying again.
 
 3. Create a new blank presentation by clicking the 3x3 dots button in the top-left of the PowerPoint app, and selecting PowerPoint. This will open a new tab for you to work in.
+   * Create a blank presentation, then open-up the same Copilot icon again to create a new presentation.
+   * Now, use a structured prompt including the topic, slide count, focus areas, audience, and tone for your SolarHome+ presentation.
+   * Review the outline and observe the differences to the vague prompt you used in the previous step.
+   * Generate a slide deck from the outline, and compare it to the slide deck in your first tab. This may takes a couple of minutes.
