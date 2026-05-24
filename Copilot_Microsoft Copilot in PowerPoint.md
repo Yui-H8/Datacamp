@@ -53,3 +53,5 @@ Excessive Technical Jargon
 
 ### The Prompt Clarity Disparity
 You need to prepare another internal presentation for SolarHome+. This time, you'll experiment with prompt quality—first using a vague prompt, then a clear, structured one—to see how Copilot's results differ in tone, structure, and relevance.
+
+1. Once PowerPoint opens, click Create blank presentation.
