@@ -60,3 +60,5 @@ You need to prepare another internal presentation for SolarHome+. This time, you
    * In the prompt box, type a vague prompt: Make a PowerPoint about SolarHome+.
    * Review the outline and consider what Copilot what appears fairly generic in the outline.
    * Generate a slide deck from the outline, which may take a minute.
+
+Note: if you encounter an error claiming during outline or slide generation, please wait a few moments before trying again.
