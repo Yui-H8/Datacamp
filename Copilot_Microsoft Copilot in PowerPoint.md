@@ -68,3 +68,8 @@ Note: if you encounter an error claiming during outline or slide generation, ple
    * Now, use a structured prompt including the topic, slide count, focus areas, audience, and tone for your SolarHome+ presentation.
    * Review the outline and observe the differences to the vague prompt you used in the previous step.
    * Generate a slide deck from the outline, and compare it to the slide deck in your first tab. This may takes a couple of minutes.
+  
+```
+Incorrect
+Keep Going—One More Step Needed! Only one presentation (with a structured prompt) is shown. To pass, you must also create a second presentation using a vague prompt, then compare both outputs to demonstrate the impact of prompt clarity.
+```
