@@ -74,6 +74,7 @@ https://app.datacamp.com/learn/courses/
 * Practical AI with Google Gemini and NotebookLM
 * Working with Microsoft Copilot
 * AI Security and Risk Management
+* Understanding ChatGPT
 
 ---
 
