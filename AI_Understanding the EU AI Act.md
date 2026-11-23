@@ -4,3 +4,9 @@
 
 Act on Artificial Intelligence! This course explores the new EU AI Act. Learn risk-based approaches, provider/deployer obligations, and AI use cases. Understand AI risk categories and compliance, with examples in biometric AI, education, and general-purpose models. Gain essential knowledge to navigate and integrate AI safely and effectively in business.
 
+---
+
+### AI Act global reach   
+GlobalTech AI, a company based outside of the European Union (EU), develops artificial intelligence software for various applications, including medical diagnosis tools, marketing analytics, and customer service chatbots. They are planning to expand their market and start selling their AI products to European Union countries.
+
+Does GlobalTech AI need to comply with the rules of the of the EU AI Act, even though they are not an EU company?
