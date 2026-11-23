@@ -75,6 +75,7 @@ https://app.datacamp.com/learn/courses/
 * Working with Microsoft Copilot
 * AI Security and Risk Management
 * Understanding ChatGPT
+* Understanding the EU AI Act
 
 ---
 
