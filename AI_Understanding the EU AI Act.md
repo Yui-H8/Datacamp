@@ -19,3 +19,8 @@ Yes, the EU AI Act applies to GlobalTech AI, but they only need to comply if the
 Yes, the EU AI Act applies to GlobalTech AI, but they only need to focus on making their AI products user-friendly for EU customers.
 ```
 *That's right! The EU AI Act applies to GlobalTech AI because their products will be used in the EU. They must evaluate the risk level of each AI product and comply with the relevant obligations. Great job!*
+
+### Growing AI
+GreenSpace Innovations is a fictional company that develops AI-driven solutions for selecting and maintaining unique houseplants for people who work from home.
+
+They aim to expand their market into the European Union. GreenSpace Innovations wants to understand the reasons behind the creation of the EU AI Act to ensure their products comply with the regulations.
