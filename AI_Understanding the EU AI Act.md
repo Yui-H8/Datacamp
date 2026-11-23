@@ -24,3 +24,5 @@ Yes, the EU AI Act applies to GlobalTech AI, but they only need to focus on maki
 GreenSpace Innovations is a fictional company that develops AI-driven solutions for selecting and maintaining unique houseplants for people who work from home.
 
 They aim to expand their market into the European Union. GreenSpace Innovations wants to understand the reasons behind the creation of the EU AI Act to ensure their products comply with the regulations.
+
+*Congratulations! By understanding the distinction between making AI safer and building trust in AI, you are better equipped to ensure GreenSpace Innovations’ products comply with these important regulations. Great job!*
