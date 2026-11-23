@@ -15,6 +15,7 @@ Possible Answers
 
 No, the EU AI Act does not apply to GlobalTech AI as it is based outside of the EU.
 Yes, the EU AI Act applies to GlobalTech AI, but they only need to comply if their AI products are used by EU government institutions.
-Yes, the EU AI Act applies to GlobalTech AI, and they should ensure compliance with the Act's obligations, including evaluating the risk level of their AI products.
+〇Yes, the EU AI Act applies to GlobalTech AI, and they should ensure compliance with the Act's obligations, including evaluating the risk level of their AI products.
 Yes, the EU AI Act applies to GlobalTech AI, but they only need to focus on making their AI products user-friendly for EU customers.
 ```
+*That's right! The EU AI Act applies to GlobalTech AI because their products will be used in the EU. They must evaluate the risk level of each AI product and comply with the relevant obligations. Great job!*
